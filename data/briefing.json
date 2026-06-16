@@ -1,12 +1,12 @@
 {
   "date": "June 16, 2026",
-  "summary": "13 film announcements, 9 TV announcements across 5 trades.",
+  "summary": "13 film announcements, 7 TV announcements across 5 trades.",
   "film": [
     {
       "title": "Grace",
       "studio": "Inevitable Studios",
       "talent": "Millicent Simmonds (co-writer, star)",
-      "announcement": "Millicent Simmonds co-writes and stars in crime thriller for Inevitable Studios' first film.",
+      "announcement": "Millicent Simmonds to co-write and star in crime thriller 'Grace,' marking Inevitable Studios' first film.",
       "sources": [
         {
           "name": "Deadline",
@@ -22,7 +22,7 @@
       "title": "Egg Baby",
       "studio": "Amazon MGM",
       "talent": "Ariana Greenblatt",
-      "announcement": "Amazon MGM acquires rom-com starring Ariana Greenblatt.",
+      "announcement": "Amazon MGM snaps up rom-com 'Egg Baby' starring Ariana Greenblatt.",
       "sources": [
         {
           "name": "Deadline",
@@ -31,22 +31,22 @@
       ]
     },
     {
-      "title": "Shots! Shots! Shots!",
-      "studio": "Amazon MGM",
-      "talent": "Jason Momoa",
-      "announcement": "Amazon MGM picks up action comedy starring Jason Momoa.",
+      "title": "Mickey's Home Alone",
+      "studio": "Disney",
+      "talent": "",
+      "announcement": "Disney taps into the spirit of Macaulay Culkin-starring classic for 'Mickey's Home Alone' Christmas special.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/jason-momoa-action-comedy-shots-shots-shots-1236623293/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/disney-mickey-home-alone-christmas-special-1236957470/"
         }
       ]
     },
     {
       "title": "Thud",
       "studio": "",
-      "talent": "Sarah Michelle Gellar, Rudy Pankow, Mali Elfman (director)",
-      "announcement": "Sarah Michelle Gellar and Rudy Pankow cast as the Grim Reaper and the Devil in Mali Elfman film with Divide/Conquer and Radio Silence as executive producers.",
+      "talent": "Sarah Michelle Gellar, Rudy Pankow",
+      "announcement": "Sarah Michelle Gellar and Rudy Pankow cast as the Grim Reaper and the Devil in Mali Elfman film 'Thud' with Divide/Conquer and Radio Silence among executive producers.",
       "sources": [
         {
           "name": "Deadline",
@@ -55,10 +55,10 @@
       ]
     },
     {
-      "title": "Monsanto Drama (Untitled)",
+      "title": "Monsanto Drama",
       "studio": "Netflix",
-      "talent": "Jonathan Bailey, Laura Dern, Lakeith Stanfield, Greg Kinnear, John Lee Hancock (director)",
-      "announcement": "John Lee Hancock's Netflix courtroom drama on the 2018 Monsanto case adds six cast members to join Jonathan Bailey and Laura Dern.",
+      "talent": "Jonathan Bailey, Laura Dern, Lakeith Stanfield, Greg Kinnear",
+      "announcement": "John Lee Hancock's Netflix courtroom drama on 2018 Monsanto case adds six to cast joining Jonathan Bailey, Laura Dern, Lakeith Stanfield, and Greg Kinnear.",
       "sources": [
         {
           "name": "Deadline",
@@ -71,10 +71,22 @@
       ]
     },
     {
+      "title": "Shots! Shots! Shots!",
+      "studio": "Amazon MGM",
+      "talent": "Jason Momoa",
+      "announcement": "Amazon MGM picks up Jason Momoa action comedy 'Shots! Shots! Shots!'",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/jason-momoa-action-comedy-shots-shots-shots-1236623293/"
+        }
+      ]
+    },
+    {
       "title": "Black Diamond",
       "studio": "",
       "talent": "Ernest Dickerson (director)",
-      "announcement": "Comic adaptation into folk horror feature with Ernest Dickerson directing.",
+      "announcement": "'Black Diamond' comic adaptation to be adapted into folk horror feature with Ernest Dickerson directing.",
       "sources": [
         {
           "name": "Variety",
@@ -84,9 +96,9 @@
     },
     {
       "title": "Corpus",
-      "studio": "",
+      "studio": "Yellow Veil Pictures",
       "talent": "",
-      "announcement": "NYC nightlife thriller boards Yellow Veil Pictures, which launches sales before Fantasia premiere.",
+      "announcement": "Yellow Veil Pictures boards NYC nightlife thriller 'Corpus,' launching sales before Fantasia premiere.",
       "sources": [
         {
           "name": "Variety",
@@ -95,22 +107,10 @@
       ]
     },
     {
-      "title": "Mickey's Home Alone",
-      "studio": "Disney",
-      "talent": "",
-      "announcement": "Disney taps into the spirit of the Macaulay Culkin classic for a Mickey's Home Alone Christmas special.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/disney-mickey-home-alone-christmas-special-1236957470/"
-        }
-      ]
-    },
-    {
-      "title": "Untitled Sean Penn/Bradley Cooper Film",
+      "title": "Untitled Sean Penn Directed Film",
       "studio": "Warner Bros.",
-      "talent": "Bradley Cooper, Sean Penn (director)",
-      "announcement": "Bradley Cooper to star as a cop who ends up at Jan. 6 in Sean Penn-directed Warner Bros. film.",
+      "talent": "Bradley Cooper",
+      "announcement": "Bradley Cooper to star as cop who ends up at Jan. 6 in Sean Penn-directed WB film.",
       "sources": [
         {
           "name": "TheWrap",
@@ -122,7 +122,7 @@
       "title": "Narnia",
       "studio": "Netflix/Sony Pictures",
       "talent": "Greta Gerwig (director)",
-      "announcement": "Sony Pictures to distribute Greta Gerwig and Netflix's Narnia internationally in theaters.",
+      "announcement": "Sony Pictures to distribute Greta Gerwig and Netflix's 'Narnia' internationally in theaters.",
       "sources": [
         {
           "name": "TheWrap",
@@ -134,7 +134,7 @@
       "title": "Hexed",
       "studio": "Walt Disney Animation Studios",
       "talent": "Hailee Steinfeld",
-      "announcement": "Disney releases first teaser for Hexed, a witch-filled animated world.",
+      "announcement": "Disney conjures a witch-filled world in first 'Hexed' teaser.",
       "sources": [
         {
           "name": "TheWrap",
@@ -146,7 +146,7 @@
       "title": "The Rocky Horror Picture Show",
       "studio": "",
       "talent": "",
-      "announcement": "The Rocky Horror Picture Show set to screen at Sphere Las Vegas in 2027.",
+      "announcement": "'The Rocky Horror Picture Show' sets 2027 run at Sphere Las Vegas.",
       "sources": [
         {
           "name": "Deadline",
@@ -172,7 +172,7 @@
       "title": "The Audacity",
       "network": "AMC",
       "talent": "Miriam Shor",
-      "announcement": "Miriam Shor joins AMC's The Audacity for Season 2.",
+      "announcement": "Miriam Shor joins AMC's 'The Audacity' for Season 2.",
       "sources": [
         {
           "name": "Deadline",
@@ -181,22 +181,10 @@
       ]
     },
     {
-      "title": "Count My Lies",
-      "network": "Hulu",
-      "talent": "François Arnaud",
-      "announcement": "François Arnaud joins Hulu's Count My Lies.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/heated-rivalry-francois-arnaud-cast-hulu-count-my-lies-1236957301/"
-        }
-      ]
-    },
-    {
       "title": "Dirty",
       "network": "Amazon",
-      "talent": "Samantha Morton, Phoebe Dynevor, Matt Charman (creator/writer)",
-      "announcement": "Samantha Morton to star with Phoebe Dynevor in Matt Charman's Amazon drama series Dirty.",
+      "talent": "Samantha Morton, Phoebe Dynevor",
+      "announcement": "Samantha Morton to star with Phoebe Dynevor in Matt Charman's Amazon drama series 'Dirty.'",
       "sources": [
         {
           "name": "Deadline",
@@ -205,10 +193,22 @@
       ]
     },
     {
+      "title": "Count My Lies",
+      "network": "Hulu",
+      "talent": "François Arnaud",
+      "announcement": "François Arnaud joins Hulu's 'Count My Lies.'",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/heated-rivalry-francois-arnaud-cast-hulu-count-my-lies-1236957301/"
+        }
+      ]
+    },
+    {
       "title": "The Reluctant Traveler With Eugene Levy",
       "network": "Apple TV+",
       "talent": "Eugene Levy",
-      "announcement": "The Reluctant Traveler With Eugene Levy renewed for Season 4 at Apple TV+.",
+      "announcement": "'The Reluctant Traveler With Eugene Levy' renewed for Season 4 at Apple TV+.",
       "sources": [
         {
           "name": "Variety",
@@ -217,18 +217,14 @@
       ]
     },
     {
-      "title": "Heartstopper Forever",
-      "network": "Netflix",
-      "talent": "Kit Connor, Joe Locke",
-      "announcement": "Netflix releases trailer for Heartstopper Forever, the finale feature film where Nick and Charlie prepare for long distance.",
+      "title": "My Adventures With Superman Spinoff",
+      "network": "",
+      "talent": "Auliʻi Cravalho",
+      "announcement": "Auliʻi Cravalho to star as Green Lantern in 'My Adventures With Superman' spinoff.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/heartstopper-forever-trailer-netflix-feature-film-1236957393/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/heartstopper-forever-trailer-kit-connor-joe-locke-1236623181/"
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/auli%ca%bbi-cravalho-green-lantern-my-adventures-with-superman-spinoff/"
         }
       ]
     },
@@ -245,29 +241,21 @@
       ]
     },
     {
-      "title": "My Adventures With Superman (Green Lantern Spinoff)",
-      "network": "",
-      "talent": "Auliʻi Cravalho",
-      "announcement": "Auliʻi Cravalho to star as Green Lantern in My Adventures With Superman spinoff.",
+      "title": "Heartstopper Forever",
+      "network": "Netflix",
+      "talent": "Kit Connor, Joe Locke",
+      "announcement": "'Heartstopper Forever' is the Netflix finale with Kit Connor and Joe Locke reprising their roles as Nick and Charlie.",
       "sources": [
         {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/auli%ca%bbi-cravalho-green-lantern-my-adventures-with-superman-spinoff/"
-        }
-      ]
-    },
-    {
-      "title": "The Studio",
-      "network": "",
-      "talent": "",
-      "announcement": "The Studio Season 2 among potential titles for Venice Film Festival.",
-      "sources": [
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/heartstopper-forever-trailer-netflix-feature-film-1236957393/"
+        },
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/festivals/venice-film-festival-potential-titles-social-reckoning-bunker-studio-1236782422/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/heartstopper-forever-trailer-kit-connor-joe-locke-1236623181/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-06-16T21:45:07.690Z"
+  "lastUpdated": "2026-06-16T21:47:16.755Z"
 }
