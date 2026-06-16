@@ -1,5 +1,6 @@
 import { promises as fs } from "fs";
 import path from "path";
+import LiveClock from "./LiveClock";
 
 type Source = { name: string; url: string };
 
@@ -139,8 +140,8 @@ export default async function Home() {
         <div className="max-w-5xl mx-auto px-6 py-4 flex items-center justify-between">
           <span className="text-xl font-black tracking-tight">🎬 TRADES BRIEFING</span>
           <div className="text-right">
-            <p className="text-zinc-400 text-sm">{briefing.date}</p>
-            <p className="text-zinc-600 text-xs">Updated daily at 6am PT</p>
+            <p className="text-zinc-300 text-sm font-mono"><LiveClock /></p>
+            <p className="text-zinc-500 text-xs">Updates every 15 min · {briefing.date}</p>
           </div>
         </div>
       </header>
