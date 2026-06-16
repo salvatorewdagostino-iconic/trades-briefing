@@ -28,7 +28,7 @@ type Briefing = {
   tv: TvItem[];
 };
 
-export const revalidate = 900; // revalidate every 15 minutes
+export const revalidate = 900;
 
 async function getBriefing(): Promise<Briefing> {
   const filePath = path.join(process.cwd(), "data", "briefing.json");
@@ -50,16 +50,16 @@ const TRADE_COLORS: Record<string, string> = {
 };
 
 function SourceBadge({ source }: { source: Source }) {
-  const color = TRADE_COLORS[source.name] ?? "bg-zinc-600";
+  const color = TRADE_COLORS[source.name] ?? "bg-zinc-700";
   return (
     <a
       href={source.url}
       target="_blank"
       rel="noopener noreferrer"
-      className={`inline-flex items-center gap-1 text-xs font-semibold text-white px-2 py-0.5 rounded ${color} hover:opacity-80 transition-opacity`}
+      className={`inline-flex items-center gap-1 text-[10px] font-sans font-medium tracking-widest uppercase text-white px-2 py-0.5 ${color} hover:opacity-70 transition-opacity`}
     >
       {source.name}
-      <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+      <svg xmlns="http://www.w3.org/2000/svg" width="9" height="9" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
         <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
         <polyline points="15 3 21 3 21 9"/>
         <line x1="10" y1="14" x2="21" y2="3"/>
@@ -71,26 +71,25 @@ function SourceBadge({ source }: { source: Source }) {
 function FilmCard({ item }: { item: FilmItem }) {
   const primaryUrl = item.sources[0]?.url;
   return (
-    <div className="bg-zinc-900 border border-zinc-800 rounded-lg p-5 flex flex-col gap-3 hover:border-zinc-600 transition-colors">
-      <div className="flex items-start justify-between gap-3">
-        <h3 className="text-white font-bold text-lg leading-tight">
+    <div className="border-t border-zinc-800 pt-6 pb-6 flex flex-col gap-3">
+      <div className="flex items-start justify-between gap-4">
+        <h3 className="font-serif text-white text-xl font-light leading-snug">
           {primaryUrl ? (
-            <a href={primaryUrl} target="_blank" rel="noopener noreferrer" className="hover:text-amber-400 underline underline-offset-2 decoration-zinc-600 hover:decoration-amber-400 transition-colors">
+            <a href={primaryUrl} target="_blank" rel="noopener noreferrer" className="hover:text-zinc-400 transition-colors">
               {item.title}
             </a>
           ) : item.title}
         </h3>
-        <span className="text-xs text-zinc-400 bg-zinc-800 px-2 py-1 rounded whitespace-nowrap shrink-0">
+        <span className="font-sans text-[10px] tracking-widest uppercase text-zinc-500 whitespace-nowrap shrink-0 pt-1">
           {item.studio}
         </span>
       </div>
       {item.talent && (
-        <p className="text-zinc-400 text-sm">
-          <span className="text-zinc-500 uppercase text-xs tracking-wider font-semibold">Talent · </span>
+        <p className="font-sans text-xs tracking-wide text-zinc-500 uppercase">
           {item.talent}
         </p>
       )}
-      <p className="text-zinc-300 text-sm leading-relaxed">{item.announcement}</p>
+      <p className="font-serif text-zinc-300 text-base font-light leading-relaxed">{item.announcement}</p>
       <div className="flex flex-wrap gap-1.5 pt-1">
         {item.sources.map((s) => (
           <SourceBadge key={s.name + s.url} source={s} />
@@ -103,26 +102,25 @@ function FilmCard({ item }: { item: FilmItem }) {
 function TvCard({ item }: { item: TvItem }) {
   const primaryUrl = item.sources[0]?.url;
   return (
-    <div className="bg-zinc-900 border border-zinc-800 rounded-lg p-5 flex flex-col gap-3 hover:border-zinc-600 transition-colors">
-      <div className="flex items-start justify-between gap-3">
-        <h3 className="text-white font-bold text-lg leading-tight">
+    <div className="border-t border-zinc-800 pt-6 pb-6 flex flex-col gap-3">
+      <div className="flex items-start justify-between gap-4">
+        <h3 className="font-serif text-white text-xl font-light leading-snug">
           {primaryUrl ? (
-            <a href={primaryUrl} target="_blank" rel="noopener noreferrer" className="hover:text-amber-400 underline underline-offset-2 decoration-zinc-600 hover:decoration-amber-400 transition-colors">
+            <a href={primaryUrl} target="_blank" rel="noopener noreferrer" className="hover:text-zinc-400 transition-colors">
               {item.title}
             </a>
           ) : item.title}
         </h3>
-        <span className="text-xs text-zinc-400 bg-zinc-800 px-2 py-1 rounded whitespace-nowrap shrink-0">
+        <span className="font-sans text-[10px] tracking-widest uppercase text-zinc-500 whitespace-nowrap shrink-0 pt-1">
           {item.network}
         </span>
       </div>
       {item.talent && (
-        <p className="text-zinc-400 text-sm">
-          <span className="text-zinc-500 uppercase text-xs tracking-wider font-semibold">Talent · </span>
+        <p className="font-sans text-xs tracking-wide text-zinc-500 uppercase">
           {item.talent}
         </p>
       )}
-      <p className="text-zinc-300 text-sm leading-relaxed">{item.announcement}</p>
+      <p className="font-serif text-zinc-300 text-base font-light leading-relaxed">{item.announcement}</p>
       <div className="flex flex-wrap gap-1.5 pt-1">
         {item.sources.map((s) => (
           <SourceBadge key={s.name + s.url} source={s} />
@@ -137,51 +135,47 @@ export default async function Home() {
 
   return (
     <main className="min-h-screen bg-black text-white">
-      <header className="border-b border-zinc-800 sticky top-0 bg-black/90 backdrop-blur z-10">
-        <div className="max-w-5xl mx-auto px-6 py-4 flex items-center justify-between">
-          <div className="flex items-center gap-4">
-            <Image src="/iconic-logo.png" alt="Iconic" width={80} height={24} className="invert-0" />
-            <span className="text-zinc-600 text-sm font-medium tracking-widest uppercase">Trades Briefing</span>
+      {/* Header */}
+      <header className="border-b border-zinc-800 sticky top-0 bg-black z-10">
+        <div className="max-w-5xl mx-auto px-8 py-5 flex items-center justify-between">
+          <div className="flex items-center gap-6">
+            <Image src="/iconic-logo.png" alt="Iconic" width={72} height={22} />
+            <span className="font-sans text-[10px] tracking-[0.3em] uppercase text-zinc-500">
+              Trades Briefing
+            </span>
           </div>
           <div className="text-right">
-            <p className="text-zinc-300 text-sm font-mono"><LiveClock /></p>
-            <p className="text-zinc-500 text-xs">Updates every 15 min · {briefing.date}</p>
+            <p className="font-sans text-xs tracking-widest text-zinc-400 font-mono"><LiveClock /></p>
+            <p className="font-sans text-[10px] tracking-widest uppercase text-zinc-600 mt-0.5">Updates every 15 min · {briefing.date}</p>
           </div>
         </div>
       </header>
 
-      <div className="max-w-5xl mx-auto px-6 py-10 flex flex-col gap-12">
-        <div className="bg-zinc-900 border border-zinc-800 rounded-xl px-6 py-4 flex flex-wrap items-center gap-4 justify-between">
-          <p className="text-zinc-300 text-sm">{briefing.summary}</p>
-          <div className="flex flex-wrap gap-2">
-            {Object.entries(TRADE_COLORS).map(([name, color]) => (
-              <span key={name} className={`text-xs text-white font-semibold px-2 py-0.5 rounded ${color}`}>
-                {name}
-              </span>
-            ))}
-          </div>
-        </div>
+      <div className="max-w-5xl mx-auto px-8 py-12 flex flex-col gap-16">
 
+        {/* Summary */}
+        <p className="font-sans text-[10px] tracking-[0.3em] uppercase text-zinc-500 border-b border-zinc-800 pb-4">
+          {briefing.summary}
+        </p>
+
+        {/* Film Section */}
         <section>
-          <div className="flex items-center gap-3 mb-6">
-            <span className="text-2xl">🎬</span>
-            <h2 className="text-2xl font-black tracking-tight">FILM ANNOUNCEMENTS</h2>
-            <span className="ml-auto text-zinc-500 text-sm font-medium">{briefing.film.length} items</span>
-          </div>
-          <div className="grid gap-4 sm:grid-cols-2">
+          <h2 className="font-sans text-[10px] tracking-[0.4em] uppercase text-zinc-500 mb-8">
+            Film Announcements &mdash; {briefing.film.length} items
+          </h2>
+          <div className="grid gap-0 sm:grid-cols-2 sm:gap-x-12">
             {briefing.film.map((item) => (
               <FilmCard key={item.title} item={item} />
             ))}
           </div>
         </section>
 
+        {/* TV Section */}
         <section>
-          <div className="flex items-center gap-3 mb-6">
-            <span className="text-2xl">📺</span>
-            <h2 className="text-2xl font-black tracking-tight">TELEVISION ANNOUNCEMENTS</h2>
-            <span className="ml-auto text-zinc-500 text-sm font-medium">{briefing.tv.length} items</span>
-          </div>
-          <div className="grid gap-4 sm:grid-cols-2">
+          <h2 className="font-sans text-[10px] tracking-[0.4em] uppercase text-zinc-500 mb-8">
+            Television Announcements &mdash; {briefing.tv.length} items
+          </h2>
+          <div className="grid gap-0 sm:grid-cols-2 sm:gap-x-12">
             {briefing.tv.map((item) => (
               <TvCard key={item.title} item={item} />
             ))}
@@ -189,8 +183,10 @@ export default async function Home() {
         </section>
       </div>
 
-      <footer className="border-t border-zinc-900 mt-16 py-8 text-center text-zinc-700 text-xs">
-        Sourced from Deadline · Hollywood Reporter · Variety · IndieWire · TheWrap
+      <footer className="border-t border-zinc-900 mt-8 py-8 text-center">
+        <p className="font-sans text-[10px] tracking-[0.3em] uppercase text-zinc-700">
+          Deadline &nbsp;·&nbsp; Hollywood Reporter &nbsp;·&nbsp; Variety &nbsp;·&nbsp; IndieWire &nbsp;·&nbsp; TheWrap
+        </p>
       </footer>
     </main>
   );
