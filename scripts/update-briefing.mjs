@@ -92,17 +92,15 @@ async function main() {
 
   const prompt = `You are a Hollywood trades analyst. Below are today's articles (${today}) from the top entertainment trades.
 
-Identify hard news stories about:
-- New film/TV projects announced, greenlit, or in development
-- Casting announcements
-- Studio/streamer acquisitions of projects
+Identify ONLY stories where a specific film or TV project is announced, updated, or moves forward. Qualifying stories include:
+- New projects greenlit or announced
+- Development deals attached to a specific project
+- Casting announcements for a specific project
+- Studio/streamer acquisition of a specific project
 - Series orders, renewals, or cancellations
-- Production and development deals
-- Studio/network mergers or restructuring that affect content production
-- Executive hires or deals that affect production slates
-- Trailer or first-look reveals for unannounced or upcoming projects
+- Production start or key crew attachments on a specific project
 
-EXCLUDE: reviews, box office results, streaming "what's new" guides, premiere date calendars, opinion pieces, awards show recaps, festival award winners, late night TV recaps, political news.
+EXCLUDE everything else: reviews, box office, trailers, streaming guides, premiere calendars, opinion pieces, festival coverage, awards, network/studio restructuring, executive appointments, labor news, political news, interviews.
 
 For each qualifying story, determine if it's a FILM or TV announcement.
 
