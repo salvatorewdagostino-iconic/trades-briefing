@@ -71,16 +71,16 @@ function SourceBadge({ source }: { source: Source }) {
 function FilmCard({ item }: { item: FilmItem }) {
   const primaryUrl = item.sources[0]?.url;
   return (
-    <div className="border-t border-zinc-800 pt-6 pb-6 flex flex-col gap-3">
+    <div className="border-t border-zinc-200 pt-6 pb-6 flex flex-col gap-3">
       <div className="flex items-start justify-between gap-4">
-        <h3 className="font-serif text-white text-xl font-light leading-snug">
+        <h3 className="font-serif text-black text-xl font-light leading-snug">
           {primaryUrl ? (
-            <a href={primaryUrl} target="_blank" rel="noopener noreferrer" className="hover:text-zinc-400 transition-colors">
+            <a href={primaryUrl} target="_blank" rel="noopener noreferrer" className="hover:text-zinc-500 transition-colors">
               {item.title}
             </a>
           ) : item.title}
         </h3>
-        <span className="font-sans text-[10px] tracking-widest uppercase text-zinc-500 whitespace-nowrap shrink-0 pt-1">
+        <span className="font-sans text-[10px] tracking-widest uppercase text-zinc-400 whitespace-nowrap shrink-0 pt-1">
           {item.studio}
         </span>
       </div>
@@ -89,7 +89,7 @@ function FilmCard({ item }: { item: FilmItem }) {
           {item.talent}
         </p>
       )}
-      <p className="font-serif text-zinc-300 text-base font-light leading-relaxed">{item.announcement}</p>
+      <p className="font-serif text-zinc-700 text-base font-light leading-relaxed">{item.announcement}</p>
       <div className="flex flex-wrap gap-1.5 pt-1">
         {item.sources.map((s) => (
           <SourceBadge key={s.name + s.url} source={s} />
@@ -102,16 +102,16 @@ function FilmCard({ item }: { item: FilmItem }) {
 function TvCard({ item }: { item: TvItem }) {
   const primaryUrl = item.sources[0]?.url;
   return (
-    <div className="border-t border-zinc-800 pt-6 pb-6 flex flex-col gap-3">
+    <div className="border-t border-zinc-200 pt-6 pb-6 flex flex-col gap-3">
       <div className="flex items-start justify-between gap-4">
-        <h3 className="font-serif text-white text-xl font-light leading-snug">
+        <h3 className="font-serif text-black text-xl font-light leading-snug">
           {primaryUrl ? (
-            <a href={primaryUrl} target="_blank" rel="noopener noreferrer" className="hover:text-zinc-400 transition-colors">
+            <a href={primaryUrl} target="_blank" rel="noopener noreferrer" className="hover:text-zinc-500 transition-colors">
               {item.title}
             </a>
           ) : item.title}
         </h3>
-        <span className="font-sans text-[10px] tracking-widest uppercase text-zinc-500 whitespace-nowrap shrink-0 pt-1">
+        <span className="font-sans text-[10px] tracking-widest uppercase text-zinc-400 whitespace-nowrap shrink-0 pt-1">
           {item.network}
         </span>
       </div>
@@ -120,7 +120,7 @@ function TvCard({ item }: { item: TvItem }) {
           {item.talent}
         </p>
       )}
-      <p className="font-serif text-zinc-300 text-base font-light leading-relaxed">{item.announcement}</p>
+      <p className="font-serif text-zinc-700 text-base font-light leading-relaxed">{item.announcement}</p>
       <div className="flex flex-wrap gap-1.5 pt-1">
         {item.sources.map((s) => (
           <SourceBadge key={s.name + s.url} source={s} />
@@ -134,19 +134,19 @@ export default async function Home() {
   const briefing = await getBriefing();
 
   return (
-    <main className="min-h-screen bg-black text-white">
+    <main className="min-h-screen bg-white text-black">
       {/* Header */}
-      <header className="border-b border-zinc-800 sticky top-0 bg-black z-10">
+      <header className="border-b border-zinc-200 sticky top-0 bg-white z-10">
         <div className="max-w-5xl mx-auto px-8 py-5 flex items-center justify-between">
           <div className="flex items-center gap-6">
-            <Image src="/iconic-logo.png" alt="Iconic" width={72} height={22} />
-            <span className="font-sans text-[10px] tracking-[0.3em] uppercase text-zinc-500">
+            <Image src="/iconic-logo.png" alt="Iconic" width={72} height={22} className="invert" />
+            <span className="font-sans text-xs tracking-[0.3em] uppercase text-zinc-400">
               Trades Briefing
             </span>
           </div>
           <div className="text-right">
-            <p className="font-sans text-xs tracking-widest text-zinc-400 font-mono"><LiveClock /></p>
-            <p className="font-sans text-[10px] tracking-widest uppercase text-zinc-600 mt-0.5">Updates every 15 min · {briefing.date}</p>
+            <p className="font-sans text-xs tracking-widest text-zinc-500 font-mono"><LiveClock /></p>
+            <p className="font-sans text-[10px] tracking-widest uppercase text-zinc-400 mt-0.5">Updates every 15 min · {briefing.date}</p>
           </div>
         </div>
       </header>
@@ -154,13 +154,13 @@ export default async function Home() {
       <div className="max-w-5xl mx-auto px-8 py-12 flex flex-col gap-16">
 
         {/* Summary */}
-        <p className="font-sans text-[10px] tracking-[0.3em] uppercase text-zinc-500 border-b border-zinc-800 pb-4">
+        <p className="font-sans text-[10px] tracking-[0.3em] uppercase text-zinc-500 border-b border-zinc-200 pb-4">
           {briefing.summary}
         </p>
 
         {/* Film Section */}
         <section>
-          <h2 className="font-sans text-[10px] tracking-[0.4em] uppercase text-zinc-500 mb-8">
+          <h2 className="font-sans text-[10px] tracking-[0.4em] uppercase text-zinc-400 mb-8">
             Film Announcements &mdash; {briefing.film.length} items
           </h2>
           <div className="grid gap-0 sm:grid-cols-2 sm:gap-x-12">
@@ -172,7 +172,7 @@ export default async function Home() {
 
         {/* TV Section */}
         <section>
-          <h2 className="font-sans text-[10px] tracking-[0.4em] uppercase text-zinc-500 mb-8">
+          <h2 className="font-sans text-[10px] tracking-[0.4em] uppercase text-zinc-400 mb-8">
             Television Announcements &mdash; {briefing.tv.length} items
           </h2>
           <div className="grid gap-0 sm:grid-cols-2 sm:gap-x-12">
@@ -183,8 +183,8 @@ export default async function Home() {
         </section>
       </div>
 
-      <footer className="border-t border-zinc-900 mt-8 py-8 text-center">
-        <p className="font-sans text-[10px] tracking-[0.3em] uppercase text-zinc-700">
+      <footer className="border-t border-zinc-200 mt-8 py-8 text-center">
+        <p className="font-sans text-[10px] tracking-[0.3em] uppercase text-zinc-400">
           Deadline &nbsp;·&nbsp; Hollywood Reporter &nbsp;·&nbsp; Variety &nbsp;·&nbsp; IndieWire &nbsp;·&nbsp; TheWrap
         </p>
       </footer>
