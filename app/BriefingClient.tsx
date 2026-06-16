@@ -99,13 +99,22 @@ function Card({
         </div>
       </div>
       {talent && (
-        <button
-          onClick={() => onTalentClick(talent.split(/\s*\(/)[0].trim())}
-          className={`font-sans text-xs tracking-wide uppercase ${muted} text-left transition-colors hover:underline cursor-pointer`}
-          title="Filter by this talent"
-        >
-          {talent}
-        </button>
+        <div className="flex items-center gap-3">
+          <button
+            onClick={() => onTalentClick(talent.split(/\s*\(/)[0].trim())}
+            className={`font-sans text-xs tracking-wide uppercase ${muted} text-left transition-colors hover:underline cursor-pointer`}
+            title="Filter by this talent"
+          >
+            {talent}
+          </button>
+          <a
+            href={`/talent/${encodeURIComponent(talent.split(/\s*\(/)[0].trim().toLowerCase())}`}
+            className={`font-sans text-[9px] tracking-widest uppercase border px-1.5 py-0.5 ${dark ? "border-zinc-700 text-zinc-500 hover:text-zinc-300" : "border-zinc-200 text-zinc-400 hover:text-zinc-600"} transition-colors`}
+            title="View all appearances"
+          >
+            Profile
+          </a>
+        </div>
       )}
       <p className={`font-serif ${body} text-base font-light leading-relaxed`}>{announcement}</p>
       <div className="flex flex-wrap gap-1.5 pt-1">

@@ -17,6 +17,12 @@ const montserrat = Montserrat({
 export const metadata: Metadata = {
   title: "Iconic — Trades Briefing",
   description: "Daily Hollywood film & TV project announcements from the top trades.",
+  manifest: "/manifest.json",
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: "black-translucent",
+    title: "Trades",
+  },
 };
 
 export default function RootLayout({
