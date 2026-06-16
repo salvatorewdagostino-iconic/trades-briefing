@@ -87,8 +87,8 @@ async function main() {
   }
 
   const articleList = allItems
-    .map((a, i) => `[${i + 1}] ${a.trade} | ${a.title}\nURL: ${a.link}\nSummary: ${a.description}`)
-    .join("\n\n");
+    .map((a, i) => `[${i + 1}] ${a.trade} | ${a.title}\nURL: ${a.link}`)
+    .join("\n");
 
   const prompt = `You are a Hollywood trades analyst. Below are today's articles (${today}) from the top entertainment trades.
 
