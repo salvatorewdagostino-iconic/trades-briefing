@@ -44,37 +44,59 @@ function SourceBadge({ source, dark }: { source: Source; dark: boolean }) {
   );
 }
 
-function NewBadge({ dark }: { dark: boolean }) {
+function BookmarkIcon({ active, dark }: { active: boolean; dark: boolean }) {
   return (
-    <span className={`inline-block text-[9px] font-sans font-semibold tracking-widest uppercase px-1.5 py-0.5 ml-2 align-middle ${dark ? "bg-white text-black" : "bg-black text-white"}`}>
-      NEW
-    </span>
+    <svg width="14" height="14" viewBox="0 0 24 24" fill={active ? "currentColor" : "none"}
+      stroke="currentColor" strokeWidth={2} strokeLinecap="round" strokeLinejoin="round"
+      className={active ? (dark ? "text-white" : "text-black") : (dark ? "text-zinc-600" : "text-zinc-300")}>
+      <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" />
+    </svg>
   );
 }
 
 function Card({
-  title, sub, talent, announcement, sources, isNew, dark, onTalentClick,
+  title, sub, talent, announcement, sources, isNew, isTracked, dark, onTalentClick, onTrackToggle,
 }: {
   title: string; sub: string; talent: string; announcement: string;
-  sources: Source[]; isNew: boolean; dark: boolean; onTalentClick: (t: string) => void;
+  sources: Source[]; isNew: boolean; isTracked: boolean; dark: boolean;
+  onTalentClick: (t: string) => void; onTrackToggle: (title: string) => void;
 }) {
   const muted = dark ? "text-zinc-400" : "text-zinc-500";
   const body = dark ? "text-zinc-300" : "text-zinc-700";
   const border = dark ? "border-zinc-800" : "border-zinc-200";
+  const trackedBorder = dark ? "border-l-2 border-l-white pl-4" : "border-l-2 border-l-black pl-4";
   const primaryUrl = sources[0]?.url;
 
   return (
-    <div className={`border-t ${border} pt-6 pb-6 flex flex-col gap-3`}>
-      <div className="flex items-start justify-between gap-4">
-        <h3 className="font-serif text-xl font-light leading-snug">
+    <div className={`border-t ${border} pt-6 pb-6 flex flex-col gap-3 ${isTracked ? trackedBorder : ""}`}>
+      <div className="flex items-start justify-between gap-3">
+        <h3 className="font-serif text-xl font-light leading-snug flex-1">
           {primaryUrl ? (
             <a href={primaryUrl} target="_blank" rel="noopener noreferrer" className={`hover:${muted} transition-colors`}>
               {title}
             </a>
           ) : title}
-          {isNew && <NewBadge dark={dark} />}
+          {isNew && (
+            <span className={`inline-block text-[9px] font-sans font-semibold tracking-widest uppercase px-1.5 py-0.5 ml-2 align-middle ${dark ? "bg-white text-black" : "bg-black text-white"}`}>
+              NEW
+            </span>
+          )}
+          {isTracked && (
+            <span className={`inline-block text-[9px] font-sans font-semibold tracking-widest uppercase px-1.5 py-0.5 ml-2 align-middle border ${dark ? "border-white text-white" : "border-black text-black"}`}>
+              WATCHING
+            </span>
+          )}
         </h3>
-        <span className={`font-sans text-[10px] tracking-widest uppercase ${muted} whitespace-nowrap shrink-0 pt-1`}>{sub}</span>
+        <div className="flex items-center gap-2 shrink-0 pt-1">
+          <span className={`font-sans text-[10px] tracking-widest uppercase ${muted} whitespace-nowrap`}>{sub}</span>
+          <button
+            onClick={() => onTrackToggle(title)}
+            title={isTracked ? "Stop watching" : "Watch this project"}
+            className="hover:opacity-60 transition-opacity"
+          >
+            <BookmarkIcon active={isTracked} dark={dark} />
+          </button>
+        </div>
       </div>
       {talent && (
         <button
@@ -102,6 +124,9 @@ export default function BriefingClient({
   const [search, setSearch] = useState("");
   const [talentFilter, setTalentFilter] = useState("");
   const [seenTitles, setSeenTitles] = useState<Set<string>>(new Set());
+  const [watchlist, setWatchlist] = useState<Set<string>>(new Set());
+  const [watchInput, setWatchInput] = useState("");
+  const [showWatchlist, setShowWatchlist] = useState(false);
   const [timeAgo, setTimeAgo] = useState("");
 
   useEffect(() => {
@@ -113,6 +138,9 @@ export default function BriefingClient({
     setSeenTitles(new Set(seen));
     const allTitles = [...film, ...tv].map((i) => i.title);
     localStorage.setItem("seenTitles", JSON.stringify(allTitles));
+
+    const watched: string[] = JSON.parse(localStorage.getItem("watchlist") || "[]");
+    setWatchlist(new Set(watched));
   }, [film, tv]);
 
   useEffect(() => {
@@ -135,30 +163,63 @@ export default function BriefingClient({
     document.documentElement.classList.toggle("dark", next);
   };
 
+  const toggleTrack = (title: string) => {
+    setWatchlist((prev) => {
+      const next = new Set(prev);
+      if (next.has(title)) next.delete(title);
+      else next.add(title);
+      localStorage.setItem("watchlist", JSON.stringify([...next]));
+      return next;
+    });
+  };
+
+  const addWatchTerm = () => {
+    const term = watchInput.trim();
+    if (!term) return;
+    setWatchlist((prev) => {
+      const next = new Set(prev);
+      next.add(term);
+      localStorage.setItem("watchlist", JSON.stringify([...next]));
+      return next;
+    });
+    setWatchInput("");
+  };
+
+  const removeWatchTerm = (term: string) => {
+    setWatchlist((prev) => {
+      const next = new Set(prev);
+      next.delete(term);
+      localStorage.setItem("watchlist", JSON.stringify([...next]));
+      return next;
+    });
+  };
+
+  const isTracked = (title: string) =>
+    [...watchlist].some((w) => title.toLowerCase().includes(w.toLowerCase()) || w.toLowerCase().includes(title.toLowerCase()));
+
   const activeQuery = (talentFilter || search).toLowerCase().trim();
 
   const filterItems = <T extends { title: string; talent: string; announcement: string }>(
-    items: T[],
-    extraKey: (i: T) => string
+    items: T[], extraKey: (i: T) => string
   ) =>
-    !activeQuery
-      ? items
-      : items.filter(
-          (i) =>
-            i.title.toLowerCase().includes(activeQuery) ||
-            i.talent.toLowerCase().includes(activeQuery) ||
-            i.announcement.toLowerCase().includes(activeQuery) ||
-            extraKey(i).toLowerCase().includes(activeQuery)
-        );
+    !activeQuery ? items : items.filter((i) =>
+      i.title.toLowerCase().includes(activeQuery) ||
+      i.talent.toLowerCase().includes(activeQuery) ||
+      i.announcement.toLowerCase().includes(activeQuery) ||
+      extraKey(i).toLowerCase().includes(activeQuery)
+    );
 
   const filteredFilm = filterItems(film, (i) => i.studio);
   const filteredTv = filterItems(tv, (i) => i.network);
   const isNew = (title: string) => !seenTitles.has(title);
 
-const bg = dark ? "bg-zinc-950 text-white" : "bg-white text-black";
+  const watchedToday = [...film, ...tv].filter((i) => isTracked(i.title));
+
+  const bg = dark ? "bg-zinc-950 text-white" : "bg-white text-black";
   const headerBg = dark ? "bg-zinc-950" : "bg-white";
   const border = dark ? "border-zinc-800" : "border-zinc-200";
   const muted = dark ? "text-zinc-400" : "text-zinc-500";
+  const bodyText = dark ? "text-zinc-300" : "text-zinc-700";
 
   return (
     <main className={`min-h-screen ${bg} transition-colors duration-200`}>
@@ -166,38 +227,33 @@ const bg = dark ? "bg-zinc-950 text-white" : "bg-white text-black";
       <header className={`border-b ${border} sticky top-0 z-10 ${headerBg}`}>
         <div className="max-w-5xl mx-auto px-8 py-5 flex items-center justify-between">
           <div className="flex items-center gap-6">
-            <Image
-              src="/iconic-logo.png"
-              alt="Iconic"
-              width={120}
-              height={36}
-              className={dark ? "" : "invert"}
-            />
-            <span className={`font-sans text-xs tracking-[0.3em] uppercase ${muted}`}>
-              Trades Briefing
-            </span>
+            <Image src="/iconic-logo.png" alt="Iconic" width={120} height={36} className={dark ? "" : "invert"} />
+            <span className={`font-sans text-xs tracking-[0.3em] uppercase ${muted}`}>Trades Briefing</span>
           </div>
           <div className="flex items-center gap-4">
             <div className="text-right">
-              <p className={`font-sans text-xs tracking-widest font-mono ${muted}`}>
-                <LiveClock />
-              </p>
+              <p className={`font-sans text-xs tracking-widest font-mono ${muted}`}><LiveClock /></p>
               <p className={`font-sans text-[10px] tracking-widest uppercase ${muted} mt-0.5`}>
                 {timeAgo ? `Updated ${timeAgo}` : "Updates every 30 min"} · {date}
               </p>
             </div>
+            <button
+              onClick={() => setShowWatchlist((v) => !v)}
+              className={`font-sans text-[10px] tracking-widest uppercase border px-3 py-2 ${border} ${muted} hover:opacity-60 transition-opacity relative`}
+            >
+              Watchlist
+              {watchlist.size > 0 && (
+                <span className={`absolute -top-1.5 -right-1.5 text-[9px] font-sans font-bold w-4 h-4 flex items-center justify-center ${dark ? "bg-white text-black" : "bg-black text-white"}`}>
+                  {watchlist.size}
+                </span>
+              )}
+            </button>
             {!isArchive && (
-              <Link
-                href="/archive"
-                className={`font-sans text-[10px] tracking-widest uppercase border px-3 py-2 ${border} ${muted} hover:opacity-60 transition-opacity`}
-              >
+              <Link href="/archive" className={`font-sans text-[10px] tracking-widest uppercase border px-3 py-2 ${border} ${muted} hover:opacity-60 transition-opacity`}>
                 Archive
               </Link>
             )}
-            <button
-              onClick={toggleDark}
-              className={`font-sans text-[10px] tracking-widest uppercase border px-3 py-2 ${border} ${muted} hover:opacity-60 transition-opacity`}
-            >
+            <button onClick={toggleDark} className={`font-sans text-[10px] tracking-widest uppercase border px-3 py-2 ${border} ${muted} hover:opacity-60 transition-opacity`}>
               {dark ? "Light" : "Dark"}
             </button>
           </div>
@@ -217,10 +273,7 @@ const bg = dark ? "bg-zinc-950 text-white" : "bg-white text-black";
               className={`flex-1 font-sans text-xs tracking-wide bg-transparent border-0 outline-none ${dark ? "text-white placeholder:text-zinc-600" : "text-black placeholder:text-zinc-400"}`}
             />
             {(search || talentFilter) && (
-              <button
-                onClick={() => { setSearch(""); setTalentFilter(""); }}
-                className={`font-sans text-[10px] tracking-widest uppercase ${muted} hover:opacity-60 transition-opacity`}
-              >
+              <button onClick={() => { setSearch(""); setTalentFilter(""); }} className={`font-sans text-[10px] tracking-widest uppercase ${muted} hover:opacity-60 transition-opacity`}>
                 Clear ×
               </button>
             )}
@@ -228,10 +281,95 @@ const bg = dark ? "bg-zinc-950 text-white" : "bg-white text-black";
         </div>
       </header>
 
+      {/* Watchlist panel */}
+      {showWatchlist && (
+        <div className={`border-b ${border} ${headerBg}`}>
+          <div className="max-w-5xl mx-auto px-8 py-6 flex flex-col gap-4">
+            <div className="flex items-center justify-between">
+              <h3 className={`font-sans text-[10px] tracking-[0.3em] uppercase font-medium ${muted}`}>
+                Watching {watchlist.size > 0 ? `— ${watchlist.size} project${watchlist.size > 1 ? "s" : ""}` : ""}
+              </h3>
+              {watchedToday.length > 0 && (
+                <span className={`font-sans text-[10px] tracking-widest uppercase ${dark ? "text-white" : "text-black"} font-semibold`}>
+                  {watchedToday.length} match{watchedToday.length > 1 ? "es" : ""} today
+                </span>
+              )}
+            </div>
+
+            {/* Add by name */}
+            <div className={`flex items-center gap-3 border ${border} px-4 py-2`}>
+              <input
+                type="text"
+                placeholder="Add project name to watch…"
+                value={watchInput}
+                onChange={(e) => setWatchInput(e.target.value)}
+                onKeyDown={(e) => e.key === "Enter" && addWatchTerm()}
+                className={`flex-1 font-sans text-xs tracking-wide bg-transparent border-0 outline-none ${dark ? "text-white placeholder:text-zinc-600" : "text-black placeholder:text-zinc-400"}`}
+              />
+              <button onClick={addWatchTerm} className={`font-sans text-[10px] tracking-widest uppercase ${muted} hover:opacity-60 transition-opacity`}>
+                Add
+              </button>
+            </div>
+
+            {/* Current watchlist */}
+            {watchlist.size > 0 && (
+              <div className="flex flex-wrap gap-2">
+                {[...watchlist].map((term) => {
+                  const hasMatch = [...film, ...tv].some((i) =>
+                    i.title.toLowerCase().includes(term.toLowerCase()) ||
+                    term.toLowerCase().includes(i.title.toLowerCase())
+                  );
+                  return (
+                    <div
+                      key={term}
+                      className={`inline-flex items-center gap-2 border px-3 py-1.5 font-sans text-[10px] tracking-widest uppercase ${
+                        hasMatch
+                          ? dark ? "border-white text-white" : "border-black text-black"
+                          : `${border} ${muted}`
+                      }`}
+                    >
+                      {hasMatch && <span className="w-1.5 h-1.5 rounded-full bg-current" />}
+                      {term}
+                      <button onClick={() => removeWatchTerm(term)} className="hover:opacity-60 transition-opacity ml-1">×</button>
+                    </div>
+                  );
+                })}
+              </div>
+            )}
+          </div>
+        </div>
+      )}
+
       <div className="max-w-5xl mx-auto px-8 py-12 flex flex-col gap-16">
         <p className={`font-sans text-sm tracking-[0.2em] uppercase ${muted} font-medium border-b ${border} pb-4`}>
           {summary}
         </p>
+
+        {/* Watched today callout */}
+        {watchedToday.length > 0 && !activeQuery && (
+          <section>
+            <h2 className={`font-sans mb-8 text-sm tracking-[0.2em] uppercase font-medium ${dark ? "text-white" : "text-black"}`}>
+              Your Watchlist — {watchedToday.length} match{watchedToday.length > 1 ? "es" : ""} today
+            </h2>
+            <div className="grid gap-0 sm:grid-cols-2 sm:gap-x-12">
+              {watchedToday.map((item) => (
+                <Card
+                  key={item.title}
+                  title={item.title}
+                  sub={"studio" in item ? (item as FilmItem).studio : (item as TvItem).network}
+                  talent={item.talent}
+                  announcement={item.announcement}
+                  sources={item.sources}
+                  isNew={isNew(item.title)}
+                  isTracked
+                  dark={dark}
+                  onTalentClick={setTalentFilter}
+                  onTrackToggle={toggleTrack}
+                />
+              ))}
+            </div>
+          </section>
+        )}
 
         {/* Film */}
         <section>
@@ -248,8 +386,10 @@ const bg = dark ? "bg-zinc-950 text-white" : "bg-white text-black";
                 announcement={item.announcement}
                 sources={item.sources}
                 isNew={isNew(item.title)}
+                isTracked={isTracked(item.title)}
                 dark={dark}
                 onTalentClick={setTalentFilter}
+                onTrackToggle={toggleTrack}
               />
             ))}
           </div>
@@ -270,8 +410,10 @@ const bg = dark ? "bg-zinc-950 text-white" : "bg-white text-black";
                 announcement={item.announcement}
                 sources={item.sources}
                 isNew={isNew(item.title)}
+                isTracked={isTracked(item.title)}
                 dark={dark}
                 onTalentClick={setTalentFilter}
+                onTrackToggle={toggleTrack}
               />
             ))}
           </div>
