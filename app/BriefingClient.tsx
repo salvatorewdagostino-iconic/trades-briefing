@@ -231,9 +231,9 @@ export default function BriefingClient({
   const bodyText = dark ? "text-zinc-300" : "text-zinc-700";
 
   return (
-    <main className={`min-h-screen ${bg} transition-colors duration-200`}>
+    <main className={`min-h-screen ${bg} transition-colors duration-500 ease-in-out`}>
       {/* Header */}
-      <header className={`border-b ${border} sticky top-0 z-10 ${headerBg}`}>
+      <header className={`border-b ${border} sticky top-0 z-10 ${headerBg} transition-colors duration-500 ease-in-out`}>
         <div className="max-w-5xl mx-auto px-8 py-5 flex items-center justify-between">
           <div className="flex items-center gap-6">
             <Image src="/iconic-logo.png" alt="Iconic" width={120} height={36} className={dark ? "" : "invert"} />
