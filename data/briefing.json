@@ -1,12 +1,12 @@
 {
   "date": "June 16, 2026",
-  "summary": "7 film announcements, 1 TV announcement across 5 trades.",
+  "summary": "12 film announcements, 11 TV announcements across 5 trades.",
   "film": [
     {
       "title": "Grace",
       "studio": "Inevitable Studios",
       "talent": "Millicent Simmonds (co-writer, star)",
-      "announcement": "Crime thriller marking Inevitable Studios' first feature film, co-written by and starring Millicent Simmonds from the A Quiet Place franchise.",
+      "announcement": "Millicent Simmonds co-wrote and will star in the crime thriller, marking Inevitable Studios' first feature.",
       "sources": [
         {
           "name": "Deadline",
@@ -21,8 +21,8 @@
     {
       "title": "Egg Baby",
       "studio": "Amazon MGM Studios",
-      "talent": "Ariana Greenblatt (star), director Natalia Anderson",
-      "announcement": "Romantic comedy acquired by Amazon MGM Studios for Prime Video release, starring Ariana Greenblatt and directed by Natalia Anderson.",
+      "talent": "Ariana Greenblatt (star), Natalia Anderson (director)",
+      "announcement": "Amazon MGM has picked up the romantic comedy starring Ariana Greenblatt for worldwide release on Prime Video.",
       "sources": [
         {
           "name": "Deadline",
@@ -31,23 +31,39 @@
       ]
     },
     {
-      "title": "Corpus",
-      "studio": "Yellow Veil Pictures (sales)",
-      "talent": "Director/writer Corrin Evans",
-      "announcement": "NYC nightlife thriller set in the 1990s from debut director Corrin Evans, premiering at Fantasia International Film Festival with Yellow Veil Pictures handling world sales.",
+      "title": "Mickey's Home Alone",
+      "studio": "Disney",
+      "talent": "",
+      "announcement": "Disney announced an animated 2026 Christmas special inspired by the 1990 live-action film Home Alone.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/corpus-nyc-nightlife-thriller-sales-fantasia-1236782768/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/disney-mickey-home-alone-christmas-special-1236957470/"
         }
       ]
     },
     {
-      "title": "Monsanto Legal Drama",
-      "studio": "Netflix",
-      "talent": "Jonathan Bailey, Laura Dern, LaKeith Stanfield, Greg Kinnear, David Duchovny, Melonie Diaz, Bilal Hasna, Julia McDermott, director John Lee Hancock",
-      "announcement": "Courtroom drama about landmark legal trial against U.S. chemical company Monsanto, directed by John Lee Hancock with ensemble cast additions announced.",
+      "title": "Thud",
+      "studio": "",
+      "talent": "Sarah Michelle Gellar (Grim Reaper), Rudy Pankow (The Devil), Mali Elfman (director)",
+      "announcement": "Sarah Michelle Gellar and Rudy Pankow have been cast in the supernatural romance directed by Mali Elfman.",
       "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/sarah-michelle-gellar-rudy-pankow-to-star-thud-mali-elfman-1236956629/"
+        }
+      ]
+    },
+    {
+      "title": "Monsanto Courtroom Drama",
+      "studio": "Netflix",
+      "talent": "Jonathan Bailey, Laura Dern, LaKeith Stanfield, Julia McDermott, David Duchovny, Melonie Diaz, Bilal Hasna, Greg Kinnear (cast), John Lee Hancock (director)",
+      "announcement": "Netflix courtroom drama about the landmark 2018 legal case against Monsanto adds six cast members to its ensemble.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/john-lee-hancock-monsanto-movie-casts-six-1236956881/"
+        },
         {
           "name": "Variety",
           "url": "https://variety.com/2026/film/news/lakeith-stanfield-greg-kinnear-john-lee-hancock-monsanto-drama-netflix-1236782828/"
@@ -55,10 +71,46 @@
       ]
     },
     {
+      "title": "Lady Macbeth",
+      "studio": "Curious Gremlin",
+      "talent": "Kari Skogland (director, producer), Emma Donoghue (writer)",
+      "announcement": "Kari Skogland and Emma Donoghue are developing a feature adaptation of Ava Reid's gothic feminist retelling of Shakespeare's Macbeth.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/kari-skogland-emma-donoghue-ava-reid-lady-macbeth-1236957390/"
+        }
+      ]
+    },
+    {
+      "title": "Shatter Me",
+      "studio": "Warner Bros.",
+      "talent": "",
+      "announcement": "Warner Bros. has acquired the rights to Tahereh Mafi's bestselling dystopian YA series for film adaptation.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/warner-bros-tahereh-mafi-ya-series-shatter-me-1236782622/"
+        }
+      ]
+    },
+    {
+      "title": "Black Diamond",
+      "studio": "Fangoria Studios and Panick Studios",
+      "talent": "Ernest Dickerson (director)",
+      "announcement": "The folk horror comic book series is being adapted into a feature film with Ernest Dickerson directing.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/black-diamond-comic-adaptation-ernest-dickerson-1236782149/"
+        }
+      ]
+    },
+    {
       "title": "Shots! Shots! Shots!",
       "studio": "Amazon MGM Studios",
       "talent": "Jason Momoa (star)",
-      "announcement": "Action comedy starring Jason Momoa acquired by Amazon MGM Studios, previously in development at Universal Studios.",
+      "announcement": "Amazon MGM has picked up the Jason Momoa action comedy, previously in development at Universal Studios.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -67,40 +119,148 @@
       ]
     },
     {
-      "title": "The Death of Robin Hood",
-      "studio": "A24",
-      "talent": "Hugh Jackman (star), director Michael Sarnoski",
-      "announcement": "Robin Hood adaptation directed by Michael Sarnoski and starring Hugh Jackman as a murderous outlaw; director also adapting Death Stranding for A24.",
+      "title": "Untitled Jan. 6 Friendship Drama",
+      "studio": "Warner Bros.",
+      "talent": "Sean Penn (director), Bradley Cooper (star, in talks)",
+      "announcement": "Sean Penn is set to direct Bradley Cooper in an untitled Jan. 6 friendship drama; Warner Bros. is negotiating acquisition.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/features/death-robin-hood-michael-sarnoski-hugh-jackman-death-stranding-1236782717/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/sean-penn-bradley-cooper-jan-6-friendship-drama-1236623135/"
         }
       ]
     },
     {
-      "title": "Heartstopper Forever",
-      "studio": "Netflix",
-      "talent": "Kit Connor, Joe Locke (stars)",
-      "announcement": "Netflix film wrapping up the Heartstopper series, starring Kit Connor as Nick and Joe Locke as Charlie.",
+      "title": "Corpus",
+      "studio": "Yellow Veil Pictures (sales)",
+      "talent": "Corrin Evans (writer, director)",
+      "announcement": "Yellow Veil Pictures has boarded the NYC nightlife thriller set in the '90s for world sales ahead of Fantasia premiere.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/heartstopper-forever-trailer-kit-connor-joe-locke-1236623181/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/corpus-nyc-nightlife-thriller-sales-fantasia-1236782768/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "The Audicity",
+      "title": "The Audicity Season 2",
       "network": "AMC",
-      "talent": "Miriam Shor (cast as Randy Flemming in Season 2)",
-      "announcement": "Miriam Shor joins Season 2 cast as FBI Agent Randy Flemming, a character introduced in the Season 1 finale.",
+      "talent": "Miriam Shor (Randy Flemming, FBI Agent)",
+      "announcement": "Miriam Shor has been cast in Season 2 as a shrewd FBI Agent introduced in the Season 1 finale.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/06/miriam-shor-cast-amc-the-audicity-season-2-1236957660/"
+        }
+      ]
+    },
+    {
+      "title": "Heartstopper Forever",
+      "network": "Netflix",
+      "talent": "Kit Connor (Nick), Joe Locke (Charlie)",
+      "announcement": "Netflix has released a trailer for the Heartstopper finale feature film dropping July 17, concluding Nick and Charlie's love story.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/heartstopper-forever-trailer-netflix-feature-film-1236957393/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/heartstopper-forever-trailer-kit-connor-joe-locke-1236623181/"
+        }
+      ]
+    },
+    {
+      "title": "Funny AF with Kevin Hart Season 2",
+      "network": "Netflix",
+      "talent": "Kevin Hart (host)",
+      "announcement": "Netflix has renewed the comedy competition series for a second season following its inaugural winner announcement.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/funny-af-with-kevin-hart-renewed-netflix-season-2-1236957402/"
+        }
+      ]
+    },
+    {
+      "title": "The Pinnacle",
+      "network": "Hulu",
+      "talent": "George Stephanopoulos, Ali Wentworth (producers), Damon Cardasis (writer, executive producer), Jamieson Baker (executive producer)",
+      "announcement": "Hulu has put in development a high-end New York real estate drama written and executive produced by Cardasis and Baker, with Stephanopoulos and Wentworth as producers.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/george-stephanopoulos-new-york-real-esate-drama-hulu-1236956954/"
+        }
+      ]
+    },
+    {
+      "title": "Dirty",
+      "network": "Amazon",
+      "talent": "Samantha Morton (cast), Phoebe Dynevor (Detective Eva Bennett), Matt Charman (creator)",
+      "announcement": "Samantha Morton has been cast alongside Phoebe Dynevor in the Amazon crime thriller about a detective returning to Manchester.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/samantha-morton-phoebe-dynevor-amazon-drama-series-dirty-1236956989/"
+        }
+      ]
+    },
+    {
+      "title": "Count My Lies",
+      "network": "Hulu",
+      "talent": "François Arnaud (Danny, recurring), Lindsay Lohan (Violet), Isaac Aptaker, Elizabeth Berger (creators)",
+      "announcement": "François Arnaud has joined the Hulu limited series in a recurring role as Lindsay Lohan's character's friend.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/heated-rivalry-francois-arnaud-cast-hulu-count-my-lies-1236957301/"
+        }
+      ]
+    },
+    {
+      "title": "Ridiculous",
+      "network": "Netflix",
+      "talent": "Louis C.K. (star)",
+      "announcement": "Louis C.K.'s new comedy special will debut on Netflix on June 30.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/louis-ck-netflix-special-release-date-1236782729/"
+        }
+      ]
+    },
+    {
+      "title": "My Adventures with Superman Spinoff: Green Lantern",
+      "network": "DC/Warner Bros.",
+      "talent": "Auliʻi Cravalho (Jessica Cruz/Green Lantern)",
+      "announcement": "Auliʻi Cravalho will star as Green Lantern in a spinoff of My Adventures with Superman, debuting in Saturday's episode.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/auli%ca%bbi-cravalho-green-lantern-my-adventures-with-superman-spinoff/"
+        }
+      ]
+    },
+    {
+      "title": "Universal Global Television (formerly UCP and Universal International Studios merger)",
+      "network": "NBCUniversal",
+      "talent": "Beatrice Springborn (president)",
+      "announcement": "NBCU is merging Universal Content Productions and Universal International Studios into Universal Global Television under Beatrice Springborn; 22 roles eliminated.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/ucp-uis-studio-merger-beatrice-springborn-layoffs-nbcuiversal-1236956996/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/ucp-uis-universal-global-television-beatrice-springborn-1236782723/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/nbcuniversal-combines-ucp-international-studios-1236623171/"
         }
       ]
     }
