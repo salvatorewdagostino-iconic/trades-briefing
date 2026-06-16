@@ -26,10 +26,17 @@ type Briefing = {
   tv: TvItem[];
 };
 
+export const revalidate = 900; // revalidate every 15 minutes
+
 async function getBriefing(): Promise<Briefing> {
   const filePath = path.join(process.cwd(), "data", "briefing.json");
   const raw = await fs.readFile(filePath, "utf-8");
-  return JSON.parse(raw);
+  const data = JSON.parse(raw);
+  return {
+    ...data,
+    film: (data.film ?? []).slice(0, 30),
+    tv: (data.tv ?? []).slice(0, 30),
+  };
 }
 
 const TRADE_COLORS: Record<string, string> = {
