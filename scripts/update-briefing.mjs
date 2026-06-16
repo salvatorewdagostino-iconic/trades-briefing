@@ -148,7 +148,7 @@ ${articleList}`;
     process.exit(1);
   }
 
-  const briefing = JSON.parse(jsonMatch[0]);
+  const briefing = { ...JSON.parse(jsonMatch[0]), lastUpdated: new Date().toISOString() };
   console.log(`Parsed: ${briefing.film.length} film, ${briefing.tv.length} TV announcements.`);
 
   const outPath = path.join(__dirname, "..", "data", "briefing.json");
