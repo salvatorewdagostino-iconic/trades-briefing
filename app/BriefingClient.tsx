@@ -44,6 +44,35 @@ function SourceBadge({ source, dark }: { source: Source; dark: boolean }) {
   );
 }
 
+function ShareButton({ title, sub, announcement, sources, dark }: {
+  title: string; sub: string; announcement: string; sources: Source[]; dark: boolean;
+}) {
+  const [copied, setCopied] = useState(false);
+  const share = () => {
+    const trade = sources[0]?.name ?? "";
+    const url = sources[0]?.url ?? "";
+    const text = `${title} [${sub}] — ${announcement}${trade ? ` Via ${trade}.` : ""}${url ? ` ${url}` : ""}`;
+    navigator.clipboard.writeText(text).then(() => {
+      setCopied(true);
+      setTimeout(() => setCopied(false), 2000);
+    });
+  };
+  return (
+    <button onClick={share} title="Copy to share" className={`hover:opacity-60 transition-opacity ${dark ? "text-zinc-600" : "text-zinc-300"}`}>
+      {copied ? (
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2.5} strokeLinecap="round" strokeLinejoin="round" className={dark ? "text-white" : "text-black"}>
+          <polyline points="20 6 9 17 4 12" />
+        </svg>
+      ) : (
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2} strokeLinecap="round" strokeLinejoin="round">
+          <circle cx="18" cy="5" r="3" /><circle cx="6" cy="12" r="3" /><circle cx="18" cy="19" r="3" />
+          <line x1="8.59" y1="13.51" x2="15.42" y2="17.49" /><line x1="15.41" y1="6.51" x2="8.59" y2="10.49" />
+        </svg>
+      )}
+    </button>
+  );
+}
+
 function BookmarkIcon({ active, dark }: { active: boolean; dark: boolean }) {
   return (
     <svg width="14" height="14" viewBox="0 0 24 24" fill={active ? "currentColor" : "none"}
@@ -89,6 +118,7 @@ function Card({
         </h3>
         <div className="flex items-center gap-2 shrink-0 pt-1">
           <span className={`font-sans text-[10px] tracking-widest uppercase ${muted} whitespace-nowrap`}>{sub}</span>
+          <ShareButton title={title} sub={sub} announcement={announcement} sources={sources} dark={dark} />
           <button
             onClick={() => onTrackToggle(title)}
             title={isTracked ? "Stop tracking" : "Track this project"}
@@ -285,9 +315,14 @@ export default function BriefingClient({
               )}
             </button>
             {!isArchive && (
-              <Link href="/archive" className={`font-sans text-[10px] tracking-widest uppercase border px-3 py-2 ${border} ${muted} hover:opacity-60 transition-opacity`}>
-                Archive
-              </Link>
+              <>
+                <Link href="/weekly" className={`font-sans text-[10px] tracking-widest uppercase border px-3 py-2 ${border} ${muted} hover:opacity-60 transition-opacity`}>
+                  Weekly
+                </Link>
+                <Link href="/archive" className={`font-sans text-[10px] tracking-widest uppercase border px-3 py-2 ${border} ${muted} hover:opacity-60 transition-opacity`}>
+                  Archive
+                </Link>
+              </>
             )}
             <button onClick={toggleDark} className={`font-sans text-[10px] tracking-widest uppercase border px-3 py-2 ${border} ${muted} hover:opacity-60 transition-opacity`}>
               {dark ? "Light" : "Dark"}
