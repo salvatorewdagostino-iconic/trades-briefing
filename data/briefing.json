@@ -1,184 +1,107 @@
 {
   "date": "June 16, 2026",
-  "summary": "10 film announcements, 9 TV announcements across 5 trades.",
+  "summary": "7 film announcements, 1 TV announcement across 5 trades.",
   "film": [
     {
-      "title": "The Lord of the Rings: The Hunt for Gollum",
-      "studio": "Warner Bros. / New Line Cinema",
-      "talent": "Anya Taylor-Joy (as Seren, a Sindar Elf); Andy Serkis (director)",
-      "announcement": "Anya Taylor-Joy officially joins the cast of the upcoming Rings film as a Woodland Realm elf.",
+      "title": "Grace",
+      "studio": "Inevitable Studios",
+      "talent": "Millicent Simmonds (co-writer, star)",
+      "announcement": "Crime thriller marking Inevitable Studios' first feature film, co-written by and starring Millicent Simmonds from the A Quiet Place franchise.",
       "sources": [
-        { "name": "Deadline", "url": "https://deadline.com/2026/06/anya-taylor-joy-lord-of-the-rings-the-hunt-for-gollum-cast-1236956741/" },
-        { "name": "Variety", "url": "https://variety.com/2026/film/news/anya-taylor-joy-lord-of-the-rings-hunt-for-gollum-1236781874/" }
-      ]
-    },
-    {
-      "title": "Untitled January 6 Drama",
-      "studio": "Skydance Media",
-      "talent": "Sean Penn (director), Bradley Cooper (star as Capitol cop)",
-      "announcement": "Sean Penn is set to direct Bradley Cooper in a January 6 friendship drama for Skydance.",
-      "sources": [
-        { "name": "Variety", "url": "https://variety.com/2026/film/news/senn-penn-directing-january-6-drama-bradley-cooper-david-ellison-1236782506/" },
-        { "name": "Hollywood Reporter", "url": "https://www.hollywoodreporter.com/movies/movie-news/sean-penn-bradley-cooper-jan-6-friendship-drama-1236623135/" }
-      ]
-    },
-    {
-      "title": "Shatter Me",
-      "studio": "Warner Bros.",
-      "talent": "",
-      "announcement": "Warner Bros. acquires the rights to Tahereh Mafi's bestselling dystopian YA series for a film adaptation.",
-      "sources": [
-        { "name": "Variety", "url": "https://variety.com/2026/film/news/warner-bros-tahereh-mafi-ya-series-shatter-me-1236782622/" }
-      ]
-    },
-    {
-      "title": "Narnia: The Magician's Nephew",
-      "studio": "Netflix / Sony Pictures",
-      "talent": "Greta Gerwig (director)",
-      "announcement": "Netflix teams with Sony Pictures for a global theatrical release of Gerwig's Narnia film.",
-      "sources": [
-        { "name": "Hollywood Reporter", "url": "https://www.hollywoodreporter.com/movies/movie-news/netflix-sony-spe-greta-gerwig-narnia-the-magicians-nephew-1236623054/" }
-      ]
-    },
-    {
-      "title": "Netflix Monsanto Courtroom Drama",
-      "studio": "Netflix",
-      "talent": "John Lee Hancock (director), Jonathan Bailey, Laura Dern, LaKeith Stanfield, David Duchovny, Greg Kinnear",
-      "announcement": "Six new cast members added to Hancock's Netflix courtroom drama about the Monsanto trials.",
-      "sources": [
-        { "name": "Deadline", "url": "https://deadline.com/2026/06/john-lee-hancock-monsanto-movie-casts-six-1236956881/" },
-        { "name": "Variety", "url": "https://variety.com/2026/film/news/lakeith-stanfield-greg-kinnear-john-lee-hancock-monsanto-drama-netflix-1236782828/" }
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/millicent-simmonds-to-star-grace-inevitable-studios-1236956595/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/millicent-simmonds-grace-inevitable-studios-first-film-1236778757/"
+        }
       ]
     },
     {
       "title": "Egg Baby",
-      "studio": "Amazon MGM / Prime Video",
-      "talent": "Ariana Greenblatt (star)",
-      "announcement": "Rom-com starring Ariana Greenblatt acquired by Amazon MGM for Prime Video.",
+      "studio": "Amazon MGM Studios",
+      "talent": "Ariana Greenblatt (star), director Natalia Anderson",
+      "announcement": "Romantic comedy acquired by Amazon MGM Studios for Prime Video release, starring Ariana Greenblatt and directed by Natalia Anderson.",
       "sources": [
-        { "name": "Deadline", "url": "https://deadline.com/2026/06/egg-baby-ariana-greenblatt-amazon-streaming-deal-1236957372/" }
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/egg-baby-ariana-greenblatt-amazon-streaming-deal-1236957372/"
+        }
       ]
     },
     {
-      "title": "Grace",
-      "studio": "Inevitable Studios",
-      "talent": "Millicent Simmonds (co-writer/star)",
-      "announcement": "Crime thriller marks Inevitable Studios' first film, with Simmonds both co-writing and starring.",
+      "title": "Corpus",
+      "studio": "Yellow Veil Pictures (sales)",
+      "talent": "Director/writer Corrin Evans",
+      "announcement": "NYC nightlife thriller set in the 1990s from debut director Corrin Evans, premiering at Fantasia International Film Festival with Yellow Veil Pictures handling world sales.",
       "sources": [
-        { "name": "Deadline", "url": "https://deadline.com/2026/06/millicent-simmonds-to-star-grace-inevitable-studios-1236956595/" },
-        { "name": "Variety", "url": "https://variety.com/2026/film/news/millicent-simmonds-grace-inevitable-studios-first-film-1236778757/" }
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/corpus-nyc-nightlife-thriller-sales-fantasia-1236782768/"
+        }
       ]
     },
     {
-      "title": "Thud",
-      "studio": "Independent",
-      "talent": "Sarah Michelle Gellar, Rudy Pankow (stars); Mali Elfman (director)",
-      "announcement": "Supernatural romance with Gellar and Pankow announced with Elfman directing.",
+      "title": "Monsanto Legal Drama",
+      "studio": "Netflix",
+      "talent": "Jonathan Bailey, Laura Dern, LaKeith Stanfield, Greg Kinnear, David Duchovny, Melonie Diaz, Bilal Hasna, Julia McDermott, director John Lee Hancock",
+      "announcement": "Courtroom drama about landmark legal trial against U.S. chemical company Monsanto, directed by John Lee Hancock with ensemble cast additions announced.",
       "sources": [
-        { "name": "Deadline", "url": "https://deadline.com/2026/06/sarah-michelle-gellar-rudy-pankow-to-star-thud-mali-elfman-1236956629/" }
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/lakeith-stanfield-greg-kinnear-john-lee-hancock-monsanto-drama-netflix-1236782828/"
+        }
       ]
     },
     {
-      "title": "Black Diamond",
-      "studio": "Independent",
-      "talent": "Ernest Dickerson (director)",
-      "announcement": "Folk horror feature adaptation of the Black Diamond comic with Dickerson directing.",
+      "title": "Shots! Shots! Shots!",
+      "studio": "Amazon MGM Studios",
+      "talent": "Jason Momoa (star)",
+      "announcement": "Action comedy starring Jason Momoa acquired by Amazon MGM Studios, previously in development at Universal Studios.",
       "sources": [
-        { "name": "Variety", "url": "https://variety.com/2026/film/news/black-diamond-comic-adaptation-ernest-dickerson-1236782149/" }
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/jason-momoa-action-comedy-shots-shots-shots-1236623293/"
+        }
       ]
     },
     {
-      "title": "Gaudí Biopic",
-      "studio": "Onza / Fábrica de Cine / Methos Media",
-      "talent": "Alejandro Monteverde (director)",
-      "announcement": "Sound of Freedom director Monteverde sets biopic about architect Antoni Gaudí with three production partners.",
+      "title": "The Death of Robin Hood",
+      "studio": "A24",
+      "talent": "Hugh Jackman (star), director Michael Sarnoski",
+      "announcement": "Robin Hood adaptation directed by Michael Sarnoski and starring Hugh Jackman as a murderous outlaw; director also adapting Death Stranding for A24.",
       "sources": [
-        { "name": "Variety", "url": "https://variety.com/2026/film/markets-festivals/alejandro-monteverde-gaudi-biopic-onza-fabrica-de-cine-1236781305/" }
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/features/death-robin-hood-michael-sarnoski-hugh-jackman-death-stranding-1236782717/"
+        }
+      ]
+    },
+    {
+      "title": "Heartstopper Forever",
+      "studio": "Netflix",
+      "talent": "Kit Connor, Joe Locke (stars)",
+      "announcement": "Netflix film wrapping up the Heartstopper series, starring Kit Connor as Nick and Joe Locke as Charlie.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/heartstopper-forever-trailer-kit-connor-joe-locke-1236623181/"
+        }
       ]
     }
   ],
   "tv": [
     {
-      "title": "Only Murders in the Building — Season 6",
-      "network": "Hulu",
-      "talent": "David Tennant, Nicola Coughlan, Jodie Whittaker, Jim Broadbent (new cast)",
-      "announcement": "Four major additions announced for Season 6, joining returning stars Steve Martin, Martin Short, and Selena Gomez.",
+      "title": "The Audicity",
+      "network": "AMC",
+      "talent": "Miriam Shor (cast as Randy Flemming in Season 2)",
+      "announcement": "Miriam Shor joins Season 2 cast as FBI Agent Randy Flemming, a character introduced in the Season 1 finale.",
       "sources": [
-        { "name": "Deadline", "url": "https://deadline.com/2026/06/only-murders-in-the-building-david-tennant-nicola-coughlan-1236955027/" },
-        { "name": "Variety", "url": "https://variety.com/2026/tv/news/only-murders-building-season-6-david-tennant-1236781418/" }
-      ]
-    },
-    {
-      "title": "Journey",
-      "network": "Disney+",
-      "talent": "Barack & Michelle Obama's Higher Ground (producers)",
-      "announcement": "Original animated fantasy series greenlit at Disney+ from Disney Kids & Family and Higher Ground.",
-      "sources": [
-        { "name": "Deadline", "url": "https://deadline.com/2026/06/disney-higher-ground-obama-partner-animated-series-journey-1236956767/" },
-        { "name": "Variety", "url": "https://variety.com/2026/tv/news/disney-animated-series-journey-obamas-higher-ground-1236781932/" }
-      ]
-    },
-    {
-      "title": "Untitled New York Real Estate Drama",
-      "network": "Hulu",
-      "talent": "George Stephanopoulos, Ali Wentworth (producers)",
-      "announcement": "Stephanopoulos and Wentworth are producing a New York real estate drama in development at Hulu.",
-      "sources": [
-        { "name": "Deadline", "url": "https://deadline.com/2026/06/george-stephanopoulos-new-york-real-esate-drama-hulu-1236956954/" }
-      ]
-    },
-    {
-      "title": "Funny AF With Kevin Hart — Season 2",
-      "network": "Netflix",
-      "talent": "Kevin Hart",
-      "announcement": "Netflix renews Kevin Hart's comedy series for a second season.",
-      "sources": [
-        { "name": "Deadline", "url": "https://deadline.com/2026/06/funny-af-with-kevin-hart-renewed-netflix-season-2-1236957402/" }
-      ]
-    },
-    {
-      "title": "The Most Wonderful Song of the Year",
-      "network": "TBD",
-      "talent": "Ana Gasteyer (creator/EP)",
-      "announcement": "Holiday music competition series in development from SNL alumna Ana Gasteyer.",
-      "sources": [
-        { "name": "Deadline", "url": "https://deadline.com/2026/06/ana-gasteyer-the-most-wonderful-song-of-the-year-1236956862/" }
-      ]
-    },
-    {
-      "title": "Count My Lies",
-      "network": "Hulu",
-      "talent": "François Arnaud (new cast)",
-      "announcement": "François Arnaud joins the cast of Hulu's Count My Lies.",
-      "sources": [
-        { "name": "Deadline", "url": "https://deadline.com/2026/06/heated-rivalry-francois-arnaud-cast-hulu-count-my-lies-1236957301/" }
-      ]
-    },
-    {
-      "title": "Widow's Bay — Season 2",
-      "network": "Apple TV+",
-      "talent": "Katie Dippold (showrunner/EP)",
-      "announcement": "Apple TV+ greenlights Season 2 of the genre-bending series ahead of the Season 1 finale, with Dippold signing a new overall deal.",
-      "sources": [
-        { "name": "IndieWire", "url": "https://www.indiewire.com/news/breaking-news/widows-bay-season-2-1235199695/" }
-      ]
-    },
-    {
-      "title": "My Adventures With Superman — Green Lantern Spinoff",
-      "network": "TBD",
-      "talent": "Auliʻi Cravalho (star as Green Lantern)",
-      "announcement": "Cravalho is set to star as Green Lantern in a spinoff of the animated My Adventures With Superman series.",
-      "sources": [
-        { "name": "TheWrap", "url": "https://www.thewrap.com/creative-content/tv-shows/auli%ca%bbi-cravalho-green-lantern-my-adventures-with-superman-spinoff/" }
-      ]
-    },
-    {
-      "title": "Scooby-Doo: Origins",
-      "network": "Netflix",
-      "talent": "Sara Gilbert, Sherilyn Fenn (new cast additions)",
-      "announcement": "Netflix's live-action Scooby-Doo: Origins rounds out its ensemble with Sara Gilbert, Sherilyn Fenn, and 13 additional cast members.",
-      "sources": [
-        { "name": "TheWrap", "url": "https://www.thewrap.com/industry-news/casting/scooby-doo-origins-netflix-cast-sara-gilbert-sherilyn-fenn/" }
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/miriam-shor-cast-amc-the-audicity-season-2-1236957660/"
+        }
       ]
     }
   ]
