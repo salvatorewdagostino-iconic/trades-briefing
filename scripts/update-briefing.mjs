@@ -6,12 +6,24 @@ import { fileURLToPath } from "url";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 
-const TRADES = [
-  { name: "Deadline",           rss: "https://deadline.com/feed/" },
-  { name: "Variety",            rss: "https://variety.com/feed/" },
-  { name: "Hollywood Reporter", rss: "https://www.hollywoodreporter.com/feed/" },
-  { name: "IndieWire",          rss: "https://www.indiewire.com/feed/" },
-  { name: "TheWrap",            rss: "https://www.thewrap.com/feed/" },
+const FEEDS = [
+  { name: "Deadline",           url: "https://deadline.com/feed/" },
+  { name: "Deadline",           url: "https://deadline.com/v/film/feed/" },
+  { name: "Deadline",           url: "https://deadline.com/v/tv/feed/" },
+  { name: "Deadline",           url: "https://deadline.com/category/casting/feed/" },
+  { name: "Variety",            url: "https://variety.com/feed/" },
+  { name: "Variety",            url: "https://variety.com/v/film/feed/" },
+  { name: "Variety",            url: "https://variety.com/v/tv/feed/" },
+  { name: "Hollywood Reporter", url: "https://www.hollywoodreporter.com/feed/" },
+  { name: "Hollywood Reporter", url: "https://www.hollywoodreporter.com/c/movies/feed/" },
+  { name: "Hollywood Reporter", url: "https://www.hollywoodreporter.com/c/tv/feed/" },
+  { name: "IndieWire",          url: "https://www.indiewire.com/feed/" },
+  { name: "IndieWire",          url: "https://www.indiewire.com/c/news/feed/" },
+  { name: "IndieWire",          url: "https://www.indiewire.com/c/film/feed/" },
+  { name: "IndieWire",          url: "https://www.indiewire.com/c/tv/feed/" },
+  { name: "TheWrap",            url: "https://www.thewrap.com/feed/" },
+  { name: "TheWrap",            url: "https://www.thewrap.com/industry-news/feed/" },
+  { name: "TheWrap",            url: "https://www.thewrap.com/industry-news/casting/feed/" },
 ];
 
 function parseRSS(xml, tradeName, today) {
@@ -36,16 +48,16 @@ function parseRSS(xml, tradeName, today) {
   return items;
 }
 
-async function fetchFeed(trade, today) {
+async function fetchFeed(feed, today) {
   try {
-    const res = await fetch(trade.rss, {
+    const res = await fetch(feed.url, {
       headers: { "User-Agent": "trades-briefing-bot/1.0" },
       signal: AbortSignal.timeout(10000),
     });
     const xml = await res.text();
-    return parseRSS(xml, trade.name, today);
+    return parseRSS(xml, feed.name, today);
   } catch (e) {
-    console.warn(`Failed to fetch ${trade.name}:`, e.message);
+    console.warn(`Failed to fetch ${feed.url}:`, e.message);
     return [];
   }
 }
@@ -57,7 +69,15 @@ async function main() {
   });
 
   console.log(`Fetching trades for ${today}...`);
-  const allItems = (await Promise.all(TRADES.map(t => fetchFeed(t, today)))).flat();
+  const raw_items = (await Promise.all(FEEDS.map(f => fetchFeed(f, today)))).flat();
+
+  // Deduplicate by URL
+  const seen = new Set();
+  const allItems = raw_items.filter(item => {
+    if (!item.link || seen.has(item.link)) return false;
+    seen.add(item.link);
+    return true;
+  });
   console.log(`Found ${allItems.length} articles from today across all trades.`);
 
   if (allItems.length === 0) {
