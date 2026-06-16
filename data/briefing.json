@@ -1,6 +1,6 @@
 {
   "date": "June 16, 2026",
-  "summary": "10 film announcements, 6 TV announcements across 5 trades.",
+  "summary": "10 film announcements, 9 TV announcements across 5 trades.",
   "film": [
     {
       "title": "The Lord of the Rings: The Hunt for Gollum",
@@ -152,6 +152,33 @@
       "announcement": "François Arnaud joins the cast of Hulu's Count My Lies.",
       "sources": [
         { "name": "Deadline", "url": "https://deadline.com/2026/06/heated-rivalry-francois-arnaud-cast-hulu-count-my-lies-1236957301/" }
+      ]
+    },
+    {
+      "title": "Widow's Bay — Season 2",
+      "network": "Apple TV+",
+      "talent": "Katie Dippold (showrunner/EP)",
+      "announcement": "Apple TV+ greenlights Season 2 of the genre-bending series ahead of the Season 1 finale, with Dippold signing a new overall deal.",
+      "sources": [
+        { "name": "IndieWire", "url": "https://www.indiewire.com/news/breaking-news/widows-bay-season-2-1235199695/" }
+      ]
+    },
+    {
+      "title": "My Adventures With Superman — Green Lantern Spinoff",
+      "network": "TBD",
+      "talent": "Auliʻi Cravalho (star as Green Lantern)",
+      "announcement": "Cravalho is set to star as Green Lantern in a spinoff of the animated My Adventures With Superman series.",
+      "sources": [
+        { "name": "TheWrap", "url": "https://www.thewrap.com/creative-content/tv-shows/auli%ca%bbi-cravalho-green-lantern-my-adventures-with-superman-spinoff/" }
+      ]
+    },
+    {
+      "title": "Scooby-Doo: Origins",
+      "network": "Netflix",
+      "talent": "Sara Gilbert, Sherilyn Fenn (new cast additions)",
+      "announcement": "Netflix's live-action Scooby-Doo: Origins rounds out its ensemble with Sara Gilbert, Sherilyn Fenn, and 13 additional cast members.",
+      "sources": [
+        { "name": "TheWrap", "url": "https://www.thewrap.com/industry-news/casting/scooby-doo-origins-netflix-cast-sara-gilbert-sherilyn-fenn/" }
       ]
     }
   ]
