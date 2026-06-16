@@ -1,6 +1,6 @@
 {
   "date": "June 16, 2026",
-  "summary": "13 film announcements, 7 TV announcements across 5 trades.",
+  "summary": "13 film announcements, 8 TV announcements across 5 trades.",
   "film": [
     {
       "title": "Grace",
@@ -34,7 +34,7 @@
       "title": "Mickey's Home Alone",
       "studio": "Disney",
       "talent": "",
-      "announcement": "Disney taps into the spirit of Macaulay Culkin-starring classic for Mickey's Home Alone Christmas special.",
+      "announcement": "Disney greenlights Christmas special inspired by the Macaulay Culkin classic.",
       "sources": [
         {
           "name": "Deadline",
@@ -46,7 +46,7 @@
       "title": "Thud",
       "studio": "",
       "talent": "Sarah Michelle Gellar, Rudy Pankow, Mali Elfman (director)",
-      "announcement": "Sarah Michelle Gellar and Rudy Pankow cast as Grim Reaper and The Devil in Mali Elfman film with Divide/Conquer and Radio Silence as executive producers.",
+      "announcement": "Sarah Michelle Gellar and Rudy Pankow cast in Mali Elfman's film to play the Grim Reaper and the Devil.",
       "sources": [
         {
           "name": "Deadline",
@@ -55,10 +55,10 @@
       ]
     },
     {
-      "title": "Monsanto Courtroom Drama (Untitled)",
+      "title": "Monsanto Courtroom Drama",
       "studio": "Netflix",
-      "talent": "Jonathan Bailey, Laura Dern, Lakeith Stanfield, Greg Kinnear, John Lee Hancock (director)",
-      "announcement": "John Lee Hancock's Netflix courtroom drama on 2018 Monsanto case adds six cast members joining Jonathan Bailey and Laura Dern.",
+      "talent": "Jonathan Bailey, Laura Dern, Lakeith Stanfield, Greg Kinnear",
+      "announcement": "John Lee Hancock's courtroom drama on the 2018 Monsanto case adds six cast members including Stanfield and Kinnear to join Bailey and Dern.",
       "sources": [
         {
           "name": "Deadline",
@@ -86,7 +86,7 @@
       "title": "Black Diamond",
       "studio": "",
       "talent": "Ernest Dickerson (director)",
-      "announcement": "Comic adaptation to be adapted into folk horror feature with Ernest Dickerson directing.",
+      "announcement": "Comic adaptation being adapted into folk horror feature with Ernest Dickerson directing.",
       "sources": [
         {
           "name": "Variety",
@@ -95,58 +95,10 @@
       ]
     },
     {
-      "title": "Untitled Bradley Cooper/Sean Penn Jan. 6 Film",
-      "studio": "Warner Bros.",
-      "talent": "Bradley Cooper, Sean Penn (director)",
-      "announcement": "Bradley Cooper to star as cop who ends up at Jan. 6 in Sean Penn-directed Warner Bros. film.",
-      "sources": [
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/bradley-cooper-sean-penn-movie-police-officer-jan-6/"
-        }
-      ]
-    },
-    {
-      "title": "Narnia",
-      "studio": "Netflix/Sony Pictures",
-      "talent": "Greta Gerwig (director)",
-      "announcement": "Sony Pictures to distribute Greta Gerwig and Netflix's Narnia internationally in theaters.",
-      "sources": [
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/greta-gerwig-narnia-sony-international-distributor/"
-        }
-      ]
-    },
-    {
-      "title": "Corpus",
+      "title": "The Rocky Horror Picture Show",
       "studio": "",
       "talent": "",
-      "announcement": "Yellow Veil Pictures boards NYC nightlife thriller, launching sales before Fantasia premiere.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/corpus-nyc-nightlife-thriller-sales-fantasia-1236782768/"
-        }
-      ]
-    },
-    {
-      "title": "Hexed",
-      "studio": "Walt Disney Animation Studios",
-      "talent": "Hailee Steinfeld",
-      "announcement": "Disney releases first teaser for witch-filled animated film.",
-      "sources": [
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/hexed-trailer-hailee-steinfeld-walt-disney-animation-studios/"
-        }
-      ]
-    },
-    {
-      "title": "The Rocky Horror Picture Show",
-      "studio": "Sphere Entertainment",
-      "talent": "",
-      "announcement": "The Rocky Horror Picture Show sets 2027 run at Sphere Las Vegas as follow-up to Wizard of Oz.",
+      "announcement": "The Rocky Horror Picture Show set to screen at Sphere Las Vegas in 2027 as next big movie experience following Oz.",
       "sources": [
         {
           "name": "Deadline",
@@ -167,14 +119,70 @@
       ]
     },
     {
-      "title": "I Am Frankelda",
+      "title": "Corpus",
+      "studio": "",
+      "talent": "",
+      "announcement": "Yellow Veil Pictures boards NYC nightlife thriller, launching sales before Fantasia premiere.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/corpus-nyc-nightlife-thriller-sales-fantasia-1236782768/"
+        }
+      ]
+    },
+    {
+      "title": "Heartstopper Forever",
       "studio": "Netflix",
-      "talent": "Ambriz Brothers",
-      "announcement": "Stop-motion animation film on Netflix with filmmakers discussing the medium's relevance against AI.",
+      "talent": "Kit Connor, Joe Locke",
+      "announcement": "Netflix releases trailer for Heartstopper finale feature film as Nick and Charlie prepare for long distance.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/heartstopper-forever-trailer-netflix-feature-film-1236957393/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/heartstopper-forever-trailer-kit-connor-joe-locke-1236623181/"
+        }
+      ]
+    },
+    {
+      "title": "Social Reckoning",
+      "studio": "",
+      "talent": "Jeremy Allen White, Jeremy Strong",
+      "announcement": "Venice Film Festival potential title about social media with Jeremy Allen White and Jeremy Strong, directed by Jesse Armstrong.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/festivals/venice-film-festival-potential-titles-social-reckoning-bunker-studio-1236782422/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/jeremy-allen-white-on-jeremy-strong-voice-social-reckoning-1236623134/"
+        }
+      ]
+    },
+    {
+      "title": "Narnia",
+      "studio": "Netflix/Sony Pictures",
+      "talent": "Greta Gerwig (director)",
+      "announcement": "Sony Pictures to distribute Greta Gerwig and Netflix's Narnia internationally in theaters.",
       "sources": [
         {
           "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/i-am-frankelda-ambriz-brothers-interview-netflix/"
+          "url": "https://www.thewrap.com/creative-content/movies/greta-gerwig-narnia-sony-international-distributor/"
+        }
+      ]
+    },
+    {
+      "title": "Untitled Jan. 6 Film",
+      "studio": "Warner Bros.",
+      "talent": "Bradley Cooper, Sean Penn (director)",
+      "announcement": "Bradley Cooper to star as cop who ends up at Jan. 6 in Sean Penn-directed Warner Bros. film.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/bradley-cooper-sean-penn-movie-police-officer-jan-6/"
         }
       ]
     }
@@ -193,22 +201,10 @@
       ]
     },
     {
-      "title": "The Reluctant Traveler With Eugene Levy",
-      "network": "Apple TV+",
-      "talent": "Eugene Levy",
-      "announcement": "Series renewed for Season 4 at Apple TV+.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/tv-news-roundup-week-of-june-15-1236782780/"
-        }
-      ]
-    },
-    {
       "title": "Dirty",
       "network": "Amazon",
-      "talent": "Samantha Morton, Phoebe Dynevor, Matt Charman (writer/creator)",
-      "announcement": "Samantha Morton and Phoebe Dynevor to star in Matt Charman's Amazon drama series.",
+      "talent": "Samantha Morton, Phoebe Dynevor",
+      "announcement": "Samantha Morton cast to star with Phoebe Dynevor in Matt Charman's Amazon drama series.",
       "sources": [
         {
           "name": "Deadline",
@@ -220,7 +216,7 @@
       "title": "Count My Lies",
       "network": "Hulu",
       "talent": "François Arnaud",
-      "announcement": "François Arnaud joins Hulu series Count My Lies.",
+      "announcement": "François Arnaud joins Hulu's Count My Lies.",
       "sources": [
         {
           "name": "Deadline",
@@ -229,30 +225,26 @@
       ]
     },
     {
-      "title": "My Adventures With Superman: Green Lantern",
-      "network": "DC/Warner Bros.",
+      "title": "The Reluctant Traveler With Eugene Levy",
+      "network": "Apple TV+",
+      "talent": "Eugene Levy",
+      "announcement": "The Reluctant Traveler with Eugene Levy renewed for Season 4 at Apple TV+.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/tv-news-roundup-week-of-june-15-1236782780/"
+        }
+      ]
+    },
+    {
+      "title": "My Adventures With Superman - Green Lantern Spinoff",
+      "network": "",
       "talent": "Auliʻi Cravalho",
       "announcement": "Auliʻi Cravalho to star as Green Lantern in My Adventures With Superman spinoff.",
       "sources": [
         {
           "name": "TheWrap",
           "url": "https://www.thewrap.com/creative-content/tv-shows/auli%ca%bbi-cravalho-green-lantern-my-adventures-with-superman-spinoff/"
-        }
-      ]
-    },
-    {
-      "title": "Heartstopper Forever",
-      "network": "Netflix",
-      "talent": "Kit Connor, Joe Locke",
-      "announcement": "Netflix releases trailer for Heartstopper finale as feature film with Nick and Charlie preparing for long distance.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/heartstopper-forever-trailer-netflix-feature-film-1236957393/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/heartstopper-forever-trailer-kit-connor-joe-locke-1236623181/"
         }
       ]
     },
@@ -267,7 +259,31 @@
           "url": "https://variety.com/2026/tv/news/louis-ck-netflix-special-release-date-1236782729/"
         }
       ]
+    },
+    {
+      "title": "Hexed",
+      "network": "Disney",
+      "talent": "Hailee Steinfeld",
+      "announcement": "Disney Animation Studios' Hexed teaser features witch-filled world.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/hexed-trailer-hailee-steinfeld-walt-disney-animation-studios/"
+        }
+      ]
+    },
+    {
+      "title": "The Studio",
+      "network": "",
+      "talent": "",
+      "announcement": "The Studio Season 2 among potential titles for Venice Film Festival.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/festivals/venice-film-festival-potential-titles-social-reckoning-bunker-studio-1236782422/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-06-16T21:33:16.595Z"
+  "lastUpdated": "2026-06-16T21:40:25.124Z"
 }
