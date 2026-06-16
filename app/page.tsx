@@ -2,7 +2,7 @@ import { promises as fs } from "fs";
 import path from "path";
 import BriefingClient from "./BriefingClient";
 
-export const revalidate = 900;
+export const revalidate = 60;
 
 async function getBriefing() {
   const filePath = path.join(process.cwd(), "data", "briefing.json");
