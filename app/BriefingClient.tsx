@@ -132,6 +132,7 @@ export default function BriefingClient({
   const [dark, setDark] = useState(false);
   const [search, setSearch] = useState("");
   const [talentFilter, setTalentFilter] = useState("");
+  const [studioFilter, setStudioFilter] = useState("");
   const [seenTitles, setSeenTitles] = useState<Set<string>>(new Set());
   const [tracking, setTracking] = useState<Set<string>>(new Set());
   const [trackInput, setWatchInput] = useState("");
@@ -218,12 +219,16 @@ export default function BriefingClient({
   const filterItems = <T extends { title: string; talent: string; announcement: string }>(
     items: T[], extraKey: (i: T) => string
   ) =>
-    !activeQuery ? items : items.filter((i) =>
-      i.title.toLowerCase().includes(activeQuery) ||
-      i.talent.toLowerCase().includes(activeQuery) ||
-      i.announcement.toLowerCase().includes(activeQuery) ||
-      extraKey(i).toLowerCase().includes(activeQuery)
-    );
+    items.filter((i) => {
+      const matchesQuery = !activeQuery ||
+        i.title.toLowerCase().includes(activeQuery) ||
+        i.talent.toLowerCase().includes(activeQuery) ||
+        i.announcement.toLowerCase().includes(activeQuery) ||
+        extraKey(i).toLowerCase().includes(activeQuery);
+      const matchesStudio = !studioFilter ||
+        extraKey(i).toLowerCase().includes(studioFilter.toLowerCase());
+      return matchesQuery && matchesStudio;
+    });
 
   const filteredFilm = filterItems(film, (i) => i.studio);
   const filteredTv = filterItems(tv, (i) => i.network);
@@ -232,6 +237,19 @@ export default function BriefingClient({
   const trackedToday = [...film, ...tv].filter((i) =>
     isTracked(i.title, i.talent, "studio" in i ? (i as FilmItem).studio : (i as TvItem).network)
   );
+
+  // Trending: items covered by 2+ trades
+  const trending = [...film, ...tv].filter((i) => i.sources.length >= 2);
+
+  // Studio/streamer chips — pull unique values from today's data, sorted by frequency
+  const studioCounts = new Map<string, number>();
+  for (const i of film) studioCounts.set(i.studio, (studioCounts.get(i.studio) ?? 0) + 1);
+  for (const i of tv) studioCounts.set(i.network, (studioCounts.get(i.network) ?? 0) + 1);
+  const studioChips = [...studioCounts.entries()]
+    .filter(([s]) => s && s.trim())
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 10)
+    .map(([s]) => s);
 
   const bg = dark ? "bg-zinc-950 text-white" : "bg-white text-black";
   const headerBg = dark ? "bg-zinc-950" : "bg-white";
@@ -290,13 +308,37 @@ export default function BriefingClient({
               onChange={(e) => { setTalentFilter(""); setSearch(e.target.value); }}
               className={`flex-1 font-sans text-xs tracking-wide bg-transparent border-0 outline-none ${dark ? "text-white placeholder:text-zinc-600" : "text-black placeholder:text-zinc-400"}`}
             />
-            {(search || talentFilter) && (
-              <button onClick={() => { setSearch(""); setTalentFilter(""); }} className={`font-sans text-[10px] tracking-widest uppercase ${muted} hover:opacity-60 transition-opacity`}>
+            {(search || talentFilter || studioFilter) && (
+              <button onClick={() => { setSearch(""); setTalentFilter(""); setStudioFilter(""); }} className={`font-sans text-[10px] tracking-widest uppercase ${muted} hover:opacity-60 transition-opacity`}>
                 Clear ×
               </button>
             )}
           </div>
         </div>
+
+        {/* Studio / streamer filter chips */}
+        {studioChips.length > 0 && (
+          <div className={`border-t ${border} overflow-x-auto`}>
+            <div className="max-w-5xl mx-auto px-8 py-2.5 flex items-center gap-2 min-w-0">
+              {studioChips.map((s) => {
+                const active = studioFilter === s;
+                return (
+                  <button
+                    key={s}
+                    onClick={() => setStudioFilter(active ? "" : s)}
+                    className={`font-sans text-[9px] tracking-widest uppercase whitespace-nowrap px-2.5 py-1.5 border transition-all ${
+                      active
+                        ? dark ? "bg-white text-black border-white" : "bg-black text-white border-black"
+                        : `${border} ${muted} hover:opacity-60`
+                    }`}
+                  >
+                    {s}
+                  </button>
+                );
+              })}
+            </div>
+          </div>
+        )}
       </header>
 
       {/* Tracking panel */}
@@ -380,6 +422,32 @@ export default function BriefingClient({
                   sources={item.sources}
                   isNew={isNew(item.title)}
                   isTracked
+                  dark={dark}
+                  onTalentClick={setTalentFilter}
+                  onTrackToggle={toggleTrack}
+                />
+              ))}
+            </div>
+          </section>
+        )}
+
+        {/* Trending — covered by 2+ trades */}
+        {trending.length > 0 && !activeQuery && !studioFilter && (
+          <section>
+            <h2 className={`font-sans mb-8 text-sm tracking-[0.2em] uppercase font-medium ${dark ? "text-white" : "text-black"}`}>
+              Trending — {trending.length} cross-trade stor{trending.length > 1 ? "ies" : "y"}
+            </h2>
+            <div className="grid gap-0 sm:grid-cols-2 sm:gap-x-12">
+              {trending.map((item) => (
+                <Card
+                  key={item.title}
+                  title={item.title}
+                  sub={"studio" in item ? (item as FilmItem).studio : (item as TvItem).network}
+                  talent={item.talent}
+                  announcement={item.announcement}
+                  sources={item.sources}
+                  isNew={isNew(item.title)}
+                  isTracked={isTracked(item.title, item.talent, "studio" in item ? (item as FilmItem).studio : (item as TvItem).network)}
                   dark={dark}
                   onTalentClick={setTalentFilter}
                   onTrackToggle={toggleTrack}
