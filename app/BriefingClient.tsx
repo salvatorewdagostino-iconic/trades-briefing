@@ -102,7 +102,6 @@ export default function BriefingClient({
   const [talentFilter, setTalentFilter] = useState("");
   const [seenTitles, setSeenTitles] = useState<Set<string>>(new Set());
   const [timeAgo, setTimeAgo] = useState("");
-  const [copied, setCopied] = useState(false);
 
   useEffect(() => {
     if (localStorage.getItem("darkMode") === "true") {
@@ -155,23 +154,7 @@ export default function BriefingClient({
   const filteredTv = filterItems(tv, (i) => i.network);
   const isNew = (title: string) => !seenTitles.has(title);
 
-  const copyDigest = () => {
-    const lines = [
-      `ICONIC TRADES BRIEFING — ${date}`,
-      "",
-      `FILM ANNOUNCEMENTS (${film.length})`,
-      ...film.map((i) => `• ${i.title} [${i.studio}] — ${i.announcement}`),
-      "",
-      `TELEVISION ANNOUNCEMENTS (${tv.length})`,
-      ...tv.map((i) => `• ${i.title} [${i.network}] — ${i.announcement}`),
-    ];
-    navigator.clipboard.writeText(lines.join("\n")).then(() => {
-      setCopied(true);
-      setTimeout(() => setCopied(false), 2000);
-    });
-  };
-
-  const bg = dark ? "bg-zinc-950 text-white" : "bg-white text-black";
+const bg = dark ? "bg-zinc-950 text-white" : "bg-white text-black";
   const headerBg = dark ? "bg-zinc-950" : "bg-white";
   const border = dark ? "border-zinc-800" : "border-zinc-200";
   const muted = dark ? "text-zinc-400" : "text-zinc-500";
@@ -202,12 +185,6 @@ export default function BriefingClient({
                 {timeAgo ? `Updated ${timeAgo}` : "Updates every 30 min"} · {date}
               </p>
             </div>
-            <button
-              onClick={copyDigest}
-              className={`font-sans text-[10px] tracking-widest uppercase border px-3 py-2 ${border} ${muted} hover:opacity-60 transition-opacity`}
-            >
-              {copied ? "Copied!" : "Copy Digest"}
-            </button>
             <button
               onClick={toggleDark}
               className={`font-sans text-[10px] tracking-widest uppercase border px-3 py-2 ${border} ${muted} hover:opacity-60 transition-opacity`}
