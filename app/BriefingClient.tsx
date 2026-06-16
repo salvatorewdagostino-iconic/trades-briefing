@@ -53,6 +53,7 @@ const STUDIO_LOGOS: Array<{ keywords: string[]; file: string }> = [
   { keywords: ["warner", "wb ", "w.b."],                 file: "warnerbros.svg" },
   { keywords: ["nbc", "peacock"],                        file: "nbc.svg" },
   { keywords: ["paramount+", "paramount plus", "p+"],    file: "paramount-plus.svg" },
+  { keywords: ["paramount"],                              file: "paramount.svg" },
   { keywords: ["showtime"],                              file: "showtime.svg" },
   { keywords: ["disney"],                                file: "disney.svg" },
   { keywords: ["amc"],                                   file: "amc.svg" },
