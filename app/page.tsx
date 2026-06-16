@@ -146,7 +146,7 @@ export default async function Home() {
           </div>
           <div className="text-right">
             <p className="font-sans text-xs tracking-widest text-zinc-500 font-mono"><LiveClock /></p>
-            <p className="font-sans text-[10px] tracking-widest uppercase text-zinc-400 mt-0.5">Updates every 15 min · {briefing.date}</p>
+            <p className="font-sans text-[10px] tracking-widest uppercase text-zinc-400 mt-0.5">Updates every 30 min · {briefing.date}</p>
           </div>
         </div>
       </header>
