@@ -44,44 +44,6 @@ function SourceBadge({ source, dark }: { source: Source; dark: boolean }) {
   );
 }
 
-const STUDIO_LOGOS: Array<{ keywords: string[]; file: string }> = [
-  { keywords: ["netflix"],                                file: "netflix.svg" },
-  { keywords: ["amazon", "prime video", "mgm"],          file: "amazon.svg" },
-  { keywords: ["apple", "apple tv"],                     file: "apple.svg" },
-  { keywords: ["hbo"],                                   file: "hbo.svg" },
-  { keywords: ["max"],                                   file: "max.svg" },
-  { keywords: ["warner", "wb ", "w.b."],                 file: "warnerbros.svg" },
-  { keywords: ["nbc", "peacock"],                        file: "nbc.svg" },
-  { keywords: ["paramount+", "paramount plus", "p+"],    file: "paramount-plus.svg" },
-  { keywords: ["paramount"],                              file: "paramount.svg" },
-  { keywords: ["showtime"],                              file: "showtime.svg" },
-  { keywords: ["disney"],                                file: "disney.svg" },
-  { keywords: ["amc"],                                   file: "amc.svg" },
-];
-
-function getStudioLogo(name: string): string | null {
-  const lower = name.toLowerCase();
-  for (const { keywords, file } of STUDIO_LOGOS) {
-    if (keywords.some((k) => lower.includes(k))) return `/studio-logos/${file}`;
-  }
-  return null;
-}
-
-function StudioLabel({ name, dark }: { name: string; dark: boolean }) {
-  const logo = getStudioLogo(name);
-  if (!logo) return <span className={`font-sans text-[10px] tracking-widest uppercase whitespace-nowrap ${dark ? "text-zinc-400" : "text-zinc-500"}`}>{name}</span>;
-  return (
-    // eslint-disable-next-line @next/next/no-img-element
-    <img
-      src={logo}
-      alt={name}
-      title={name}
-      className={`w-auto object-contain ${dark ? "invert" : ""}`}
-      style={{ height: 14, maxWidth: 72, opacity: dark ? 0.7 : 0.5 }}
-    />
-  );
-}
-
 function BookmarkIcon({ active, dark }: { active: boolean; dark: boolean }) {
   return (
     <svg width="14" height="14" viewBox="0 0 24 24" fill={active ? "currentColor" : "none"}
@@ -89,35 +51,6 @@ function BookmarkIcon({ active, dark }: { active: boolean; dark: boolean }) {
       className={active ? (dark ? "text-white" : "text-black") : (dark ? "text-zinc-600" : "text-zinc-300")}>
       <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" />
     </svg>
-  );
-}
-
-function ShareButton({ title, sub, announcement, sources, dark }: {
-  title: string; sub: string; announcement: string; sources: Source[]; dark: boolean;
-}) {
-  const [copied, setCopied] = useState(false);
-  const share = () => {
-    const trade = sources[0]?.name ?? "";
-    const url = sources[0]?.url ?? "";
-    const text = `${title} [${sub}] — ${announcement}${trade ? ` Via ${trade}.` : ""}${url ? ` ${url}` : ""}`;
-    navigator.clipboard.writeText(text).then(() => {
-      setCopied(true);
-      setTimeout(() => setCopied(false), 2000);
-    });
-  };
-  return (
-    <button onClick={share} title="Copy to share" className={`hover:opacity-60 transition-opacity ${dark ? "text-zinc-600" : "text-zinc-300"} hover:${dark ? "text-zinc-300" : "text-zinc-600"}`}>
-      {copied ? (
-        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2.5} strokeLinecap="round" strokeLinejoin="round" className={dark ? "text-white" : "text-black"}>
-          <polyline points="20 6 9 17 4 12" />
-        </svg>
-      ) : (
-        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2} strokeLinecap="round" strokeLinejoin="round">
-          <circle cx="18" cy="5" r="3" /><circle cx="6" cy="12" r="3" /><circle cx="18" cy="19" r="3" />
-          <line x1="8.59" y1="13.51" x2="15.42" y2="17.49" /><line x1="15.41" y1="6.51" x2="8.59" y2="10.49" />
-        </svg>
-      )}
-    </button>
   );
 }
 
@@ -155,8 +88,7 @@ function Card({
           )}
         </h3>
         <div className="flex items-center gap-2 shrink-0 pt-1">
-          <StudioLabel name={sub} dark={dark} />
-          <ShareButton title={title} sub={sub} announcement={announcement} sources={sources} dark={dark} />
+          <span className={`font-sans text-[10px] tracking-widest uppercase ${muted} whitespace-nowrap`}>{sub}</span>
           <button
             onClick={() => onTrackToggle(title)}
             title={isTracked ? "Stop tracking" : "Track this project"}
@@ -353,14 +285,9 @@ export default function BriefingClient({
               )}
             </button>
             {!isArchive && (
-              <>
-                <Link href="/weekly" className={`font-sans text-[10px] tracking-widest uppercase border px-3 py-2 ${border} ${muted} hover:opacity-60 transition-opacity`}>
-                  Weekly
-                </Link>
-                <Link href="/archive" className={`font-sans text-[10px] tracking-widest uppercase border px-3 py-2 ${border} ${muted} hover:opacity-60 transition-opacity`}>
-                  Archive
-                </Link>
-              </>
+              <Link href="/archive" className={`font-sans text-[10px] tracking-widest uppercase border px-3 py-2 ${border} ${muted} hover:opacity-60 transition-opacity`}>
+                Archive
+              </Link>
             )}
             <button onClick={toggleDark} className={`font-sans text-[10px] tracking-widest uppercase border px-3 py-2 ${border} ${muted} hover:opacity-60 transition-opacity`}>
               {dark ? "Light" : "Dark"}
@@ -391,15 +318,15 @@ export default function BriefingClient({
 
         {/* Studio / streamer filter chips */}
         {studioChips.length > 0 && (
-          <div className={`border-t ${border}`}>
-            <div className="max-w-5xl mx-auto px-8 py-2.5 flex flex-wrap gap-1.5">
+          <div className={`border-t ${border} overflow-x-auto`}>
+            <div className="max-w-5xl mx-auto px-8 py-2.5 flex items-center gap-2 min-w-0">
               {studioChips.map((s) => {
                 const active = studioFilter === s;
                 return (
                   <button
                     key={s}
                     onClick={() => setStudioFilter(active ? "" : s)}
-                    className={`font-sans text-[9px] tracking-widest uppercase px-2.5 py-1 border transition-all ${
+                    className={`font-sans text-[9px] tracking-widest uppercase whitespace-nowrap px-2.5 py-1.5 border transition-all ${
                       active
                         ? dark ? "bg-white text-black border-white" : "bg-black text-white border-black"
                         : `${border} ${muted} hover:opacity-60`
