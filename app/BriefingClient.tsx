@@ -44,6 +44,41 @@ function SourceBadge({ source, dark }: { source: Source; dark: boolean }) {
   );
 }
 
+const STUDIO_LOGOS: Array<{ keywords: string[]; file: string }> = [
+  { keywords: ["netflix"],                                     file: "netflix.svg" },
+  { keywords: ["amazon", "prime video", "mgm"],               file: "amazon.svg" },
+  { keywords: ["apple", "a24".slice(0,0)+"apple tv"],         file: "apple.svg" },
+  { keywords: ["hbo"],                                         file: "hbo.svg" },
+  { keywords: ["max"],                                         file: "max.svg" },
+  { keywords: ["warner", "wb ", "w.b."],                      file: "warnerbros.svg" },
+  { keywords: ["nbc", "peacock"],                              file: "nbc.svg" },
+  { keywords: ["paramount+", "paramount plus", "p+"],         file: "paramount-plus.svg" },
+  { keywords: ["showtime"],                                    file: "showtime.svg" },
+];
+
+function getStudioLogo(name: string): string | null {
+  const lower = name.toLowerCase();
+  for (const { keywords, file } of STUDIO_LOGOS) {
+    if (keywords.some((k) => lower.includes(k))) return `/studio-logos/${file}`;
+  }
+  return null;
+}
+
+function StudioLabel({ name, dark }: { name: string; dark: boolean }) {
+  const logo = getStudioLogo(name);
+  if (!logo) return <span className={`font-sans text-[10px] tracking-widest uppercase whitespace-nowrap ${dark ? "text-zinc-400" : "text-zinc-500"}`}>{name}</span>;
+  return (
+    // eslint-disable-next-line @next/next/no-img-element
+    <img
+      src={logo}
+      alt={name}
+      title={name}
+      className={`w-auto object-contain ${dark ? "invert" : ""}`}
+      style={{ height: 14, maxWidth: 72, opacity: dark ? 0.7 : 0.5 }}
+    />
+  );
+}
+
 function BookmarkIcon({ active, dark }: { active: boolean; dark: boolean }) {
   return (
     <svg width="14" height="14" viewBox="0 0 24 24" fill={active ? "currentColor" : "none"}
@@ -117,7 +152,7 @@ function Card({
           )}
         </h3>
         <div className="flex items-center gap-2 shrink-0 pt-1">
-          <span className={`font-sans text-[10px] tracking-widest uppercase ${muted} whitespace-nowrap`}>{sub}</span>
+          <StudioLabel name={sub} dark={dark} />
           <ShareButton title={title} sub={sub} announcement={announcement} sources={sources} dark={dark} />
           <button
             onClick={() => onTrackToggle(title)}
