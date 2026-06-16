@@ -1,5 +1,6 @@
 import { promises as fs } from "fs";
 import path from "path";
+import Image from "next/image";
 import LiveClock from "./LiveClock";
 
 type Source = { name: string; url: string };
@@ -138,7 +139,10 @@ export default async function Home() {
     <main className="min-h-screen bg-black text-white">
       <header className="border-b border-zinc-800 sticky top-0 bg-black/90 backdrop-blur z-10">
         <div className="max-w-5xl mx-auto px-6 py-4 flex items-center justify-between">
-          <span className="text-xl font-black tracking-tight">🎬 TRADES BRIEFING</span>
+          <div className="flex items-center gap-4">
+            <Image src="/iconic-logo.png" alt="Iconic" width={80} height={24} className="invert-0" />
+            <span className="text-zinc-600 text-sm font-medium tracking-widest uppercase">Trades Briefing</span>
+          </div>
           <div className="text-right">
             <p className="text-zinc-300 text-sm font-mono"><LiveClock /></p>
             <p className="text-zinc-500 text-xs">Updates every 15 min · {briefing.date}</p>
