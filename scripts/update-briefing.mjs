@@ -22,8 +22,9 @@ const FEEDS = [
   { name: "IndieWire",          url: "https://www.indiewire.com/c/film/feed/" },
   { name: "IndieWire",          url: "https://www.indiewire.com/c/tv/feed/" },
   { name: "TheWrap",            url: "https://www.thewrap.com/feed/" },
-  { name: "TheWrap",            url: "https://www.thewrap.com/industry-news/feed/" },
   { name: "TheWrap",            url: "https://www.thewrap.com/industry-news/casting/feed/" },
+  { name: "TheWrap",            url: "https://www.thewrap.com/creative-content/movies/feed/" },
+  { name: "TheWrap",            url: "https://www.thewrap.com/creative-content/tv-shows/feed/" },
 ];
 
 function parseRSS(xml, tradeName, today) {
@@ -91,14 +92,17 @@ async function main() {
 
   const prompt = `You are a Hollywood trades analyst. Below are today's articles (${today}) from the top entertainment trades.
 
-Identify only the hard news stories about:
+Identify hard news stories about:
 - New film/TV projects announced, greenlit, or in development
 - Casting announcements
-- Studio/streamer acquisitions
+- Studio/streamer acquisitions of projects
 - Series orders, renewals, or cancellations
-- Production deals
+- Production and development deals
+- Studio/network mergers or restructuring that affect content production
+- Executive hires or deals that affect production slates
+- Trailer or first-look reveals for unannounced or upcoming projects
 
-EXCLUDE: reviews, box office, streaming "what's new" guides, premiere calendars, opinion pieces, awards commentary, festival coverage.
+EXCLUDE: reviews, box office results, streaming "what's new" guides, premiere date calendars, opinion pieces, awards show recaps, festival award winners, late night TV recaps, political news.
 
 For each qualifying story, determine if it's a FILM or TV announcement.
 
