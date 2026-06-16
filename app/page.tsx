@@ -147,7 +147,7 @@ export default async function Home() {
       <header className="border-b border-zinc-200 sticky top-0 bg-white z-10">
         <div className="max-w-5xl mx-auto px-8 py-5 flex items-center justify-between">
           <div className="flex items-center gap-6">
-            <Image src="/iconic-logo.png" alt="Iconic" width={72} height={22} className="invert" />
+            <Image src="/iconic-logo.png" alt="Iconic" width={120} height={36} className="invert" />
             <span className="font-sans text-xs tracking-[0.3em] uppercase text-zinc-400">
               Trades Briefing
             </span>
