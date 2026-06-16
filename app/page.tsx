@@ -65,7 +65,7 @@ function SourceBadge({ source }: { source: Source }) {
           src={logo}
           alt={source.name}
           className="w-auto object-contain"
-          style={{ height: source.name === "TheWrap" ? 18 : 12, maxWidth: 90 }}
+          style={{ height: source.name === "TheWrap" ? 26 : 12, maxWidth: 100 }}
         />
       ) : (
         <span className="text-[10px] font-sans font-medium tracking-widest uppercase text-zinc-600">
