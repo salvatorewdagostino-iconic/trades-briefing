@@ -83,7 +83,7 @@ function Card({
           )}
           {isTracked && (
             <span className={`inline-block text-[9px] font-sans font-semibold tracking-widest uppercase px-1.5 py-0.5 ml-2 align-middle border ${dark ? "border-white text-white" : "border-black text-black"}`}>
-              WATCHING
+              TRACKING
             </span>
           )}
         </h3>
@@ -91,7 +91,7 @@ function Card({
           <span className={`font-sans text-[10px] tracking-widest uppercase ${muted} whitespace-nowrap`}>{sub}</span>
           <button
             onClick={() => onTrackToggle(title)}
-            title={isTracked ? "Stop watching" : "Watch this project"}
+            title={isTracked ? "Stop tracking" : "Track this project"}
             className="hover:opacity-60 transition-opacity"
           >
             <BookmarkIcon active={isTracked} dark={dark} />
@@ -124,9 +124,9 @@ export default function BriefingClient({
   const [search, setSearch] = useState("");
   const [talentFilter, setTalentFilter] = useState("");
   const [seenTitles, setSeenTitles] = useState<Set<string>>(new Set());
-  const [watchlist, setWatchlist] = useState<Set<string>>(new Set());
-  const [watchInput, setWatchInput] = useState("");
-  const [showWatchlist, setShowWatchlist] = useState(false);
+  const [tracking, setTracking] = useState<Set<string>>(new Set());
+  const [trackInput, setWatchInput] = useState("");
+  const [showTracking, setShowTracking] = useState(false);
   const [timeAgo, setTimeAgo] = useState("");
 
   useEffect(() => {
@@ -139,8 +139,8 @@ export default function BriefingClient({
     const allTitles = [...film, ...tv].map((i) => i.title);
     localStorage.setItem("seenTitles", JSON.stringify(allTitles));
 
-    const watched: string[] = JSON.parse(localStorage.getItem("watchlist") || "[]");
-    setWatchlist(new Set(watched));
+    const watched: string[] = JSON.parse(localStorage.getItem("tracking") || "[]");
+    setTracking(new Set(watched));
   }, [film, tv]);
 
   useEffect(() => {
@@ -164,38 +164,38 @@ export default function BriefingClient({
   };
 
   const toggleTrack = (title: string) => {
-    setWatchlist((prev) => {
+    setTracking((prev) => {
       const next = new Set(prev);
       if (next.has(title)) next.delete(title);
       else next.add(title);
-      localStorage.setItem("watchlist", JSON.stringify([...next]));
+      localStorage.setItem("tracking", JSON.stringify([...next]));
       return next;
     });
   };
 
-  const addWatchTerm = () => {
-    const term = watchInput.trim();
+  const addTrackTerm = () => {
+    const term = trackInput.trim();
     if (!term) return;
-    setWatchlist((prev) => {
+    setTracking((prev) => {
       const next = new Set(prev);
       next.add(term);
-      localStorage.setItem("watchlist", JSON.stringify([...next]));
+      localStorage.setItem("tracking", JSON.stringify([...next]));
       return next;
     });
     setWatchInput("");
   };
 
-  const removeWatchTerm = (term: string) => {
-    setWatchlist((prev) => {
+  const removeTrackTerm = (term: string) => {
+    setTracking((prev) => {
       const next = new Set(prev);
       next.delete(term);
-      localStorage.setItem("watchlist", JSON.stringify([...next]));
+      localStorage.setItem("tracking", JSON.stringify([...next]));
       return next;
     });
   };
 
   const isTracked = (title: string) =>
-    [...watchlist].some((w) => title.toLowerCase().includes(w.toLowerCase()) || w.toLowerCase().includes(title.toLowerCase()));
+    [...tracking].some((w) => title.toLowerCase().includes(w.toLowerCase()) || w.toLowerCase().includes(title.toLowerCase()));
 
   const activeQuery = (talentFilter || search).toLowerCase().trim();
 
@@ -213,7 +213,7 @@ export default function BriefingClient({
   const filteredTv = filterItems(tv, (i) => i.network);
   const isNew = (title: string) => !seenTitles.has(title);
 
-  const watchedToday = [...film, ...tv].filter((i) => isTracked(i.title));
+  const trackedToday = [...film, ...tv].filter((i) => isTracked(i.title));
 
   const bg = dark ? "bg-zinc-950 text-white" : "bg-white text-black";
   const headerBg = dark ? "bg-zinc-950" : "bg-white";
@@ -238,13 +238,13 @@ export default function BriefingClient({
               </p>
             </div>
             <button
-              onClick={() => setShowWatchlist((v) => !v)}
+              onClick={() => setShowTracking((v) => !v)}
               className={`font-sans text-[10px] tracking-widest uppercase border px-3 py-2 ${border} ${muted} hover:opacity-60 transition-opacity relative`}
             >
-              Watchlist
-              {watchlist.size > 0 && (
+              Tracking
+              {tracking.size > 0 && (
                 <span className={`absolute -top-1.5 -right-1.5 text-[9px] font-sans font-bold w-4 h-4 flex items-center justify-center ${dark ? "bg-white text-black" : "bg-black text-white"}`}>
-                  {watchlist.size}
+                  {tracking.size}
                 </span>
               )}
             </button>
@@ -281,17 +281,17 @@ export default function BriefingClient({
         </div>
       </header>
 
-      {/* Watchlist panel */}
-      {showWatchlist && (
+      {/* Tracking panel */}
+      {showTracking && (
         <div className={`border-b ${border} ${headerBg}`}>
           <div className="max-w-5xl mx-auto px-8 py-6 flex flex-col gap-4">
             <div className="flex items-center justify-between">
               <h3 className={`font-sans text-[10px] tracking-[0.3em] uppercase font-medium ${muted}`}>
-                Watching {watchlist.size > 0 ? `— ${watchlist.size} project${watchlist.size > 1 ? "s" : ""}` : ""}
+                Tracking {tracking.size > 0 ? `— ${tracking.size} project${tracking.size > 1 ? "s" : ""}` : ""}
               </h3>
-              {watchedToday.length > 0 && (
+              {trackedToday.length > 0 && (
                 <span className={`font-sans text-[10px] tracking-widest uppercase ${dark ? "text-white" : "text-black"} font-semibold`}>
-                  {watchedToday.length} match{watchedToday.length > 1 ? "es" : ""} today
+                  {trackedToday.length} match{trackedToday.length > 1 ? "es" : ""} today
                 </span>
               )}
             </div>
@@ -300,21 +300,21 @@ export default function BriefingClient({
             <div className={`flex items-center gap-3 border ${border} px-4 py-2`}>
               <input
                 type="text"
-                placeholder="Add project name to watch…"
-                value={watchInput}
+                placeholder="Add project name to track…"
+                value={trackInput}
                 onChange={(e) => setWatchInput(e.target.value)}
-                onKeyDown={(e) => e.key === "Enter" && addWatchTerm()}
+                onKeyDown={(e) => e.key === "Enter" && addTrackTerm()}
                 className={`flex-1 font-sans text-xs tracking-wide bg-transparent border-0 outline-none ${dark ? "text-white placeholder:text-zinc-600" : "text-black placeholder:text-zinc-400"}`}
               />
-              <button onClick={addWatchTerm} className={`font-sans text-[10px] tracking-widest uppercase ${muted} hover:opacity-60 transition-opacity`}>
+              <button onClick={addTrackTerm} className={`font-sans text-[10px] tracking-widest uppercase ${muted} hover:opacity-60 transition-opacity`}>
                 Add
               </button>
             </div>
 
-            {/* Current watchlist */}
-            {watchlist.size > 0 && (
+            {/* Current tracking */}
+            {tracking.size > 0 && (
               <div className="flex flex-wrap gap-2">
-                {[...watchlist].map((term) => {
+                {[...tracking].map((term) => {
                   const hasMatch = [...film, ...tv].some((i) =>
                     i.title.toLowerCase().includes(term.toLowerCase()) ||
                     term.toLowerCase().includes(i.title.toLowerCase())
@@ -330,7 +330,7 @@ export default function BriefingClient({
                     >
                       {hasMatch && <span className="w-1.5 h-1.5 rounded-full bg-current" />}
                       {term}
-                      <button onClick={() => removeWatchTerm(term)} className="hover:opacity-60 transition-opacity ml-1">×</button>
+                      <button onClick={() => removeTrackTerm(term)} className="hover:opacity-60 transition-opacity ml-1">×</button>
                     </div>
                   );
                 })}
@@ -346,13 +346,13 @@ export default function BriefingClient({
         </p>
 
         {/* Watched today callout */}
-        {watchedToday.length > 0 && !activeQuery && (
+        {trackedToday.length > 0 && !activeQuery && (
           <section>
             <h2 className={`font-sans mb-8 text-sm tracking-[0.2em] uppercase font-medium ${dark ? "text-white" : "text-black"}`}>
-              Your Watchlist — {watchedToday.length} match{watchedToday.length > 1 ? "es" : ""} today
+              Your Tracking — {trackedToday.length} match{trackedToday.length > 1 ? "es" : ""} today
             </h2>
             <div className="grid gap-0 sm:grid-cols-2 sm:gap-x-12">
-              {watchedToday.map((item) => (
+              {trackedToday.map((item) => (
                 <Card
                   key={item.title}
                   title={item.title}
