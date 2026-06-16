@@ -388,15 +388,15 @@ export default function BriefingClient({
 
         {/* Studio / streamer filter chips */}
         {studioChips.length > 0 && (
-          <div className={`border-t ${border} overflow-x-auto`}>
-            <div className="max-w-5xl mx-auto px-8 py-2.5 flex items-center gap-2 min-w-0">
+          <div className={`border-t ${border}`}>
+            <div className="max-w-5xl mx-auto px-8 py-2.5 flex flex-wrap gap-1.5">
               {studioChips.map((s) => {
                 const active = studioFilter === s;
                 return (
                   <button
                     key={s}
                     onClick={() => setStudioFilter(active ? "" : s)}
-                    className={`font-sans text-[9px] tracking-widest uppercase whitespace-nowrap px-2.5 py-1.5 border transition-all ${
+                    className={`font-sans text-[9px] tracking-widest uppercase px-2.5 py-1 border transition-all ${
                       active
                         ? dark ? "bg-white text-black border-white" : "bg-black text-white border-black"
                         : `${border} ${muted} hover:opacity-60`
