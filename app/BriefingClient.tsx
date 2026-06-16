@@ -45,15 +45,17 @@ function SourceBadge({ source, dark }: { source: Source; dark: boolean }) {
 }
 
 const STUDIO_LOGOS: Array<{ keywords: string[]; file: string }> = [
-  { keywords: ["netflix"],                                     file: "netflix.svg" },
-  { keywords: ["amazon", "prime video", "mgm"],               file: "amazon.svg" },
-  { keywords: ["apple", "a24".slice(0,0)+"apple tv"],         file: "apple.svg" },
-  { keywords: ["hbo"],                                         file: "hbo.svg" },
-  { keywords: ["max"],                                         file: "max.svg" },
-  { keywords: ["warner", "wb ", "w.b."],                      file: "warnerbros.svg" },
-  { keywords: ["nbc", "peacock"],                              file: "nbc.svg" },
-  { keywords: ["paramount+", "paramount plus", "p+"],         file: "paramount-plus.svg" },
-  { keywords: ["showtime"],                                    file: "showtime.svg" },
+  { keywords: ["netflix"],                                file: "netflix.svg" },
+  { keywords: ["amazon", "prime video", "mgm"],          file: "amazon.svg" },
+  { keywords: ["apple", "apple tv"],                     file: "apple.svg" },
+  { keywords: ["hbo"],                                   file: "hbo.svg" },
+  { keywords: ["max"],                                   file: "max.svg" },
+  { keywords: ["warner", "wb ", "w.b."],                 file: "warnerbros.svg" },
+  { keywords: ["nbc", "peacock"],                        file: "nbc.svg" },
+  { keywords: ["paramount+", "paramount plus", "p+"],    file: "paramount-plus.svg" },
+  { keywords: ["showtime"],                              file: "showtime.svg" },
+  { keywords: ["disney"],                                file: "disney.svg" },
+  { keywords: ["amc"],                                   file: "amc.svg" },
 ];
 
 function getStudioLogo(name: string): string | null {
