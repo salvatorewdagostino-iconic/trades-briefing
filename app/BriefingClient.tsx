@@ -194,8 +194,15 @@ export default function BriefingClient({
     });
   };
 
-  const isTracked = (title: string) =>
-    [...tracking].some((w) => title.toLowerCase().includes(w.toLowerCase()) || w.toLowerCase().includes(title.toLowerCase()));
+  const isTracked = (title: string, talent = "", sub = "") =>
+    [...tracking].some((w) => {
+      const wl = w.toLowerCase();
+      return (
+        title.toLowerCase().includes(wl) ||
+        talent.toLowerCase().includes(wl) ||
+        sub.toLowerCase().includes(wl)
+      );
+    });
 
   const activeQuery = (talentFilter || search).toLowerCase().trim();
 
@@ -213,7 +220,9 @@ export default function BriefingClient({
   const filteredTv = filterItems(tv, (i) => i.network);
   const isNew = (title: string) => !seenTitles.has(title);
 
-  const trackedToday = [...film, ...tv].filter((i) => isTracked(i.title));
+  const trackedToday = [...film, ...tv].filter((i) =>
+    isTracked(i.title, i.talent, "studio" in i ? (i as FilmItem).studio : (i as TvItem).network)
+  );
 
   const bg = dark ? "bg-zinc-950 text-white" : "bg-white text-black";
   const headerBg = dark ? "bg-zinc-950" : "bg-white";
@@ -300,7 +309,7 @@ export default function BriefingClient({
             <div className={`flex items-center gap-3 border ${border} px-4 py-2`}>
               <input
                 type="text"
-                placeholder="Add project name to track…"
+                placeholder="Add project, producer, or company to track…"
                 value={trackInput}
                 onChange={(e) => setWatchInput(e.target.value)}
                 onKeyDown={(e) => e.key === "Enter" && addTrackTerm()}
@@ -386,7 +395,7 @@ export default function BriefingClient({
                 announcement={item.announcement}
                 sources={item.sources}
                 isNew={isNew(item.title)}
-                isTracked={isTracked(item.title)}
+                isTracked={isTracked(item.title, item.talent, "studio" in item ? (item as FilmItem).studio : (item as TvItem).network)}
                 dark={dark}
                 onTalentClick={setTalentFilter}
                 onTrackToggle={toggleTrack}
@@ -410,7 +419,7 @@ export default function BriefingClient({
                 announcement={item.announcement}
                 sources={item.sources}
                 isNew={isNew(item.title)}
-                isTracked={isTracked(item.title)}
+                isTracked={isTracked(item.title, item.talent, "studio" in item ? (item as FilmItem).studio : (item as TvItem).network)}
                 dark={dark}
                 onTalentClick={setTalentFilter}
                 onTrackToggle={toggleTrack}
