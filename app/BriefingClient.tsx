@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from "react";
 import Image from "next/image";
+import Link from "next/link";
 import LiveClock from "./LiveClock";
 
 type Source = { name: string; url: string };
@@ -93,9 +94,9 @@ function Card({
 }
 
 export default function BriefingClient({
-  film, tv, date, summary, lastUpdated,
+  film, tv, date, summary, lastUpdated, isArchive,
 }: {
-  film: FilmItem[]; tv: TvItem[]; date: string; summary: string; lastUpdated?: string;
+  film: FilmItem[]; tv: TvItem[]; date: string; summary: string; lastUpdated?: string; isArchive?: boolean;
 }) {
   const [dark, setDark] = useState(false);
   const [search, setSearch] = useState("");
@@ -185,6 +186,14 @@ const bg = dark ? "bg-zinc-950 text-white" : "bg-white text-black";
                 {timeAgo ? `Updated ${timeAgo}` : "Updates every 30 min"} · {date}
               </p>
             </div>
+            {!isArchive && (
+              <Link
+                href="/archive"
+                className={`font-sans text-[10px] tracking-widest uppercase border px-3 py-2 ${border} ${muted} hover:opacity-60 transition-opacity`}
+              >
+                Archive
+              </Link>
+            )}
             <button
               onClick={toggleDark}
               className={`font-sans text-[10px] tracking-widest uppercase border px-3 py-2 ${border} ${muted} hover:opacity-60 transition-opacity`}

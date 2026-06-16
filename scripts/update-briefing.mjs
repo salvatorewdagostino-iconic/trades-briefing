@@ -154,6 +154,12 @@ ${articleList}`;
   const outPath = path.join(__dirname, "..", "data", "briefing.json");
   await fs.writeFile(outPath, JSON.stringify(briefing, null, 2));
   console.log(`Written to ${outPath}`);
+
+  const archiveDir = path.join(__dirname, "..", "data", "archive");
+  await fs.mkdir(archiveDir, { recursive: true });
+  const archivePath = path.join(archiveDir, `${today}.json`);
+  await fs.writeFile(archivePath, JSON.stringify(briefing, null, 2));
+  console.log(`Archive written to ${archivePath}`);
 }
 
 main().catch(e => { console.error(e); process.exit(1); });
