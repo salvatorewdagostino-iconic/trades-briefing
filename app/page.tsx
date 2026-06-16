@@ -154,13 +154,13 @@ export default async function Home() {
       <div className="max-w-5xl mx-auto px-8 py-12 flex flex-col gap-16">
 
         {/* Summary */}
-        <p className="font-sans text-sm tracking-[0.2em] uppercase text-zinc-500 border-b border-zinc-200 pb-4">
+        <p className="font-sans text-sm tracking-[0.2em] uppercase text-zinc-500 font-medium border-b border-zinc-200 pb-4">
           {briefing.summary}
         </p>
 
         {/* Film Section */}
         <section>
-          <h2 className="font-sans text-[10px] tracking-[0.4em] uppercase text-zinc-500 mb-8 text-sm tracking-[0.2em]">
+          <h2 className="font-sans text-[10px] tracking-[0.4em] uppercase text-zinc-500 mb-8 text-sm tracking-[0.2em] font-medium">
             Film Announcements &mdash; {briefing.film.length} items
           </h2>
           <div className="grid gap-0 sm:grid-cols-2 sm:gap-x-12">
@@ -172,7 +172,7 @@ export default async function Home() {
 
         {/* TV Section */}
         <section>
-          <h2 className="font-sans text-[10px] tracking-[0.4em] uppercase text-zinc-500 mb-8 text-sm tracking-[0.2em]">
+          <h2 className="font-sans text-[10px] tracking-[0.4em] uppercase text-zinc-500 mb-8 text-sm tracking-[0.2em] font-medium">
             Television Announcements &mdash; {briefing.tv.length} items
           </h2>
           <div className="grid gap-0 sm:grid-cols-2 sm:gap-x-12">
