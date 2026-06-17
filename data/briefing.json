@@ -1,12 +1,12 @@
 {
   "date": "June 17, 2026",
-  "summary": "4 film announcements, 5 TV announcements across 5 trades.",
+  "summary": "4 film announcements, 3 TV announcements across 5 trades.",
   "film": [
     {
       "title": "FlySquad – First Strike!",
       "studio": "Unknown",
       "talent": "Cher, Bob Geldof (voice cast in talks)",
-      "announcement": "Cher and Bob Geldof are in talks to voice characters in the animated feature film.",
+      "announcement": "Cher and Bob Geldof are in talks to voice roles in the animated feature film.",
       "sources": [
         {
           "name": "Deadline",
@@ -18,7 +18,7 @@
       "title": "Austin Powers 4",
       "studio": "Unknown",
       "talent": "Mike Myers",
-      "announcement": "Mike Myers confirms that Austin Powers 4 is happening, though few other details were provided.",
+      "announcement": "Mike Myers confirms that Austin Powers 4 is happening, though minimal additional details were provided.",
       "sources": [
         {
           "name": "Deadline",
@@ -45,8 +45,8 @@
     {
       "title": "Maria José of Savoy",
       "studio": "Unknown",
-      "talent": "Ginevra Elkann, Marco Bellocchio (directors)",
-      "announcement": "A film about Maria José of Savoy, Queen of Italy for only 27 days, is in development from directors Ginevra Elkann and Marco Bellocchio.",
+      "talent": "Ginevra Elkann, Marco Bellocchio",
+      "announcement": "A film about Maria José of Savoy, Queen of Italy for only 27 days, is in development from filmmakers Ginevra Elkann and Marco Bellocchio.",
       "sources": [
         {
           "name": "Variety",
@@ -60,7 +60,7 @@
       "title": "The Paris-Tokyo Job",
       "network": "Studiocanal",
       "talent": "",
-      "announcement": "Studiocanal sets a true crime art heist docu-series with launch at Sunny Side of the Doc.",
+      "announcement": "Studiocanal sets a true crime art heist docu-series launching at Sunny Side of the Doc.",
       "sources": [
         {
           "name": "Variety",
@@ -81,45 +81,17 @@
       ]
     },
     {
-      "title": "Prime Video Spain Originals Slate",
-      "network": "Prime Video",
-      "talent": "Ester Expósito, Mario Casas, Anna Castillo",
-      "announcement": "Prime Video announces new original series slate in Spain featuring Ester Expósito, Mario Casas, and Anna Castillo as part of its non-English powerhouse content.",
+      "title": "Dímelo 3",
+      "network": "Prime Video Spain",
+      "talent": "Mercedes Ron",
+      "announcement": "Mercedes Ron's Dímelo 3 is among local titles on Prime Video Spain's 2027 slate.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/streaming/global/ester-exposito-mario-casas-anna-castillo-prime-video-1236783619/"
-        }
-      ]
-    },
-    {
-      "title": "Crunchyroll Taiwan and Korea Expansion",
-      "network": "Crunchyroll",
-      "talent": "",
-      "announcement": "Sony's Crunchyroll announces expansion into Taiwan and South Korea as anime fandom drives Asian growth.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/crunchyroll-taiwan-korea-apos-1236783535/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/crunchyroll-launch-taiwan-south-korea-1236623182/"
-        }
-      ]
-    },
-    {
-      "title": "COL Group and Virtue Asia Southeast Asia Microdrama Brand",
-      "network": "Multiple",
-      "talent": "",
-      "announcement": "COL Group and Virtue Asia team up for a Southeast Asia microdrama brand push.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/col-group-virtue-asia-southeast-asia-microdrama-partnership-1236783201/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/zeta-mercedes-ron-dimelo-3-prime-video-spains-slate-1236958215/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-06-17T12:39:25.105Z"
+  "lastUpdated": "2026-06-17T13:04:10.660Z"
 }
