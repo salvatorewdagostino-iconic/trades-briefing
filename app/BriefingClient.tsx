@@ -5,7 +5,7 @@ import Image from "next/image";
 import Link from "next/link";
 import LiveClock from "./LiveClock";
 
-type Source = { name: string; url: string; pubDate?: string };
+type Source = { name: string; url: string };
 type FilmItem = { title: string; studio: string; talent: string; announcement: string; sources: Source[] };
 type TvItem = { title: string; network: string; talent: string; announcement: string; sources: Source[] };
 
@@ -147,17 +147,8 @@ function Card({
         </div>
       )}
       <p className={`font-serif ${body} text-base font-light leading-relaxed`}>{announcement}</p>
-      <div className="flex flex-wrap gap-x-3 gap-y-1.5 pt-1 items-center">
-        {sources.map((s) => (
-          <div key={s.name + s.url} className="flex items-center gap-1.5">
-            <SourceBadge source={s} dark={dark} />
-            {s.pubDate && (
-              <span className={`font-sans text-[10px] ${dark ? "text-zinc-500" : "text-zinc-400"}`}>
-                {new Date(s.pubDate).toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit", hour12: true, timeZone: "America/Los_Angeles" })} PT
-              </span>
-            )}
-          </div>
-        ))}
+      <div className="flex flex-wrap gap-1.5 pt-1">
+        {sources.map((s) => <SourceBadge key={s.name + s.url} source={s} dark={dark} />)}
       </div>
     </div>
   );
