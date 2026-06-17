@@ -21,3 +21,4 @@ export default async function Home() {
   const briefing = await getBriefing();
   return <BriefingClient {...briefing} />;
 }
+
