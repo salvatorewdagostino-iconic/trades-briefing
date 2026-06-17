@@ -1,11 +1,11 @@
 import BriefingClient from "./BriefingClient";
 
-export const revalidate = 60;
+export const dynamic = "force-dynamic";
 
 async function getBriefing() {
   const res = await fetch(
     "https://raw.githubusercontent.com/salvatorewdagostino-iconic/trades-briefing/main/data/briefing.json",
-    { next: { revalidate: 60 } }
+    { cache: "no-store" }
   );
   const data = await res.json();
   return {
