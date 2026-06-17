@@ -1,32 +1,35 @@
 {
   "date": "June 17, 2026",
-  "summary": "5 film announcements, 9 TV announcements across 5 trades.",
+  "summary": "6 film announcements, 9 TV announcements across 5 trades.",
   "film": [
-    {
-      "title": "FlySquad – First Strike!",
-      "studio": "",
-      "talent": "Cher, Bob Geldof (voice cast in talks)",
-      "announcement": "Animated feature in development with Cher and Bob Geldof in talks to join the voice cast.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/cher-bob-geldof-animated-film-flysquad-first-strike-1236957922/"
-        }
-      ]
-    },
     {
       "title": "Austin Powers 4",
       "studio": "",
       "talent": "Mike Myers",
-      "announcement": "Mike Myers confirms that a fourth installment in the Austin Powers franchise is in development and happening.",
+      "announcement": "Mike Myers confirms that a fourth Austin Powers film is in development and will happen.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/mike-myers-confirms-austin-powers-4-1236958119/"
+          "url": "https://deadline.com/2026/06/mike-myers-confirms-austin-powers-4-1236958119/",
+          "pubDate": "Wed, 17 Jun 2026 05:08:18 +0000"
         },
         {
           "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/mike-myers-austin-powers-4-update/"
+          "url": "https://www.thewrap.com/creative-content/movies/mike-myers-austin-powers-4-update/",
+          "pubDate": "Wed, 17 Jun 2026 15:19:51 +0000"
+        }
+      ]
+    },
+    {
+      "title": "FlySquad – First Strike!",
+      "studio": "",
+      "talent": "Cher, Bob Geldof",
+      "announcement": "Cher and Bob Geldof are in talks to voice characters in the animated feature FlySquad – First Strike!",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/cher-bob-geldof-animated-film-flysquad-first-strike-1236957922/",
+          "pubDate": "Wed, 17 Jun 2026 12:03:15 +0000"
         }
       ]
     },
@@ -34,57 +37,104 @@
       "title": "Phoebe Berman's Gonna Lose It",
       "studio": "Netflix",
       "talent": "",
-      "announcement": "Movie in development at Netflix from the producer of 'The Nightingale' and screenwriter of 'Book Lovers'.",
+      "announcement": "Netflix is developing a film adaptation of 'Phoebe Berman's Gonna Lose It' from The Nightingale producer and Book Lovers screenwriter.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/news/phoebe-bermans-gonna-lose-it-movie-netflix-1236771924/"
+          "url": "https://variety.com/2026/film/news/phoebe-bermans-gonna-lose-it-movie-netflix-1236771924/",
+          "pubDate": "Wed, 17 Jun 2026 16:00:00 +0000"
         }
       ]
     },
     {
       "title": "Steps",
       "studio": "Netflix",
-      "talent": "Nikki Glaser, Ali Wong, Amanda Seyfried (voice cast)",
-      "announcement": "Animated fairy tale in development at Netflix with Nikki Glaser, Ali Wong, and Amanda Seyfried as voice cast members.",
+      "talent": "Nikki Glaser, Ali Wong, Amanda Seyfried",
+      "announcement": "Nikki Glaser joins the Netflix animated fairy tale film Steps alongside Ali Wong and Amanda Seyfried.",
       "sources": [
         {
           "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/nikki-glaser-joins-steps-netflix-animation-ali-wong-amanda-seyfried/"
+          "url": "https://www.thewrap.com/creative-content/movies/nikki-glaser-joins-steps-netflix-animation-ali-wong-amanda-seyfried/",
+          "pubDate": "Wed, 17 Jun 2026 15:00:00 +0000"
         }
       ]
     },
     {
-      "title": "The Long Kiss Goodnight 2",
-      "studio": "",
-      "talent": "Geena Davis, Samuel L. Jackson",
-      "announcement": "Geena Davis expresses interest in making a sequel to 'The Long Kiss Goodnight' with Samuel L. Jackson, describing it as her favorite project.",
+      "title": "Skibidi Toilet",
+      "studio": "Invisible Narratives",
+      "talent": "Michael Bay",
+      "announcement": "The studio developing Skibidi Toilet movie and TV projects with Michael Bay has raised $25 million in funding.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/geena-davis-interview-2026-bentonville-film-festival-1236958136/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/digital/news/studio-skibidi-toilet-movie-michael-bay-invisible-narratives-funding-1236782736/",
+          "pubDate": "Wed, 17 Jun 2026 15:00:00 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Ray Gunn",
+      "studio": "",
+      "talent": "Brad Bird",
+      "announcement": "Brad Bird's animated film Ray Gunn has become a point of contention between two studios.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/netflix-theatrical-efforts-omit-animated-features-analysis/",
+          "pubDate": "Wed, 17 Jun 2026 13:00:00 +0000"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "Rock City",
-      "network": "Hulu",
-      "talent": "Janelle James, David Caspe (creator)",
-      "announcement": "Comedy series in development at Hulu from 'Abbott Elementary' star Janelle James and 'Happy Endings' creator David Caspe.",
+      "title": "Tip Toe",
+      "network": "Starz",
+      "talent": "Alan Cumming, David Morrissey",
+      "announcement": "Starz acquired Russell T Davies' queer drama Tip Toe starring Alan Cumming for the U.S. and Canada.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/janelle-james-david-caspe-comedy-development-rock-city-hulu-1236957881/"
+          "url": "https://deadline.com/2026/06/starz-alan-cumming-series-tip-toe-1236958156/",
+          "pubDate": "Wed, 17 Jun 2026 17:00:00 +0000"
         },
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/janelle-james-comedy-show-rock-city-development-hulu-1236783483/"
+          "url": "https://variety.com/2026/tv/global/starz-acquires-tip-toe-alan-cumming-david-morrissey-1236783736/",
+          "pubDate": "Wed, 17 Jun 2026 17:00:00 +0000"
         },
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/janelle-james-hulu-comedy-happy-endings-creator-david-caspe-1236624179/"
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/tip-toe-queer-thriller-russell-t-davies-starz-us-1236624142/",
+          "pubDate": "Wed, 17 Jun 2026 17:00:00 +0000"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/alan-cumming-tip-toe-starz-queer-drama/",
+          "pubDate": "Wed, 17 Jun 2026 17:00:00 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Rock City",
+      "network": "Hulu",
+      "talent": "Janelle James, David Caspe",
+      "announcement": "Hulu is developing comedy series Rock City from Abbott Elementary star Janelle James and Happy Endings creator David Caspe.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/janelle-james-david-caspe-comedy-development-rock-city-hulu-1236957881/",
+          "pubDate": "Wed, 17 Jun 2026 16:00:00 +0000"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/janelle-james-comedy-show-rock-city-development-hulu-1236783483/",
+          "pubDate": "Wed, 17 Jun 2026 16:00:00 +0000"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/janelle-james-hulu-comedy-happy-endings-creator-david-caspe-1236624179/",
+          "pubDate": "Wed, 17 Jun 2026 16:00:00 +0000"
         }
       ]
     },
@@ -92,11 +142,12 @@
       "title": "Untitled Alex Cary Thriller",
       "network": "Apple TV+",
       "talent": "Dakota Fanning, Grace Gummer",
-      "announcement": "Thriller series in development at Apple from creator Alex Cary with Dakota Fanning and Grace Gummer joining the cast.",
+      "announcement": "Grace Gummer joins Dakota Fanning in Apple's thriller series from Alex Cary.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/grace-gummer-joins-alex-cary-thriller-dakota-fanning-1236958286/"
+          "url": "https://deadline.com/2026/06/grace-gummer-joins-alex-cary-thriller-dakota-fanning-1236958286/",
+          "pubDate": "Wed, 17 Jun 2026 16:00:00 +0000"
         }
       ]
     },
@@ -104,11 +155,30 @@
       "title": "Exit Right",
       "network": "",
       "talent": "Susan Sarandon, Kim Coates, Roberta Colindrez, Amy Sedaris, Ethan Slater, Christopher Jackson",
-      "announcement": "Drama series wraps production with an ensemble cast including Susan Sarandon, Amy Sedaris, Ethan Slater, and Christopher Jackson.",
+      "announcement": "Susan Sarandon drama Exit Right wraps with a cast including Kim Coates, Roberta Colindrez, Amy Sedaris, Ethan Slater, and Christopher Jackson.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/susan-sarandon-exit-right-wraps-kim-coates-amy-sedaris-1236958240/"
+          "url": "https://deadline.com/2026/06/susan-sarandon-exit-right-wraps-kim-coates-amy-sedaris-1236958240/",
+          "pubDate": "Wed, 17 Jun 2026 14:21:36 +0000"
+        }
+      ]
+    },
+    {
+      "title": "One Night in Idaho: The College Murders",
+      "network": "Amazon Prime Video",
+      "talent": "",
+      "announcement": "One Night in Idaho: The College Murders is renewed for Season 2 at Amazon Prime Video with new testimony.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/one-night-in-idaho-the-college-murders-season-2-amazon-1236782110/",
+          "pubDate": "Wed, 17 Jun 2026 15:00:00 +0000"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/one-night-in-idaho-college-murders-renewed-season-2-prime-1236624256/",
+          "pubDate": "Wed, 17 Jun 2026 16:48:55 +0000"
         }
       ]
     },
@@ -116,11 +186,12 @@
       "title": "Survival of the Thickest",
       "network": "",
       "talent": "",
-      "announcement": "Season 3 trailer unveiled for the third and final season of the comedy series.",
+      "announcement": "Survival of the Thickest unveils trailer for its third and final season.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/survival-of-the-thickest-s3-release-date-photos-trailer-1236878197/"
+          "url": "https://deadline.com/2026/06/survival-of-the-thickest-s3-release-date-photos-trailer-1236878197/",
+          "pubDate": "Wed, 17 Jun 2026 14:00:00 +0000"
         }
       ]
     },
@@ -128,62 +199,41 @@
       "title": "The Westies",
       "network": "MGM+",
       "talent": "J.K. Simmons",
-      "announcement": "Crime drama series drops trailer with J.K. Simmons leading the cast; co-creator Chris Brancato teases Season 1 details.",
+      "announcement": "J.K. Simmons-led crime drama The Westies drops trailer with co-creator Chris Brancato teasing Season 1.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/mgm-series-the-westies-trailer-chris-brancato-interview-1236957956/"
+          "url": "https://deadline.com/2026/06/mgm-series-the-westies-trailer-chris-brancato-interview-1236957956/",
+          "pubDate": "Wed, 17 Jun 2026 14:00:00 +0000"
+        }
+      ]
+    },
+    {
+      "title": "Prison Break",
+      "network": "Hulu",
+      "talent": "Lukas Gage",
+      "announcement": "Prison Break star Lukas Gage teases a dark and gritty reboot in development at Hulu.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/columns/prison-break-lukas-gage-reboot-hulu-1236783513/",
+          "pubDate": "Wed, 17 Jun 2026 15:25:45 +0000"
         }
       ]
     },
     {
       "title": "ComicView",
       "network": "BET",
-      "talent": "Chris 'CP' Powell (host)",
-      "announcement": "BET revives 'ComicView' with a new 'Rooftop Series' format hosted by Chris 'CP' Powell.",
+      "talent": "Chris 'CP' Powell",
+      "announcement": "BET revives ComicView with a new Rooftop Series hosted by Chris 'CP' Powell.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/comicview-reboot-bet-rooftop-series-1236783212/"
-        }
-      ]
-    },
-    {
-      "title": "One Night in Idaho: The College Murders",
-      "network": "Amazon",
-      "talent": "",
-      "announcement": "Limited series renewed for Season 2 at Amazon with new testimony to be featured.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/one-night-in-idaho-the-college-murders-season-2-amazon-1236782110/"
-        }
-      ]
-    },
-    {
-      "title": "Bridge & Tunnel",
-      "network": "Hulu",
-      "talent": "Des Bishop",
-      "announcement": "Comedy special from comedian Des Bishop sets Hulu release date.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/des-bishop-special-bridge-and-tunnel-hulu-premiere-date-1236957913/"
-        }
-      ]
-    },
-    {
-      "title": "Prison Break Reboot",
-      "network": "Hulu",
-      "talent": "Lukas Gage",
-      "announcement": "Lukas Gage teases a 'dark' and 'scary' reboot of 'Prison Break' in development at Hulu with plans for grittier content.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/columns/prison-break-lukas-gage-reboot-hulu-1236783513/"
+          "url": "https://variety.com/2026/tv/news/comicview-reboot-bet-rooftop-series-1236783212/",
+          "pubDate": "Wed, 17 Jun 2026 16:00:00 +0000"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-06-17T16:10:47.311Z"
+  "lastUpdated": "2026-06-17T17:07:28.551Z"
 }
