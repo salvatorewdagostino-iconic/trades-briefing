@@ -1,24 +1,12 @@
 {
   "date": "June 17, 2026",
-  "summary": "5 film announcements, 8 TV announcements across 5 trades.",
+  "summary": "5 film announcements, 9 TV announcements across 5 trades.",
   "film": [
-    {
-      "title": "Phoebe Berman's Gonna Lose It",
-      "studio": "Netflix",
-      "talent": "",
-      "announcement": "Movie in development at Netflix from 'The Nightingale' producer and 'Book Lovers' screenwriter.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/phoebe-bermans-gonna-lose-it-movie-netflix-1236771924/"
-        }
-      ]
-    },
     {
       "title": "FlySquad – First Strike!",
       "studio": "",
-      "talent": "Cher, Bob Geldof",
-      "announcement": "Animated feature in development with Cher and Bob Geldof in talks to join the cast.",
+      "talent": "Cher, Bob Geldof (voice cast in talks)",
+      "announcement": "Animated feature in development with Cher and Bob Geldof in talks to join the voice cast.",
       "sources": [
         {
           "name": "Deadline",
@@ -30,35 +18,51 @@
       "title": "Austin Powers 4",
       "studio": "",
       "talent": "Mike Myers",
-      "announcement": "Mike Myers confirms that a fourth Austin Powers film is in development.",
+      "announcement": "Mike Myers confirms that a fourth installment in the Austin Powers franchise is in development and happening.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/06/mike-myers-confirms-austin-powers-4-1236958119/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/mike-myers-austin-powers-4-update/"
         }
       ]
     },
     {
-      "title": "The Long Kiss Goodnight Sequel",
-      "studio": "",
-      "talent": "Geena Davis, Samuel L. Jackson",
-      "announcement": "Geena Davis expresses interest in making a sequel to 'The Long Kiss Goodnight' with Samuel L. Jackson.",
+      "title": "Phoebe Berman's Gonna Lose It",
+      "studio": "Netflix",
+      "talent": "",
+      "announcement": "Movie in development at Netflix from the producer of 'The Nightingale' and screenwriter of 'Book Lovers'.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/geena-davis-interview-2026-bentonville-film-festival-1236958136/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/phoebe-bermans-gonna-lose-it-movie-netflix-1236771924/"
         }
       ]
     },
     {
       "title": "Steps",
       "studio": "Netflix",
-      "talent": "Nikki Glaser, Ali Wong, Amanda Seyfried",
-      "announcement": "Nikki Glaser joins Netflix animated fairy tale project with Ali Wong and Amanda Seyfried.",
+      "talent": "Nikki Glaser, Ali Wong, Amanda Seyfried (voice cast)",
+      "announcement": "Animated fairy tale in development at Netflix with Nikki Glaser, Ali Wong, and Amanda Seyfried as voice cast members.",
       "sources": [
         {
           "name": "TheWrap",
           "url": "https://www.thewrap.com/creative-content/movies/nikki-glaser-joins-steps-netflix-animation-ali-wong-amanda-seyfried/"
+        }
+      ]
+    },
+    {
+      "title": "The Long Kiss Goodnight 2",
+      "studio": "",
+      "talent": "Geena Davis, Samuel L. Jackson",
+      "announcement": "Geena Davis expresses interest in making a sequel to 'The Long Kiss Goodnight' with Samuel L. Jackson, describing it as her favorite project.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/geena-davis-interview-2026-bentonville-film-festival-1236958136/"
         }
       ]
     }
@@ -67,7 +71,7 @@
     {
       "title": "Rock City",
       "network": "Hulu",
-      "talent": "Janelle James, David Caspe",
+      "talent": "Janelle James, David Caspe (creator)",
       "announcement": "Comedy series in development at Hulu from 'Abbott Elementary' star Janelle James and 'Happy Endings' creator David Caspe.",
       "sources": [
         {
@@ -88,7 +92,7 @@
       "title": "Untitled Alex Cary Thriller",
       "network": "Apple TV+",
       "talent": "Dakota Fanning, Grace Gummer",
-      "announcement": "Grace Gummer joins Dakota Fanning in Apple's thriller series from creator Alex Cary.",
+      "announcement": "Thriller series in development at Apple from creator Alex Cary with Dakota Fanning and Grace Gummer joining the cast.",
       "sources": [
         {
           "name": "Deadline",
@@ -100,7 +104,7 @@
       "title": "Exit Right",
       "network": "",
       "talent": "Susan Sarandon, Kim Coates, Roberta Colindrez, Amy Sedaris, Ethan Slater, Christopher Jackson",
-      "announcement": "Drama series wraps production with ensemble cast including Susan Sarandon, Amy Sedaris, and Ethan Slater.",
+      "announcement": "Drama series wraps production with an ensemble cast including Susan Sarandon, Amy Sedaris, Ethan Slater, and Christopher Jackson.",
       "sources": [
         {
           "name": "Deadline",
@@ -112,7 +116,7 @@
       "title": "Survival of the Thickest",
       "network": "",
       "talent": "",
-      "announcement": "Third and final season trailer unveiled with release date announced.",
+      "announcement": "Season 3 trailer unveiled for the third and final season of the comedy series.",
       "sources": [
         {
           "name": "Deadline",
@@ -124,7 +128,7 @@
       "title": "The Westies",
       "network": "MGM+",
       "talent": "J.K. Simmons",
-      "announcement": "Crime drama drops trailer with co-creator Chris Brancato teasing season 1 details.",
+      "announcement": "Crime drama series drops trailer with J.K. Simmons leading the cast; co-creator Chris Brancato teases Season 1 details.",
       "sources": [
         {
           "name": "Deadline",
@@ -133,22 +137,10 @@
       ]
     },
     {
-      "title": "One Night in Idaho: The College Murders",
-      "network": "Amazon",
-      "talent": "",
-      "announcement": "True crime series renewed for season 2 on Amazon with new testimony.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/one-night-in-idaho-the-college-murders-season-2-amazon-1236782110/"
-        }
-      ]
-    },
-    {
-      "title": "ComicView Rooftop Series",
+      "title": "ComicView",
       "network": "BET",
-      "talent": "Chris 'CP' Powell",
-      "announcement": "BET revives 'ComicView' with new 'Rooftop Series' hosted by Chris 'CP' Powell.",
+      "talent": "Chris 'CP' Powell (host)",
+      "announcement": "BET revives 'ComicView' with a new 'Rooftop Series' format hosted by Chris 'CP' Powell.",
       "sources": [
         {
           "name": "Variety",
@@ -157,17 +149,41 @@
       ]
     },
     {
+      "title": "One Night in Idaho: The College Murders",
+      "network": "Amazon",
+      "talent": "",
+      "announcement": "Limited series renewed for Season 2 at Amazon with new testimony to be featured.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/one-night-in-idaho-the-college-murders-season-2-amazon-1236782110/"
+        }
+      ]
+    },
+    {
       "title": "Bridge & Tunnel",
       "network": "Hulu",
       "talent": "Des Bishop",
-      "announcement": "Comedian Des Bishop's new special 'Bridge & Tunnel' sets release date on Hulu.",
+      "announcement": "Comedy special from comedian Des Bishop sets Hulu release date.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/06/des-bishop-special-bridge-and-tunnel-hulu-premiere-date-1236957913/"
         }
       ]
+    },
+    {
+      "title": "Prison Break Reboot",
+      "network": "Hulu",
+      "talent": "Lukas Gage",
+      "announcement": "Lukas Gage teases a 'dark' and 'scary' reboot of 'Prison Break' in development at Hulu with plans for grittier content.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/columns/prison-break-lukas-gage-reboot-hulu-1236783513/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-06-17T16:06:04.768Z"
+  "lastUpdated": "2026-06-17T16:10:47.311Z"
 }
