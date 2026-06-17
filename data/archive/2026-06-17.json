@@ -1,12 +1,24 @@
 {
   "date": "June 17, 2026",
-  "summary": "6 film announcements, 7 TV announcements across 5 trades.",
+  "summary": "6 film announcements, 8 TV announcements across 5 trades.",
   "film": [
+    {
+      "title": "The Long Kiss Goodnight",
+      "studio": "",
+      "talent": "Geena Davis, Samuel L. Jackson",
+      "announcement": "Geena Davis expressed interest in making a sequel to the 1996 action film, stating it's her favorite project.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/geena-davis-interview-2026-bentonville-film-festival-1236958136/"
+        }
+      ]
+    },
     {
       "title": "Austin Powers 4",
       "studio": "",
       "talent": "Mike Myers",
-      "announcement": "Mike Myers confirms that a fourth Austin Powers film is in development and will happen.",
+      "announcement": "Mike Myers confirmed that a fourth Austin Powers film is in development and will happen.",
       "sources": [
         {
           "name": "Deadline",
@@ -22,7 +34,7 @@
       "title": "FlySquad – First Strike!",
       "studio": "",
       "talent": "Cher, Bob Geldof",
-      "announcement": "Cher and Bob Geldof are in talks to voice roles in the animated feature FlySquad – First Strike!",
+      "announcement": "Cher and Bob Geldof are in talks to voice characters in the animated feature film.",
       "sources": [
         {
           "name": "Deadline",
@@ -31,22 +43,10 @@
       ]
     },
     {
-      "title": "The Long Kiss Goodnight 2",
-      "studio": "",
-      "talent": "Geena Davis, Samuel L. Jackson",
-      "announcement": "Geena Davis expresses interest in making a sequel to The Long Kiss Goodnight with Samuel L. Jackson, calling it her favorite film.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/geena-davis-interview-2026-bentonville-film-festival-1236958136/"
-        }
-      ]
-    },
-    {
       "title": "Zeta",
       "studio": "Prime Video",
       "talent": "",
-      "announcement": "Zeta sequel is among local titles confirmed for Prime Video Spain's 2027 slate.",
+      "announcement": "Zeta sequel is among local titles set for Prime Video Spain's 2027 slate.",
       "sources": [
         {
           "name": "Deadline",
@@ -58,7 +58,7 @@
       "title": "Dímelo 3",
       "studio": "Prime Video",
       "talent": "Mercedes Ron",
-      "announcement": "Mercedes Ron's Dímelo 3 is confirmed for Prime Video Spain's 2027 slate.",
+      "announcement": "Mercedes Ron's Dímelo 3 is among local titles set for Prime Video Spain's 2027 slate.",
       "sources": [
         {
           "name": "Deadline",
@@ -70,7 +70,7 @@
       "title": "Steps",
       "studio": "Netflix",
       "talent": "Nikki Glaser, Ali Wong, Amanda Seyfried",
-      "announcement": "Nikki Glaser joins Netflix's animated fairy tale Steps alongside Ali Wong and Amanda Seyfried.",
+      "announcement": "Nikki Glaser has joined the Netflix animated fairy tale film alongside Ali Wong and Amanda Seyfried.",
       "sources": [
         {
           "name": "TheWrap",
@@ -81,22 +81,10 @@
   ],
   "tv": [
     {
-      "title": "Exit Right",
-      "network": "",
-      "talent": "Susan Sarandon, Kim Coates, Roberta Colindrez, Amy Sedaris, Ethan Slater, Christopher Jackson",
-      "announcement": "Drama Exit Right wraps production with a cast including Susan Sarandon, Kim Coates, Roberta Colindrez, Amy Sedaris, Ethan Slater, and Christopher Jackson.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/susan-sarandon-exit-right-wraps-kim-coates-amy-sedaris-1236958240/"
-        }
-      ]
-    },
-    {
       "title": "Bridge & Tunnel",
       "network": "Hulu",
       "talent": "Des Bishop",
-      "announcement": "Comedian Des Bishop's special Bridge & Tunnel is set for release on Hulu.",
+      "announcement": "Comedian Des Bishop's special 'Bridge & Tunnel' has set a release date on Hulu.",
       "sources": [
         {
           "name": "Deadline",
@@ -105,10 +93,22 @@
       ]
     },
     {
+      "title": "Exit Right",
+      "network": "",
+      "talent": "Susan Sarandon, Kim Coates, Roberta Colindrez, Amy Sedaris, Ethan Slater, Christopher Jackson",
+      "announcement": "The Susan Sarandon drama series wrapped production with a significant ensemble cast including Amy Sedaris and Ethan Slater.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/susan-sarandon-exit-right-wraps-kim-coates-amy-sedaris-1236958240/"
+        }
+      ]
+    },
+    {
       "title": "Survival of the Thickest",
       "network": "",
       "talent": "",
-      "announcement": "Season 3 trailer unveiled for Survival of the Thickest, announced as the third and final season.",
+      "announcement": "The series unveiled a trailer for its third and final season.",
       "sources": [
         {
           "name": "Deadline",
@@ -118,9 +118,9 @@
     },
     {
       "title": "The Westies",
-      "network": "MGM",
+      "network": "MGM+",
       "talent": "J.K. Simmons",
-      "announcement": "Crime drama The Westies drops trailer with J.K. Simmons leading the cast; co-creator Chris Brancato teases season 1 details.",
+      "announcement": "The J.K. Simmons-led crime drama dropped its official trailer with creator Chris Brancato teasing details about season one.",
       "sources": [
         {
           "name": "Deadline",
@@ -129,22 +129,10 @@
       ]
     },
     {
-      "title": "One Night in Idaho: The College Murders",
-      "network": "Amazon",
-      "talent": "",
-      "announcement": "One Night in Idaho: The College Murders is renewed for Season 2 at Amazon with new testimony.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/one-night-in-idaho-the-college-murders-season-2-amazon-1236782110/"
-        }
-      ]
-    },
-    {
       "title": "Prison Break",
       "network": "Hulu",
       "talent": "Lukas Gage",
-      "announcement": "Lukas Gage teases a dark and gritty Prison Break reboot in development at Hulu.",
+      "announcement": "Prison Break reboot is in development at Hulu with star Lukas Gage teasing a darker, grittier approach to the property.",
       "sources": [
         {
           "name": "Variety",
@@ -153,17 +141,41 @@
       ]
     },
     {
+      "title": "One Night in Idaho: The College Murders",
+      "network": "Amazon",
+      "talent": "",
+      "announcement": "The true crime series has been renewed for season two at Amazon with new testimony featured.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/one-night-in-idaho-the-college-murders-season-2-amazon-1236782110/"
+        }
+      ]
+    },
+    {
       "title": "The Paris-Tokyo Job",
       "network": "",
       "talent": "",
-      "announcement": "Studiocanal sets true crime art heist docuseries The Paris-Tokyo Job with Sunny Side of the Doc launch.",
+      "announcement": "Studiocanal has set a true crime art heist docuseries in development and will launch at Sunny Side of the Doc.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/tv/global/studiocanal-paris-tokyo-job-sunny-side-of-the-doc-1236783613/"
         }
       ]
+    },
+    {
+      "title": "Love Story: John F. Kennedy Jr. and Carolyn Bessette",
+      "network": "",
+      "talent": "Constance Zimmer",
+      "announcement": "Constance Zimmer stars in the television special exploring the lives and love story of JFK Jr. and Carolyn Bessette.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/constance-zimmer-raw-power-profound-grief-love-story-1236783519/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-06-17T15:50:14.129Z"
+  "lastUpdated": "2026-06-17T15:55:40.989Z"
 }
