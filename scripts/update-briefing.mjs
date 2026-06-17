@@ -44,7 +44,7 @@ function parseRSS(xml, tradeName, today) {
     if (!pub) continue;
     const articleDate = new Date(pub).toISOString().split("T")[0];
     if (articleDate !== today) continue;
-    items.push({ trade: tradeName, title, link, description: desc });
+    items.push({ trade: tradeName, title, link, description: desc, pubDate: pub });
   }
   return items;
 }
@@ -87,7 +87,7 @@ async function main() {
   }
 
   const articleList = allItems
-    .map((a, i) => `[${i + 1}] ${a.trade} | ${a.title}\nURL: ${a.link}`)
+    .map((a, i) => `[${i + 1}] ${a.trade} | ${a.title}\nURL: ${a.link}\nPublished: ${a.pubDate}`)
     .join("\n");
 
   const prompt = `You are a Hollywood trades analyst. Below are today's articles (${today}) from the top entertainment trades.
@@ -114,7 +114,7 @@ Return ONLY valid JSON in this exact schema (no markdown, no explanation):
       "studio": "Studio or Distributor",
       "talent": "Key names and roles (or empty string if unknown)",
       "announcement": "One to two sentence description of what was announced.",
-      "sources": [{ "name": "Trade Name", "url": "https://direct-article-url" }]
+      "sources": [{ "name": "Trade Name", "url": "https://direct-article-url", "pubDate": "exact Published value from article" }]
     }
   ],
   "tv": [
@@ -123,7 +123,7 @@ Return ONLY valid JSON in this exact schema (no markdown, no explanation):
       "network": "Network or Streamer",
       "talent": "Key names and roles (or empty string if unknown)",
       "announcement": "One to two sentence description of what was announced.",
-      "sources": [{ "name": "Trade Name", "url": "https://direct-article-url" }]
+      "sources": [{ "name": "Trade Name", "url": "https://direct-article-url", "pubDate": "exact Published value from article" }]
     }
   ]
 }
