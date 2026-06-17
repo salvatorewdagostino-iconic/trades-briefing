@@ -3,46 +3,62 @@
   "summary": "6 film announcements, 9 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Austin Powers 4",
+      "title": "Ragamuffin",
       "studio": "",
-      "talent": "Mike Myers",
-      "announcement": "Mike Myers confirms that a fourth Austin Powers film is in development and will happen.",
+      "talent": "Lewis Pullman",
+      "announcement": "Lewis Pullman cast in motocross drama directed by Kaitlyn Mikayla with David Permut producing.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/mike-myers-confirms-austin-powers-4-1236958119/",
-          "pubDate": "Wed, 17 Jun 2026 05:08:18 +0000"
+          "url": "https://deadline.com/2026/06/lewis-pullman-motocross-movie-ragamuffin-1236958556/"
+        }
+      ]
+    },
+    {
+      "title": "Ocean's Eleven Prequel",
+      "studio": "Warner Bros",
+      "talent": "Wagner Moura, Margot Robbie, Bradley Cooper",
+      "announcement": "Wagner Moura in talks to join the Ocean's prequel opposite Margot Robbie and Bradley Cooper.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/oceans-prequel-wagner-moura-1236958504/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/wagner-moura-oceans-11-prequel-margot-robbie-bradley-cooper-1236784118/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/wagner-moura-oceans-eleven-prequel-1236623729/"
         },
         {
           "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/mike-myers-austin-powers-4-update/",
-          "pubDate": "Wed, 17 Jun 2026 15:19:51 +0000"
+          "url": "https://www.thewrap.com/creative-content/movies/wagner-moura-in-talks-to-join-oceans-11-prequel/"
         }
       ]
     },
     {
-      "title": "FlySquad – First Strike!",
-      "studio": "",
-      "talent": "Cher, Bob Geldof",
-      "announcement": "Cher and Bob Geldof are in talks to voice characters in the animated feature FlySquad – First Strike!",
+      "title": "The Parlay",
+      "studio": "Amazon MGM Studios",
+      "talent": "Daniel Kaluuya, Teyana Taylor (circling), Shaka King (director)",
+      "announcement": "Daniel Kaluuya reteaming with director Shaka King for thriller with Teyana Taylor in talks to star.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/cher-bob-geldof-animated-film-flysquad-first-strike-1236957922/",
-          "pubDate": "Wed, 17 Jun 2026 12:03:15 +0000"
+          "url": "https://deadline.com/2026/06/daniel-kaluuya-teyana-taylor-shaka-king-the-parlay-movie-1236958370/"
         }
       ]
     },
     {
-      "title": "Phoebe Berman's Gonna Lose It",
-      "studio": "Netflix",
-      "talent": "",
-      "announcement": "Netflix is developing a film adaptation of 'Phoebe Berman's Gonna Lose It' from The Nightingale producer and Book Lovers screenwriter.",
+      "title": "Secret Daniels Event Pic",
+      "studio": "",
+      "talent": "Sandra Oh, Matt Damon",
+      "announcement": "The Daniels eyeing Sandra Oh for a role opposite Matt Damon in their secret project.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/phoebe-bermans-gonna-lose-it-movie-netflix-1236771924/",
-          "pubDate": "Wed, 17 Jun 2026 16:00:00 +0000"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/the-daniels-event-sandra-oh-matt-damon-1236957541/"
         }
       ]
     },
@@ -50,190 +66,128 @@
       "title": "Steps",
       "studio": "Netflix",
       "talent": "Nikki Glaser, Ali Wong, Amanda Seyfried",
-      "announcement": "Nikki Glaser joins the Netflix animated fairy tale film Steps alongside Ali Wong and Amanda Seyfried.",
+      "announcement": "Nikki Glaser joins Netflix animated fairy tale project with Ali Wong and Amanda Seyfried.",
       "sources": [
         {
           "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/nikki-glaser-joins-steps-netflix-animation-ali-wong-amanda-seyfried/",
-          "pubDate": "Wed, 17 Jun 2026 15:00:00 +0000"
+          "url": "https://www.thewrap.com/creative-content/movies/nikki-glaser-joins-steps-netflix-animation-ali-wong-amanda-seyfried/"
         }
       ]
     },
     {
-      "title": "Skibidi Toilet",
-      "studio": "Invisible Narratives",
-      "talent": "Michael Bay",
-      "announcement": "The studio developing Skibidi Toilet movie and TV projects with Michael Bay has raised $25 million in funding.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/digital/news/studio-skibidi-toilet-movie-michael-bay-invisible-narratives-funding-1236782736/",
-          "pubDate": "Wed, 17 Jun 2026 15:00:00 +0000"
-        }
-      ]
-    },
-    {
-      "title": "Ray Gunn",
-      "studio": "",
-      "talent": "Brad Bird",
-      "announcement": "Brad Bird's animated film Ray Gunn has become a point of contention between two studios.",
+      "title": "Podcaster Brooke Averick Debut Novel Adaptation",
+      "studio": "Netflix",
+      "talent": "",
+      "announcement": "Podcaster Brooke Averick's debut novel being adapted into a Netflix rom-com.",
       "sources": [
         {
           "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/netflix-theatrical-efforts-omit-animated-features-analysis/",
-          "pubDate": "Wed, 17 Jun 2026 13:00:00 +0000"
+          "url": "https://www.thewrap.com/creative-content/movies/podcaster-brooke-averick-debut-novel-netflix-rom-com/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "Tip Toe",
-      "network": "Starz",
-      "talent": "Alan Cumming, David Morrissey",
-      "announcement": "Starz acquired Russell T Davies' queer drama Tip Toe starring Alan Cumming for the U.S. and Canada.",
+      "title": "The Boroughs",
+      "network": "Netflix",
+      "talent": "Duffer Brothers (creators)",
+      "announcement": "Duffer Brothers' series canceled by Netflix after one season.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/starz-alan-cumming-series-tip-toe-1236958156/",
-          "pubDate": "Wed, 17 Jun 2026 17:00:00 +0000"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/global/starz-acquires-tip-toe-alan-cumming-david-morrissey-1236783736/",
-          "pubDate": "Wed, 17 Jun 2026 17:00:00 +0000"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/tip-toe-queer-thriller-russell-t-davies-starz-us-1236624142/",
-          "pubDate": "Wed, 17 Jun 2026 17:00:00 +0000"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/alan-cumming-tip-toe-starz-queer-drama/",
-          "pubDate": "Wed, 17 Jun 2026 17:00:00 +0000"
+          "url": "https://deadline.com/2026/06/the-boroughs-the-duffer-brothers-series-canceled-netflix-1236958579/"
         }
       ]
     },
     {
-      "title": "Rock City",
-      "network": "Hulu",
-      "talent": "Janelle James, David Caspe",
-      "announcement": "Hulu is developing comedy series Rock City from Abbott Elementary star Janelle James and Happy Endings creator David Caspe.",
+      "title": "The Proud Family: Louder and Prouder",
+      "network": "Disney+",
+      "talent": "",
+      "announcement": "Series to end with Season 4; premiere date and new holiday special announced.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/janelle-james-david-caspe-comedy-development-rock-city-hulu-1236957881/",
-          "pubDate": "Wed, 17 Jun 2026 16:00:00 +0000"
-        },
+          "url": "https://deadline.com/2026/06/the-proud-family-louder-and-prouder-final-s4-release-date-1236958547/"
+        }
+      ]
+    },
+    {
+      "title": "LOL Live",
+      "network": "Hulu",
+      "talent": "",
+      "announcement": "Hartbeat's LOL Live sets 12 new stand-up specials with Hulu.",
+      "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/janelle-james-comedy-show-rock-city-development-hulu-1236783483/",
-          "pubDate": "Wed, 17 Jun 2026 16:00:00 +0000"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/janelle-james-hulu-comedy-happy-endings-creator-david-caspe-1236624179/",
-          "pubDate": "Wed, 17 Jun 2026 16:00:00 +0000"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/lol-live-12-new-stand-up-specials-hulu-1236958552/"
         }
       ]
     },
     {
       "title": "Untitled Alex Cary Thriller",
-      "network": "Apple TV+",
+      "network": "Apple",
       "talent": "Dakota Fanning, Grace Gummer",
-      "announcement": "Grace Gummer joins Dakota Fanning in Apple's thriller series from Alex Cary.",
+      "announcement": "Grace Gummer joins Dakota Fanning in Apple thriller series from Alex Cary.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/grace-gummer-joins-alex-cary-thriller-dakota-fanning-1236958286/",
-          "pubDate": "Wed, 17 Jun 2026 16:00:00 +0000"
+          "url": "https://deadline.com/2026/06/grace-gummer-joins-alex-cary-thriller-dakota-fanning-1236958286/"
+        }
+      ]
+    },
+    {
+      "title": "Tip Toe",
+      "network": "Starz",
+      "talent": "Alan Cumming, David Morrissey",
+      "announcement": "Starz acquires Russell T Davies' queer drama for the U.S. and Canada.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/starz-acquires-tip-toe-alan-cumming-david-morrissey-1236783736/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/alan-cumming-tip-toe-starz-queer-drama/"
         }
       ]
     },
     {
       "title": "Exit Right",
       "network": "",
-      "talent": "Susan Sarandon, Kim Coates, Roberta Colindrez, Amy Sedaris, Ethan Slater, Christopher Jackson",
-      "announcement": "Susan Sarandon drama Exit Right wraps with a cast including Kim Coates, Roberta Colindrez, Amy Sedaris, Ethan Slater, and Christopher Jackson.",
+      "talent": "Susan Sarandon, William H. Macy, Kim Coates, Roberta Colindrez, Amy Sedaris, Ethan Slater, Christopher Jackson",
+      "announcement": "Susan Sarandon and William H. Macy drama wraps production with full cast revealed.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/susan-sarandon-exit-right-wraps-kim-coates-amy-sedaris-1236958240/",
-          "pubDate": "Wed, 17 Jun 2026 14:21:36 +0000"
+          "url": "https://deadline.com/2026/06/susan-sarandon-exit-right-wraps-kim-coates-amy-sedaris-1236958240/"
         }
       ]
     },
     {
-      "title": "One Night in Idaho: The College Murders",
-      "network": "Amazon Prime Video",
-      "talent": "",
-      "announcement": "One Night in Idaho: The College Murders is renewed for Season 2 at Amazon Prime Video with new testimony.",
+      "title": "Prison Break Reboot",
+      "network": "",
+      "talent": "Lukas Gage",
+      "announcement": "Lukas Gage teases reboot will be 'really dark' with original cast members potentially returning.",
       "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/one-night-in-idaho-the-college-murders-season-2-amazon-1236782110/",
-          "pubDate": "Wed, 17 Jun 2026 15:00:00 +0000"
-        },
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/one-night-in-idaho-college-murders-renewed-season-2-prime-1236624256/",
-          "pubDate": "Wed, 17 Jun 2026 16:48:55 +0000"
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/lukas-gage-prison-break-reboot-ogs-coming-back-1236624316/"
         }
       ]
     },
     {
-      "title": "Survival of the Thickest",
+      "title": "Untitled Vice Studios Drama Series",
       "network": "",
-      "talent": "",
-      "announcement": "Survival of the Thickest unveils trailer for its third and final season.",
+      "talent": "Pablo Torre",
+      "announcement": "Vice Studios developing scripted television drama with journalist Pablo Torre.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/survival-of-the-thickest-s3-release-date-photos-trailer-1236878197/",
-          "pubDate": "Wed, 17 Jun 2026 14:00:00 +0000"
-        }
-      ]
-    },
-    {
-      "title": "The Westies",
-      "network": "MGM+",
-      "talent": "J.K. Simmons",
-      "announcement": "J.K. Simmons-led crime drama The Westies drops trailer with co-creator Chris Brancato teasing Season 1.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/mgm-series-the-westies-trailer-chris-brancato-interview-1236957956/",
-          "pubDate": "Wed, 17 Jun 2026 14:00:00 +0000"
-        }
-      ]
-    },
-    {
-      "title": "Prison Break",
-      "network": "Hulu",
-      "talent": "Lukas Gage",
-      "announcement": "Prison Break star Lukas Gage teases a dark and gritty reboot in development at Hulu.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/columns/prison-break-lukas-gage-reboot-hulu-1236783513/",
-          "pubDate": "Wed, 17 Jun 2026 15:25:45 +0000"
-        }
-      ]
-    },
-    {
-      "title": "ComicView",
-      "network": "BET",
-      "talent": "Chris 'CP' Powell",
-      "announcement": "BET revives ComicView with a new Rooftop Series hosted by Chris 'CP' Powell.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/comicview-reboot-bet-rooftop-series-1236783212/",
-          "pubDate": "Wed, 17 Jun 2026 16:00:00 +0000"
+          "url": "https://deadline.com/2026/06/vice-studios-pablo-torre-tv-drama-series-development-1236958260/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-06-17T17:07:28.551Z"
+  "lastUpdated": "2026-06-17T21:27:51.487Z"
 }
