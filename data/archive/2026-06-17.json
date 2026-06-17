@@ -1,12 +1,12 @@
 {
   "date": "June 17, 2026",
-  "summary": "6 film announcements, 9 TV announcements across 5 trades.",
+  "summary": "8 film announcements, 10 TV announcements across 5 trades.",
   "film": [
     {
       "title": "Ragamuffin",
-      "studio": "",
+      "studio": "Unknown",
       "talent": "Lewis Pullman",
-      "announcement": "Lewis Pullman cast in motocross drama directed by Kaitlyn Mikayla with David Permut producing.",
+      "announcement": "Lewis Pullman cast in motocross drama directed by Kaitlyn Mikayla, with David Permut producing.",
       "sources": [
         {
           "name": "Deadline",
@@ -18,7 +18,7 @@
       "title": "Ocean's Eleven Prequel",
       "studio": "Warner Bros",
       "talent": "Wagner Moura, Margot Robbie, Bradley Cooper",
-      "announcement": "Wagner Moura in talks to join the Ocean's prequel opposite Margot Robbie and Bradley Cooper.",
+      "announcement": "Wagner Moura in talks to join the prequel opposite Margot Robbie and Bradley Cooper.",
       "sources": [
         {
           "name": "Deadline",
@@ -41,8 +41,8 @@
     {
       "title": "The Parlay",
       "studio": "Amazon MGM Studios",
-      "talent": "Daniel Kaluuya, Teyana Taylor (circling), Shaka King (director)",
-      "announcement": "Daniel Kaluuya reteaming with director Shaka King for thriller with Teyana Taylor in talks to star.",
+      "talent": "Daniel Kaluuya, Shaka King (director), Teyana Taylor (circling)",
+      "announcement": "Daniel Kaluuya reteaming with director Shaka King, with Teyana Taylor circling to star.",
       "sources": [
         {
           "name": "Deadline",
@@ -52,9 +52,9 @@
     },
     {
       "title": "Secret Daniels Event Pic",
-      "studio": "",
-      "talent": "Sandra Oh, Matt Damon",
-      "announcement": "The Daniels eyeing Sandra Oh for a role opposite Matt Damon in their secret project.",
+      "studio": "Unknown",
+      "talent": "Matt Damon, Sandra Oh (eyeing)",
+      "announcement": "Secret project from Daniels eyeing Sandra Oh for role opposite Matt Damon.",
       "sources": [
         {
           "name": "Deadline",
@@ -63,21 +63,57 @@
       ]
     },
     {
-      "title": "Steps",
-      "studio": "Netflix",
-      "talent": "Nikki Glaser, Ali Wong, Amanda Seyfried",
-      "announcement": "Nikki Glaser joins Netflix animated fairy tale project with Ali Wong and Amanda Seyfried.",
+      "title": "Spider-Man: Brand New Day",
+      "studio": "Marvel",
+      "talent": "Tom Holland, Mark Ruffalo",
+      "announcement": "Trailer released showing first look at Mark Ruffalo's Hulk in the film.",
       "sources": [
         {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/spider-man-brand-new-day-trailer-first-look-mark-ruffalo-hulk-1236958566/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/spider-man-brand-new-day-trailer-tom-holland-hulk-1236735764/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-trailer-tom-holland-1236624211/"
+        },
+        {
           "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/nikki-glaser-joins-steps-netflix-animation-ali-wong-amanda-seyfried/"
+          "url": "https://www.thewrap.com/creative-content/movies/spider-man-brand-new-day-trailer-savage-hulk/"
         }
       ]
     },
     {
-      "title": "Podcaster Brooke Averick Debut Novel Adaptation",
+      "title": "Family Movie",
+      "studio": "Unknown",
+      "talent": "Kevin Bacon, Kyra Sedgwick (directors and starring with their children)",
+      "announcement": "Horror-comedy where Kevin Bacon and Kyra Sedgwick direct themselves and their kids.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/kevin-bacon-kyra-sedgwick-interview-family-movie-1236958383/"
+        }
+      ]
+    },
+    {
+      "title": "Exit Right",
+      "studio": "Unknown",
+      "talent": "Susan Sarandon, William H. Macy, Kim Coates, Roberta Colindrez, Amy Sedaris, Ethan Slater, Christopher Jackson",
+      "announcement": "Drama wraps with ensemble cast including Amy Sedaris, Ethan Slater, and Christopher Jackson joining.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/susan-sarandon-exit-right-wraps-kim-coates-amy-sedaris-1236958240/"
+        }
+      ]
+    },
+    {
+      "title": "Podcaster Brooke Averick's Debut Novel Adaptation",
       "studio": "Netflix",
-      "talent": "",
+      "talent": "Unknown",
       "announcement": "Podcaster Brooke Averick's debut novel being adapted into a Netflix rom-com.",
       "sources": [
         {
@@ -92,19 +128,27 @@
       "title": "The Boroughs",
       "network": "Netflix",
       "talent": "Duffer Brothers (creators)",
-      "announcement": "Duffer Brothers' series canceled by Netflix after one season.",
+      "announcement": "Series canceled by Netflix after one season.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/06/the-boroughs-the-duffer-brothers-series-canceled-netflix-1236958579/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/the-boroughs-canceled-netflix-1236784392/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-cancels-duffer-brothers-the-boroughs-1236624641/"
         }
       ]
     },
     {
       "title": "The Proud Family: Louder and Prouder",
-      "network": "Disney+",
-      "talent": "",
-      "announcement": "Series to end with Season 4; premiere date and new holiday special announced.",
+      "network": "Disney",
+      "talent": "Unknown",
+      "announcement": "Series ending with Season 4; premiere date and new holiday special announced.",
       "sources": [
         {
           "name": "Deadline",
@@ -115,8 +159,8 @@
     {
       "title": "LOL Live",
       "network": "Hulu",
-      "talent": "",
-      "announcement": "Hartbeat's LOL Live sets 12 new stand-up specials with Hulu.",
+      "talent": "Multiple stand-up comedians",
+      "announcement": "Hartbeat's stand-up comedy series sets 12 new stand-up specials with Hulu.",
       "sources": [
         {
           "name": "Deadline",
@@ -125,14 +169,14 @@
       ]
     },
     {
-      "title": "Untitled Alex Cary Thriller",
-      "network": "Apple",
-      "talent": "Dakota Fanning, Grace Gummer",
-      "announcement": "Grace Gummer joins Dakota Fanning in Apple thriller series from Alex Cary.",
+      "title": "The Hunting Wives",
+      "network": "Netflix",
+      "talent": "Unknown",
+      "announcement": "Cast teases more 'naughtiness' and content for Season 2.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/grace-gummer-joins-alex-cary-thriller-dakota-fanning-1236958286/"
+          "url": "https://deadline.com/2026/06/the-hunting-wives-cast-tease-season-2-netflix-1236958514/"
         }
       ]
     },
@@ -140,7 +184,7 @@
       "title": "Tip Toe",
       "network": "Starz",
       "talent": "Alan Cumming, David Morrissey",
-      "announcement": "Starz acquires Russell T Davies' queer drama for the U.S. and Canada.",
+      "announcement": "Starz acquires Russell T Davies' drama for U.S. and Canada distribution.",
       "sources": [
         {
           "name": "Variety",
@@ -153,22 +197,34 @@
       ]
     },
     {
-      "title": "Exit Right",
-      "network": "",
-      "talent": "Susan Sarandon, William H. Macy, Kim Coates, Roberta Colindrez, Amy Sedaris, Ethan Slater, Christopher Jackson",
-      "announcement": "Susan Sarandon and William H. Macy drama wraps production with full cast revealed.",
+      "title": "Untitled Thriller Series",
+      "network": "Apple",
+      "talent": "Dakota Fanning, Grace Gummer, Alex Cary (creator/showrunner)",
+      "announcement": "Grace Gummer joins Dakota Fanning in Apple thriller series from Alex Cary.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/susan-sarandon-exit-right-wraps-kim-coates-amy-sedaris-1236958240/"
+          "url": "https://deadline.com/2026/06/grace-gummer-joins-alex-cary-thriller-dakota-fanning-1236958286/"
+        }
+      ]
+    },
+    {
+      "title": "Untitled Vice Studios Drama",
+      "network": "Unknown",
+      "talent": "Pablo Torre",
+      "announcement": "Vice Studios developing scripted television drama with Pablo Torre.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/vice-studios-pablo-torre-tv-drama-series-development-1236958260/"
         }
       ]
     },
     {
       "title": "Prison Break Reboot",
-      "network": "",
+      "network": "Unknown",
       "talent": "Lukas Gage",
-      "announcement": "Lukas Gage teases reboot will be 'really dark' with original cast members potentially returning.",
+      "announcement": "Lukas Gage teases the reboot will be 'really dark' with possibility of original cast members returning.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -177,17 +233,29 @@
       ]
     },
     {
-      "title": "Untitled Vice Studios Drama Series",
-      "network": "",
-      "talent": "Pablo Torre",
-      "announcement": "Vice Studios developing scripted television drama with journalist Pablo Torre.",
+      "title": "The 'Burbs",
+      "network": "Peacock",
+      "talent": "Unknown",
+      "announcement": "Production design challenges discussed in new featurette about the series.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/vice-studios-pablo-torre-tv-drama-series-development-1236958260/"
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/features/interviews/the-burbs-production-designer-interview-craft-roundtables-1235200919/"
+        }
+      ]
+    },
+    {
+      "title": "Lifetime Summer Movies Slate",
+      "network": "Lifetime",
+      "talent": "Christina Milian",
+      "announcement": "Lifetime announces summer movies slate including projects with Christina Milian and others.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/lifetime-summer-movies-2026-christina-milian-killer-clown-1236623490/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-06-17T21:27:51.487Z"
+  "lastUpdated": "2026-06-17T22:17:54.232Z"
 }
