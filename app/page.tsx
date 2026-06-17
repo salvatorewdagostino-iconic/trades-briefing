@@ -1,13 +1,13 @@
-import { promises as fs } from "fs";
-import path from "path";
 import BriefingClient from "./BriefingClient";
 
 export const revalidate = 60;
 
 async function getBriefing() {
-  const filePath = path.join(process.cwd(), "data", "briefing.json");
-  const raw = await fs.readFile(filePath, "utf-8");
-  const data = JSON.parse(raw);
+  const res = await fetch(
+    "https://raw.githubusercontent.com/salvatorewdagostino-iconic/trades-briefing/main/data/briefing.json",
+    { next: { revalidate: 60 } }
+  );
+  const data = await res.json();
   return {
     date: data.date ?? "",
     summary: data.summary ?? "",
