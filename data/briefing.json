@@ -1,12 +1,28 @@
 {
   "date": "June 17, 2026",
-  "summary": "4 film announcements, 3 TV announcements across 5 trades.",
+  "summary": "6 film announcements, 7 TV announcements across 5 trades.",
   "film": [
     {
+      "title": "Austin Powers 4",
+      "studio": "",
+      "talent": "Mike Myers",
+      "announcement": "Mike Myers confirms that a fourth Austin Powers film is in development and will happen.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/mike-myers-confirms-austin-powers-4-1236958119/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/mike-myers-austin-powers-4-update/"
+        }
+      ]
+    },
+    {
       "title": "FlySquad – First Strike!",
-      "studio": "Unknown",
-      "talent": "Cher, Bob Geldof (voice cast in talks)",
-      "announcement": "Cher and Bob Geldof are in talks to voice roles in the animated feature film.",
+      "studio": "",
+      "talent": "Cher, Bob Geldof",
+      "announcement": "Cher and Bob Geldof are in talks to voice roles in the animated feature FlySquad – First Strike!",
       "sources": [
         {
           "name": "Deadline",
@@ -15,83 +31,139 @@
       ]
     },
     {
-      "title": "Austin Powers 4",
-      "studio": "Unknown",
-      "talent": "Mike Myers",
-      "announcement": "Mike Myers confirms that Austin Powers 4 is happening, though minimal additional details were provided.",
+      "title": "The Long Kiss Goodnight 2",
+      "studio": "",
+      "talent": "Geena Davis, Samuel L. Jackson",
+      "announcement": "Geena Davis expresses interest in making a sequel to The Long Kiss Goodnight with Samuel L. Jackson, calling it her favorite film.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/mike-myers-confirms-austin-powers-4-1236958119/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/austin-powers-4-happening-mike-myers-says-1236783696/"
+          "url": "https://deadline.com/2026/06/geena-davis-interview-2026-bentonville-film-festival-1236958136/"
         }
       ]
     },
     {
-      "title": "Love Letters of Our Life",
-      "studio": "Unknown",
-      "talent": "Ismail Basbeth (director)",
-      "announcement": "Indonesian filmmaker Ismail Basbeth sets his next feature film project.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/indonesia-ismail-basbeth-love-letters-of-our-life-1236783756/"
-        }
-      ]
-    },
-    {
-      "title": "Maria José of Savoy",
-      "studio": "Unknown",
-      "talent": "Ginevra Elkann, Marco Bellocchio",
-      "announcement": "A film about Maria José of Savoy, Queen of Italy for only 27 days, is in development from filmmakers Ginevra Elkann and Marco Bellocchio.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/maria-jose-savoy-film-ginevra-elkann-marco-belocchio-1236783604/"
-        }
-      ]
-    }
-  ],
-  "tv": [
-    {
-      "title": "The Paris-Tokyo Job",
-      "network": "Studiocanal",
+      "title": "Zeta",
+      "studio": "Prime Video",
       "talent": "",
-      "announcement": "Studiocanal sets a true crime art heist docu-series launching at Sunny Side of the Doc.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/global/studiocanal-paris-tokyo-job-sunny-side-of-the-doc-1236783613/"
-        }
-      ]
-    },
-    {
-      "title": "Apocalypse Civilizations: Rome",
-      "network": "France TV Distribution",
-      "talent": "",
-      "announcement": "A documentary series on the Battle of Actium between Octavian and Mark Antony and Cleopatra goes to France TV Distribution.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/global/apocalypse-civilizations-rome-doc-ftd-sunny-side-of-the-doc-1236781111/"
-        }
-      ]
-    },
-    {
-      "title": "Dímelo 3",
-      "network": "Prime Video Spain",
-      "talent": "Mercedes Ron",
-      "announcement": "Mercedes Ron's Dímelo 3 is among local titles on Prime Video Spain's 2027 slate.",
+      "announcement": "Zeta sequel is among local titles confirmed for Prime Video Spain's 2027 slate.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/06/zeta-mercedes-ron-dimelo-3-prime-video-spains-slate-1236958215/"
         }
       ]
+    },
+    {
+      "title": "Dímelo 3",
+      "studio": "Prime Video",
+      "talent": "Mercedes Ron",
+      "announcement": "Mercedes Ron's Dímelo 3 is confirmed for Prime Video Spain's 2027 slate.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/zeta-mercedes-ron-dimelo-3-prime-video-spains-slate-1236958215/"
+        }
+      ]
+    },
+    {
+      "title": "Steps",
+      "studio": "Netflix",
+      "talent": "Nikki Glaser, Ali Wong, Amanda Seyfried",
+      "announcement": "Nikki Glaser joins Netflix's animated fairy tale Steps alongside Ali Wong and Amanda Seyfried.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/nikki-glaser-joins-steps-netflix-animation-ali-wong-amanda-seyfried/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-06-17T13:04:10.660Z"
+  "tv": [
+    {
+      "title": "Exit Right",
+      "network": "",
+      "talent": "Susan Sarandon, Kim Coates, Roberta Colindrez, Amy Sedaris, Ethan Slater, Christopher Jackson",
+      "announcement": "Drama Exit Right wraps production with a cast including Susan Sarandon, Kim Coates, Roberta Colindrez, Amy Sedaris, Ethan Slater, and Christopher Jackson.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/susan-sarandon-exit-right-wraps-kim-coates-amy-sedaris-1236958240/"
+        }
+      ]
+    },
+    {
+      "title": "Bridge & Tunnel",
+      "network": "Hulu",
+      "talent": "Des Bishop",
+      "announcement": "Comedian Des Bishop's special Bridge & Tunnel is set for release on Hulu.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/des-bishop-special-bridge-and-tunnel-hulu-premiere-date-1236957913/"
+        }
+      ]
+    },
+    {
+      "title": "Survival of the Thickest",
+      "network": "",
+      "talent": "",
+      "announcement": "Season 3 trailer unveiled for Survival of the Thickest, announced as the third and final season.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/survival-of-the-thickest-s3-release-date-photos-trailer-1236878197/"
+        }
+      ]
+    },
+    {
+      "title": "The Westies",
+      "network": "MGM",
+      "talent": "J.K. Simmons",
+      "announcement": "Crime drama The Westies drops trailer with J.K. Simmons leading the cast; co-creator Chris Brancato teases season 1 details.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/mgm-series-the-westies-trailer-chris-brancato-interview-1236957956/"
+        }
+      ]
+    },
+    {
+      "title": "One Night in Idaho: The College Murders",
+      "network": "Amazon",
+      "talent": "",
+      "announcement": "One Night in Idaho: The College Murders is renewed for Season 2 at Amazon with new testimony.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/one-night-in-idaho-the-college-murders-season-2-amazon-1236782110/"
+        }
+      ]
+    },
+    {
+      "title": "Prison Break",
+      "network": "Hulu",
+      "talent": "Lukas Gage",
+      "announcement": "Lukas Gage teases a dark and gritty Prison Break reboot in development at Hulu.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/columns/prison-break-lukas-gage-reboot-hulu-1236783513/"
+        }
+      ]
+    },
+    {
+      "title": "The Paris-Tokyo Job",
+      "network": "",
+      "talent": "",
+      "announcement": "Studiocanal sets true crime art heist docuseries The Paris-Tokyo Job with Sunny Side of the Doc launch.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/studiocanal-paris-tokyo-job-sunny-side-of-the-doc-1236783613/"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-17T15:50:14.129Z"
 }
