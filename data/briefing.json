@@ -1,32 +1,16 @@
 {
   "date": "June 17, 2026",
-  "summary": "6 film announcements, 8 TV announcements across 5 trades.",
+  "summary": "5 film announcements, 8 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "The Long Kiss Goodnight",
-      "studio": "",
-      "talent": "Geena Davis, Samuel L. Jackson",
-      "announcement": "Geena Davis expressed interest in making a sequel to the 1996 action film, stating it's her favorite project.",
+      "title": "Phoebe Berman's Gonna Lose It",
+      "studio": "Netflix",
+      "talent": "",
+      "announcement": "Movie in development at Netflix from 'The Nightingale' producer and 'Book Lovers' screenwriter.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/geena-davis-interview-2026-bentonville-film-festival-1236958136/"
-        }
-      ]
-    },
-    {
-      "title": "Austin Powers 4",
-      "studio": "",
-      "talent": "Mike Myers",
-      "announcement": "Mike Myers confirmed that a fourth Austin Powers film is in development and will happen.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/mike-myers-confirms-austin-powers-4-1236958119/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/mike-myers-austin-powers-4-update/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/phoebe-bermans-gonna-lose-it-movie-netflix-1236771924/"
         }
       ]
     },
@@ -34,7 +18,7 @@
       "title": "FlySquad – First Strike!",
       "studio": "",
       "talent": "Cher, Bob Geldof",
-      "announcement": "Cher and Bob Geldof are in talks to voice characters in the animated feature film.",
+      "announcement": "Animated feature in development with Cher and Bob Geldof in talks to join the cast.",
       "sources": [
         {
           "name": "Deadline",
@@ -43,26 +27,26 @@
       ]
     },
     {
-      "title": "Zeta",
-      "studio": "Prime Video",
-      "talent": "",
-      "announcement": "Zeta sequel is among local titles set for Prime Video Spain's 2027 slate.",
+      "title": "Austin Powers 4",
+      "studio": "",
+      "talent": "Mike Myers",
+      "announcement": "Mike Myers confirms that a fourth Austin Powers film is in development.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/zeta-mercedes-ron-dimelo-3-prime-video-spains-slate-1236958215/"
+          "url": "https://deadline.com/2026/06/mike-myers-confirms-austin-powers-4-1236958119/"
         }
       ]
     },
     {
-      "title": "Dímelo 3",
-      "studio": "Prime Video",
-      "talent": "Mercedes Ron",
-      "announcement": "Mercedes Ron's Dímelo 3 is among local titles set for Prime Video Spain's 2027 slate.",
+      "title": "The Long Kiss Goodnight Sequel",
+      "studio": "",
+      "talent": "Geena Davis, Samuel L. Jackson",
+      "announcement": "Geena Davis expresses interest in making a sequel to 'The Long Kiss Goodnight' with Samuel L. Jackson.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/zeta-mercedes-ron-dimelo-3-prime-video-spains-slate-1236958215/"
+          "url": "https://deadline.com/2026/06/geena-davis-interview-2026-bentonville-film-festival-1236958136/"
         }
       ]
     },
@@ -70,7 +54,7 @@
       "title": "Steps",
       "studio": "Netflix",
       "talent": "Nikki Glaser, Ali Wong, Amanda Seyfried",
-      "announcement": "Nikki Glaser has joined the Netflix animated fairy tale film alongside Ali Wong and Amanda Seyfried.",
+      "announcement": "Nikki Glaser joins Netflix animated fairy tale project with Ali Wong and Amanda Seyfried.",
       "sources": [
         {
           "name": "TheWrap",
@@ -81,14 +65,34 @@
   ],
   "tv": [
     {
-      "title": "Bridge & Tunnel",
+      "title": "Rock City",
       "network": "Hulu",
-      "talent": "Des Bishop",
-      "announcement": "Comedian Des Bishop's special 'Bridge & Tunnel' has set a release date on Hulu.",
+      "talent": "Janelle James, David Caspe",
+      "announcement": "Comedy series in development at Hulu from 'Abbott Elementary' star Janelle James and 'Happy Endings' creator David Caspe.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/des-bishop-special-bridge-and-tunnel-hulu-premiere-date-1236957913/"
+          "url": "https://deadline.com/2026/06/janelle-james-david-caspe-comedy-development-rock-city-hulu-1236957881/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/janelle-james-comedy-show-rock-city-development-hulu-1236783483/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/janelle-james-hulu-comedy-happy-endings-creator-david-caspe-1236624179/"
+        }
+      ]
+    },
+    {
+      "title": "Untitled Alex Cary Thriller",
+      "network": "Apple TV+",
+      "talent": "Dakota Fanning, Grace Gummer",
+      "announcement": "Grace Gummer joins Dakota Fanning in Apple's thriller series from creator Alex Cary.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/grace-gummer-joins-alex-cary-thriller-dakota-fanning-1236958286/"
         }
       ]
     },
@@ -96,7 +100,7 @@
       "title": "Exit Right",
       "network": "",
       "talent": "Susan Sarandon, Kim Coates, Roberta Colindrez, Amy Sedaris, Ethan Slater, Christopher Jackson",
-      "announcement": "The Susan Sarandon drama series wrapped production with a significant ensemble cast including Amy Sedaris and Ethan Slater.",
+      "announcement": "Drama series wraps production with ensemble cast including Susan Sarandon, Amy Sedaris, and Ethan Slater.",
       "sources": [
         {
           "name": "Deadline",
@@ -108,7 +112,7 @@
       "title": "Survival of the Thickest",
       "network": "",
       "talent": "",
-      "announcement": "The series unveiled a trailer for its third and final season.",
+      "announcement": "Third and final season trailer unveiled with release date announced.",
       "sources": [
         {
           "name": "Deadline",
@@ -120,7 +124,7 @@
       "title": "The Westies",
       "network": "MGM+",
       "talent": "J.K. Simmons",
-      "announcement": "The J.K. Simmons-led crime drama dropped its official trailer with creator Chris Brancato teasing details about season one.",
+      "announcement": "Crime drama drops trailer with co-creator Chris Brancato teasing season 1 details.",
       "sources": [
         {
           "name": "Deadline",
@@ -129,22 +133,10 @@
       ]
     },
     {
-      "title": "Prison Break",
-      "network": "Hulu",
-      "talent": "Lukas Gage",
-      "announcement": "Prison Break reboot is in development at Hulu with star Lukas Gage teasing a darker, grittier approach to the property.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/columns/prison-break-lukas-gage-reboot-hulu-1236783513/"
-        }
-      ]
-    },
-    {
       "title": "One Night in Idaho: The College Murders",
       "network": "Amazon",
       "talent": "",
-      "announcement": "The true crime series has been renewed for season two at Amazon with new testimony featured.",
+      "announcement": "True crime series renewed for season 2 on Amazon with new testimony.",
       "sources": [
         {
           "name": "Variety",
@@ -153,29 +145,29 @@
       ]
     },
     {
-      "title": "The Paris-Tokyo Job",
-      "network": "",
-      "talent": "",
-      "announcement": "Studiocanal has set a true crime art heist docuseries in development and will launch at Sunny Side of the Doc.",
+      "title": "ComicView Rooftop Series",
+      "network": "BET",
+      "talent": "Chris 'CP' Powell",
+      "announcement": "BET revives 'ComicView' with new 'Rooftop Series' hosted by Chris 'CP' Powell.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/global/studiocanal-paris-tokyo-job-sunny-side-of-the-doc-1236783613/"
+          "url": "https://variety.com/2026/tv/news/comicview-reboot-bet-rooftop-series-1236783212/"
         }
       ]
     },
     {
-      "title": "Love Story: John F. Kennedy Jr. and Carolyn Bessette",
-      "network": "",
-      "talent": "Constance Zimmer",
-      "announcement": "Constance Zimmer stars in the television special exploring the lives and love story of JFK Jr. and Carolyn Bessette.",
+      "title": "Bridge & Tunnel",
+      "network": "Hulu",
+      "talent": "Des Bishop",
+      "announcement": "Comedian Des Bishop's new special 'Bridge & Tunnel' sets release date on Hulu.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/constance-zimmer-raw-power-profound-grief-love-story-1236783519/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/des-bishop-special-bridge-and-tunnel-hulu-premiere-date-1236957913/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-06-17T15:55:40.989Z"
+  "lastUpdated": "2026-06-17T16:06:04.768Z"
 }
