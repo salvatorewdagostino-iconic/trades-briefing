@@ -1,9 +1,9 @@
 {
   "date": "June 18, 2026",
-  "summary": "3 film announcements, 7 TV announcements across 5 trades.",
+  "summary": "3 film announcements, 6 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Toto the Ninja Cat",
+      "title": "Toto The Ninja Cat",
       "studio": "Studiocanal & Superprod",
       "talent": "Based on books by Dermot O'Leary",
       "announcement": "Animated series in development based on Dermot O'Leary's children's book series.",
@@ -15,10 +15,10 @@
       ]
     },
     {
-      "title": "Dave the Diver",
-      "studio": "Unspecified",
-      "talent": "Director: Anthony C. Ferrante",
-      "announcement": "Live-action adaptation of Mintrocket's hit game in development with director Anthony C. Ferrante attached.",
+      "title": "Dave The Diver",
+      "studio": "Unknown",
+      "talent": "Anthony C. Ferrante directing; based on game by Mintrocket",
+      "announcement": "Live-action adaptation of the hit indie game in development with Anthony C. Ferrante attached to direct.",
       "sources": [
         {
           "name": "Deadline",
@@ -30,7 +30,7 @@
       "title": "The Lost Children of Tuam",
       "studio": "Element Pictures",
       "talent": "Produced by Liam Neeson",
-      "announcement": "Feature film produced by Liam Neeson set to world premiere at Galway Film Fleadh.",
+      "announcement": "Feature film produced by Liam Neeson to world premiere at Galway Film Fleadh.",
       "sources": [
         {
           "name": "Variety",
@@ -43,8 +43,8 @@
     {
       "title": "Survivor Animated Comedy",
       "network": "Paramount Animation",
-      "talent": "",
-      "announcement": "Animated comedy series set in an animal kingdom based on the Survivor format in development at Paramount Animation.",
+      "talent": "Jeff Probst involved",
+      "announcement": "Animated comedy series set in an animal kingdom in development at Paramount Animation.",
       "sources": [
         {
           "name": "Deadline",
@@ -57,46 +57,34 @@
       ]
     },
     {
-      "title": "World Cup Uncensored",
-      "network": "Paramount's 5",
-      "talent": "Piers Morgan",
-      "announcement": "Spin-off series from Piers Morgan's uncensored content heading to Paramount's 5 streaming platform.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/piers-morgan-world-cup-royals-uncensored-paramount-5-1236959042/"
-        }
-      ]
-    },
-    {
-      "title": "The Royals Uncensored",
-      "network": "Paramount's 5",
-      "talent": "Piers Morgan",
-      "announcement": "Spin-off series from Piers Morgan's uncensored content heading to Paramount's 5 streaming platform.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/piers-morgan-world-cup-royals-uncensored-paramount-5-1236959042/"
-        }
-      ]
-    },
-    {
-      "title": "Knicks Documentary Series",
-      "network": "A24 & HBO",
-      "talent": "Ben Stiller",
-      "announcement": "Documentary series following the New York Knicks' NBA championship victory announced by Ben Stiller in partnership with A24 and HBO.",
+      "title": "New York Knicks Documentary Series",
+      "network": "HBO & A24",
+      "talent": "Ben Stiller executive producer/involved",
+      "announcement": "Documentary series charting the New York Knicks' path to championship victory announced by Ben Stiller.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/06/ben-stiller-knicks-documentary-series-1236958897/"
         },
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/ben-stiller-a24-hbo-new-york-knicks-doc-1236624834/"
-        },
-        {
           "name": "TheWrap",
           "url": "https://www.thewrap.com/creative-content/tv-shows/ben-stiller-new-york-knicks-docuseries-a24-hbo/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/ben-stiller-a24-hbo-new-york-knicks-doc-1236624834/"
+        }
+      ]
+    },
+    {
+      "title": "Piers Morgan's World Cup Uncensored & The Royals Uncensored",
+      "network": "Paramount's 5",
+      "talent": "Piers Morgan",
+      "announcement": "Two spin-off series from Piers Morgan's talk show heading to Paramount's 5 streaming service.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/piers-morgan-world-cup-royals-uncensored-paramount-5-1236959042/"
         }
       ]
     },
@@ -104,7 +92,7 @@
       "title": "Belzebubs",
       "network": "Banijay Kids & Family",
       "talent": "Voice cast announced",
-      "announcement": "Heavy metal satire animated series picked up by Banijay Kids & Family with voice cast and first clip released.",
+      "announcement": "Heavy metal satire animated series acquired by Banijay Kids & Family with voice cast announced.",
       "sources": [
         {
           "name": "Variety",
@@ -114,9 +102,9 @@
     },
     {
       "title": "Bock Saga",
-      "network": "Unspecified",
-      "talent": "",
-      "announcement": "True crime series about cults, eccentric characters and treasure with Limonero Films and Parad Media handling worldwide sales.",
+      "network": "Unknown",
+      "talent": "Unknown",
+      "announcement": "True crime narrative series with Limonero Films and Parad Media handling worldwide sales.",
       "sources": [
         {
           "name": "Variety",
@@ -125,10 +113,10 @@
       ]
     },
     {
-      "title": "Dancing With the Stars Season 35",
+      "title": "Dancing With The Stars Season 35",
       "network": "ABC",
-      "talent": "Guillermo Rodriguez (cast addition)",
-      "announcement": "Guillermo Rodriguez, right-hand man to Jimmy Kimmel, added to the celebrity cast for Season 35.",
+      "talent": "Guillermo Rodriguez cast",
+      "announcement": "Guillermo Rodriguez from Jimmy Kimmel Live! added to celebrity cast for Season 35.",
       "sources": [
         {
           "name": "Deadline",
@@ -145,5 +133,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-18T12:05:04.990Z"
+  "lastUpdated": "2026-06-18T12:33:58.725Z"
 }
