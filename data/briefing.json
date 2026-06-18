@@ -1,137 +1,365 @@
 {
   "date": "June 18, 2026",
-  "summary": "3 film announcements, 6 TV announcements across 5 trades.",
+  "summary": "15 film announcements, 13 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Toto The Ninja Cat",
-      "studio": "Studiocanal & Superprod",
-      "talent": "Based on books by Dermot O'Leary",
-      "announcement": "Animated series in development based on Dermot O'Leary's children's book series.",
+      "title": "The Grinch 2",
+      "studio": "Universal",
+      "talent": "Jim Carrey, Ron Howard (director)",
+      "announcement": "Jim Carrey is eyeing a reteam with Ron Howard on a sequel to 'How the Grinch Stole Christmas' at Universal.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/toto-the-ninja-cat-dermot-oleary-studiocanal-superprod-1236959054/"
+          "url": "https://deadline.com/2026/06/the-grinch-2-jim-carrey-ron-howard-universal-sequel-1236959495/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/grinch-sequel-jim-carrey-ron-howard-1236785242/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/grinch-sequel-in-the-works-jim-carrey-1236595265/"
         }
       ]
     },
     {
-      "title": "Dave The Diver",
-      "studio": "Unknown",
-      "talent": "Anthony C. Ferrante directing; based on game by Mintrocket",
-      "announcement": "Live-action adaptation of the hit indie game in development with Anthony C. Ferrante attached to direct.",
+      "title": "Palm Grove",
+      "studio": "Chernin",
+      "talent": "Kate Hudson, Ana de Armas; Director Kornél Mundruczó; Writer James Morosini",
+      "announcement": "Kate Hudson and Ana de Armas to star in erotic thriller 'Palm Grove' from director Kornél Mundruczó.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/dave-the-diver-interview-anthony-c-ferrante-interview-1236958954/"
+          "url": "https://deadline.com/2026/06/kate-hudson-ana-de-armas-palm-grove-kornel-mundruczo-1236959294/"
         }
       ]
     },
     {
-      "title": "The Lost Children of Tuam",
-      "studio": "Element Pictures",
-      "talent": "Produced by Liam Neeson",
-      "announcement": "Feature film produced by Liam Neeson to world premiere at Galway Film Fleadh.",
+      "title": "Little Santa",
+      "studio": "Apple Original Films",
+      "talent": "Director Peter Baynton; Bret McKenzie (songs)",
+      "announcement": "Apple Original Films is making an animated adaptation of the children's book 'Little Santa' with director Peter Baynton and Bret McKenzie writing songs.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/peter-baynton-direct-apple-original-films-little-santa-1236959375/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/apple-animated-little-santa-flight-of-the-conchords-bret-mckenzie-songs-1236785079/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/apple-peter-baynton-little-santa-adaptation-1236625270/"
+        }
+      ]
+    },
+    {
+      "title": "My What If Year",
+      "studio": "Warner Bros.",
+      "talent": "America Ferrera (developing); Heidi Schreck (writer)",
+      "announcement": "America Ferrera is developing a feature adaptation of Alisha Fernandez Miranda's memoir 'My What If Year' at Warner Bros. with Heidi Schreck scripting.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/my-what-if-year-america-ferrera-developing-warner-bros-film-1236959340/"
+        }
+      ]
+    },
+    {
+      "title": "Secret Daniels Event Pic",
+      "studio": "Universal",
+      "talent": "Matt Damon, Charles Melton",
+      "announcement": "Charles Melton joins Matt Damon in a secret project from the Daniels at Universal.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/charles-melton-matt-damon-daniels-event-pic-1236958856/"
+        }
+      ]
+    },
+    {
+      "title": "Ages of the Moon",
+      "studio": "",
+      "talent": "Steve Buscemi, Aidan Quinn; Director Oren Moverman; Writer Sam Shepard",
+      "announcement": "Steve Buscemi wraps filming on 'Ages of the Moon,' a Sam Shepard adaptation directed by Oren Moverman, with Liam Neeson joining the project.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/steve-buscemi-wraps-sam-shepard-ages-of-the-moon-film-1236959130/"
+        }
+      ]
+    },
+    {
+      "title": "The Tourist Curse",
+      "studio": "",
+      "talent": "Sydney Agudong, Henry Ian Cusick, Mahina Napoleon, Tori Anderson",
+      "announcement": "'Lilo & Stitch' star Sydney Agudong is cast in Hawaii-set comedy 'The Tourist Curse' with Henry Ian Cusick, Mahina Napoleon, and Tori Anderson.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/sydney-agudong-lilo-stitch-hawaii-comedy-the-tourist-curse-1236959116/"
+        }
+      ]
+    },
+    {
+      "title": "Lady",
+      "studio": "",
+      "talent": "Sian Clifford",
+      "announcement": "Satirical comedy 'Lady' starring Sian Clifford scores a U.S. distribution deal.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/sian-clifford-lady-us-distribution-deal-1236959085/"
+        }
+      ]
+    },
+    {
+      "title": "Hello & Paris",
+      "studio": "Amazon MGM",
+      "talent": "Kate Hudson, Javier Bardem",
+      "announcement": "Kate Hudson-Javier Bardem rom-com 'Hello & Paris' adds six cast members at Amazon MGM.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/hello-and-paris-kate-hudson-javier-bardem-amazon-mgm-cast-1236625168/"
+        }
+      ]
+    },
+    {
+      "title": "Two Prosecutors",
+      "studio": "Criterion Channel",
+      "talent": "Director Sergei Loznitsa",
+      "announcement": "'Two Prosecutors' is set for release on Criterion Channel in the U.S.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/sergei-loznitsa-film-two-prosecutors-criterion-channel-clip-1236616324/"
+        }
+      ]
+    },
+    {
+      "title": "Wicker",
+      "studio": "Black Bear",
+      "talent": "",
+      "announcement": "Sundance breakout 'Wicker' gets an October release date from Black Bear.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/industry-news/business/sundance-breakout-wicker-gets-october-release-date-from-black-bear/"
+        }
+      ]
+    },
+    {
+      "title": "I Am AI",
+      "studio": "",
+      "talent": "",
+      "announcement": "Hugo Award finalist 'I Am AI' novelette has been optioned for a feature film adaptation.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/global/lost-children-of-tuam-element-liam-neeson-galway-premiere-1236783768/"
+          "url": "https://variety.com/2026/film/news/i-am-ai-optioned-feature-film-adaptation-1236785183/"
+        }
+      ]
+    },
+    {
+      "title": "Supergirl",
+      "studio": "DC Studios",
+      "talent": "Director Craig Gillespie",
+      "announcement": "Craig Gillespie is making 'Supergirl' with a visual style inspired by 'Mad Max.'",
+      "sources": [
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/features/interviews/craig-gillespie-making-supergirl-mad-max-1235200961/"
+        }
+      ]
+    },
+    {
+      "title": "Survivor",
+      "studio": "Paramount",
+      "talent": "Jeff Probst (confirms)",
+      "announcement": "An animated 'Survivor' movie is in the works at Paramount, as confirmed by host Jeff Probst.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/survivor-animated-movie-paramount-jeff-probst-confirms/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "Survivor Animated Comedy",
-      "network": "Paramount Animation",
-      "talent": "Jeff Probst involved",
-      "announcement": "Animated comedy series set in an animal kingdom in development at Paramount Animation.",
+      "title": "Fallout",
+      "network": "Amazon",
+      "talent": "Manny Jacinto, Emily Mortimer, Thomasin McKenzie",
+      "announcement": "Manny Jacinto, Emily Mortimer, and Thomasin McKenzie join Season 3 of Amazon series 'Fallout.'",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/survivor-animated-comedy-animal-kingdom-paramount-animation-1236958939/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/survivor-animated-movie-paramount-jeff-probst-confirms/"
+          "url": "https://deadline.com/2026/06/fallout-s3-manny-jacinto-emily-mortimer-thomasin-mckenzie-1236959032/"
         }
       ]
     },
     {
-      "title": "New York Knicks Documentary Series",
-      "network": "HBO & A24",
-      "talent": "Ben Stiller executive producer/involved",
-      "announcement": "Documentary series charting the New York Knicks' path to championship victory announced by Ben Stiller.",
+      "title": "Wonder Presents: The Stand-Ups",
+      "network": "",
+      "talent": "",
+      "announcement": "Wonder Project gets into stand-up with a six-special series 'Wonder Presents: The Stand-Ups.'",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/ben-stiller-knicks-documentary-series-1236958897/"
+          "url": "https://deadline.com/2026/06/wonder-project-stand-up-series-sets-premiere-date-1236959467/"
+        }
+      ]
+    },
+    {
+      "title": "13 Going On 30",
+      "network": "Netflix",
+      "talent": "Adeline Rudolph",
+      "announcement": "Adeline Rudolph joins Netflix's '13 Going On 30' reboot.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/13-going-on-30-reboot-netflix-casts-adeline-rudolph-1236959256/"
+        }
+      ]
+    },
+    {
+      "title": "The God of the Woods",
+      "network": "Netflix",
+      "talent": "Tracy Letts, Lola Kirke",
+      "announcement": "Tracy Letts and Lola Kirke join the cast of Netflix's 'The God of the Woods,' among 14 other new cast members.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/tracy-letts-lola-kirke-cast-netflix-the-god-of-the-woods-1236958714/"
+        }
+      ]
+    },
+    {
+      "title": "The Traitors: New Blood",
+      "network": "NBC",
+      "talent": "",
+      "announcement": "'The Traitors: New Blood' sets a September premiere date on NBC for the civilian series.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/the-traitors-new-blood-premiere-date-nbc-civilian-series-1236959387/"
+        }
+      ]
+    },
+    {
+      "title": "Simon Says",
+      "network": "Netflix",
+      "talent": "",
+      "announcement": "'Simon Says' competition series is coming to Netflix.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/simons-says-competition-series-netflix-1236959356/"
         },
         {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/ben-stiller-new-york-knicks-docuseries-a24-hbo/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/simons-says-competition-series-coming-to-netflix-1236785356/"
         },
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/ben-stiller-a24-hbo-new-york-knicks-doc-1236624834/"
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-simon-says-game-competition-show-1236625234/"
         }
       ]
     },
     {
-      "title": "Piers Morgan's World Cup Uncensored & The Royals Uncensored",
-      "network": "Paramount's 5",
-      "talent": "Piers Morgan",
-      "announcement": "Two spin-off series from Piers Morgan's talk show heading to Paramount's 5 streaming service.",
+      "title": "Warrior Cats",
+      "network": "Disney",
+      "talent": "",
+      "announcement": "Disney picks up an animated adaptation of the global phenomenon 'Warrior Cats.'",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/piers-morgan-world-cup-royals-uncensored-paramount-5-1236959042/"
+          "url": "https://deadline.com/2026/06/warrior-cats-disney-picks-up-coolabi-adaptation-1236959200/"
         }
       ]
     },
     {
-      "title": "Belzebubs",
-      "network": "Banijay Kids & Family",
-      "talent": "Voice cast announced",
-      "announcement": "Heavy metal satire animated series acquired by Banijay Kids & Family with voice cast announced.",
+      "title": "Pass Tha' Mic",
+      "network": "",
+      "talent": "Jo Koy (host); Martin Lawrence (presenter)",
+      "announcement": "Jo Koy to host comedy showcase series 'Pass Tha' Mic' presented by Martin Lawrence.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/global/banijay-kids-family-heavy-metal-belzebubs-voice-cast-1236784739/"
+          "url": "https://variety.com/2026/tv/news/jo-koy-martin-lawrence-comedy-showcase-pass-the-mic-1236785125/"
         }
       ]
     },
     {
-      "title": "Bock Saga",
-      "network": "Unknown",
-      "talent": "Unknown",
-      "announcement": "True crime narrative series with Limonero Films and Parad Media handling worldwide sales.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/global/limonero-films-parad-media-bock-saga-sunny-side-of-the-doc-1236784479/"
-        }
-      ]
-    },
-    {
-      "title": "Dancing With The Stars Season 35",
+      "title": "The Naturalist",
       "network": "ABC",
-      "talent": "Guillermo Rodriguez cast",
-      "announcement": "Guillermo Rodriguez from Jimmy Kimmel Live! added to celebrity cast for Season 35.",
+      "talent": "",
+      "announcement": "'The Naturalist' series adaptation is in the works at ABC from 'CSI' alums.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/dancing-with-the-stars-season-35-cast-guillermo-rodriguez-1236958920/"
-        },
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/the-naturalist-tv-show-abc-1236783984/"
+        }
+      ]
+    },
+    {
+      "title": "Moriarty Rising: A Sherlock Holmes Tale",
+      "network": "",
+      "talent": "Director Alessio Liguori",
+      "announcement": "Alessio Liguori to direct 'Moriarty Rising: A Sherlock Holmes Tale.'",
+      "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/guillermo-jimmy-kimmel-dwts-season-35-1236784635/"
+          "url": "https://variety.com/2026/tv/news/alessio-liguori-moriarty-rising-a-sherlock-holmes-tale-1236785171/"
+        }
+      ]
+    },
+    {
+      "title": "Quinta Brunson Overall Deal",
+      "network": "Disney's 20th Television",
+      "talent": "Quinta Brunson",
+      "announcement": "Quinta Brunson exits Warner Bros. TV and signs a new overall deal with Disney's 20th Television.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/quinta-brunson-new-overall-deal-disney-20th-television-1236785150/"
         },
         {
           "name": "TheWrap",
-          "url": "https://www.thewrap.com/industry-news/casting/dancing-with-stars-season-35-cast-guillermo-rodriguez-jimmy-kimmel/"
+          "url": "https://www.thewrap.com/industry-news/business/quinta-brunson-overall-deal-20th-television-moving-from-warner-bros/"
+        }
+      ]
+    },
+    {
+      "title": "Proximity Media TV Overall Deal",
+      "network": "Netflix",
+      "talent": "Ryan Coogler",
+      "announcement": "Ryan Coogler's Proximity Media strikes a TV overall deal with Netflix after exiting Disney pact.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/ryan-coogler-proximity-media-tv-overall-deal-netflix-1236959265/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/ryan-coogler-proximity-media-netflix-tv-deal-1236625177/"
+        }
+      ]
+    },
+    {
+      "title": "Matthew McConaughey and Woody Harrelson Apple TV Comedy",
+      "network": "Apple TV",
+      "talent": "Matthew McConaughey, Woody Harrelson",
+      "announcement": "Matthew McConaughey and Woody Harrelson reunite in an Apple TV comedy.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/matthew-mcconaughey-woody-harrelson-brothers-apple-tv-first-look-photo/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-06-18T12:33:58.725Z"
+  "lastUpdated": "2026-06-18T19:29:49.946Z"
 }
