@@ -1,6 +1,6 @@
 {
   "date": "June 19, 2026",
-  "summary": "5 film announcements, 4 TV announcements across 5 trades.",
+  "summary": "6 film announcements, 4 TV announcements across 5 trades.",
   "film": [
     {
       "title": "To Kill A Nazi",
@@ -18,7 +18,7 @@
       "title": "Romeo & Juliet, Reimagined",
       "studio": "MuVpix",
       "talent": "Gabrielle Faith Brown, Yolanthe Cabau",
-      "announcement": "Horizontal-vertical drama film announced with cast members Gabrielle Faith Brown and Yolanthe Cabau.",
+      "announcement": "Horizontal-vertical drama gets casting announcement for lead roles.",
       "sources": [
         {
           "name": "Deadline",
@@ -30,7 +30,7 @@
       "title": "Eleven Missing Days",
       "studio": "Unknown",
       "talent": "O.T. Fagbenle",
-      "announcement": "Agatha Christie adaptation adds 'The Handmaid's Tale' star O.T. Fagbenle to cast.",
+      "announcement": "Agatha Christie film adds casting with O.T. Fagbenle from 'The Handmaid's Tale'.",
       "sources": [
         {
           "name": "Deadline",
@@ -39,10 +39,30 @@
       ]
     },
     {
-      "title": "Curry Barker's Untitled Project",
+      "title": "Artificial",
+      "studio": "Amazon MGM Studios",
+      "talent": "Luca Guadagnino (director), Andrew Garfield (Sam Altman)",
+      "announcement": "Amazon MGM Studios drops Luca Guadagnino's Sam Altman/OpenAI film from its release slate.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/luca-guadagnino-artificial-amazon-jeff-bezos-1236962694/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/luca-guadagnino-sam-altman-artificial-dropped-amazon-openai-1236626073/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/amazon-mgm-drops-luca-guadagnino-artificial-movie-openai-sam-altman/"
+        }
+      ]
+    },
+    {
+      "title": "Untitled Curry Barker Project",
       "studio": "Universal, Blumhouse Atomic Monster",
       "talent": "Curry Barker",
-      "announcement": "Director Curry Barker sets third film deal with Universal and Blumhouse-Atomic Monster.",
+      "announcement": "Director Curry Barker sets third film with Universal and Blumhouse Atomic Monster.",
       "sources": [
         {
           "name": "Deadline",
@@ -59,14 +79,14 @@
       ]
     },
     {
-      "title": "We Are Aliens",
-      "studio": "Charades",
-      "talent": "",
-      "announcement": "Cannes and Annecy buzz title sells wide across Asia.",
+      "title": "Grinch Sequel",
+      "studio": "Unknown",
+      "talent": "Ron Howard (director), Brian Grazer (producer)",
+      "announcement": "Ron Howard and Brian Grazer tease potential sequel to 'The Grinch', noting it's something they've thought about for a long time.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/charades-sells-wide-we-are-aliens-cannes-annecy-buzz-title-1236782150/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/ron-howard-brian-grazer-grinch-sequel-youtube-filmmakers-1236625869/"
         }
       ]
     }
@@ -76,7 +96,7 @@
       "title": "Nightsleeper",
       "network": "BBC",
       "talent": "",
-      "announcement": "Series renewed for Season 2 with plot switching from land to sea and Element Pictures taking over production from Euston.",
+      "announcement": "Series renewed for Season 2 with plot shifting from land to sea and Element Pictures taking over production from Euston Films.",
       "sources": [
         {
           "name": "Deadline",
@@ -87,8 +107,8 @@
     {
       "title": "Dungeon Crawler Carl",
       "network": "Peacock",
-      "talent": "Seth MacFarlane (executive producer)",
-      "announcement": "Straight-to-series order for TV adaptation based on books from Seth MacFarlane's Fuzzy Door production company.",
+      "talent": "Seth MacFarlane (executive producer), Matt Dinniman (based on books by)",
+      "announcement": "TV series based on books ordered straight-to-series at Peacock from Seth MacFarlane's Fuzzy Door production company.",
       "sources": [
         {
           "name": "Deadline",
@@ -105,14 +125,14 @@
       ]
     },
     {
-      "title": "Ashley Cain Series",
-      "network": "BBC",
-      "talent": "Ashley Cain",
-      "announcement": "BBC cancels series after presenter allegedly called women offensive slurs.",
+      "title": "The Triplets",
+      "network": "Unknown",
+      "talent": "",
+      "announcement": "Catalan animation reboot of TV phenom 'The Triplets' in development as one of 10 upcoming Catalan animation titles to track.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/bbc-cancels-ashley-cain-series-misogynistic-1236962649/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/the-triplets-tad-and-the-magic-lamp-superthings-1236785885/"
         }
       ]
     },
@@ -129,5 +149,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-19T12:55:54.053Z"
+  "lastUpdated": "2026-06-19T13:02:07.781Z"
 }
