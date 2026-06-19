@@ -1,36 +1,12 @@
 {
   "date": "June 19, 2026",
-  "summary": "6 film announcements, 4 TV announcements across 5 trades.",
+  "summary": "7 film announcements, 5 TV announcements across 5 trades.",
   "film": [
-    {
-      "title": "To Kill A Nazi",
-      "studio": "Unknown",
-      "talent": "Jason Alexander (narrator)",
-      "announcement": "Documentary about the Entebbe Raid gets sales deal and trailer before festival launch.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/jason-alexander-film-kill-a-nazi-entebbe-raid-trailer-1236962748/"
-        }
-      ]
-    },
-    {
-      "title": "Romeo & Juliet, Reimagined",
-      "studio": "MuVpix",
-      "talent": "Gabrielle Faith Brown, Yolanthe Cabau",
-      "announcement": "Horizontal-vertical drama gets casting announcement for lead roles.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/romeo-juliet-reimagined-muvpix-gabrielle-faith-brown-1236959139/"
-        }
-      ]
-    },
     {
       "title": "Eleven Missing Days",
       "studio": "Unknown",
       "talent": "O.T. Fagbenle",
-      "announcement": "Agatha Christie film adds casting with O.T. Fagbenle from 'The Handmaid's Tale'.",
+      "announcement": "O.T. Fagbenle joins the Agatha Christie film adaptation.",
       "sources": [
         {
           "name": "Deadline",
@@ -39,15 +15,59 @@
       ]
     },
     {
-      "title": "Artificial",
-      "studio": "Amazon MGM Studios",
-      "talent": "Luca Guadagnino (director), Andrew Garfield (Sam Altman)",
-      "announcement": "Amazon MGM Studios drops Luca Guadagnino's Sam Altman/OpenAI film from its release slate.",
+      "title": "To Kill A Nazi",
+      "studio": "Unknown",
+      "talent": "Jason Alexander (narrator)",
+      "announcement": "Documentary about the Entebbe Raid gets sales deal and trailer ahead of festival launch.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/luca-guadagnino-artificial-amazon-jeff-bezos-1236962694/"
-        },
+          "url": "https://deadline.com/2026/06/jason-alexander-film-kill-a-nazi-entebbe-raid-trailer-1236962748/"
+        }
+      ]
+    },
+    {
+      "title": "Helga",
+      "studio": "Unknown",
+      "talent": "Bridgett M. Davis (director)",
+      "announcement": "Crowdfunded project marks director's return to filmmaking 30 years after 'Naked Acts'.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/bridgett-m-davis-helga-naked-acts-maya-s-cade-1236959279/"
+        }
+      ]
+    },
+    {
+      "title": "Girls Like Girls",
+      "studio": "Unknown",
+      "talent": "Hayley Kiyoko (director)",
+      "announcement": "Hayley Kiyoko's directorial debut film.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/hayley-kiyoko-girls-like-girls-directing-music-interview-1236622697/"
+        }
+      ]
+    },
+    {
+      "title": "Curry Barker's Next Film",
+      "studio": "Universal, Blumhouse Atomic Monster",
+      "talent": "Curry Barker",
+      "announcement": "Curry Barker's next film lands at Universal and Blumhouse Atomic Monster.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/curry-barker-next-film-universal-blumhouse-atomic-monster-1236625868/"
+        }
+      ]
+    },
+    {
+      "title": "Artificial",
+      "studio": "Amazon MGM Studios",
+      "talent": "Luca Guadagnino (director)",
+      "announcement": "Amazon MGM Studios drops Luca Guadagnino's nearly completed Sam Altman film about OpenAI.",
+      "sources": [
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/luca-guadagnino-sam-altman-artificial-dropped-amazon-openai-1236626073/"
@@ -59,34 +79,14 @@
       ]
     },
     {
-      "title": "Untitled Curry Barker Project",
-      "studio": "Universal, Blumhouse Atomic Monster",
-      "talent": "Curry Barker",
-      "announcement": "Director Curry Barker sets third film with Universal and Blumhouse Atomic Monster.",
+      "title": "Forgotten Island",
+      "studio": "DreamWorks Animation",
+      "talent": "H.E.R., Bini, Lea Salonga, Sophia Laforteza",
+      "announcement": "DreamWorks Animation's animated film features H.E.R., Bini, Lea Salonga, and Katseye's Sophia Laforteza in its soundtrack.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/curry-barker-third-film-universal-blumhouse-atomic-monster-1236962562/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/curry-barker-next-film-universal-blumhouse-atomic-monster-1236625868/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/curry-barkers-next-movie-finds-home-at-universal-blumhouse-atomic-monster/"
-        }
-      ]
-    },
-    {
-      "title": "Grinch Sequel",
-      "studio": "Unknown",
-      "talent": "Ron Howard (director), Brian Grazer (producer)",
-      "announcement": "Ron Howard and Brian Grazer tease potential sequel to 'The Grinch', noting it's something they've thought about for a long time.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/ron-howard-brian-grazer-grinch-sequel-youtube-filmmakers-1236625869/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/her-bini-lea-salonga-forgotten-island-soundtrack-1236785161/"
         }
       ]
     }
@@ -95,8 +95,8 @@
     {
       "title": "Nightsleeper",
       "network": "BBC",
-      "talent": "",
-      "announcement": "Series renewed for Season 2 with plot shifting from land to sea and Element Pictures taking over production from Euston Films.",
+      "talent": "Unknown",
+      "announcement": "Series renewed for Season 2 at BBC with plot switching from land to sea and Element Pictures taking over production from Euston.",
       "sources": [
         {
           "name": "Deadline",
@@ -107,13 +107,9 @@
     {
       "title": "Dungeon Crawler Carl",
       "network": "Peacock",
-      "talent": "Seth MacFarlane (executive producer), Matt Dinniman (based on books by)",
-      "announcement": "TV series based on books ordered straight-to-series at Peacock from Seth MacFarlane's Fuzzy Door production company.",
+      "talent": "Seth MacFarlane (executive producer)",
+      "announcement": "Straight-to-series order at Peacock from Seth MacFarlane's Fuzzy Door production company.",
       "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/dungeon-crawler-carl-tv-series-peacock-seth-macfarlane-matt-dinniman-1236962525/"
-        },
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/dungeon-crawler-carl-series-peacock-1236625924/"
@@ -125,29 +121,41 @@
       ]
     },
     {
-      "title": "The Triplets",
-      "network": "Unknown",
-      "talent": "",
-      "announcement": "Catalan animation reboot of TV phenom 'The Triplets' in development as one of 10 upcoming Catalan animation titles to track.",
+      "title": "Pippi Longstocking",
+      "network": "StudioCanal",
+      "talent": "Unknown",
+      "announcement": "Animated TV series adaptation in the works at StudioCanal.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/the-triplets-tad-and-the-magic-lamp-superthings-1236785885/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/pippi-longstocking-tv-series-studiocanal-1236626116/"
         }
       ]
     },
     {
-      "title": "The Queens of 147",
-      "network": "Shanghai TV Festival",
-      "talent": "",
-      "announcement": "Women's snooker documentary heads to Shanghai TV Festival.",
+      "title": "Murder at the Mansion",
+      "network": "Unknown",
+      "talent": "Unknown",
+      "announcement": "Blink49's Brand Studio plans first vertical video project.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/festivals/womens-snooker-doc-queens-of-147-shanghai-tv-festival-1236785881/"
+          "url": "https://variety.com/2026/tv/news/blink49-vertical-video-murder-at-the-mansion-1236785712/"
+        }
+      ]
+    },
+    {
+      "title": "Romeo & Juliet, Reimagined",
+      "network": "Unknown",
+      "talent": "Gabrielle Faith Brown, Yolanthe Cabau",
+      "announcement": "MuVpix horizontal-vertical drama announces cast including Gabrielle Faith Brown and Yolanthe Cabau.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/romeo-juliet-reimagined-muvpix-gabrielle-faith-brown-1236959139/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-06-19T13:02:07.781Z"
+  "lastUpdated": "2026-06-19T20:27:00.687Z"
 }
