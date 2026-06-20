@@ -1,7 +1,24 @@
 {
   "date": "June 20, 2026",
-  "summary": "0 film announcements, 0 TV announcements across 5 trades.",
-  "film": [],
+  "summary": "1 film announcement, 0 TV announcements across 5 trades.",
+  "film": [
+    {
+      "title": "Minions & Monsters",
+      "studio": "Illumination",
+      "talent": "George Lucas (voice role)",
+      "announcement": "George Lucas has joined the voice cast of the animated film with a voice role.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/george-lucas-minions-monsters-1236963284/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/george-lucas-role-minions-and-monsters-illumination-1236786427/"
+        }
+      ]
+    }
+  ],
   "tv": [],
-  "lastUpdated": "2026-06-20T10:21:16.284Z"
+  "lastUpdated": "2026-06-20T20:07:11.265Z"
 }
