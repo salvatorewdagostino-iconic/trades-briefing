@@ -1,28 +1,44 @@
 {
   "date": "June 21, 2026",
-  "summary": "2 film announcements, 2 TV announcements across 5 trades.",
+  "summary": "3 film announcements, 6 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Yugly",
-      "studio": "nWave Pictures",
+      "title": "Artificial",
+      "studio": "MUBI",
       "talent": "",
-      "announcement": "Animation film sells wide ahead of Annecy World Premiere. nWave team discusses the quirky characters and European CG animation.",
+      "announcement": "MUBI is in talks to acquire Luca Guadagnino's 'Artificial' after Netflix, A24, and Focus passed on the Sam Altman-OpenAI project.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/global/yugly-nwave-snd-animation-annecy-2026-1236784958/"
+          "url": "https://variety.com/2026/film/global/luca-guadagnino-artificial-sam-altman-netflix-a24-mubi-1236786623/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/netflix-focus-pass-openai-sam-altman-movie-luca-guadagnino-1236626845/"
         }
       ]
     },
     {
-      "title": "Toxic",
+      "title": "Psychopomp",
       "studio": "",
-      "talent": "Yash",
-      "announcement": "Yash's action film set for August release during extended holiday window.",
+      "talent": "Kit Harington (director), Harry Melling (star)",
+      "announcement": "Kit Harington makes his directorial debut with 'Psychopomp,' starring Harry Melling.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/news/yashs-toxic-august-release-1236786521/"
+          "url": "https://variety.com/2026/film/global/kit-harington-harry-melling-directorial-debut-psychopomp-1236786445/"
+        }
+      ]
+    },
+    {
+      "title": "Yugly",
+      "studio": "nWave Pictures",
+      "talent": "",
+      "announcement": "nWave's animated film 'Yugly' has been sold wide ahead of its world premiere at Annecy.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/yugly-nwave-snd-animation-annecy-2026-1236784958/"
         }
       ]
     }
@@ -30,13 +46,17 @@
   "tv": [
     {
       "title": "Kevin",
-      "network": "Prime Video",
+      "network": "Amazon Prime Video",
       "talent": "Aubrey Plaza",
-      "announcement": "Series cancelled. Aubrey Plaza announces cancellation and expresses hope the show will find a new owner.",
+      "announcement": "Aubrey Plaza announces that 'Kevin' has been cancelled after its first season.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/06/aubrey-plaza-kevin-cancellation-hopes-find-new-owner-1236963369/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/aubrey-plaza-kevin-canceled-amazon-after-first-season-1236786639/"
         },
         {
           "name": "TheWrap",
@@ -45,17 +65,65 @@
       ]
     },
     {
-      "title": "Totally Spies Season 8",
-      "network": "Banijay Kids & Family",
-      "talent": "",
-      "announcement": "Banijay Kids & Family close Latin America distribution deals for Season 8.",
+      "title": "The Agency",
+      "network": "",
+      "talent": "Richard Gere (CIA Bureau Chief Bosko)",
+      "announcement": "Richard Gere signs on to play CIA Bureau Chief Bosko in 'The Agency' after initially turning down the role, following script rewrites.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/global/banijay-kids-family-totally-spies-wbd-1236786504/"
+          "url": "https://variety.com/2026/tv/global/richard-gere-bosko-the-agency-turned-down-rewrites-1236771414/"
+        }
+      ]
+    },
+    {
+      "title": "Let's Go Timmy!",
+      "network": "Aardman",
+      "talent": "",
+      "announcement": "Aardman unveils new stop-motion series 'Let's Go Timmy!' set in the Mossy Bottom universe.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/aardman-mossy-bottom-go-timmy-danger-delilah-annecy-1236963464/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/new-pokemon-timmy-series-upcoming-shorts-aardman-annecy-1236786337/"
+        }
+      ]
+    },
+    {
+      "title": "The (Almost) Untold Story of Danger Delilah",
+      "network": "Aardman",
+      "talent": "",
+      "announcement": "Aardman announces 'The (Almost) Untold Story of Danger Delilah' alongside other new animated projects.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/aardman-mossy-bottom-go-timmy-danger-delilah-annecy-1236963464/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/new-pokemon-timmy-series-upcoming-shorts-aardman-annecy-1236786337/"
+        }
+      ]
+    },
+    {
+      "title": "Pokémon Tales",
+      "network": "Aardman",
+      "talent": "",
+      "announcement": "Aardman provides fresh details on its 'Pokémon Tales' animated series.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/aardman-mossy-bottom-go-timmy-danger-delilah-annecy-1236963464/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/new-pokemon-timmy-series-upcoming-shorts-aardman-annecy-1236786337/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-06-21T11:33:47.697Z"
+  "lastUpdated": "2026-06-21T20:20:04.049Z"
 }
