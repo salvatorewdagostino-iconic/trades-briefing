@@ -1,13 +1,38 @@
 {
   "date": "June 21, 2026",
-  "summary": "0 film announcements, 1 TV announcement across 5 trades.",
-  "film": [],
+  "summary": "2 film announcements, 2 TV announcements across 5 trades.",
+  "film": [
+    {
+      "title": "Yugly",
+      "studio": "nWave Pictures",
+      "talent": "",
+      "announcement": "Animation film sells wide ahead of Annecy World Premiere. nWave team discusses the quirky characters and European CG animation.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/yugly-nwave-snd-animation-annecy-2026-1236784958/"
+        }
+      ]
+    },
+    {
+      "title": "Toxic",
+      "studio": "",
+      "talent": "Yash",
+      "announcement": "Yash's action film set for August release during extended holiday window.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/yashs-toxic-august-release-1236786521/"
+        }
+      ]
+    }
+  ],
   "tv": [
     {
       "title": "Kevin",
       "network": "Prime Video",
       "talent": "Aubrey Plaza",
-      "announcement": "Series has been cancelled. Aubrey Plaza announced the cancellation and expressed hope that the show will find a new owner in the future.",
+      "announcement": "Series cancelled. Aubrey Plaza announces cancellation and expresses hope the show will find a new owner.",
       "sources": [
         {
           "name": "Deadline",
@@ -18,7 +43,19 @@
           "url": "https://www.thewrap.com/industry-news/business/aubrey-plaza-kevin-canceled-prime-video-nbc-saved-parks-and-rec/"
         }
       ]
+    },
+    {
+      "title": "Totally Spies Season 8",
+      "network": "Banijay Kids & Family",
+      "talent": "",
+      "announcement": "Banijay Kids & Family close Latin America distribution deals for Season 8.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/banijay-kids-family-totally-spies-wbd-1236786504/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-06-21T10:23:15.990Z"
+  "lastUpdated": "2026-06-21T11:33:47.697Z"
 }
