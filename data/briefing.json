@@ -1,12 +1,84 @@
 {
   "date": "June 22, 2026",
-  "summary": "16 film announcements, 9 TV announcements across 5 trades.",
+  "summary": "13 film announcements, 11 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Lego Movie (Live-Action Hybrid)",
+      "title": "Exposure",
+      "studio": "Warner Bros.",
+      "talent": "Barbara Muschietti, Andy Muschietti (producers)",
+      "announcement": "Warner Bros. acquired the erotic thriller short story and will adapt it for film with Barbara and Andy Muschietti producing.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/exposure-story-erika-vazquez-siena-butterfield-sells-to-warner-bros-1236964314/"
+        }
+      ]
+    },
+    {
+      "title": "Rubber Hut",
+      "studio": "",
+      "talent": "Grace Van Patten, Will Harrison",
+      "announcement": "Will Harrison joins Grace Van Patten in director Hanna Gray Organschi's film.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/rubber-hut-movie-will-harrison-cast-grace-van-patten-1236964272/"
+        }
+      ]
+    },
+    {
+      "title": "Seasons",
+      "studio": "Amazon MGM Studios",
+      "talent": "Lily James (star), Drew Hancock (director)",
+      "announcement": "Lily James to star in the horror-thriller from Companion director Drew Hancock.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/lily-james-to-star-seasons-drew-hancock-amazon-mgm-1236964258/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/lily-james-amazon-mgm-seasons-1236787391/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/lily-james-amazon-mgm-seasons-1236627581/"
+        }
+      ]
+    },
+    {
+      "title": "Klara and the Sun",
+      "studio": "",
+      "talent": "Jenna Ortega, Amy Adams, Taika Waititi (director)",
+      "announcement": "Trailer released for Taika Waititi's adaptation starring Jenna Ortega as an artificial friend.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/klara-and-the-sun-trailer-jenna-ortega-amy-adams-1236964146/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/klara-and-the-sun-trailer-jenna-ortega-amy-adams-waititi-1236627419/"
+        }
+      ]
+    },
+    {
+      "title": "F1: The Movie",
+      "studio": "",
+      "talent": "Jerry Bruckheimer (producer), Eddy Cue",
+      "announcement": "Producer Jerry Bruckheimer and Eddy Cue expressed hopefullness about a sequel and Bruckheimer teased an upcoming UFO thriller.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/eddy-cue-jerry-bruckheimer-f1-movie-sequel-update-1236964024/"
+        }
+      ]
+    },
+    {
+      "title": "Lego Movie (Hybrid)",
       "studio": "Universal",
       "talent": "Keanu Reeves (star), Josh Cooley (director)",
-      "announcement": "Keanu Reeves is in talks to star in a new live-action hybrid Lego movie directed by Josh Cooley, reuniting the Toy Story 4 director and actor.",
+      "announcement": "Keanu Reeves in talks to star in a live-action hybrid Lego movie directed by Toy Story 4 director Josh Cooley.",
       "sources": [
         {
           "name": "Deadline",
@@ -17,20 +89,32 @@
           "url": "https://variety.com/2026/film/news/keanu-reeves-lego-movie-toy-story-4-director-josh-cooley-1236787428/"
         },
         {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/keanu-reeves-lego-movie-josh-cooley-universal/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/keanu-reeves-lego-hybrid-movie-universal-1236627426/"
+        }
+      ]
+    },
+    {
+      "title": "Bad Fairies",
+      "studio": "",
+      "talent": "Cynthia Erivo, Ncuti Gatwa, Serrana Su-Ling Bliss (voice cast)",
+      "announcement": "Voice cast announced for the animated film including additions to the previously announced leads.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/bad-fairies-adds-voice-cast-serrana-su-ling-bliss-1236963665/"
         }
       ]
     },
     {
       "title": "Freddy the 13th",
-      "studio": "Paramount Animation",
-      "talent": "Dan Trachtenberg (director), Yehudi Mercado (based on)",
-      "announcement": "Director Dan Trachtenberg is set to direct an animated comedy-horror film based on Yehudi Mercado's 'Freddy the 13th' for Paramount Animation.",
+      "studio": "Paramount",
+      "talent": "Dan Trachtenberg (director)",
+      "announcement": "Paramount greenlit an animated horror-comedy with Predator: Badlands director Dan Trachtenberg attached to direct.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/dan-trachtenberg-yehudi-mercado-freddy-13th-paramount-1236963894/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/freddy-13th-movie-paramount-1236787413/"
         },
         {
           "name": "Hollywood Reporter",
@@ -43,216 +127,96 @@
       ]
     },
     {
-      "title": "Powerpuff Girls",
-      "studio": "Warner Bros.",
-      "talent": "",
-      "announcement": "Warner Bros. is in talks to acquire the rights to 'Powerpuff Girls' and is eyeing an animated feature adaptation.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/powerpuff-girls-movie-1236964044/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/powerpuff-girls-movie-warner-bros-1236787216/"
-        }
-      ]
-    },
-    {
-      "title": "Not Alone",
-      "studio": "Illumination/Universal",
-      "talent": "Timothée Chalamet (voice), Selena Gomez (voice)",
-      "announcement": "Timothée Chalamet and Selena Gomez are set to voice lead characters in Illumination's animated alien movie 'Not Alone'.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/timothee-chalamet-selena-gomez-animated-movie-not-alone-1236963881/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/timothee-chalamet-selena-gomez-not-alone-animation-annecy-1236626962/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/timothee-chalamet-selena-gomez-not-alone-illumination/"
-        }
-      ]
-    },
-    {
       "title": "Are They Gone Yet?",
       "studio": "Skydance Sports",
-      "talent": "Ice Cube (star), Nia Long (star)",
-      "announcement": "Ice Cube and Nia Long are reuniting for a third installment in the 'Are We There Yet?' franchise, titled 'Are They Gone Yet?', in development at Skydance Sports.",
+      "talent": "Ice Cube, Nia Long",
+      "announcement": "Ice Cube and Nia Long reunite for a sequel to Are We There Yet? at Skydance Sports.",
       "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/ice-cube-nia-long-are-they-gone-yet-in-works-skydance-sports-1236962537/"
-        },
         {
           "name": "Variety",
           "url": "https://variety.com/2026/film/news/ice-cube-nia-long-are-we-there-yet-sequel-are-they-gone-yet-1236787368/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/keanu-reeves-lego-movie-josh-cooley-universal/"
         }
       ]
     },
     {
-      "title": "Bad Fairies",
-      "studio": "",
-      "talent": "Cynthia Erivo (voice), Ncuti Gatwa (voice), James Acaster (voice), Serrana Su-Ling Bliss (voice), Dee Bradley Baker (voice)",
-      "announcement": "Voice cast additions announced for animated project 'Bad Fairies', including Cynthia Erivo, Ncuti Gatwa, James Acaster, Serrana Su-Ling Bliss, and Dee Bradley Baker.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/bad-fairies-adds-voice-cast-serrana-su-ling-bliss-1236963665/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/bad-fairies-casting-james-acaster-serrana-su-ling-bliss-1236626747/"
-        }
-      ]
-    },
-    {
-      "title": "Prehistoria",
-      "studio": "Warner Bros. Pictures Animation",
-      "talent": "Vivienne 'VivziePop' Medrano (writer, director)",
-      "announcement": "Animator Vivienne 'VivziePop' Medrano is making her feature directorial debut with 'Prehistoria', an animated musical for Warner Bros. Pictures Animation.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/vivienne-vivziepop-medrano-to-write-direct-animated-feature-1236626751/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/prehistoria-vivienne-medrano-hazbin-hotel-warner-bros-pictures-animation/"
-        }
-      ]
-    },
-    {
-      "title": "Ballerina (Leap! Sequel)",
-      "studio": "Good Hero",
+      "title": "Daffy Season",
+      "studio": "Warner Bros.",
       "talent": "",
-      "announcement": "A sequel to the animated film 'Leap!' (also known as 'Ballerina') has been greenlit as Good Hero expands the animated franchise.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/leap-sequel-greenlit-french-animated-ballerina-feature-1236626756/"
-        }
-      ]
-    },
-    {
-      "title": "Forty Love",
-      "studio": "Studiocanal",
-      "talent": "Romeo Beckham (acting debut)",
-      "announcement": "Romeo Beckham is making his acting debut in the tennis romance 'Forty Love' at Studiocanal.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/romeo-beckham-acting-debut-tennis-romance-forty-love-1236787246/"
-        }
-      ]
-    },
-    {
-      "title": "Dynamic Duo",
-      "studio": "Warner Bros./DC Studios",
-      "talent": "",
-      "announcement": "First footage from Warner Bros. and DC Studios' 'Dynamic Duo' has been revealed, promising a bold superhero tale.",
+      "announcement": "First theatrical Looney Tunes short in over a decade from Warner Bros. Animation.",
       "sources": [
         {
           "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/dynamic-duo-first-footage-description-warner-bros-dc-studios/"
+          "url": "https://www.thewrap.com/creative-content/movies/daffy-season-new-looney-tunes-short-explained/"
         }
       ]
     },
     {
-      "title": "The Devils",
-      "studio": "Warner Bros. (Clockwork)",
-      "talent": "Ken Russell (director)",
-      "announcement": "Ken Russell's long-censored film 'The Devils' is set to finally hit cinemas via Warner Bros.' Clockwork label.",
+      "title": "Half Man",
+      "studio": "",
+      "talent": "Jamie Bell, Richard Gadd (creator/writer)",
+      "announcement": "Jamie Bell discusses creating the dark world of the film with Richard Gadd.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/the-devils-teaser-ken-russell-warner-bros-clockwork-1236963932/"
-        },
-        {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/news/trailers/the-devils-restoration-trailer-ken-russell-1235201417/"
+          "url": "https://deadline.com/2026/06/jamie-bell-on-half-man-with-richard-gadd-1236964204/"
         }
       ]
     },
     {
-      "title": "Klara and the Sun",
-      "studio": "",
-      "talent": "Jenna Ortega (star), Taika Waititi (director)",
-      "announcement": "Trailer released for Taika Waititi's sci-fi adaptation 'Klara and the Sun' starring Jenna Ortega as a robot friend.",
+      "title": "Flat Earth",
+      "studio": "Vice Studios",
+      "talent": "Sam Zvibleman (adapter), Anika Jade Levy (source author)",
+      "announcement": "Pen15 co-creator Sam Zvibleman to adapt Anika Jade Levy's novel for Vice Studios.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/klara-and-the-sun-trailer-jenna-ortega-taika-waititi-1235997680/"
-        }
-      ]
-    },
-    {
-      "title": "Boyhood",
-      "studio": "",
-      "talent": "Richard Linklater (director)",
-      "announcement": "Richard Linklater's 'Boyhood', the epic drama that took 12 years to make, is returning to theaters for its 12th anniversary.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/richard-linklater-boyhood-returning-theaters-12th-anniversary-1236787059/"
-        }
-      ]
-    },
-    {
-      "title": "F1: The Movie (Sequel)",
-      "studio": "",
-      "talent": "Jerry Bruckheimer (producer), Eddy Cue (Apple TV+)",
-      "announcement": "Eddy Cue and Jerry Bruckheimer expressed optimism about a potential sequel to 'F1: The Movie'.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/eddy-cue-jerry-bruckheimer-f1-movie-sequel-update-1236964024/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/flat-earth-novel-tv-show-anika-jade-levy-sam-zvibleman-vice-1236627166/"
         }
       ]
     },
     {
       "title": "The Invite",
       "studio": "",
-      "talent": "Olivia Wilde (director)",
-      "announcement": "Review coverage for Olivia Wilde's new film 'The Invite', a thriller described as a crackling dinner party from hell.",
+      "talent": "Olivia Wilde (director), Rashida Jones, Will McCormack (screenwriters)",
+      "announcement": "Olivia Wilde directs the dinner party thriller with Rashida Jones and Will McCormack as screenwriters.",
       "sources": [
         {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/criticism/movies/the-invite-review-olivia-wilde-1235174788/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/the-invite-movie-rashida-jones-will-mccormack-screenwriters-1236787569/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "Bishop",
-      "network": "Prime Video",
-      "talent": "Michael Uppendahl (director, pilot)",
-      "announcement": "Michael Uppendahl is set to direct the pilot episode of Prime Video's series 'Bishop'.",
+      "title": "Little Brother",
+      "network": "Netflix",
+      "talent": "Eric André",
+      "announcement": "Eric André's new Netflix comedy series discussed in podcast interview.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/michael-uppendahl-direct-prime-video-bishop-pilot-1236964065/"
+          "url": "https://deadline.com/2026/06/eric-andre-jackie-chan-little-brother-comedy-means-business-1236964407/"
         }
       ]
     },
     {
-      "title": "Task",
-      "network": "HBO",
-      "talent": "",
-      "announcement": "HBO's 'Task' has set an all-women directing team for Season 2.",
+      "title": "Hot Ones: Extra Heat",
+      "network": "Netflix",
+      "talent": "Sean Evans, Will Ferrell",
+      "announcement": "Netflix spinoff of Hot Ones expands the franchise with a new series.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/task-season-2-women-directors-hbo-1236958701/"
+          "url": "https://deadline.com/2026/06/netflix-hot-ones-spinoff-1236964267/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/hot-ones-netflix-extra-heat-spinoff-1236627608/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/streaming/netflix-hot-ones-extra-heat-parternship-sean-evans-will-ferrell/"
         }
       ]
     },
@@ -260,15 +224,11 @@
       "title": "Gabby's Dollhouse (Competition Series)",
       "network": "Netflix",
       "talent": "",
-      "announcement": "Netflix has ordered a competition series based on 'Gabby's Dollhouse'.",
+      "announcement": "Netflix ordered a competition series spinoff of Gabby's Dollhouse.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/06/gabbys-dollhouse-competition-series-netflix-1236963960/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/gabbys-dollhouse-competition-show-netflix-1236786855/"
         },
         {
           "name": "Hollywood Reporter",
@@ -283,8 +243,8 @@
     {
       "title": "Sin Filtro",
       "network": "Vix",
-      "talent": "Ninel Conde (cast)",
-      "announcement": "Vix has cast Ninel Conde in a new installment of 'Sin Filtro'.",
+      "talent": "Ninel Conde",
+      "announcement": "Vix set Ninel Conde for a new installment of the Sin Filtro series.",
       "sources": [
         {
           "name": "Deadline",
@@ -293,10 +253,34 @@
       ]
     },
     {
+      "title": "Bishop",
+      "network": "Prime Video",
+      "talent": "Michael Uppendahl (director)",
+      "announcement": "Michael Uppendahl to direct the pilot episode of the Prime Video series.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/michael-uppendahl-direct-prime-video-bishop-pilot-1236964065/"
+        }
+      ]
+    },
+    {
+      "title": "Task",
+      "network": "HBO",
+      "talent": "",
+      "announcement": "Season 2 sets all-women directing team.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/task-season-2-women-directors-hbo-1236958701/"
+        }
+      ]
+    },
+    {
       "title": "Alley Cats",
       "network": "Netflix",
       "talent": "Ricky Gervais (voice)",
-      "announcement": "Netflix released a trailer for animated series 'Alley Cats' featuring Ricky Gervais voicing a foul-mouthed feline.",
+      "announcement": "Trailer released for Netflix animated series starring Ricky Gervais as a foul-mouthed feline.",
       "sources": [
         {
           "name": "Deadline",
@@ -313,34 +297,34 @@
       ]
     },
     {
-      "title": "Mog's Bad Thing",
-      "network": "Channel 4",
-      "talent": "Benedict Cumberbatch (voice), Claire Foy (voice), Lupus Films (producer)",
-      "announcement": "Benedict Cumberbatch and Claire Foy are set to voice an animated special 'Mog's Bad Thing' for Channel 4 from Lupus Films.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/global/benedict-cumberbatch-claire-foy-mogs-bad-thing-1236777455/"
-        }
-      ]
-    },
-    {
-      "title": "The Golden Valley",
+      "title": "The Great White",
       "network": "",
-      "talent": "Tamsin Egerton (cast), Trevor Eve (cast)",
-      "announcement": "Comedy-drama 'The Golden Valley' is in development with Tamsin Egerton and Trevor Eve.",
+      "talent": "Hugo Weaving, Eamon Farren, Arlo Green, Miranda Otto, Sacha Horler",
+      "announcement": "Australian legal drama from See-Saw Films adds Eamon Farren, Arlo Green, Miranda Otto and Sacha Horler to cast alongside Hugo Weaving.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/global/the-golden-valley-tamsin-egerton-trevor-eve-1236787296/"
+          "url": "https://variety.com/2026/tv/global/see-saw-australian-legal-drama-the-great-white-filming-1236787149/"
         }
       ]
     },
     {
-      "title": "Crowd Control (Season 2)",
+      "title": "Conviction",
+      "network": "Hulu",
+      "talent": "Elisabeth Moss, Kevin McKidd",
+      "announcement": "Kevin McKidd joins Elisabeth Moss in the Hulu legal drama.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/kevin-mckidd-conviction-hulu-legal-drama-elisabeth-moss-1236787414/"
+        }
+      ]
+    },
+    {
+      "title": "Crowd Control",
       "network": "Dropout",
-      "talent": "Nicole Byer (cast), Cameron Esposito (cast), Taylor Tomlinson (cast), Bobby Moynihan (cast)",
-      "announcement": "Season 2 cast announced for 'Crowd Control', the 'Game Changer' spinoff, including Nicole Byer, Cameron Esposito, Taylor Tomlinson, and Bobby Moynihan.",
+      "talent": "Nicole Byer, Cameron Esposito, Taylor Tomlinson, Bobby Moynihan",
+      "announcement": "Game Changer spinoff announces Season 2 cast including Nicole Byer, Cameron Esposito, Taylor Tomlinson, and Bobby Moynihan.",
       "sources": [
         {
           "name": "Variety",
@@ -349,17 +333,17 @@
       ]
     },
     {
-      "title": "Kevin",
-      "network": "Prime Video",
-      "talent": "Aubrey Plaza (star)",
-      "announcement": "Aubrey Plaza's animated series 'Kevin' has been canceled at Amazon's Prime Video.",
+      "title": "My Two Cars",
+      "network": "Adult Swim",
+      "talent": "",
+      "announcement": "Opening to new Adult Swim series released.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/kevin-animated-series-canceled-prime-video-aubrey-plaza-1236626863/"
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/my-two-cars-opening-adult-swim/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-06-22T17:58:26.464Z"
+  "lastUpdated": "2026-06-22T22:23:26.194Z"
 }
