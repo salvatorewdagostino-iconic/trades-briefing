@@ -1,12 +1,28 @@
 {
   "date": "June 23, 2026",
-  "summary": "12 film announcements, 6 TV announcements across 5 trades.",
+  "summary": "8 film announcements, 5 TV announcements across 5 trades.",
   "film": [
+    {
+      "title": "Summoner",
+      "studio": "Amazon MGM",
+      "talent": "Kevin Bacon",
+      "announcement": "Kevin Bacon set to star in horror thriller directed by Jeremy Slater.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/kevin-bacon-to-star-summoner-horror-film-amazon-mgm-1236964665/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/kevin-bacon-jeremy-slater-horror-summoner-1236628091/"
+        }
+      ]
+    },
     {
       "title": "Forgotten Island",
       "studio": "DreamWorks",
-      "talent": "Lea Salonga (voice, main villain)",
-      "announcement": "DreamWorks animated film with Lea Salonga cast as main villain. Creators discuss their love letter to Filipino culture.",
+      "talent": "Lea Salonga (voice)",
+      "announcement": "DreamWorks animated film casts Filipina superstar Lea Salonga as main villain in project described as a love letter to Filipino culture.",
       "sources": [
         {
           "name": "Deadline",
@@ -15,22 +31,10 @@
       ]
     },
     {
-      "title": "Monster Mia",
-      "studio": "",
-      "talent": "",
-      "announcement": "Set for coordinated 2,700-screen Halloween release across Europe.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/monster-mia-2700-screen-halloween-rollout-europe-annecy-1236964864/"
-        }
-      ]
-    },
-    {
       "title": "Berlinweh – Yearning for a Home",
       "studio": "",
-      "talent": "Agnieszka Holland (director)",
-      "announcement": "Marlene Dietrich biopic with Agnieszka Holland attached to direct.",
+      "talent": "Director: Agnieszka Holland",
+      "announcement": "Director Agnieszka Holland to helm Marlene Dietrich biopic.",
       "sources": [
         {
           "name": "Deadline",
@@ -45,8 +49,8 @@
     {
       "title": "Twisted",
       "studio": "",
-      "talent": "Lino DiSalvo (animator, from Disney's Frozen)",
-      "announcement": "Upcoming indie animated feature with Lino DiSalvo involved in animation production.",
+      "talent": "Lino DiSalvo (director/animator)",
+      "announcement": "Former Disney animator Lino DiSalvo goes behind the scenes as director of indie animated feature.",
       "sources": [
         {
           "name": "Deadline",
@@ -55,75 +59,15 @@
       ]
     },
     {
-      "title": "Summoner",
-      "studio": "Amazon MGM",
-      "talent": "Kevin Bacon (star)",
-      "announcement": "Kevin Bacon cast in horror thriller from Jeremy Slater.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/kevin-bacon-to-star-summoner-horror-film-amazon-mgm-1236964665/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/kevin-bacon-jeremy-slater-horror-summoner-1236628091/"
-        }
-      ]
-    },
-    {
-      "title": "Steps",
-      "studio": "Netflix",
-      "talent": "",
-      "announcement": "Netflix animation feature sneak peeked at Annecy, focusing on Cinderella's so-called evil sisters.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/steps-netflix-animation-annecy-hsu-wong-middler-seyfried-1236787924/"
-        }
-      ]
-    },
-    {
-      "title": "Mio",
-      "studio": "",
-      "talent": "Jonathan Berlin (director, feature debut), Taddeo Kufus, Barbara Auer, Godehard Giese (cast)",
-      "announcement": "German actor Jonathan Berlin's directorial feature debut with ensemble cast announced.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/german-actor-jonathan-berlin-directorial-feature-debut-mio-1236787994/"
-        }
-      ]
-    },
-    {
-      "title": "Taste of Water",
-      "studio": "",
-      "talent": "",
-      "announcement": "Animated documentary on Japan's sake culture from Supersub and Toonz Media Group.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/festivals/animated-sake-documentary-taste-of-water-supersub-toonz-1236786997/"
-        }
-      ]
-    },
-    {
-      "title": "Monkey Quest",
-      "studio": "Toei Animation",
-      "talent": "",
-      "announcement": "Japan-U.S. animation collaboration from Toei Animation showcased at Annecy.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/toei-animation-monkey-quest-1236787858/"
-        }
-      ]
-    },
-    {
       "title": "Kung Fu Soccer",
       "studio": "",
-      "talent": "",
-      "announcement": "Stephen Chow's Shaolin Soccer spinoff lands worldwide distribution rights deal.",
+      "talent": "Director: Stephen Chow",
+      "announcement": "Stephen Chow closes international rights deal for Shaolin Soccer spinoff, marking his return to the sport genre over two decades later.",
       "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/stephen-chow-kung-fu-soccer-international-rights-1236788065/"
+        },
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/stephen-chows-shaolin-soccer-spin-off-kung-fu-soccer-1236628114/"
@@ -132,9 +76,9 @@
     },
     {
       "title": "I Know Who You Are",
-      "studio": "",
-      "talent": "Feng Xiaogang (filmmaker)",
-      "announcement": "China Lion takes Feng Xiaogang's film for North American distribution.",
+      "studio": "China Lion",
+      "talent": "Director: Feng Xiaogang",
+      "announcement": "China Lion takes North American distribution rights for Feng Xiaogang's film.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -143,36 +87,36 @@
       ]
     },
     {
-      "title": "Rogue Trooper",
+      "title": "Mio",
       "studio": "",
-      "talent": "Duncan Jones (director)",
-      "announcement": "Independent comic book adaptation directed by Duncan Jones.",
+      "talent": "Director: Jonathan Berlin; Cast: Taddeo Kufus, Barbara Auer, Godehard Giese",
+      "announcement": "German actor Jonathan Berlin makes his directorial feature debut with Mio.",
       "sources": [
         {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/rogue-trooper-review-duncan-jones/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/german-actor-jonathan-berlin-directorial-feature-debut-mio-1236787994/"
+        }
+      ]
+    },
+    {
+      "title": "Steps",
+      "studio": "Netflix",
+      "talent": "",
+      "announcement": "Netflix animated film adaptation sneak peeked at Annecy, focusing on Cinderella's so-called evil sisters.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/steps-netflix-animation-annecy-hsu-wong-middler-seyfried-1236787924/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "Possession",
-      "network": "Sky",
-      "talent": "Gugu Mbatha-Raw (lead)",
-      "announcement": "Limited series led by Gugu Mbatha-Raw set between Bristol and Jamaica.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/possession-gugu-mbatha-sky-bristol-jamaica-1236964842/"
-        }
-      ]
-    },
-    {
       "title": "The Young Magicians",
       "network": "BBC Studios",
-      "talent": "Nick Mohammed (creator/adapting from his books), Blink Industries (co-producer)",
-      "announcement": "Animated series from Ted Lasso star Nick Mohammed's Young Magicians kids books with BBC Studios and Blink Industries.",
+      "talent": "Nick Mohammed (based on his book series)",
+      "announcement": "Ted Lasso star Nick Mohammed developing animated series from his Young Magicians kids books with BBC Studios and Blink Industries.",
       "sources": [
         {
           "name": "Deadline",
@@ -181,26 +125,14 @@
       ]
     },
     {
-      "title": "Anon Pls",
-      "network": "HBO Max",
-      "talent": "Ryan O'Connell (creator/involved)",
-      "announcement": "DeuxMoi adaptation series cancelled; Ryan O'Connell confirms project 'is over' and did not move forward.",
+      "title": "Possession",
+      "network": "Sky",
+      "talent": "Gugu Mbatha-Raw",
+      "announcement": "Gugu Mbatha-Raw leads Sky's limited series set between Bristol and Jamaica.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/ryan-oconnell-deuxmoi-anon-pls-adaptation-update-hbo-max-1236964754/"
-        }
-      ]
-    },
-    {
-      "title": "The Circle",
-      "network": "Hulu",
-      "talent": "Michelle Buteau (not returning as host)",
-      "announcement": "Michelle Buteau will not return as host for Hulu's reboot of The Circle.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/michelle-buteau-host-the-circle-reboot-hulu-1236964612/"
+          "url": "https://deadline.com/2026/06/possession-gugu-mbatha-sky-bristol-jamaica-1236964842/"
         }
       ]
     },
@@ -208,7 +140,7 @@
       "title": "Please Hag",
       "network": "ADN",
       "talent": "",
-      "announcement": "South Korean webtoon adaptation with Passion Paris joining ADN for production.",
+      "announcement": "Passion Paris joins ADN for South Korean Webtoon adaptation of Please Hag.",
       "sources": [
         {
           "name": "Variety",
@@ -217,17 +149,29 @@
       ]
     },
     {
-      "title": "The Traitors: Anywhere",
-      "network": "",
+      "title": "Join the Club",
+      "network": "Walmart",
       "talent": "",
-      "announcement": "WhatsApp-based game launched allowing fans to play The Traitors at home.",
+      "announcement": "Walmart launches new TV series Join the Club for Vizio users.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/digital/global/the-traitors-anywhere-whatsapp-game-1236772319/"
+          "url": "https://variety.com/2026/tv/news/walmarts-tv-shows-join-the-club-backyard-escapes-vizio-1236787676/"
+        }
+      ]
+    },
+    {
+      "title": "Backyard Escapes",
+      "network": "Walmart",
+      "talent": "",
+      "announcement": "Walmart launches new TV series Backyard Escapes for Vizio users.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/walmarts-tv-shows-join-the-club-backyard-escapes-vizio-1236787676/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-06-23T10:49:10.977Z"
+  "lastUpdated": "2026-06-23T11:44:26.942Z"
 }
