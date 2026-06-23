@@ -1,12 +1,12 @@
 {
   "date": "June 23, 2026",
-  "summary": "11 film announcements, 10 TV announcements across 5 trades.",
+  "summary": "12 film announcements, 10 TV announcements across 5 trades.",
   "film": [
     {
       "title": "Magic School Bus",
       "studio": "Legendary",
-      "talent": "Elizabeth Banks as Ms. Frizzle, Rob Letterman (Director)",
-      "announcement": "Legendary is developing a live-action adaptation of Magic School Bus with Elizabeth Banks set to play Ms. Frizzle and Detective Pikachu director Rob Letterman attached to direct.",
+      "talent": "Elizabeth Banks as Ms. Frizzle; Rob Letterman directing",
+      "announcement": "Legendary developing live-action adaptation of Magic School Bus with Elizabeth Banks set to play Ms. Frizzle and Detective Pikachu director Rob Letterman to direct.",
       "sources": [
         {
           "name": "Deadline",
@@ -27,34 +27,22 @@
       ]
     },
     {
-      "title": "Untitled Daniels Event Pic",
-      "studio": "",
-      "talent": "Sean Kaufman, Matt Damon",
-      "announcement": "Sean Kaufman from The Summer I Turned Pretty is set to star opposite Matt Damon in a Daniels event film.",
+      "title": "Homewreckers",
+      "studio": "Legendary",
+      "talent": "Glen Powell; Craig Gillespie in talks to direct",
+      "announcement": "Craig Gillespie in talks to direct sci-fi thriller Homewreckers starring Glen Powell.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/the-summer-you-turned-pretty-sean-kaufman-matt-damon-daniels-1236964575/"
-        }
-      ]
-    },
-    {
-      "title": "The Girlfriend",
-      "studio": "XYZ Films, 21 Laps",
-      "talent": "Meghann Fahy, Glenn Howerton, Natalie Morales (Director)",
-      "announcement": "Meghann Fahy and Glenn Howerton are set to star in The Girlfriend from director Natalie Morales, produced by XYZ Films and 21 Laps.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/meghann-fahy-glenn-howerton-the-girlfriend-natalie-morales-1236964917/"
+          "url": "https://deadline.com/2026/06/craig-gillespie-circling-homewreckers-legendary-1236965232/"
         }
       ]
     },
     {
       "title": "Summoner",
       "studio": "Amazon MGM",
-      "talent": "Kevin Bacon, Jeremy Slater (Writer/Producer)",
-      "announcement": "Kevin Bacon is set to star in the horror film Summoner from Amazon MGM, written and produced by Jeremy Slater.",
+      "talent": "Kevin Bacon",
+      "announcement": "Kevin Bacon set to star in horror film Summoner from Jeremy Slater at Amazon MGM.",
       "sources": [
         {
           "name": "Deadline",
@@ -63,78 +51,34 @@
       ]
     },
     {
+      "title": "The Summer I Turned Pretty",
+      "studio": "Daniels",
+      "talent": "Sean Kaufman, Matt Damon",
+      "announcement": "Sean Kaufman, star of The Summer I Turned Pretty, cast opposite Matt Damon in Daniels Event Pic.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/the-summer-you-turned-pretty-sean-kaufman-matt-damon-daniels-1236964575/"
+        }
+      ]
+    },
+    {
       "title": "The Drama",
-      "studio": "HBO Max",
+      "studio": "HBO Max / A24",
       "talent": "Zendaya, Robert Pattinson",
-      "announcement": "The Drama featuring Zendaya and Robert Pattinson has received a streaming premiere date on HBO Max.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/the-drama-hbo-max-premiere-date-zendaya-robert-pattinson-1236964994/"
-        }
-      ]
-    },
-    {
-      "title": "The Devil Wears Prada 2",
-      "studio": "Disney+, Hulu",
-      "talent": "",
-      "announcement": "The Devil Wears Prada 2 has booked a streaming release date on Disney+ and Hulu with DVD-Digital Bundle extras revealed.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/the-devil-wears-prada-2-streaming-disney-plus-hulu-dvd-extras-1236964982/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/devil-wears-prada-2-disney-plus-streaming-release-date-1236757274/"
-        }
-      ]
-    },
-    {
-      "title": "Never Stop Chasing",
-      "studio": "Abramorama",
-      "talent": "Reed Timmer (Subject)",
-      "announcement": "Abramorama is set to release the documentary Never Stop Chasing about storm and tornado chaser Reed Timmer.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/reed-timmer-storm-chaser-documentary-abramorama-1236964915/"
-        }
-      ]
-    },
-    {
-      "title": "The Debut",
-      "studio": "A24",
-      "talent": "Jesse Eisenberg, Julianne Moore, Paul Giamatti",
-      "announcement": "The Debut, a follow-up to Jesse Eisenberg's A Real Pain, has released its first trailer featuring Eisenberg, Julianne Moore, and Paul Giamatti.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/the-debut-trailer-jesse-eisenberg-a24-film-gets-first-look-1236964489/"
-        },
-        {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/news/trailers/the-debut-movie-trailer-julianne-moore-jesse-eisenberg-1235201503/"
-        }
-      ]
-    },
-    {
-      "title": "The Dink",
-      "studio": "Apple",
-      "talent": "Jake Johnson, Ben Stiller",
-      "announcement": "The Dink, an Apple film about pickleball featuring Jake Johnson and Ben Stiller, has released its trailer.",
+      "announcement": "Zendaya and Robert Pattinson's The Drama sets streaming debut on HBO Max.",
       "sources": [
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/the-dink-trailer-jake-johnson-ben-stiller-pickleball-apple-1236628090/"
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/the-drama-zendaya-robert-pattinson-streaming-hbo-max-a24-1236628545/"
         }
       ]
     },
     {
       "title": "Blair Witch",
       "studio": "",
-      "talent": "",
-      "announcement": "A Blair Witch Project remake has set a 2027 release date.",
+      "talent": "Dylan Clark producing",
+      "announcement": "Blair Witch reboot lands 2027 release date.",
       "sources": [
         {
           "name": "Variety",
@@ -151,28 +95,168 @@
       ]
     },
     {
+      "title": "The Dink",
+      "studio": "Apple",
+      "talent": "Jake Johnson, Ben Stiller",
+      "announcement": "Apple releases trailer for pickleball comedy The Dink starring Jake Johnson and Ben Stiller.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/the-dink-trailer-jake-johnson-ben-stiller-pickleball-1236965212/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/the-dink-trailer-jake-johnson-ben-stiller-pickleball-apple-1236628090/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/digger-first-look-tom-cruise-footage/"
+        }
+      ]
+    },
+    {
       "title": "Supergirl",
-      "studio": "DC Universe",
-      "talent": "David Ellison (Producer)",
-      "announcement": "Supergirl producer David Ellison has met with DC Universe heads James Gunn and Peter Safran, who are open to the project.",
+      "studio": "Warner Bros. / DC",
+      "talent": "Milly Alcock",
+      "announcement": "Supergirl producer David Ellison has met with James Gunn and Peter Safran regarding the DC Universe project.",
       "sources": [
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/supergirl-david-ellison-james-gunn-peter-safran-dc-universe-1236628457/"
         }
       ]
+    },
+    {
+      "title": "Rogue Trooper",
+      "studio": "",
+      "talent": "Duncan Jones directing",
+      "announcement": "Independent comic book adaptation Rogue Trooper by director Duncan Jones premieres at Annecy.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/rogue-trooper-star-tackles-mugger-annecy-1236965238/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/rogue-trooper-review-duncan-jones/"
+        }
+      ]
+    },
+    {
+      "title": "Digger",
+      "studio": "",
+      "talent": "Tom Cruise",
+      "announcement": "Tom Cruise celebrates 46 years in movies with retrospective clip featuring new Digger footage.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/film-news-in-brief-june-22-2026-1236787254/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/digger-first-look-tom-cruise-footage/"
+        }
+      ]
+    },
+    {
+      "title": "The Debut",
+      "studio": "A24",
+      "talent": "Julianne Moore, Jesse Eisenberg",
+      "announcement": "A24 backstage comedy The Debut stars Julianne Moore as a flailing community theater actress with Jesse Eisenberg directing.",
+      "sources": [
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/trailers/the-debut-movie-trailer-julianne-moore-jesse-eisenberg-1235201503/"
+        }
+      ]
+    },
+    {
+      "title": "Sheep in the Box",
+      "studio": "",
+      "talent": "Hirokazu Koreeda directing",
+      "announcement": "Hirokazu Koreeda's sci-fi grief drama Sheep in the Box explores imagination in the AI age.",
+      "sources": [
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/trailers/sheep-in-the-box-trailer-hirokazu-koreeda-1235201597/"
+        }
+      ]
     }
   ],
   "tv": [
     {
-      "title": "Little House on the Prairie",
-      "network": "",
-      "talent": "",
-      "announcement": "Little House on the Prairie showrunner teases Season 2 production details and discusses how women settled the West.",
+      "title": "Monsterverse",
+      "network": "Apple",
+      "talent": "Wyatt Russell; Millie Brady, Pilou Asbaek cast; JD Dillard directing pilot",
+      "announcement": "Apple Monsterverse series casts Millie Brady and Pilou Asbaek with JD Dillard to direct the pilot.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/little-house-on-the-prairie-season-2-production-bentonville-1236964555/"
+          "url": "https://deadline.com/2026/06/apple-monsterverse-series-cast-millie-brady-pilou-asbaek-1236965407/"
+        }
+      ]
+    },
+    {
+      "title": "Thunder Road",
+      "network": "AMC",
+      "talent": "Dennis Quaid, Michael Rooker, Chase Stokes",
+      "announcement": "AMC NASCAR drama Thunder Road adds Michael Rooker to cast alongside Dennis Quaid and Chase Stokes from Outer Banks.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/michael-rooker-cast-amc-nascar-series-thunder-road-1236965330/"
+        },
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/chase-stokes-joins-thunder-road-nascar-series-amc-1236965038/"
+        }
+      ]
+    },
+    {
+      "title": "Ponies",
+      "network": "Peacock",
+      "talent": "Emilia Clarke, Haley Lu Richardson",
+      "announcement": "Peacock cancels animated series Ponies after one season.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/ponies-canceled-peacock-emilia-clarke-haley-lu-richardson-1236964792/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/ponies-canceled-peacock-1236780171/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/ponies-canceled-peacock-1-season-1236628663/"
+        }
+      ]
+    },
+    {
+      "title": "The Rainmaker",
+      "network": "USA",
+      "talent": "Richard Kind, Kevin Ryan, Asher DeLand",
+      "announcement": "USA's The Rainmaker season 2 adds Richard Kind, Kevin Ryan, and Asher DeLand to cast.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/the-rainmaker-richard-kind-season-2-cast-1236787649/"
+        }
+      ]
+    },
+    {
+      "title": "Cross",
+      "network": "Prime Video",
+      "talent": "Ron Perlman",
+      "announcement": "Ron Perlman to recur in Prime Video's Cross for season 3.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/ron-perlman-cast-prime-video-cross-season-3-1236965051/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/ron-perlman-cross-season-3-1236628365/"
         }
       ]
     },
@@ -180,7 +264,7 @@
       "title": "Stuart Fails to Save the Universe",
       "network": "HBO Max",
       "talent": "",
-      "announcement": "Trailer released for Big Bang Theory spinoff Stuart Fails to Save the Universe, showing familiar faces in alternate universes.",
+      "announcement": "Big Bang Theory spinoff Stuart Fails to Save the Universe releases trailer featuring familiar faces in alternate universes.",
       "sources": [
         {
           "name": "Deadline",
@@ -197,34 +281,10 @@
       ]
     },
     {
-      "title": "Not Suitable for Work",
-      "network": "",
-      "talent": "Mindy Kaling (Creator)",
-      "announcement": "Not Suitable for Work creator Mindy Kaling discusses the season 1 finale's cliffhangers and Season 2 status.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/not-suitable-for-work-mindy-kaling-season-1-finale-season-2-1236963664/"
-        }
-      ]
-    },
-    {
-      "title": "Fool Night",
-      "network": "Netflix",
-      "talent": "",
-      "announcement": "Netflix has unveiled the anime series Fool Night along with images from One Piece, Sparks of Tomorrow, and Bass x Machina at Annecy.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/netflix-unveils-fool-night-anime-series-one-piece-image-1236964920/"
-        }
-      ]
-    },
-    {
       "title": "The Everlasting",
       "network": "Netflix",
       "talent": "",
-      "announcement": "A series adaptation of The Everlasting is in development at Netflix.",
+      "announcement": "Netflix develops series adaptation of The Everlasting.",
       "sources": [
         {
           "name": "Variety",
@@ -233,66 +293,34 @@
       ]
     },
     {
-      "title": "Cross",
-      "network": "Prime Video",
-      "talent": "Ron Perlman",
-      "announcement": "Ron Perlman has been cast to recur in Prime Video's Cross for Season 3.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/ron-perlman-cast-prime-video-cross-season-3-1236965051/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/ron-perlman-cross-season-3-1236628365/"
-        }
-      ]
-    },
-    {
-      "title": "Thunder Road",
-      "network": "AMC",
-      "talent": "Chase Stokes, Dennis Quaid",
-      "announcement": "Outer Banks star Chase Stokes has joined Dennis Quaid in AMC's NASCAR drama series Thunder Road.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/chase-stokes-joins-thunder-road-nascar-series-amc-1236965038/"
-        }
-      ]
-    },
-    {
-      "title": "Tetris: World Builders",
-      "network": "",
-      "talent": "",
-      "announcement": "TeamTO and the Tetris Company have teamed up on Tetris: World Builders, an animated series.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/global/teamtto-the-tetris-company-annecy-tetris-world-builders-1236787969/"
-        }
-      ]
-    },
-    {
       "title": "Unhinged",
       "network": "Netflix",
       "talent": "Zoë Kravitz, Sadie Sink, Troy Baker",
-      "announcement": "Netflix has set the immersive horror video game Unhinged starring Zoë Kravitz, Sadie Sink, and Troy Baker.",
+      "announcement": "Netflix sets immersive horror video game Unhinged starring Zoë Kravitz, Sadie Sink, and Troy Baker.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/gaming/news/unhinged-horror-game-zoe-kravitz-sadie-sink-netflix-1236788230/"
-        },
+        }
+      ]
+    },
+    {
+      "title": "Fool Night",
+      "network": "Netflix",
+      "talent": "",
+      "announcement": "Netflix unveils Fool Night anime series at Annecy alongside first looks at One Piece and other anime projects.",
+      "sources": [
         {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/culture-lifestyle/culture/netflix-games-unhinged-cast-sadie-sink-zoe-kravitz/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/netflix-unveils-fool-night-anime-series-one-piece-image-1236964920/"
         }
       ]
     },
     {
       "title": "Tulisa",
       "network": "Paramount+",
-      "talent": "Tulisa (Subject)",
-      "announcement": "Paramount+ has set a docuseries about shamed X Factor judge Tulisa from Dorothy Street Pictures.",
+      "talent": "Tulisa",
+      "announcement": "Paramount+ sets docuseries about shamed X Factor judge Tulisa from Dorothy Street Pictures.",
       "sources": [
         {
           "name": "Variety",
@@ -301,5 +329,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-23T17:48:01.997Z"
+  "lastUpdated": "2026-06-23T21:19:17.354Z"
 }
