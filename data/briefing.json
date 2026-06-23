@@ -1,177 +1,305 @@
 {
   "date": "June 23, 2026",
-  "summary": "8 film announcements, 5 TV announcements across 5 trades.",
+  "summary": "11 film announcements, 10 TV announcements across 5 trades.",
   "film": [
+    {
+      "title": "Magic School Bus",
+      "studio": "Legendary",
+      "talent": "Elizabeth Banks as Ms. Frizzle, Rob Letterman (Director)",
+      "announcement": "Legendary is developing a live-action adaptation of Magic School Bus with Elizabeth Banks set to play Ms. Frizzle and Detective Pikachu director Rob Letterman attached to direct.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/magic-school-bus-movie-legendary-developing-elizabeth-banks-1236964353/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/magic-school-bus-live-action-movie-elizabeth-banks-ms-frizzle-director-1236787487/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/magic-school-bus-movie-elizabeth-banks-1236627989/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/magic-school-bus-live-action-movie-elizabeth-banks-ms-frizzle/"
+        }
+      ]
+    },
+    {
+      "title": "Untitled Daniels Event Pic",
+      "studio": "",
+      "talent": "Sean Kaufman, Matt Damon",
+      "announcement": "Sean Kaufman from The Summer I Turned Pretty is set to star opposite Matt Damon in a Daniels event film.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/the-summer-you-turned-pretty-sean-kaufman-matt-damon-daniels-1236964575/"
+        }
+      ]
+    },
+    {
+      "title": "The Girlfriend",
+      "studio": "XYZ Films, 21 Laps",
+      "talent": "Meghann Fahy, Glenn Howerton, Natalie Morales (Director)",
+      "announcement": "Meghann Fahy and Glenn Howerton are set to star in The Girlfriend from director Natalie Morales, produced by XYZ Films and 21 Laps.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/meghann-fahy-glenn-howerton-the-girlfriend-natalie-morales-1236964917/"
+        }
+      ]
+    },
     {
       "title": "Summoner",
       "studio": "Amazon MGM",
-      "talent": "Kevin Bacon",
-      "announcement": "Kevin Bacon set to star in horror thriller directed by Jeremy Slater.",
+      "talent": "Kevin Bacon, Jeremy Slater (Writer/Producer)",
+      "announcement": "Kevin Bacon is set to star in the horror film Summoner from Amazon MGM, written and produced by Jeremy Slater.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/06/kevin-bacon-to-star-summoner-horror-film-amazon-mgm-1236964665/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/kevin-bacon-jeremy-slater-horror-summoner-1236628091/"
         }
       ]
     },
     {
-      "title": "Forgotten Island",
-      "studio": "DreamWorks",
-      "talent": "Lea Salonga (voice)",
-      "announcement": "DreamWorks animated film casts Filipina superstar Lea Salonga as main villain in project described as a love letter to Filipino culture.",
+      "title": "The Drama",
+      "studio": "HBO Max",
+      "talent": "Zendaya, Robert Pattinson",
+      "announcement": "The Drama featuring Zendaya and Robert Pattinson has received a streaming premiere date on HBO Max.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/forgotten-island-team-on-filipino-culture-lea-salonga-1236964786/"
+          "url": "https://deadline.com/2026/06/the-drama-hbo-max-premiere-date-zendaya-robert-pattinson-1236964994/"
         }
       ]
     },
     {
-      "title": "Berlinweh – Yearning for a Home",
-      "studio": "",
-      "talent": "Director: Agnieszka Holland",
-      "announcement": "Director Agnieszka Holland to helm Marlene Dietrich biopic.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/agnieszka-holland-marlene-dietrich-berlinweh-1236964855/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/agnieszka-holland-marlene-dietrich-biopic-berlinweh-1236787881/"
-        }
-      ]
-    },
-    {
-      "title": "Twisted",
-      "studio": "",
-      "talent": "Lino DiSalvo (director/animator)",
-      "announcement": "Former Disney animator Lino DiSalvo goes behind the scenes as director of indie animated feature.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/disney-indie-lino-disalvo-twisted-annecy-1236964801/"
-        }
-      ]
-    },
-    {
-      "title": "Kung Fu Soccer",
-      "studio": "",
-      "talent": "Director: Stephen Chow",
-      "announcement": "Stephen Chow closes international rights deal for Shaolin Soccer spinoff, marking his return to the sport genre over two decades later.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/stephen-chow-kung-fu-soccer-international-rights-1236788065/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/stephen-chows-shaolin-soccer-spin-off-kung-fu-soccer-1236628114/"
-        }
-      ]
-    },
-    {
-      "title": "I Know Who You Are",
-      "studio": "China Lion",
-      "talent": "Director: Feng Xiaogang",
-      "announcement": "China Lion takes North American distribution rights for Feng Xiaogang's film.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/china-lion-feng-xiaogangs-i-know-who-you-are-north-america-1236628047/"
-        }
-      ]
-    },
-    {
-      "title": "Mio",
-      "studio": "",
-      "talent": "Director: Jonathan Berlin; Cast: Taddeo Kufus, Barbara Auer, Godehard Giese",
-      "announcement": "German actor Jonathan Berlin makes his directorial feature debut with Mio.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/german-actor-jonathan-berlin-directorial-feature-debut-mio-1236787994/"
-        }
-      ]
-    },
-    {
-      "title": "Steps",
-      "studio": "Netflix",
+      "title": "The Devil Wears Prada 2",
+      "studio": "Disney+, Hulu",
       "talent": "",
-      "announcement": "Netflix animated film adaptation sneak peeked at Annecy, focusing on Cinderella's so-called evil sisters.",
+      "announcement": "The Devil Wears Prada 2 has booked a streaming release date on Disney+ and Hulu with DVD-Digital Bundle extras revealed.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/the-devil-wears-prada-2-streaming-disney-plus-hulu-dvd-extras-1236964982/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/devil-wears-prada-2-disney-plus-streaming-release-date-1236757274/"
+        }
+      ]
+    },
+    {
+      "title": "Never Stop Chasing",
+      "studio": "Abramorama",
+      "talent": "Reed Timmer (Subject)",
+      "announcement": "Abramorama is set to release the documentary Never Stop Chasing about storm and tornado chaser Reed Timmer.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/reed-timmer-storm-chaser-documentary-abramorama-1236964915/"
+        }
+      ]
+    },
+    {
+      "title": "The Debut",
+      "studio": "A24",
+      "talent": "Jesse Eisenberg, Julianne Moore, Paul Giamatti",
+      "announcement": "The Debut, a follow-up to Jesse Eisenberg's A Real Pain, has released its first trailer featuring Eisenberg, Julianne Moore, and Paul Giamatti.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/the-debut-trailer-jesse-eisenberg-a24-film-gets-first-look-1236964489/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/trailers/the-debut-movie-trailer-julianne-moore-jesse-eisenberg-1235201503/"
+        }
+      ]
+    },
+    {
+      "title": "The Dink",
+      "studio": "Apple",
+      "talent": "Jake Johnson, Ben Stiller",
+      "announcement": "The Dink, an Apple film about pickleball featuring Jake Johnson and Ben Stiller, has released its trailer.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/the-dink-trailer-jake-johnson-ben-stiller-pickleball-apple-1236628090/"
+        }
+      ]
+    },
+    {
+      "title": "Blair Witch",
+      "studio": "",
+      "talent": "",
+      "announcement": "A Blair Witch Project remake has set a 2027 release date.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/global/steps-netflix-animation-annecy-hsu-wong-middler-seyfried-1236787924/"
+          "url": "https://variety.com/2026/film/news/blair-witch-project-reboot-2027-release-date-1236788294/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/blair-witch-movie-reboot-release-date-1236628135/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/dylan-clark-blair-witch-movie-release-date/"
+        }
+      ]
+    },
+    {
+      "title": "Supergirl",
+      "studio": "DC Universe",
+      "talent": "David Ellison (Producer)",
+      "announcement": "Supergirl producer David Ellison has met with DC Universe heads James Gunn and Peter Safran, who are open to the project.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/supergirl-david-ellison-james-gunn-peter-safran-dc-universe-1236628457/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "The Young Magicians",
-      "network": "BBC Studios",
-      "talent": "Nick Mohammed (based on his book series)",
-      "announcement": "Ted Lasso star Nick Mohammed developing animated series from his Young Magicians kids books with BBC Studios and Blink Industries.",
+      "title": "Little House on the Prairie",
+      "network": "",
+      "talent": "",
+      "announcement": "Little House on the Prairie showrunner teases Season 2 production details and discusses how women settled the West.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/the-young-magicians-nick-mohammed-books-animated-series-1236963528/"
+          "url": "https://deadline.com/2026/06/little-house-on-the-prairie-season-2-production-bentonville-1236964555/"
         }
       ]
     },
     {
-      "title": "Possession",
-      "network": "Sky",
-      "talent": "Gugu Mbatha-Raw",
-      "announcement": "Gugu Mbatha-Raw leads Sky's limited series set between Bristol and Jamaica.",
+      "title": "Stuart Fails to Save the Universe",
+      "network": "HBO Max",
+      "talent": "",
+      "announcement": "Trailer released for Big Bang Theory spinoff Stuart Fails to Save the Universe, showing familiar faces in alternate universes.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/possession-gugu-mbatha-sky-bristol-jamaica-1236964842/"
+          "url": "https://deadline.com/2026/06/big-bang-spinoff-stuart-fails-to-save-the-universe-trailer-1236900306/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/stuart-fails-to-save-the-universe-trailer-big-bang-theory-1236787788/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/stuart-fails-to-save-the-universe-trailer-hbo-max-1236628508/"
         }
       ]
     },
     {
-      "title": "Please Hag",
-      "network": "ADN",
-      "talent": "",
-      "announcement": "Passion Paris joins ADN for South Korean Webtoon adaptation of Please Hag.",
+      "title": "Not Suitable for Work",
+      "network": "",
+      "talent": "Mindy Kaling (Creator)",
+      "announcement": "Not Suitable for Work creator Mindy Kaling discusses the season 1 finale's cliffhangers and Season 2 status.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/passion-paris-passion-london-webtoon-anime-please-hag-1236787844/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/not-suitable-for-work-mindy-kaling-season-1-finale-season-2-1236963664/"
         }
       ]
     },
     {
-      "title": "Join the Club",
-      "network": "Walmart",
+      "title": "Fool Night",
+      "network": "Netflix",
       "talent": "",
-      "announcement": "Walmart launches new TV series Join the Club for Vizio users.",
+      "announcement": "Netflix has unveiled the anime series Fool Night along with images from One Piece, Sparks of Tomorrow, and Bass x Machina at Annecy.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/walmarts-tv-shows-join-the-club-backyard-escapes-vizio-1236787676/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/netflix-unveils-fool-night-anime-series-one-piece-image-1236964920/"
         }
       ]
     },
     {
-      "title": "Backyard Escapes",
-      "network": "Walmart",
+      "title": "The Everlasting",
+      "network": "Netflix",
       "talent": "",
-      "announcement": "Walmart launches new TV series Backyard Escapes for Vizio users.",
+      "announcement": "A series adaptation of The Everlasting is in development at Netflix.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/walmarts-tv-shows-join-the-club-backyard-escapes-vizio-1236787676/"
+          "url": "https://variety.com/2026/tv/news/the-everlasting-tv-show-netflix-1236787806/"
+        }
+      ]
+    },
+    {
+      "title": "Cross",
+      "network": "Prime Video",
+      "talent": "Ron Perlman",
+      "announcement": "Ron Perlman has been cast to recur in Prime Video's Cross for Season 3.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/ron-perlman-cast-prime-video-cross-season-3-1236965051/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/ron-perlman-cross-season-3-1236628365/"
+        }
+      ]
+    },
+    {
+      "title": "Thunder Road",
+      "network": "AMC",
+      "talent": "Chase Stokes, Dennis Quaid",
+      "announcement": "Outer Banks star Chase Stokes has joined Dennis Quaid in AMC's NASCAR drama series Thunder Road.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/chase-stokes-joins-thunder-road-nascar-series-amc-1236965038/"
+        }
+      ]
+    },
+    {
+      "title": "Tetris: World Builders",
+      "network": "",
+      "talent": "",
+      "announcement": "TeamTO and the Tetris Company have teamed up on Tetris: World Builders, an animated series.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/teamtto-the-tetris-company-annecy-tetris-world-builders-1236787969/"
+        }
+      ]
+    },
+    {
+      "title": "Unhinged",
+      "network": "Netflix",
+      "talent": "Zoë Kravitz, Sadie Sink, Troy Baker",
+      "announcement": "Netflix has set the immersive horror video game Unhinged starring Zoë Kravitz, Sadie Sink, and Troy Baker.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/gaming/news/unhinged-horror-game-zoe-kravitz-sadie-sink-netflix-1236788230/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/culture-lifestyle/culture/netflix-games-unhinged-cast-sadie-sink-zoe-kravitz/"
+        }
+      ]
+    },
+    {
+      "title": "Tulisa",
+      "network": "Paramount+",
+      "talent": "Tulisa (Subject)",
+      "announcement": "Paramount+ has set a docuseries about shamed X Factor judge Tulisa from Dorothy Street Pictures.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/tulisa-documentary-paramount-plus-1236788276/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-06-23T11:44:26.942Z"
+  "lastUpdated": "2026-06-23T17:48:01.997Z"
 }
