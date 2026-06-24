@@ -1,28 +1,80 @@
 {
   "date": "June 24, 2026",
-  "summary": "3 film announcements, 4 TV announcements across 5 trades.",
+  "summary": "11 film announcements, 15 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Shifters",
-      "studio": "Channel 4",
-      "talent": "Tosin Cole",
-      "announcement": "Channel 4 and See-Saw Films are developing a TV adaptation of Benedict Lombe's play 'Shifters,' which is transferring to A24's Cherry Lane Theatre.",
+      "title": "Dead Weight",
+      "studio": "Unknown",
+      "talent": "Natalie Burn",
+      "announcement": "Natalie Burn cast to topline cartel action-thriller with Guatemala shoot scheduled for fall 2026.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/channel-4-shifters-benedict-lombe-play-tosin-cole-a24-1236965877/"
+          "url": "https://deadline.com/2026/06/natalie-burn-dead-weight-cartel-film-guatemala-shoot-fall-1236966008/"
         }
       ]
     },
     {
-      "title": "Heirloom",
-      "studio": "Condor Films",
-      "talent": "Upamanyu Bhattacharyya (director)",
-      "announcement": "Indian animator Upamanyu Bhattacharyya's 'Heirloom' closes French co-production with Condor Films and lands CNC grant support.",
+      "title": "Words From The Oven",
+      "studio": "Unknown",
+      "talent": "Jonathan Banks, Alexander Siddig",
+      "announcement": "Jonathan Banks and Alexander Siddig cast in indie pic filming in Pennsylvania.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/festivals/indian-animation-heirloom-condor-films-cnc-grant-1236789001/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/jonathan-banks-alexander-siddig-words-from-the-oven-1236966012/"
+        }
+      ]
+    },
+    {
+      "title": "Ray Gunn",
+      "studio": "Netflix",
+      "talent": "Brad Bird (director), Sam Rockwell, Scarlett Johansson (voice)",
+      "announcement": "Netflix sets December 18 release date for Brad Bird's animated film with new footage and images revealed at Annecy.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/netflix-december-18-release-brad-bird-ray-gunn-1236965978/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/annecy-netflix-ray-gunn-in-waves-ghostbusters-night-shift-1236629230/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/ray-gunn-first-footage-revealed-netflix-brad-bird/"
+        }
+      ]
+    },
+    {
+      "title": "Ghostbusters: Night Shift",
+      "studio": "Netflix",
+      "talent": "Unknown",
+      "announcement": "Netflix and Sony Animation unveil first look, concept art, logline, and clip for animated Ghostbusters series at Annecy.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/netflix-ghostbusters-night-shift-first-look-concept-logline-1236965923/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/annecy-netflix-ray-gunn-in-waves-ghostbusters-night-shift-1236629230/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/ghostbusters-night-shift-first-footage-annecy/"
+        }
+      ]
+    },
+    {
+      "title": "The Meltdown",
+      "studio": "Kino Lorber",
+      "talent": "Manuela Martelli",
+      "announcement": "Kino Lorber acquires U.S. rights to Cannes Film Festival selection directed by Manuela Martelli.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/kino-lorber-acquires-manuela-martelli-film-the-meltdown-us-1236629394/"
         }
       ]
     },
@@ -30,64 +82,296 @@
       "title": "Sheep in the Box",
       "studio": "Neon",
       "talent": "Hirokazu Koreeda (director)",
-      "announcement": "Neon drops first trailer for Hirokazu Koreeda's AI family drama 'Sheep in the Box.'",
+      "announcement": "Neon drops first trailer for Hirokazu Koreeda's AI family drama.",
       "sources": [
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/sheep-in-the-box-neon-trailer-hirokazu-koreeda-ai-drama-1236629132/"
         }
       ]
+    },
+    {
+      "title": "La Bola Negra",
+      "studio": "Netflix",
+      "talent": "Unknown",
+      "announcement": "Netflix sets awards-season release date for Cannes winner.",
+      "sources": [
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/general-news/la-bola-negra-netflix-awards-season-release-date-1235201936/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/la-bola-negra-netflix-release-date/"
+        }
+      ]
+    },
+    {
+      "title": "Charlie vs. the Chocolate Factory",
+      "studio": "Netflix",
+      "talent": "Unknown",
+      "announcement": "First footage from Netflix's animated adaptation revealed.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/charlie-vs-the-chocolate-factory-first-footage-netflix/"
+        }
+      ]
+    },
+    {
+      "title": "Avengers: Endgame Re-Release",
+      "studio": "Disney",
+      "talent": "Unknown",
+      "announcement": "Disney's Avengers: Endgame re-release gets new title as part of ramped up Infinity Vision initiative for upcoming tentpoles.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/avengers-endgame-re-release-retitle-disney-infinity-vision-1236966128/"
+        }
+      ]
+    },
+    {
+      "title": "Digger",
+      "studio": "Unknown",
+      "talent": "Tom Cruise",
+      "announcement": "J.J. Abrams comments he has seen footage and expects Tom Cruise to deliver impressive results.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/jj-abrams-tom-cruise-digger-about-to-blow-our-mind-1236966054/"
+        }
+      ]
+    },
+    {
+      "title": "Scott Moore Debut Novel",
+      "studio": "MGM Television",
+      "talent": "Scott Moore",
+      "announcement": "Bad Moms and Hangover writer Scott Moore's debut novel lands at MGM Television for development.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/bad-moms-writer-scott-moore-options-first-novel-mgm-tv-1236628945/"
+        }
+      ]
     }
   ],
   "tv": [
     {
-      "title": "The Ghost in the Shell",
+      "title": "My Life With The Walter Boys",
+      "network": "Netflix",
+      "talent": "Unknown",
+      "announcement": "Season 3 sets release date on Netflix.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/my-life-with-the-walter-boys-season-3-release-date-photos-1236965695/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/tv-news-roundup-week-of-june-22-1236788844/"
+        }
+      ]
+    },
+    {
+      "title": "Dutton Ranch",
+      "network": "Paramount+",
+      "talent": "Unknown",
+      "announcement": "Series renewed for Season 2.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/dutton-ranch-renewed-season-2-paramount-1236965603/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/dutton-ranch-season-2-greenlit-paramount-1236788956/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/dutton-ranch-renewe-season-2-yellowstone-1236629430/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/dutton-ranch-season-2-renewed-paramount/"
+        }
+      ]
+    },
+    {
+      "title": "The Other Bennet Sister",
+      "network": "BBC/BritBox",
+      "talent": "Unknown",
+      "announcement": "BBC and BritBox greenlight three-part Christmas special.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/the-other-bennet-sister-christmas-special-bbc-britbox-1236965996/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/the-other-bennet-sister-christmas-special-britbox-bbc-1236788199/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/the-other-bennet-sister-return-christmas-special-bbc-series-1236629373/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/breaking-news/the-other-bennet-sister-three-part-christmas-special-1235201950/"
+        }
+      ]
+    },
+    {
+      "title": "Adventure Time: Bubblegum & Marceline",
+      "network": "HBO Max",
+      "talent": "Unknown",
+      "announcement": "HBO Max orders animated spinoff series.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/adventure-time-bubblegum-marceline-hbo-max-series-order-1236966057/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/adventure-time-spinoff-bubblegum-and-marceline-hbo-max/"
+        }
+      ]
+    },
+    {
+      "title": "Dungeon Masters",
+      "network": "Unknown",
+      "talent": "Unknown",
+      "announcement": "Season 2 campaign titled 'Arcana Unleashed' set for actual-play D&D series.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/dungeon-masters-season-2-arcana-unleashed-release-date-1236788824/"
+        }
+      ]
+    },
+    {
+      "title": "President Curtis",
+      "network": "Adult Swim",
+      "talent": "Unknown",
+      "announcement": "Rick and Morty spinoff reveals premiere date and first trailer.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/president-curtis-rick-and-morty-spinoff-premiere-trailer-1236629046/"
+        }
+      ]
+    },
+    {
+      "title": "Invincible",
+      "network": "Unknown",
+      "talent": "Jack Quaid (voice of Gravitator)",
+      "announcement": "Jack Quaid cast to voice Gravitator in animated series.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/jack-quaid-to-voice-gravitator-in-invincible-series-1236629297/"
+        }
+      ]
+    },
+    {
+      "title": "Conan the Barbarian",
+      "network": "Cartoon Network/Prime Video",
+      "talent": "Genndy Tartakovsky (director)",
+      "announcement": "Genndy Tartakovsky to direct animated series for Cartoon Network Studios and Prime Video.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/conan-the-barbarian-animated-series-genndy-tartakovsky/"
+        }
+      ]
+    },
+    {
+      "title": "Nice To Meet You",
+      "network": "Netflix",
+      "talent": "Jeff Arcuri",
+      "announcement": "Jeff Arcuri's stand-up special sets July launch on Netflix.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/jeff-arcuri-netflix-special-premiere-date-nice-to-meet-you-1236965325/"
+        }
+      ]
+    },
+    {
+      "title": "Galaxy Brain",
+      "network": "Netflix",
+      "talent": "Mary Beth Barone",
+      "announcement": "Mary Beth Barone's stand-up special sets premiere date on Netflix.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/mary-beth-barone-special-galaxy-brain-netflix-premiere-date-1236965303/"
+        }
+      ]
+    },
+    {
+      "title": "King of the Hill",
+      "network": "Adult Swim",
+      "talent": "Mike Judge",
+      "announcement": "Season 15 trailer reveals Bobby and Connie's relationship launch and Hank as victim of AI phone scam.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/king-of-the-hill-season-15-trailer-mike-judge-1236966105/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/king-of-the-hill-season-15-trailer-bobby-connie-1236789318/"
+        }
+      ]
+    },
+    {
+      "title": "Batman: Caped Crusader",
       "network": "Prime Video",
-      "talent": "",
-      "announcement": "Science Saru Studio's 'The Ghost in the Shell' is bound for Prime Video, adapting the franchise through hand-drawn animation.",
+      "talent": "Unknown",
+      "announcement": "Season 2 trailer released ahead of summer premiere.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/batman-caped-crusader-season-2-trailer-prime-video/"
+        }
+      ]
+    },
+    {
+      "title": "Life, Larry and the Pursuit of Unhappiness",
+      "network": "HBO",
+      "talent": "Larry David, Barack Obama",
+      "announcement": "Sketch show from Larry David and Barack Obama debuts on HBO.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/global/science-saru-the-ghost-in-the-shell-annecy-prime-video-1236789023/"
-        }
-      ]
-    },
-    {
-      "title": "Gunshot",
-      "network": "PTS Taigi",
-      "talent": "Kent Tsai, Chan Tzu-Hsuan, Mark Lee",
-      "announcement": "Police drama 'Gunshot' starts production for Taiwan's PTS Taigi with Kent Tsai, Chan Tzu-Hsuan, and Mark Lee heading the cast.",
-      "sources": [
+          "url": "https://variety.com/2026/tv/reviews/url-life-larry-and-the-pursuit-of-unhappiness-review-1236788656/"
+        },
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/kent-tsai-mark-lee-pts-taigi-s11-partners-third-culture-1236959103/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-reviews/life-larry-and-pursuit-of-unhappiness-review-larry-david-1236628319/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/reviews/life-larry-and-the-pursuit-of-unhappiness-review-hbo-larry-david-obama/"
         }
       ]
     },
     {
-      "title": "MechWest",
-      "network": "Toonz",
-      "talent": "",
-      "announcement": "Dieselpunk animated series 'MechWest' lands global distribution deal with Toonz.",
+      "title": "The American Experiment",
+      "network": "Netflix",
+      "talent": "Tom Hanks (producer)",
+      "announcement": "Tom Hanks-produced documentary series featuring Hillary Clinton and Mike Pence debuts on Netflix.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/markets-festivals/dieselpunk-animated-series-mechwest-global-deal-toonz-1236789010/"
-        }
-      ]
-    },
-    {
-      "title": "Prudence",
-      "network": "OuiDo!",
-      "talent": "",
-      "announcement": "OuiDo! adult animation company launches with horror series 'Prudence' from producers of 'Mars Express.'",
-      "sources": [
+          "url": "https://variety.com/2026/tv/reviews/the-american-experiment-review-netflix-1236785400/"
+        },
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/ouido-adult-animation-everybody-board-horror-prudence-1236965887/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-reviews/the-american-experiment-review-netflix-tom-hanks-1236627766/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-06-24T10:37:16.287Z"
+  "lastUpdated": "2026-06-24T16:03:43.371Z"
 }
