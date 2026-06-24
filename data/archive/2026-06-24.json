@@ -1,12 +1,24 @@
 {
   "date": "June 24, 2026",
-  "summary": "2 film announcements, 3 TV announcements across 5 trades.",
+  "summary": "3 film announcements, 4 TV announcements across 5 trades.",
   "film": [
+    {
+      "title": "Shifters",
+      "studio": "Channel 4",
+      "talent": "Tosin Cole",
+      "announcement": "Channel 4 and See-Saw Films are developing a TV adaptation of Benedict Lombe's play 'Shifters,' which is transferring to A24's Cherry Lane Theatre.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/channel-4-shifters-benedict-lombe-play-tosin-cole-a24-1236965877/"
+        }
+      ]
+    },
     {
       "title": "Heirloom",
       "studio": "Condor Films",
       "talent": "Upamanyu Bhattacharyya (director)",
-      "announcement": "Annecy winner closes French co-production with Condor Films and lands CNC grant.",
+      "announcement": "Indian animator Upamanyu Bhattacharyya's 'Heirloom' closes French co-production with Condor Films and lands CNC grant support.",
       "sources": [
         {
           "name": "Variety",
@@ -18,7 +30,7 @@
       "title": "Sheep in the Box",
       "studio": "Neon",
       "talent": "Hirokazu Koreeda (director)",
-      "announcement": "Neon drops first trailer for Hirokazu Koreeda's AI family drama.",
+      "announcement": "Neon drops first trailer for Hirokazu Koreeda's AI family drama 'Sheep in the Box.'",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -29,41 +41,53 @@
   ],
   "tv": [
     {
-      "title": "Shifters",
-      "network": "Channel 4",
-      "talent": "Benedict Lombe (playwright), Tosin Cole (cast)",
-      "announcement": "Channel 4 and See-Saw Films developing TV adaptation of Benedict Lombe's play, which is transferring to A24's Cherry Lane Theatre.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/channel-4-shifters-benedict-lombe-play-tosin-cole-a24-1236965877/"
-        }
-      ]
-    },
-    {
-      "title": "Prudence",
-      "network": "",
+      "title": "The Ghost in the Shell",
+      "network": "Prime Video",
       "talent": "",
-      "announcement": "OuiDo launches adult animation company with horror series Prudence in partnership with Mars Express producers.",
+      "announcement": "Science Saru Studio's 'The Ghost in the Shell' is bound for Prime Video, adapting the franchise through hand-drawn animation.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/ouido-adult-animation-everybody-board-horror-prudence-1236965887/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/science-saru-the-ghost-in-the-shell-annecy-prime-video-1236789023/"
         }
       ]
     },
     {
       "title": "Gunshot",
       "network": "PTS Taigi",
-      "talent": "Kent Tsai, Chan Tzu-Hsuan, Mark Lee (cast)",
-      "announcement": "Police drama starts production for Taiwan's PTS Taigi with Kent Tsai, Chan Tzu-Hsuan, and Mark Lee heading the cast.",
+      "talent": "Kent Tsai, Chan Tzu-Hsuan, Mark Lee",
+      "announcement": "Police drama 'Gunshot' starts production for Taiwan's PTS Taigi with Kent Tsai, Chan Tzu-Hsuan, and Mark Lee heading the cast.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/06/kent-tsai-mark-lee-pts-taigi-s11-partners-third-culture-1236959103/"
         }
       ]
+    },
+    {
+      "title": "MechWest",
+      "network": "Toonz",
+      "talent": "",
+      "announcement": "Dieselpunk animated series 'MechWest' lands global distribution deal with Toonz.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/markets-festivals/dieselpunk-animated-series-mechwest-global-deal-toonz-1236789010/"
+        }
+      ]
+    },
+    {
+      "title": "Prudence",
+      "network": "OuiDo!",
+      "talent": "",
+      "announcement": "OuiDo! adult animation company launches with horror series 'Prudence' from producers of 'Mars Express.'",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/ouido-adult-animation-everybody-board-horror-prudence-1236965887/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-06-24T08:46:43.821Z"
+  "lastUpdated": "2026-06-24T10:37:16.287Z"
 }
