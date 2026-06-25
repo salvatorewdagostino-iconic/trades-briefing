@@ -1,7 +1,19 @@
 {
   "date": "June 25, 2026",
-  "summary": "2 film announcements, 3 TV announcements across 5 trades.",
+  "summary": "3 film announcements, 4 TV announcements across 5 trades.",
   "film": [
+    {
+      "title": "The Worst",
+      "studio": "Unknown",
+      "talent": "Keira Knightley, Alicia Vikander, Anthony Boyle, Sam Claflin, Tom Hollander, Josh Finan",
+      "announcement": "Anthony Boyle, Sam Claflin, Tom Hollander and Josh Finan join the ensemble cast of the dark comedy alongside Keira Knightley and Alicia Vikander.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/the-worst-anthony-boyle-sam-claflin-tom-hollander-1236789539/"
+        }
+      ]
+    },
     {
       "title": "Error#404",
       "studio": "First Ray Films",
@@ -17,8 +29,8 @@
     {
       "title": "The Tutor",
       "studio": "Audible",
-      "talent": "Mia McKenna-Bruce, Alex Hassell (voice cast); Rosie Day (writer/creator)",
-      "announcement": "Audible Original thriller adds voice cast Mia McKenna-Bruce and Alex Hassell.",
+      "talent": "Mia McKenna-Bruce, Alex Hassell (voice actors); Rosie Day (creator/writer)",
+      "announcement": "Mia McKenna-Bruce and Alex Hassell voice cast in Rosie Day's Audible Original thriller.",
       "sources": [
         {
           "name": "Deadline",
@@ -28,6 +40,22 @@
     }
   ],
   "tv": [
+    {
+      "title": "Dept. Q",
+      "network": "Netflix",
+      "talent": "Aisling Franciosi, Greg Wise",
+      "announcement": "Season 2 adds new cast including Aisling Franciosi and Greg Wise; production starts in Scotland.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/netflix-dept-q-cast-season-2-starts-production-goode-1236967138/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/dept-q-season-2-adds-cast-starts-production-1236790151/"
+        }
+      ]
+    },
     {
       "title": "Blue Murder Motel",
       "network": "Acorn TV, ITV",
@@ -41,29 +69,37 @@
       ]
     },
     {
-      "title": "Dept. Q",
-      "network": "Netflix",
-      "talent": "",
-      "announcement": "Season 2 adds new cast and begins production.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/netflix-dept-q-cast-season-2-starts-production-goode-1236967138/"
-        }
-      ]
-    },
-    {
       "title": "Hamburg Days",
       "network": "BBC",
       "talent": "Asa Butterfield, Jonny Lee Miller, Christine Tremarco",
-      "announcement": "Beatles drama adds cast including Asa Butterfield, Jonny Lee Miller, and Christine Tremarco.",
+      "announcement": "Asa Butterfield, Jonny Lee Miller and Christine Tremarco join BBC Beatles drama.",
       "sources": [
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/asa-butterfield-jonny-lee-miller-christine-beatles-hamburg-1236630442/"
         }
       ]
+    },
+    {
+      "title": "Alley Cats",
+      "network": "Netflix",
+      "talent": "Ricky Gervais",
+      "announcement": "Netflix animation from Ricky Gervais receives enthusiastic response at Annecy.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/ricky-gervais-enthusiastic-response-alley-cat-1236967183/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/ricky-gervais-netflix-alley-cats-annecy-1236790121/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/ricky-gervais-netflix-series-alley-cats-animation-annecy-1236630430/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-06-25T08:40:20.709Z"
+  "lastUpdated": "2026-06-25T10:30:14.581Z"
 }
