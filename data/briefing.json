@@ -1,105 +1,341 @@
 {
   "date": "June 25, 2026",
-  "summary": "3 film announcements, 4 TV announcements across 5 trades.",
+  "summary": "10 film announcements, 13 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "The Worst",
-      "studio": "Unknown",
-      "talent": "Keira Knightley, Alicia Vikander, Anthony Boyle, Sam Claflin, Tom Hollander, Josh Finan",
-      "announcement": "Anthony Boyle, Sam Claflin, Tom Hollander and Josh Finan join the ensemble cast of the dark comedy alongside Keira Knightley and Alicia Vikander.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/the-worst-anthony-boyle-sam-claflin-tom-hollander-1236789539/"
-        }
-      ]
-    },
-    {
-      "title": "Error#404",
-      "studio": "First Ray Films",
-      "talent": "Anshuman Jha (producer)",
-      "announcement": "Anshuman Jha's First Ray Films boards animated feature, selected for MIFA at Annecy.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/markets-festivals/anshuman-jha-first-ray-films-error-404-animated-feature-annecy-mifa-1236789036/"
-        }
-      ]
-    },
-    {
-      "title": "The Tutor",
-      "studio": "Audible",
-      "talent": "Mia McKenna-Bruce, Alex Hassell (voice actors); Rosie Day (creator/writer)",
-      "announcement": "Mia McKenna-Bruce and Alex Hassell voice cast in Rosie Day's Audible Original thriller.",
+      "title": "Skeletons",
+      "studio": "Sony Pictures",
+      "talent": "Brie Larson, Willa Fitzgerald, Ione Skye, Daithí Ó Haragáin",
+      "announcement": "Horror thriller adds Willa Fitzgerald, Ione Skye, and Daithí Ó Haragáin to cast alongside Brie Larson.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/mia-mckenna-bruce-alex-hassell-rosie-day-audible-tutor-1236966150/"
+          "url": "https://deadline.com/2026/06/willa-fitzgerald-lone-skye-skeletons-brie-larson-1236966488/"
+        }
+      ]
+    },
+    {
+      "title": "Beach Read",
+      "studio": "20th Century Studios",
+      "talent": "Ella Balinska",
+      "announcement": "Ella Balinska cast in adaptation of the romantic comedy novel.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/beach-read-movie-casts-ella-balinska-1236967360/"
+        }
+      ]
+    },
+    {
+      "title": "August",
+      "studio": "",
+      "talent": "Scott Foley",
+      "announcement": "Scott Foley joins indie comedy from director Nick Borenstein.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/scott-foley-joins-august-comedy-nick-borenstein-1236967394/"
+        }
+      ]
+    },
+    {
+      "title": "Specimen",
+      "studio": "",
+      "talent": "",
+      "announcement": "Horror-thriller film with director John Herzfeld and producers Chase Vergari and Eric Handler in development.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/john-herzfeld-chase-vergari-eric-handler-specimen-film-1236967269/"
+        }
+      ]
+    },
+    {
+      "title": "Drag",
+      "studio": "Briarcliff Entertainment",
+      "talent": "Lizzy Caplan, John Stamos, Lucy DeVito",
+      "announcement": "SXSW movie gets winter release date from Briarcliff Entertainment.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/lizzy-caplan-john-stamos-drag-release-date-1236967704/"
+        }
+      ]
+    },
+    {
+      "title": "Paper Tiger",
+      "studio": "Neon",
+      "talent": "Adam Driver, Scarlett Johansson",
+      "announcement": "James Gray's Cannes title starring Adam Driver and Scarlett Johansson gets November release date from Neon.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/james-gray-paper-tiger-release-date-neon-1236790029/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/james-grays-paper-tiger-set-for-november-release-by-neon/"
+        }
+      ]
+    },
+    {
+      "title": "Donkey",
+      "studio": "DreamWorks Animation",
+      "talent": "Eddie Murphy",
+      "announcement": "Shrek origin story spinoff sets Summer 2028 release date with Eddie Murphy reprising his voice role.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/donkey-shrek-spinoff-movie-release-date-eddie-murphy-1236790721/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/donkey-eddie-murphy-shrek-prequel-2028-release-1236630875/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/shrek-prequel-donkey-june-2028-release/"
+        }
+      ]
+    },
+    {
+      "title": "Nightborn",
+      "studio": "Shudder",
+      "talent": "Rupert Grint",
+      "announcement": "Shudder acquires horror film starring Rupert Grint.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/ifc-buys-rupert-grint-horror-film-nightborn-1236627339/"
+        }
+      ]
+    },
+    {
+      "title": "Hidari",
+      "studio": "",
+      "talent": "Keanu Reeves (voice)",
+      "announcement": "Keanu Reeves-voiced stop-motion samurai animation gains attention at Annecy festival.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/artisans/global/keanu-reeves-stop-motion-samurai-animation-hidari-annecy-1236790711/"
+        }
+      ]
+    },
+    {
+      "title": "HorrorHound Streaming Service",
+      "studio": "HorrorHound",
+      "talent": "",
+      "announcement": "Genre streaming service launches with festival hit 'The Babysitter Murders: Timing's Off' among first titles.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/horrorhound-tv-streaming-service-launch-babysitter-murders-1236790557/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "Dept. Q",
-      "network": "Netflix",
-      "talent": "Aisling Franciosi, Greg Wise",
-      "announcement": "Season 2 adds new cast including Aisling Franciosi and Greg Wise; production starts in Scotland.",
+      "title": "The Wolf King",
+      "network": "Starz",
+      "talent": "Tanya Saracho (creator/showrunner)",
+      "announcement": "Tanya Saracho reteams with Starz to adapt Lauren Palphreyman's romantic fantasy book series for TV.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/netflix-dept-q-cast-season-2-starts-production-goode-1236967138/"
+          "url": "https://deadline.com/2026/06/tanya-saracho-starz-development-the-wolf-king-tv-series-1236967576/"
         },
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/global/dept-q-season-2-adds-cast-starts-production-1236790151/"
+          "url": "https://variety.com/2026/tv/news/the-wolf-king-starz-1236790845/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/the-wolf-king-starz-romantasy-novel-adaptation-1236631053/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/the-wolf-king-tv-adaptation-development-starz/"
         }
       ]
     },
     {
-      "title": "Blue Murder Motel",
-      "network": "Acorn TV, ITV",
+      "title": "You Deserve To Know",
+      "network": "Hulu",
+      "talent": "Nina Dobrev, Paul Wesley",
+      "announcement": "Nina Dobrev and Paul Wesley reunite to star in drama in development at Hulu from Alex Cooper, Brian Tanen, and Kapital.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/nina-dobrev-paul-wesley-cast-you-deserve-to-know-hulu-1236967106/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/nina-dobrev-paul-wesley-reunite-you-deserve-to-know-hulu-vampire-diaries/"
+        }
+      ]
+    },
+    {
+      "title": "Aquamarine",
+      "network": "Disney+",
+      "talent": "Emma Roberts (guest star, executive producer)",
+      "announcement": "Pilot based on 2006 movie ordered by Disney+ with Emma Roberts reprising her role and executive producing.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/aquamarine-pilot-based-on-movie-ordered-by-disney-plus-1236967548/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/aquamarine-tv-series-disney-pilot-order-emma-roberts-1236790760/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/aquamarine-tv-show-pilot-disney-emma-roberts-1236630976/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/aquamarine-tv-sequel-pilot-order-disney-emma-roberts-returning/"
+        }
+      ]
+    },
+    {
+      "title": "Far Cry",
+      "network": "FX",
+      "talent": "Lizzy Caplan, Rob Mac",
+      "announcement": "Lizzy Caplan cast in Noah Hawley and Rob Mac's anthology series at FX.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/lizzy-caplan-cast-far-cry-fx-series-noah-hawley-rob-mac-1236967569/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/far-cry-fx-series-cast-lizzy-caplan-rob-mac-1236790714/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/lizzy-caplan-far-cry-series-fx-hulu-1236630750/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/industry-news/casting/lizzy-caplan-far-cry-tv-series-noah-hawley-fx/"
+        }
+      ]
+    },
+    {
+      "title": "Brawlers",
+      "network": "",
+      "talent": "Harold Perrineau, Ronda Rousey (executive producer)",
+      "announcement": "MMA drama adds Harold Perrineau to cast from executive producer Ronda Rousey.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/harold-perrineau-ronda-rousey-team-brawlers-mma-drama-1236967421/"
+        }
+      ]
+    },
+    {
+      "title": "The Paper",
+      "network": "Peacock",
       "talent": "",
-      "announcement": "Acorn TV and ITV acquire kiwi cozy crime drama.",
+      "announcement": "Season 2 first look photos and premiere date announced.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/blue-murder-motel-acorn-tv-itv-deals-cozy-crime-1236967146/"
+          "url": "https://deadline.com/gallery/the-paper-season-2-first-look-photos-peacock/"
         }
       ]
     },
     {
-      "title": "Hamburg Days",
-      "network": "BBC",
-      "talent": "Asa Butterfield, Jonny Lee Miller, Christine Tremarco",
-      "announcement": "Asa Butterfield, Jonny Lee Miller and Christine Tremarco join BBC Beatles drama.",
+      "title": "We Were Liars",
+      "network": "Prime Video",
+      "talent": "",
+      "announcement": "Season 2 sets eight recurring cast members.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/asa-butterfield-jonny-lee-miller-christine-beatles-hamburg-1236630442/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/prime-videos-we-were-liars-recurring-cast-season-2-1236966816/"
         }
       ]
     },
     {
-      "title": "Alley Cats",
-      "network": "Netflix",
-      "talent": "Ricky Gervais",
-      "announcement": "Netflix animation from Ricky Gervais receives enthusiastic response at Annecy.",
+      "title": "The Americas",
+      "network": "NBC",
+      "talent": "Tom Hanks (narrator)",
+      "announcement": "Documentary series renewed for Season 2 at NBC with Tom Hanks returning as narrator.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/ricky-gervais-enthusiastic-response-alley-cat-1236967183/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/ricky-gervais-netflix-alley-cats-annecy-1236790121/"
+          "url": "https://deadline.com/2026/06/the-americas-renewed-season-2-nbc-tom-hanks-1236967474/"
         },
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/ricky-gervais-netflix-series-alley-cats-animation-annecy-1236630430/"
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/the-americas-renewed-season-2-nbc-1236630676/"
+        }
+      ]
+    },
+    {
+      "title": "Jay-Z",
+      "network": "HBO",
+      "talent": "",
+      "announcement": "Documentary series set at HBO with teaser released.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/jay-z-documentary-series-hbo-trailer-1236967454/"
+        }
+      ]
+    },
+    {
+      "title": "Ghosts",
+      "network": "CBS",
+      "talent": "Ben Feldman",
+      "announcement": "Ben Feldman upped to series regular for Season 6.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/ben-feldman-upped-series-regular-ghosts-season-6-1236967092/"
+        }
+      ]
+    },
+    {
+      "title": "Danger Money",
+      "network": "Prime Video",
+      "talent": "Ray Winstone",
+      "announcement": "Ray Winstone cast as former SAS operative in thriller series.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/prime-video-danger-money-ray-winston-series-williams-1236967249/"
+        }
+      ]
+    },
+    {
+      "title": "Belleza",
+      "network": "Lionsgate (foreign TV sales)",
+      "talent": "Maite Perroni",
+      "announcement": "Maite Perroni's series lands at Lionsgate for foreign TV sales.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/maite-perronis-belleza-lionsgate-1236629968/"
+        }
+      ]
+    },
+    {
+      "title": "Fanatics Sportsbook Animated Series",
+      "network": "",
+      "talent": "Kam Patterson",
+      "announcement": "Animated series in development that turns real bets into stories.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/business/digital/fanatics-sportsbook-kam-patterson-animated-series-bets-1236630012/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-06-25T10:30:14.581Z"
+  "lastUpdated": "2026-06-25T21:16:56.754Z"
 }
