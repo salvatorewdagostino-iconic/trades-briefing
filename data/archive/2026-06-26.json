@@ -1,12 +1,44 @@
 {
   "date": "June 26, 2026",
-  "summary": "3 film announcements, 1 TV announcement across 5 trades.",
+  "summary": "6 film announcements, 4 TV announcements across 5 trades.",
   "film": [
     {
+      "title": "Irish Dog",
+      "studio": "Unknown",
+      "talent": "Scott Adkins",
+      "announcement": "Action film starring Scott Adkins pre-sells ahead of fall shoot.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/scott-adkins-movie-irish-dog-pre-sells-ahead-of-fall-shoot-1236968170/"
+        }
+      ]
+    },
+    {
+      "title": "Lilo & Scratch",
+      "studio": "Disney",
+      "talent": "Chris Sanders",
+      "announcement": "Disney announces surprise theatrical animated short featuring Stitch, arriving with Hexed this fall.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/disney-hexed-footag-short-lilo-scratch-chris-sanders-1236968145/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/artisans/global/disney-hexed-new-short-lilo-and-scratch-stitch-annecy-1236791091/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/lilo-and-stitch-animated-short-lilo-and-scratch-explained/"
+        }
+      ]
+    },
+    {
       "title": "Sea of Glass",
-      "studio": "",
-      "talent": "",
-      "announcement": "Alexis Alexiou completed her third feature film with first look and trailer unveiled.",
+      "studio": "Unknown",
+      "talent": "Alexis Alexiou (director)",
+      "announcement": "Director Alexis Alexiou completes her third feature film and unveils first look and trailer.",
       "sources": [
         {
           "name": "Variety",
@@ -16,35 +48,87 @@
     },
     {
       "title": "Varanasi",
-      "studio": "",
-      "talent": "S.S. Rajamouli",
-      "announcement": "Director S.S. Rajamouli announced that IMAX action sequences are complete with interconnecting scenes remaining.",
+      "studio": "Unknown",
+      "talent": "S.S. Rajamouli (director)",
+      "announcement": "Director S.S. Rajamouli announces IMAX action film Varanasi is action-complete with interconnecting scenes remaining.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/global/s-s-rajamouli-varanasi-imax-baahubali-annecy-1236791051/"
+          "url": "https://variety.com/2026/film/global/s-s-rajamouli-varanasi-imax-baahubali-in-animation-annecy-1236791051/"
         }
       ]
     },
     {
       "title": "The Samurai and the Prisoner",
-      "studio": "",
-      "talent": "Kiyoshi Kurosawa",
-      "announcement": "Director Kiyoshi Kurosawa's period thriller dropped its first trailer.",
+      "studio": "Unknown",
+      "talent": "Kiyoshi Kurosawa (director)",
+      "announcement": "Director Kiyoshi Kurosawa's period thriller drops first trailer.",
       "sources": [
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/kiyoshi-kurosawa-the-samurai-and-the-prisoner-trailer-1236631413/"
         }
       ]
+    },
+    {
+      "title": "Hexed",
+      "studio": "Disney",
+      "talent": "",
+      "announcement": "Disney unveils fresh footage from animated film Hexed at Annecy.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/disney-hexed-footag-short-lilo-scratch-chris-sanders-1236968145/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/hexed-first-footage-explained-disney-animation/"
+        }
+      ]
     }
   ],
   "tv": [
     {
+      "title": "Heist Brothers",
+      "network": "Adult Swim",
+      "talent": "Genndy Tartakovsky (creator)",
+      "announcement": "Genndy Tartakovsky's animated series Heist Brothers is taken to series at Adult Swim.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/heist-brothers-adult-swim-genndy-tartakovsky-annecy-1236965975/"
+        }
+      ]
+    },
+    {
+      "title": "Ghosts Australia",
+      "network": "BBC",
+      "talent": "",
+      "announcement": "BBC acquires Ghosts Australia to sit alongside the original British sitcom.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/bbc-ghosts-australia-acquisition-1236968147/"
+        }
+      ]
+    },
+    {
+      "title": "Monster of Florence",
+      "network": "Netflix",
+      "talent": "Stefano Sollima (director)",
+      "announcement": "New installment of Monster of Florence series from director Stefano Sollima set at Netflix.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/monster-of-florence-new-season-stefano-sollima-netflix-1236791073/"
+        }
+      ]
+    },
+    {
       "title": "Kagurabachi",
       "network": "Crunchyroll",
-      "talent": "Katsuyuki Konishi",
-      "announcement": "Crunchyroll acquired the anime series for April 2027 release with voice actor Katsuyuki Konishi joining the cast as Togo Shiba.",
+      "talent": "Katsuyuki Konishi (cast)",
+      "announcement": "Crunchyroll acquires Kagurabachi anime series for April 2027 release with Katsuyuki Konishi joining cast as Togo Shiba.",
       "sources": [
         {
           "name": "Variety",
@@ -53,5 +137,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-26T08:42:19.043Z"
+  "lastUpdated": "2026-06-26T11:19:48.392Z"
 }
