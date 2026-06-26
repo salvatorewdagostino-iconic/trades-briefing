@@ -1,122 +1,270 @@
 {
   "date": "June 26, 2026",
-  "summary": "6 film announcements, 4 TV announcements across 5 trades.",
+  "summary": "11 film announcements, 13 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Irish Dog",
-      "studio": "Unknown",
-      "talent": "Scott Adkins",
-      "announcement": "Action film starring Scott Adkins pre-sells ahead of fall shoot.",
+      "title": "The Mummy",
+      "studio": "HBO Max",
+      "talent": "Lee Cronin (Director)",
+      "announcement": "Lee Cronin's The Mummy sets HBO Max release date for streaming premiere.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/scott-adkins-movie-irish-dog-pre-sells-ahead-of-fall-shoot-1236968170/"
+          "url": "https://deadline.com/2026/06/lee-cronins-the-mummy-hbo-max-release-date-streaming-1236968670/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/lee-cronin-the-mummy-hbo-max-release-date-streaming-1236757287/"
         }
       ]
     },
     {
-      "title": "Lilo & Scratch",
-      "studio": "Disney",
-      "talent": "Chris Sanders",
-      "announcement": "Disney announces surprise theatrical animated short featuring Stitch, arriving with Hexed this fall.",
+      "title": "The Catch",
+      "studio": "Universal",
+      "talent": "Emma Stone, Chris Pine, Tim Robbins, Sissy Spacek",
+      "announcement": "Tim Robbins and Sissy Spacek join Emma Stone and Chris Pine in romantic comedy The Catch at Universal.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/disney-hexed-footag-short-lilo-scratch-chris-sanders-1236968145/"
+          "url": "https://deadline.com/2026/06/tim-robbins-sissy-spacek-emma-stone-the-catch-1236967856/"
         },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/artisans/global/disney-hexed-new-short-lilo-and-scratch-stitch-annecy-1236791091/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/lilo-and-stitch-animated-short-lilo-and-scratch-explained/"
-        }
-      ]
-    },
-    {
-      "title": "Sea of Glass",
-      "studio": "Unknown",
-      "talent": "Alexis Alexiou (director)",
-      "announcement": "Director Alexis Alexiou completes her third feature film and unveils first look and trailer.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/alexis-alexiou-completes-third-feature-sea-of-glass-1236791079/"
-        }
-      ]
-    },
-    {
-      "title": "Varanasi",
-      "studio": "Unknown",
-      "talent": "S.S. Rajamouli (director)",
-      "announcement": "Director S.S. Rajamouli announces IMAX action film Varanasi is action-complete with interconnecting scenes remaining.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/s-s-rajamouli-varanasi-imax-baahubali-in-animation-annecy-1236791051/"
-        }
-      ]
-    },
-    {
-      "title": "The Samurai and the Prisoner",
-      "studio": "Unknown",
-      "talent": "Kiyoshi Kurosawa (director)",
-      "announcement": "Director Kiyoshi Kurosawa's period thriller drops first trailer.",
-      "sources": [
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/kiyoshi-kurosawa-the-samurai-and-the-prisoner-trailer-1236631413/"
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/tim-robbins-sissy-spacek-cast-emma-stone-chris-pine-rom-com-1236631730/"
         }
       ]
     },
     {
-      "title": "Hexed",
-      "studio": "Disney",
-      "talent": "",
-      "announcement": "Disney unveils fresh footage from animated film Hexed at Annecy.",
+      "title": "Bender",
+      "studio": "",
+      "talent": "Bill Burr, Michael Medico (Director)",
+      "announcement": "Michael Medico takes over as director of Bill Burr comedy Bender.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/disney-hexed-footag-short-lilo-scratch-chris-sanders-1236968145/"
+          "url": "https://deadline.com/2026/06/michael-medico-directing-bender-comedy-bill-burr-1236965533/"
+        }
+      ]
+    },
+    {
+      "title": "Five Nights at Freddy's 3",
+      "studio": "",
+      "talent": "Gary Dauberman (Screenwriter)",
+      "announcement": "Five Nights at Freddy's 3 lands screenwriter Gary Dauberman, known for It and Annabelle.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/five-nights-at-freddys-3-it-annabelle-screenwriter-gary-dauberman-1236791507/"
         },
         {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/five-nights-at-freddys-3-gary-dauberman-write-script-1236631856/"
+        }
+      ]
+    },
+    {
+      "title": "Killa",
+      "studio": "",
+      "talent": "Imani Lewis, Tanya Wright",
+      "announcement": "Imani Lewis and Tanya Wright set to star in horror-drama Killa from director Laci Dent.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/imani-lewis-tanya-wright-to-star-killa-laci-dent-1236965517/"
+        }
+      ]
+    },
+    {
+      "title": "Chronos",
+      "studio": "",
+      "talent": "Anirudh Pisharody, Tongayi Chirisa",
+      "announcement": "Anirudh Pisharody and Tongayi Chirisa set to lead thriller Chronos from director Gianinni Semedo Moreira.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/anirudh-pisharody-tongayi-chirisa-to-star-chronos-thriller-1236965546/"
+        }
+      ]
+    },
+    {
+      "title": "Cut Your Teeth",
+      "studio": "",
+      "talent": "Arthur Langlie, Riley Dandy, Oliver Stark, Madeline Weinstein; Aaron Moorhead (Producer)",
+      "announcement": "Arthur Langlie, Riley Dandy, Oliver Stark, and Madeline Weinstein set for psychological thriller Cut Your Teeth with Aaron Moorhead among producers.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/cut-your-teeth-thriller-samuel-goodwin-sets-cast-1236965573/"
+        }
+      ]
+    },
+    {
+      "title": "Do Not Open",
+      "studio": "",
+      "talent": "Freddy Carter, Lulu Wilson, Mark McKenna",
+      "announcement": "Freddy Carter, Lulu Wilson, and Mark McKenna lead sci-fi horror Do Not Open with filming underway in Texas.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/freddy-carter-lulu-wilson-horror-film-do-not-open-1236968202/"
+        }
+      ]
+    },
+    {
+      "title": "Baahubali: The Eternal War",
+      "studio": "",
+      "talent": "SS Rajamouli (Director), Ishan Shukla, Prabhas",
+      "announcement": "SS Rajamouli and Ishan Shukla discuss spinoff Baahubali: The Eternal War and the challenge of animating Prabhas at Annecy.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/ss-rajamouli-ishan-shukla-spinoff-baahubali-eternal-prabhas-1236967835/"
+        }
+      ]
+    },
+    {
+      "title": "Paper Daughter",
+      "studio": "",
+      "talent": "Cami Kwan (Director)",
+      "announcement": "Director Cami Kwan discusses turning an Angel Island family history into handcrafted stop-motion film Paper Daughter at Annecy.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/paper-daughter-cami-kwan-joy-dep-chan-interview-1236968580/"
+        }
+      ]
+    },
+    {
+      "title": "Gatto",
+      "studio": "Pixar",
+      "talent": "",
+      "announcement": "New footage from Pixar's uniquely animated cat movie Gatto has been seen.",
+      "sources": [
+        {
           "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/hexed-first-footage-explained-disney-animation/"
+          "url": "https://www.thewrap.com/creative-content/movies/gatto-pixar-first-look-footage-description/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "Heist Brothers",
-      "network": "Adult Swim",
-      "talent": "Genndy Tartakovsky (creator)",
-      "announcement": "Genndy Tartakovsky's animated series Heist Brothers is taken to series at Adult Swim.",
+      "title": "The Wolf In Winter",
+      "network": "Prime Video",
+      "talent": "Novak Djokovic (Subject), Jason Hehir (Director)",
+      "announcement": "Prime Video sets premiere date for Novak Djokovic documentary The Wolf In Winter from The Last Dance director Jason Hehir.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/heist-brothers-adult-swim-genndy-tartakovsky-annecy-1236965975/"
+          "url": "https://deadline.com/2026/06/novak-djokovic-the-wolf-in-winter-documentary-prime-video-1236968673/"
         }
       ]
     },
     {
-      "title": "Ghosts Australia",
-      "network": "BBC",
+      "title": "Pride & Prejudice",
+      "network": "Netflix",
       "talent": "",
-      "announcement": "BBC acquires Ghosts Australia to sit alongside the original British sitcom.",
+      "announcement": "Netflix develops new Pride & Prejudice series adaptation.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/bbc-ghosts-australia-acquisition-1236968147/"
+          "url": "https://deadline.com/feature/netflix-pride-amp-prejudice-series-news-updates-1236968654/"
+        }
+      ]
+    },
+    {
+      "title": "Every Year After",
+      "network": "Prime Video",
+      "talent": "Peter Friedlander (Amazon TV Chief)",
+      "announcement": "Amazon TV Chief Peter Friedlander teases Season 2 renewal for Every Year After at Obsessed Fest kickoff event.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/every-year-after-season-2-renewal-prime-video-1236968619/"
+        }
+      ]
+    },
+    {
+      "title": "Spy Series (Untitled)",
+      "network": "Netflix",
+      "talent": "Millie Bobby Brown, David Harbour; Jack Thorne (Writer), A24 (Producer)",
+      "announcement": "Millie Bobby Brown and David Harbour reunite after Stranger Things as father-daughter spies in Netflix series from Enola Holmes writer Jack Thorne and A24.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/millie-bobby-brown-david-harbour-star-spy-series-netflix-1236967673/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/millie-bobby-brown-david-harbour-netflix-spy-series-stranger-things-1236790889/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/millie-bobby-brown-david-harbour-netflix-spy-drama-1236631628/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/millie-bobby-brown-david-harbour-reunion-netflix-a24/"
+        }
+      ]
+    },
+    {
+      "title": "Building The Band",
+      "network": "Netflix",
+      "talent": "Liam Payne (Host)",
+      "announcement": "Netflix cancels Liam Payne show Building The Band after one season.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/netflix-liam-payne-building-the-band-canceled-1236968319/"
+        }
+      ]
+    },
+    {
+      "title": "Young Americans",
+      "network": "Hulu",
+      "talent": "Chris Hutton, Eddie O'Keefe, Bruce Miller (Creators/Producers)",
+      "announcement": "Hulu orders high school drama pilot Young Americans from Chris Hutton, Eddie O'Keefe, and Bruce Miller to produce.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/young-americans-pilot-hulu-chris-hutton-eddie-okeffe-bruce-miller-1236967992/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/hulu-drama-pilot-young-americans-bruce-miller-1236791262/"
+        }
+      ]
+    },
+    {
+      "title": "Heist Brothers",
+      "network": "Adult Swim",
+      "talent": "Genndy Tartakovsky (Creator)",
+      "announcement": "Genndy Tartakovsky's Heist Brothers greenlit to series by Adult Swim.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/genndy-tartakovsky-heist-brothers-adult-swim-1236791238/"
+        }
+      ]
+    },
+    {
+      "title": "Things I Wanted to Say",
+      "network": "ReelShort",
+      "talent": "Monica Murphy (Author)",
+      "announcement": "ReelShort adapts Monica Murphy's bestselling dark academia novel Things I Wanted to Say as vertical series.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/reelshort-monica-murphy-things-i-wanted-to-say-adaptation-1236791081/"
         }
       ]
     },
     {
       "title": "Monster of Florence",
       "network": "Netflix",
-      "talent": "Stefano Sollima (director)",
-      "announcement": "New installment of Monster of Florence series from director Stefano Sollima set at Netflix.",
+      "talent": "Stefano Sollima (Director)",
+      "announcement": "New installment of Monster of Florence from director Stefano Sollima set at Netflix.",
       "sources": [
         {
           "name": "Variety",
@@ -125,17 +273,41 @@
       ]
     },
     {
-      "title": "Kagurabachi",
-      "network": "Crunchyroll",
-      "talent": "Katsuyuki Konishi (cast)",
-      "announcement": "Crunchyroll acquires Kagurabachi anime series for April 2027 release with Katsuyuki Konishi joining cast as Togo Shiba.",
+      "title": "Dark Shadows",
+      "network": "",
+      "talent": "",
+      "announcement": "Warner Bros. reanimating 1960s cult TV show Dark Shadows as animated series.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/warner-bros-animation-dark-shadows-series-1236630726/"
+        }
+      ]
+    },
+    {
+      "title": "Drag Race México: Latina Royale",
+      "network": "WOW Presents Plus",
+      "talent": "",
+      "announcement": "Season 1 cast announced for Drag Race México: Latina Royale competition on WOW Presents Plus.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/gallery/drag-race-mexico-latina-royale-season-1-cast-photos-wow-presents-plus/"
+        }
+      ]
+    },
+    {
+      "title": "Cartoon Network Docuseries",
+      "network": "Adult Swim",
+      "talent": "",
+      "announcement": "Adult Swim announces Cartoon Network docuseries plus two anthology anniversary specials from Robot Chicken.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/kagurabachi-anime-crunchyroll-release-date-katsuyuki-konishi-1236790836/"
+          "url": "https://variety.com/2026/tv/global/adult-swim-cartoon-network-docuseries-robot-chicken-annecy-1236791198/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-06-26T11:19:48.392Z"
+  "lastUpdated": "2026-06-26T21:07:52.215Z"
 }
