@@ -1,12 +1,32 @@
 {
   "date": "June 27, 2026",
-  "summary": "2 film announcements, 2 TV announcements across 5 trades.",
+  "summary": "3 film announcements, 2 TV announcements across 5 trades.",
   "film": [
     {
+      "title": "The Love Hypothesis",
+      "studio": "Prime Video",
+      "talent": "Lili Reinhart as Olive Smith, Tom Bateman as Adam Carlsen",
+      "announcement": "Prime Video released first teaser trailer for the romantic comedy adaptation based on the bestselling fan fiction novel.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/the-love-hypothesis-trailer-lili-reinhart-tom-bateman-1236968946/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/prime-video-drops-first-teaser-for-the-love-hypothesis-starring-lili-reinhart-and-tom-bateman-1236632055/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/the-love-hypothesis-trailer-amazon-prime-video/"
+        }
+      ]
+    },
+    {
       "title": "Romy & Michele Sequel",
-      "studio": "Unknown",
+      "studio": "",
       "talent": "Mira Sorvino",
-      "announcement": "Mira Sorvino marks first day of filming for the Romy & Michele sequel.",
+      "announcement": "Production has officially begun on the sequel to the 1997 comedy, with Mira Sorvino marking the first day of filming.",
       "sources": [
         {
           "name": "Deadline",
@@ -15,55 +35,43 @@
       ]
     },
     {
-      "title": "Artificial",
-      "studio": "Amazon",
-      "talent": "Luca Guadagnino (director)",
-      "announcement": "Luca Guadagnino provides update on the OpenAI biopic 'Artificial' after Amazon dropped the project, expressing hope for release elsewhere.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/luca-guadagnino-gives-hope-artificial-release-1236968824/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/luca-guadagnino-not-surprised-amazon-dropped-openai-movie-1236632083/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/luca-guadagnino-breaks-silence-artificial-cancellation-sam-altman-biopic/"
-        }
-      ]
-    }
-  ],
-  "tv": [
-    {
-      "title": "Dark Shadows",
-      "network": "Warner Bros. Animation",
+      "title": "Get Jiro",
+      "studio": "Warner Bros. Animation",
       "talent": "",
-      "announcement": "Warner Bros. Animation announces animated Dark Shadows series at Annecy Adult Animation Showcase.",
+      "announcement": "Warner Bros. Animation sneak peeked the upcoming animated project at Annecy Adult Animation Showcase.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/tv/global/batman-joker-adult-animation-warner-bros-animation-annecy-1236790867/"
         }
       ]
+    }
+  ],
+  "tv": [
+    {
+      "title": "Overcompensating",
+      "network": "",
+      "talent": "Benito Skinner, Zedd (cameo)",
+      "announcement": "Season 2 will feature a Spring Break episode inspired by Fyre Festival with a cameo appearance by musician Zedd.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/overcompensating-benito-skinner-teases-zedd-cameo-1236969083/"
+        }
+      ]
     },
     {
-      "title": "Life, Larry",
-      "network": "HBO",
-      "talent": "Larry David, Jeff Schaffer (director)",
-      "announcement": "New HBO sketch comedy series from Larry David and director Jeff Schaffer announced, inspired by Obama's 250th year and Super Bowl advertising.",
+      "title": "Dark Shadows",
+      "network": "Warner Bros. Animation",
+      "talent": "",
+      "announcement": "Warner Bros. Animation announced a new animated series based on Dark Shadows at Annecy Adult Animation Showcase.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/larry-david-new-show-jeff-schaffer-obamas-notes-curb-1236790792/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/life-larry-and-the-pursuit-of-unhappiness-jeff-schaffer-interview/"
+          "url": "https://variety.com/2026/tv/global/batman-joker-adult-animation-warner-bros-animation-annecy-1236790867/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-06-27T18:57:18.556Z"
+  "lastUpdated": "2026-06-27T22:43:28.576Z"
 }
