@@ -1,12 +1,12 @@
 {
   "date": "June 27, 2026",
-  "summary": "2 film announcements, 1 TV announcement across 5 trades.",
+  "summary": "2 film announcements, 3 TV announcements across 5 trades.",
   "film": [
     {
       "title": "Romy & Michele Sequel",
       "studio": "Unknown",
       "talent": "Mira Sorvino",
-      "announcement": "Mira Sorvino marks first day of filming for the Romy & Michele sequel.",
+      "announcement": "Mira Sorvino marks first day of filming for the Romy & Michele sequel, confirming production has begun.",
       "sources": [
         {
           "name": "Deadline",
@@ -15,28 +15,48 @@
       ]
     },
     {
-      "title": "Artificial",
-      "studio": "Unknown",
-      "talent": "Luca Guadagnino (director)",
-      "announcement": "Director Luca Guadagnino expresses hope for the release of his film 'Artificial' amid previous cancellation reports.",
+      "title": "Get Jiro",
+      "studio": "Warner Bros. Animation",
+      "talent": "",
+      "announcement": "Warner Bros. Animation sneak peeks 'Get Jiro' at the Annecy Adult Animation Showcase.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/luca-guadagnino-gives-hope-artificial-release-1236968824/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/luca-guadagnino-breaks-silence-artificial-cancellation-sam-altman-biopic/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/batman-joker-adult-animation-warner-bros-animation-annecy-1236790867/"
         }
       ]
     }
   ],
   "tv": [
     {
+      "title": "Dark Shadows Animated Series",
+      "network": "Warner Bros. Animation",
+      "talent": "",
+      "announcement": "Warner Bros. Animation announces a Dark Shadows animated series at the Annecy Adult Animation Showcase.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/batman-joker-adult-animation-warner-bros-animation-annecy-1236790867/"
+        }
+      ]
+    },
+    {
+      "title": "Hit Squad",
+      "network": "Warner Bros. Animation",
+      "talent": "",
+      "announcement": "Warner Bros. Animation teases Gerry Anderson's 'Hit Squad' at the Annecy Adult Animation Showcase.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/batman-joker-adult-animation-warner-bros-animation-annecy-1236790867/"
+        }
+      ]
+    },
+    {
       "title": "Life, Larry",
       "network": "HBO",
       "talent": "Larry David, Jeff Schaffer (director)",
-      "announcement": "Jeff Schaffer directs new HBO sketch comedy series featuring Larry David, with production details and creative inspiration revealed.",
+      "announcement": "Larry David's new HBO sketch comedy series 'Life, Larry' is in development, with details on Obama's notes and the show's creative process revealed.",
       "sources": [
         {
           "name": "Variety",
@@ -49,5 +69,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-27T08:07:49.192Z"
+  "lastUpdated": "2026-06-27T09:33:05.933Z"
 }
