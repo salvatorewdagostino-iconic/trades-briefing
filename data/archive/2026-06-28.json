@@ -1,16 +1,16 @@
 {
   "date": "June 28, 2026",
-  "summary": "2 film announcements, 1 TV announcement across 5 trades.",
+  "summary": "2 film announcements, 2 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "St. Elmo's Fire Sequel",
+      "title": "The Death of Robin Hood",
       "studio": "",
-      "talent": "Rob Lowe",
-      "announcement": "Rob Lowe revealed that a sequel script is in development and the team is actively trying to move the project forward.",
+      "talent": "Hugh Jackman",
+      "announcement": "Artisans break down Hugh Jackman's brutal transformation for the film.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/06/rob-lowe-st-elmos-fire-sequel-script-in-works-1236969128/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/artisans/news/the-death-of-robin-hood-hugh-jackman-transformation-1236791235/"
         }
       ]
     },
@@ -18,7 +18,7 @@
       "title": "The Beast",
       "studio": "",
       "talent": "Joel Kinnaman, Samuel L. Jackson",
-      "announcement": "Director Renny Harlin teased the film as an unusual movie that could significantly boost Joel Kinnaman's career.",
+      "announcement": "Director Renny Harlin teases the film as an unusual movie that could boost Joel Kinnaman's career.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -29,10 +29,22 @@
   ],
   "tv": [
     {
+      "title": "The Order",
+      "network": "",
+      "talent": "Stephen Poliakoff",
+      "announcement": "Stephen Poliakoff returns to major TV drama with an epic historic political thriller.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/stephen-poliakoff-return-tv-drama-the-order-malta-1236791318/"
+        }
+      ]
+    },
+    {
       "title": "Superior",
       "network": "Prime Video",
       "talent": "",
-      "announcement": "Prime Video revealed young stars for the German-language original series set in the world of luxury hotels.",
+      "announcement": "Prime Video reveals young stars of German-language original series set in the world of luxury hotels.",
       "sources": [
         {
           "name": "Variety",
@@ -41,5 +53,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-28T18:56:07.899Z"
+  "lastUpdated": "2026-06-28T22:43:25.024Z"
 }
