@@ -1,20 +1,45 @@
 {
   "date": "June 28, 2026",
-  "summary": "1 film announcement, 0 TV announcements across the trades.",
+  "summary": "2 film announcements, 1 TV announcement across 5 trades.",
   "film": [
     {
-      "title": "St. Elmo's Fire",
+      "title": "St. Elmo's Fire Sequel",
       "studio": "",
       "talent": "Rob Lowe",
-      "announcement": "Rob Lowe revealed that a sequel script is in development and the filmmakers are attempting to move the project forward.",
+      "announcement": "Rob Lowe revealed that a sequel script is in development and the team is actively trying to move the project forward.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/06/rob-lowe-st-elmos-fire-sequel-script-in-works-1236969128/"
         }
       ]
+    },
+    {
+      "title": "The Beast",
+      "studio": "",
+      "talent": "Joel Kinnaman, Samuel L. Jackson",
+      "announcement": "Director Renny Harlin teased the film as an unusual movie that could significantly boost Joel Kinnaman's career.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/renny-harlin-the-beast-movie-sam-jackson-joel-kinnaman-1236632284/"
+        }
+      ]
     }
   ],
-  "tv": [],
-  "lastUpdated": "2026-06-28T10:14:32.091Z"
+  "tv": [
+    {
+      "title": "Superior",
+      "network": "Prime Video",
+      "talent": "",
+      "announcement": "Prime Video revealed young stars for the German-language original series set in the world of luxury hotels.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/prime-video-german-original-series-superior-set-1236795928/"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-28T18:56:07.899Z"
 }
