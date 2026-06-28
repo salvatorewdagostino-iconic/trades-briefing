@@ -3,10 +3,10 @@
   "summary": "1 film announcement, 0 TV announcements across the trades.",
   "film": [
     {
-      "title": "St. Elmo's Fire Sequel",
+      "title": "St. Elmo's Fire",
       "studio": "",
       "talent": "Rob Lowe",
-      "announcement": "Rob Lowe revealed that a sequel script for St. Elmo's Fire is in development and the team is actively trying to move the project forward.",
+      "announcement": "Rob Lowe revealed that a sequel script is in development and the filmmakers are attempting to move the project forward.",
       "sources": [
         {
           "name": "Deadline",
@@ -16,5 +16,5 @@
     }
   ],
   "tv": [],
-  "lastUpdated": "2026-06-28T10:09:00.448Z"
+  "lastUpdated": "2026-06-28T10:14:32.091Z"
 }
