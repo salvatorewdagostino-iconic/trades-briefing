@@ -7,7 +7,7 @@
       "title": "S.W.A.T. Exiles",
       "network": "Starz",
       "talent": "",
-      "announcement": "Spinoff series lands at Starz with September premiere date set. Sony TV has completed sales in all major markets.",
+      "announcement": "Spinoff lands at Starz with September premiere date. Sony TV completes sales in all major markets.",
       "sources": [
         {
           "name": "Deadline",
@@ -16,14 +16,18 @@
         {
           "name": "Variety",
           "url": "https://variety.com/2026/tv/news/s-w-a-t-spinoff-exiles-starz-september-release-date-1236798385/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/swat-exiles-premiere-date-what-channel/"
         }
       ]
     },
     {
-      "title": "Life of Jesus Christ",
+      "title": "Jesus Christ Documentary Series",
       "network": "BBC",
-      "talent": "",
-      "announcement": "BBC greenlights landmark historical documentary series exploring the life of Jesus Christ from Wonderhood Studios.",
+      "talent": "Wonderhood Studios",
+      "announcement": "BBC orders landmark historical docuseries exploring the life of Jesus Christ from Wonderhood Studios.",
       "sources": [
         {
           "name": "Deadline",
@@ -38,12 +42,16 @@
     {
       "title": "General Hospital",
       "network": "ABC",
-      "talent": "John Oliver (guest star)",
-      "announcement": "John Oliver lands a guest-starring role on the long-running soap opera.",
+      "talent": "John Oliver",
+      "announcement": "John Oliver lands a guest-starring role on the long-running soap opera for a 3-episode arc.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/06/john-oliver-general-hospital-guest-star-1236969706/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/john-oliver-last-week-tonight-general-hospital-1236631872/"
         },
         {
           "name": "TheWrap",
@@ -54,8 +62,8 @@
     {
       "title": "Who Wants to Be a Millionaire? / Millionaire Hot Seat",
       "network": "ITV",
-      "talent": "Jeremy Clarkson (host)",
-      "announcement": "Jeremy Clarkson is set for more episodes of both 'Who Wants to Be a Millionaire?' and its spinoff 'Millionaire Hot Seat.'",
+      "talent": "Jeremy Clarkson",
+      "announcement": "Jeremy Clarkson set to host additional episodes of both the revived game show and its spinoff.",
       "sources": [
         {
           "name": "Variety",
@@ -64,5 +72,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-29T14:37:36.820Z"
+  "lastUpdated": "2026-06-29T14:51:21.068Z"
 }
