@@ -1,41 +1,102 @@
 {
   "date": "June 29, 2026",
-  "summary": "0 film announcements, 4 TV announcements across 5 trades.",
-  "film": [],
-  "tv": [
+  "summary": "4 film announcements, 9 TV announcements across 5 trades.",
+  "film": [
     {
-      "title": "S.W.A.T. Exiles",
-      "network": "Starz",
-      "talent": "",
-      "announcement": "Spinoff lands at Starz with September premiere date. Sony TV completes sales in all major markets.",
+      "title": "The Devil's Mouth",
+      "studio": "",
+      "talent": "Kathryn Newton, Lana Condor, Gavin Casalegno",
+      "announcement": "Trailer released featuring the cast facing a shark in a freshwater cave system.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/swat-exiles-starz-premiere-date-sony-tv-sales-netflix-1236968856/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/s-w-a-t-spinoff-exiles-starz-september-release-date-1236798385/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/swat-exiles-premiere-date-what-channel/"
+          "url": "https://deadline.com/2026/06/the-devils-mouth-trailer-lana-condor-gavin-casalegno-1236970013/"
         }
       ]
     },
     {
-      "title": "Jesus Christ Documentary Series",
-      "network": "BBC",
-      "talent": "Wonderhood Studios",
-      "announcement": "BBC orders landmark historical docuseries exploring the life of Jesus Christ from Wonderhood Studios.",
+      "title": "Wildwood",
+      "studio": "Laika",
+      "talent": "",
+      "announcement": "Laika boss Travis Knight campaigns the animated film at Annecy, calling it the studio's biggest and most ambitious project to date.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/jesus-christ-bbc-documentary-series-1236968219/"
+          "url": "https://deadline.com/2026/06/laika-boss-travis-knight-wildwood-campaign-annecy-biggest-1236969765/"
+        }
+      ]
+    },
+    {
+      "title": "Werwulf",
+      "studio": "",
+      "talent": "Aaron Taylor-Johnson, Willem Dafoe, Lily-Rose Depp",
+      "announcement": "Trailer released for Robert Eggers' Middle English werewolf horror film.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/werwulf-trailer-aaron-taylor-johnson-robert-eggers-1236969697/"
         },
         {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/trailers/werwulf-trailer-robert-eggers-1235202650/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/werwulf-trailer-aaron-taylor-johnson-robert-eggers-movie/"
+        }
+      ]
+    },
+    {
+      "title": "Backrooms",
+      "studio": "A24",
+      "talent": "",
+      "announcement": "Extended version with 15 minutes of bonus footage coming to theaters.",
+      "sources": [
+        {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/global/bbc-jesus-christ-docuseries-1236798173/"
+          "url": "https://variety.com/2026/film/news/backrooms-extended-version-coming-to-theaters-15-minutes-bonus-footage-a24-1236798460/"
+        }
+      ]
+    }
+  ],
+  "tv": [
+    {
+      "title": "A Hundred Percent",
+      "network": "Netflix",
+      "talent": "Tiffany Boone, Lisa Gilroy, Diane Lane",
+      "announcement": "Tiffany Boone and Lisa Gilroy complete cast as production begins; Diane Lane cast to recur in the comedy series.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/tiffany-boone-lisa-gilroy-cast-netflix-a-hundred-percent-1236970250/"
+        },
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/diane-lane-cast-netflix-comedy-series-a-hundred-percent-1236970007/"
+        }
+      ]
+    },
+    {
+      "title": "Fire Country",
+      "network": "CBS",
+      "talent": "Olivia Thirlby",
+      "announcement": "Olivia Thirlby cast as series regular for Season 5, marking the drama's first series regular addition ever.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/fire-country-olivia-thirlby-season-5-series-regular-1236970259/"
+        }
+      ]
+    },
+    {
+      "title": "Dexter: Resurrection",
+      "network": "",
+      "talent": "Krysten Ritter",
+      "announcement": "Krysten Ritter confirmed to return for Season 2 of the revival series.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/krysten-ritter-returning-dexter-resurrection-season-2-1236969998/"
         }
       ]
     },
@@ -43,15 +104,11 @@
       "title": "General Hospital",
       "network": "ABC",
       "talent": "John Oliver",
-      "announcement": "John Oliver lands a guest-starring role on the long-running soap opera for a 3-episode arc.",
+      "announcement": "John Oliver lands a guest-starring role for a 3-episode arc on the soap opera.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/06/john-oliver-general-hospital-guest-star-1236969706/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/john-oliver-last-week-tonight-general-hospital-1236631872/"
         },
         {
           "name": "TheWrap",
@@ -60,17 +117,69 @@
       ]
     },
     {
-      "title": "Who Wants to Be a Millionaire? / Millionaire Hot Seat",
-      "network": "ITV",
-      "talent": "Jeremy Clarkson",
-      "announcement": "Jeremy Clarkson set to host additional episodes of both the revived game show and its spinoff.",
+      "title": "Apple TV Thriller Series",
+      "network": "Apple TV+",
+      "talent": "Joely Richardson, Dakota Fanning",
+      "announcement": "Joely Richardson joins thriller series from Alex Cary alongside Dakota Fanning.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/joely-richardson-apple-series-dakota-fanning-alex-cary-1236969980/"
+        }
+      ]
+    },
+    {
+      "title": "Running Man",
+      "network": "",
+      "talent": "",
+      "announcement": "Korean format Running Man heads to U.S. with Hellcat producing.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/korean-format-running-man-us-adaptation-hellcat-1236968604/"
+        }
+      ]
+    },
+    {
+      "title": "Probability of Miracles",
+      "network": "Amazon",
+      "talent": "Brian Tee, Ben Feldman",
+      "announcement": "Brian Tee and Ben Feldman cast in Amazon TV series.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/global/jeremy-clarkson-who-wants-to-be-a-millionaire-hot-seat-1236791361/"
+          "url": "https://variety.com/2026/tv/news/probability-of-miracles-amazon-cast-brian-tee-ben-feldman-1236798444/"
+        }
+      ]
+    },
+    {
+      "title": "Enigma Variations",
+      "network": "Netflix",
+      "talent": "Aaron Taylor-Johnson, Alicia Vikander",
+      "announcement": "Alicia Vikander joins Aaron Taylor-Johnson in the limited series.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/alicia-vikander-aaron-taylor-johnson-enigma-variations-show-1236798555/"
+        }
+      ]
+    },
+    {
+      "title": "S.W.A.T. Exiles",
+      "network": "Starz",
+      "talent": "",
+      "announcement": "S.W.A.T. spinoff finds home at Starz and will premiere Fall 2026.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/swat-exiles-spinoff-starz-1236632989/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/swat-exiles-premiere-date-what-channel/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-06-29T14:51:21.068Z"
+  "lastUpdated": "2026-06-29T21:10:53.352Z"
 }
