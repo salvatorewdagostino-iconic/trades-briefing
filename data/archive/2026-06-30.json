@@ -6,7 +6,7 @@
       "title": "Bad Bridgets",
       "studio": "Netflix",
       "talent": "Colin Farrell, Steve Coogan, Charlie Heaton, Domhnall Gleeson, Himesh Patel, Niamh Algar, Simone Kirby, Emilia Jones, Alison Oliver",
-      "announcement": "Netflix-backed Irish period thriller directed by Rich Peppiatt announces major cast additions including Colin Farrell and Steve Coogan.",
+      "announcement": "Netflix-backed Irish period thriller directed by Rich Peppiatt adds Colin Farrell, Steve Coogan, and additional cast members to the ensemble.",
       "sources": [
         {
           "name": "Deadline",
@@ -23,28 +23,36 @@
       ]
     },
     {
-      "title": "Citizen Vigilante",
-      "studio": "Worldwide Distribution",
-      "talent": "Armie Hammer",
-      "announcement": "Armie Hammer's film secures worldwide distribution following an intervention by Elon Musk.",
+      "title": "Eat Your Heart Out",
+      "studio": "",
+      "talent": "Tania Raymonde, Brian Austin Green, Steve Agee, Breanna Yde",
+      "announcement": "Horror-comedy musical film greenlit with cast including Tania Raymonde, Brian Austin Green, Steve Agee, and Breanna Yde.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/armie-hammer-citizen-vigilante-worldwide-distribution-1236799025/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/eat-your-heart-out-tania-raymonde-horror-musical-1236633081/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "La Vida Barcelona",
-      "network": "Beta Film",
-      "talent": "Katina Medina Mora (Director)",
-      "announcement": "Romantic dramedy series directed by Katina Medina Mora boarded by Beta Film for production.",
+      "title": "Bad Bridgets",
+      "network": "Netflix",
+      "talent": "Colin Farrell, Steve Coogan, Charlie Heaton, Domhnall Gleeson, Himesh Patel, Niamh Algar, Simone Kirby, Emilia Jones, Alison Oliver",
+      "announcement": "Netflix-backed Irish period thriller directed by Rich Peppiatt adds Colin Farrell, Steve Coogan, and additional cast members to the ensemble.",
       "sources": [
         {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/colin-farrell-steve-coogan-peppiatt-netflix-bad-bridgets-1236970817/"
+        },
+        {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/global/beta-film-la-vida-barcelona-1236799089/"
+          "url": "https://variety.com/2026/film/global/colin-farrell-steve-coogan-join-netflix-bad-bridgets-1236799067/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/colin-farrell-steve-coogan-charlie-heaton-bad-bridgets-film-1236633660/"
         }
       ]
     },
@@ -52,14 +60,26 @@
       "title": "The Lady Grace Mysteries",
       "network": "BBC",
       "talent": "",
-      "announcement": "Teen spy series is set to return for Season 2.",
+      "announcement": "Teen spy series returns for Season 2.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/tv/global/the-lady-grace-mysteries-season-2-bbc-1236798295/"
         }
       ]
+    },
+    {
+      "title": "La Vida Barcelona",
+      "network": "Beta Film",
+      "talent": "Katina Medina Mora (director)",
+      "announcement": "Romantic dramedy series directed by Katina Medina Mora boarded by Beta Film.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/beta-film-la-vida-barcelona-1236799089/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-06-30T10:41:11.892Z"
+  "lastUpdated": "2026-06-30T11:29:49.389Z"
 }
