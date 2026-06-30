@@ -1,85 +1,353 @@
 {
   "date": "June 30, 2026",
-  "summary": "2 film announcements, 3 TV announcements across 5 trades.",
+  "summary": "10 film announcements, 13 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Bad Bridgets",
-      "studio": "Netflix",
-      "talent": "Colin Farrell, Steve Coogan, Charlie Heaton, Domhnall Gleeson, Himesh Patel, Niamh Algar, Simone Kirby, Emilia Jones, Alison Oliver",
-      "announcement": "Netflix-backed Irish period thriller directed by Rich Peppiatt adds Colin Farrell, Steve Coogan, and additional cast members to the ensemble.",
+      "title": "Paranormal Activity",
+      "studio": "Unknown",
+      "talent": "Sonia Mena, Chase Yi",
+      "announcement": "Sonia Mena joins Chase Yi in new Paranormal Activity movie directed by Ian Tuason.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/colin-farrell-steve-coogan-peppiatt-netflix-bad-bridgets-1236970817/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/colin-farrell-steve-coogan-join-netflix-bad-bridgets-1236799067/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/colin-farrell-steve-coogan-charlie-heaton-bad-bridgets-film-1236633660/"
+          "url": "https://deadline.com/2026/06/paranormal-activity-sonia-mena-cast-opposite-chase-yi-1236971084/"
         }
       ]
     },
     {
-      "title": "Eat Your Heart Out",
-      "studio": "",
-      "talent": "Tania Raymonde, Brian Austin Green, Steve Agee, Breanna Yde",
-      "announcement": "Horror-comedy musical film greenlit with cast including Tania Raymonde, Brian Austin Green, Steve Agee, and Breanna Yde.",
+      "title": "Artificial",
+      "studio": "Neon",
+      "talent": "",
+      "announcement": "Neon is circling and closing in on distribution of Luca Guadagnino's Sam Altman biopic after Amazon MGM dropped the controversial film.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/artificial-movie-luca-guadagnino-eyes-neon-distributor-1236971435/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/neon-luca-guadagnino-artificial-openai-movie-amazon-1236787919/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/luca-guadagninos-openai-movie-artificial-lands-at-neon-1236631428/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/breaking-news/luca-guadagnino-sam-altman-movie-artificial-neon-1235201776/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/neon-closes-on-luca-guadagninos-artificial/"
+        }
+      ]
+    },
+    {
+      "title": "Homewrecker",
+      "studio": "Unknown",
+      "talent": "Simu Liu, Allison Williams, Michelle Randolph",
+      "announcement": "Simu Liu joins Allison Williams and Michelle Randolph in Xavier Gens sci-fi thriller with France shoot date set.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/simu-liu-allison-williams-michelle-randolph-homewrecker-1236970995/"
+        }
+      ]
+    },
+    {
+      "title": "She's With Me",
+      "studio": "Red Sage Studios",
+      "talent": "",
+      "announcement": "Red Sage Studios taps Domingo González to helm film adaptation of Jessica Cunsolo bestseller with director attached.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/red-sage-studios-sets-shes-with-me-film-hires-nick-lafferty-1236971349/"
+        }
+      ]
+    },
+    {
+      "title": "Shed",
+      "studio": "Unknown",
+      "talent": "Amanda Righetti, William Mapother, Spencer Locke",
+      "announcement": "Horror film casts Amanda Righetti, William Mapother, and Spencer Locke with filming wrapping in Nashville.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/amanda-righetti-william-mapother-spencer-locke-horror-shed-1236971335/"
+        }
+      ]
+    },
+    {
+      "title": "Until the Time We Die",
+      "studio": "Unknown",
+      "talent": "Jack Cameron Kay",
+      "announcement": "Jack Cameron Kay to star in queer love story directed by Daniel Talbott.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/jack-cameron-kay-to-star-until-the-time-we-die-1236970606/"
+        }
+      ]
+    },
+    {
+      "title": "Not Alone",
+      "studio": "Illumination",
+      "talent": "Timothée Chalamet, Selena Gomez",
+      "announcement": "Animated film featuring Timothée Chalamet and Selena Gomez as rocket scientists encountering alien life releases first trailer.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/not-alone-trailer-timothee-chalamet-selena-gomez-aliens-1236799266/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/not-alone-trailer-timothee-chalamet-selena-gomez-aliens-1236633899/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/not-alone-trailer-timothee-chalamet-selena-gomez-illumination/"
+        }
+      ]
+    },
+    {
+      "title": "Citizen Vigilante",
+      "studio": "Quiver",
+      "talent": "Armie Hammer",
+      "announcement": "Worldwide rights to Armie Hammer comeback movie land at Quiver for distribution.",
       "sources": [
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/eat-your-heart-out-tania-raymonde-horror-musical-1236633081/"
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/armie-hammer-citizen-vigilante-rights-quiver-1236633751/"
+        }
+      ]
+    },
+    {
+      "title": "Baahubali: The Eternal War",
+      "studio": "Unknown",
+      "talent": "S.S. Rajamouli",
+      "announcement": "S.S. Rajamouli unveils his biggest Baahubali story yet as an animated film featuring gods, the afterlife, and epic battles.",
+      "sources": [
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/features/interviews/s-s-rajamouli-baahubali-the-eternal-war-animated-movie-1235202901/"
+        }
+      ]
+    },
+    {
+      "title": "Pan's Labyrinth",
+      "studio": "Unknown",
+      "talent": "Guillermo del Toro",
+      "announcement": "Guillermo del Toro's Pan's Labyrinth receives 20th anniversary theatrical re-release in 3D and 4K.",
+      "sources": [
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/trailers/guillermo-del-toro-pans-labyrinth-returns-3d-4k-trailer-1235202880/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "Bad Bridgets",
-      "network": "Netflix",
-      "talent": "Colin Farrell, Steve Coogan, Charlie Heaton, Domhnall Gleeson, Himesh Patel, Niamh Algar, Simone Kirby, Emilia Jones, Alison Oliver",
-      "announcement": "Netflix-backed Irish period thriller directed by Rich Peppiatt adds Colin Farrell, Steve Coogan, and additional cast members to the ensemble.",
+      "title": "Bone Parish",
+      "network": "Starz",
+      "talent": "Curtis '50 Cent' Jackson",
+      "announcement": "Curtis '50 Cent' Jackson developing TV adaptation of Bone Parish graphic novel at Starz as executive producer.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/06/colin-farrell-steve-coogan-peppiatt-netflix-bad-bridgets-1236970817/"
+          "url": "https://deadline.com/2026/06/curtis-50-cent-jackson-tv-adaptation-bone-parish-starz-1236971342/"
         },
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/global/colin-farrell-steve-coogan-join-netflix-bad-bridgets-1236799067/"
+          "url": "https://variety.com/2026/tv/news/starz-bone-parish-development-deal-50-cent-1236799463/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/bone-parish-tv-adaptation-starz-50-cent/"
+        }
+      ]
+    },
+    {
+      "title": "MobLand",
+      "network": "Paramount+",
+      "talent": "Tom Hardy",
+      "announcement": "Tom Hardy returns to MobLand for Season 3 after resolving issues with producers, paving way for renewal.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/tom-hardy-mobland-returning-season-3-renewal-1236971197/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/tom-hardy-returning-mobland-season-3-1236799510/"
         },
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/colin-farrell-steve-coogan-charlie-heaton-bad-bridgets-film-1236633660/"
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/tom-hardy-makes-up-with-mobland-producers-1236634032/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/tv/tom-hardy-returning-mobland-paramount-plus-eyes-season-3-renewal/"
         }
       ]
     },
     {
-      "title": "The Lady Grace Mysteries",
-      "network": "BBC",
+      "title": "Last Kids on Earth",
+      "network": "Disney+",
       "talent": "",
-      "announcement": "Teen spy series returns for Season 2.",
+      "announcement": "Live-action adaptation of Last Kids on Earth receives Disney+ pilot order.",
       "sources": [
         {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/last-kids-on-earth-live-action-pilot-order-disney-1236971285/"
+        },
+        {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/global/the-lady-grace-mysteries-season-2-bbc-1236798295/"
+          "url": "https://variety.com/2026/tv/news/last-kids-on-earth-tv-show-disney-pilot-order-1236799413/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/last-kids-on-earth-live-action-disney-pilot-1236633891/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/disney-orders-last-kids-on-earth-tv-adaptation-pilot-max-brallier/"
         }
       ]
     },
     {
-      "title": "La Vida Barcelona",
-      "network": "Beta Film",
-      "talent": "Katina Medina Mora (director)",
-      "announcement": "Romantic dramedy series directed by Katina Medina Mora boarded by Beta Film.",
+      "title": "NCIS: Origins",
+      "network": "CBS",
+      "talent": "Mark Harmon",
+      "announcement": "Mark Harmon returns to NCIS: Origins as Gibbs for Season 3 in a story arc.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/mark-harmon-ncis-origins-season-3-cast-1236971337/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/mark-harmon-gibbs-return-ncis-origins-season-3-1236799407/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/ncis-origins-season-3-mark-harmon-full-time-acting-return-1236633913/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/ncis-origins-season-3-mark-harmon-joins-cast/"
+        }
+      ]
+    },
+    {
+      "title": "The Pitt",
+      "network": "Unknown",
+      "talent": "",
+      "announcement": "The Pitt adds 6 cast members to recurring roles for Season 3.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/the-pitt-recurring-cast-season-3-1236971207/"
+        }
+      ]
+    },
+    {
+      "title": "Dutton Ranch",
+      "network": "Paramount+",
+      "talent": "Benjamin Cavell",
+      "announcement": "Benjamin Cavell joins as showrunner for Dutton Ranch Season 2 following Chad Feehan's exit.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/benjamin-cavell-dutton-ranch-showrunner-chad-feehan-exit-1236971303/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/dutton-ranch-season-2-showrunner-1236633788/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/dutton-ranch-season-2-showrunner-benjamin-cavell/"
+        }
+      ]
+    },
+    {
+      "title": "Lex",
+      "network": "Hulu",
+      "talent": "Dylan O'Brien",
+      "announcement": "Dylan O'Brien to headline Hulu comedy pilot Lex.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/dylan-obrien-hulu-comedy-pilot-lex-cast-1236970772/"
+        }
+      ]
+    },
+    {
+      "title": "Big Brother: Unlocked",
+      "network": "CBS",
+      "talent": "Jerry O'Connell",
+      "announcement": "Jerry O'Connell joins Big Brother: Unlocked on CBS.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/06/jerry-oconnell-joins-big-brother-unlocked-cbs-1236971181/"
+        }
+      ]
+    },
+    {
+      "title": "Willy Wonka Competition Series",
+      "network": "Netflix",
+      "talent": "",
+      "announcement": "Netflix recreates Gene Wilder's voice with AI for new Willy Wonka competition series.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-willy-wonka-reality-show-ai-gene-wilder-voice-1236633800/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/netflix-ai-gene-wilder-willy-wonka-show/"
+        }
+      ]
+    },
+    {
+      "title": "Nemesis",
+      "network": "Netflix",
+      "talent": "",
+      "announcement": "Nemesis renewed for second season at Netflix.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/nemesis-renewed-season-2-netflix-1236633431/"
+        }
+      ]
+    },
+    {
+      "title": "Neagley",
+      "network": "Prime Video",
+      "talent": "",
+      "announcement": "Reacher Season 4 finale to lead straight into Neagley spinoff this fall on Prime Video.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/reacher-season-4-premiere-date-neagley-spinoff-prime-video/"
+        }
+      ]
+    },
+    {
+      "title": "The Bear",
+      "network": "Hulu",
+      "talent": "Lionel Boyce",
+      "announcement": "The Bear Season 5 wraps production with Lionel Boyce describing it as his most intense shoot yet.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/global/beta-film-la-vida-barcelona-1236799089/"
+          "url": "https://variety.com/2026/tv/news/lionel-boyce-the-bear-season-5-marcus-candle-trick-1236799307/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-06-30T11:29:49.389Z"
+  "lastUpdated": "2026-06-30T21:18:25.507Z"
 }
