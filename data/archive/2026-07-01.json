@@ -1,28 +1,16 @@
 {
   "date": "July 1, 2026",
-  "summary": "3 film announcements, 4 TV announcements across 5 trades.",
+  "summary": "4 film announcements, 4 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Mupapa",
-      "studio": "Yash Raj Films, Posham Pa Pictures",
-      "talent": "Ayushmann Khurrana",
-      "announcement": "Ayushmann Khurrana to star in this theatrical collaboration between India's Yash Raj Films and Posham Pa Pictures.",
+      "title": "Chatlines",
+      "studio": "Peccadillo Pictures",
+      "talent": "",
+      "announcement": "Queer sci-fi film about a couple who meet on a Chatroulette-style app lands UK theatrical distribution.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/ayushmann-khurrana-mupapa-yrf-posham-pa-1236799149/"
-        }
-      ]
-    },
-    {
-      "title": "Possession",
-      "studio": "Paramount",
-      "talent": "Paul Dano",
-      "announcement": "Paul Dano boards the Possession remake at Paramount.",
-      "sources": [
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/industry-news/casting/paul-dano-joins-possession-remake-cast/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/chatlines-queer-movie-uk-distribution-peccadillo-pictures-1236972080/"
         }
       ]
     },
@@ -35,6 +23,30 @@
         {
           "name": "Variety",
           "url": "https://variety.com/2026/film/markets-festivals/mimpi-kita-naff-bucheon-distribution-1236799460/"
+        }
+      ]
+    },
+    {
+      "title": "Mupapa",
+      "studio": "Yash Raj Films, Posham Pa Pictures",
+      "talent": "Ayushmann Khurrana",
+      "announcement": "Ayushmann Khurrana to star in first theatrical collaboration between India's Yash Raj Films and Posham Pa Pictures.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/ayushmann-khurrana-mupapa-yrf-posham-pa-1236799149/"
+        }
+      ]
+    },
+    {
+      "title": "Possession",
+      "studio": "Paramount",
+      "talent": "Paul Dano",
+      "announcement": "Paul Dano boards Possession remake at Paramount.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/industry-news/casting/paul-dano-joins-possession-remake-cast/"
         }
       ]
     }
@@ -53,10 +65,22 @@
       ]
     },
     {
+      "title": "Colin from Accounts",
+      "network": "",
+      "talent": "",
+      "announcement": "Season 3 trailer released with July 27 launch date.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/colin-from-accounts-trailer-season-3-july-27-launch-1236971979/"
+        }
+      ]
+    },
+    {
       "title": "A Shop for Killers",
       "network": "Disney+, Hulu",
-      "talent": "Pachinko and Drive My Car stars joining cast",
-      "announcement": "Hit Korean thriller sets July season 2 premiere on Disney+ and Hulu with new cast members joining.",
+      "talent": "",
+      "announcement": "Hit Korean thriller sets July season 2 premiere on Disney+ and Hulu with Pachinko and Drive My Car stars joining cast.",
       "sources": [
         {
           "name": "Variety",
@@ -69,22 +93,10 @@
       ]
     },
     {
-      "title": "Colin From Accounts",
-      "network": "",
-      "talent": "Gordon and Ashley",
-      "announcement": "Season 3 trailer released with launch set for July 27.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/colin-from-accounts-trailer-season-3-july-27-launch-1236971979/"
-        }
-      ]
-    },
-    {
       "title": "A Woman of Substance",
-      "network": "",
+      "network": "TVE",
       "talent": "",
-      "announcement": "Series heads to Spain as part of TVE sales deal.",
+      "announcement": "Series heads to Spain in TVE sales deal.",
       "sources": [
         {
           "name": "Deadline",
@@ -93,5 +105,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-01T10:52:56.651Z"
+  "lastUpdated": "2026-07-01T11:41:39.716Z"
 }
