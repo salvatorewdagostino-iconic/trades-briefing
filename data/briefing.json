@@ -1,12 +1,36 @@
 {
   "date": "July 1, 2026",
-  "summary": "4 film announcements, 4 TV announcements across 5 trades.",
+  "summary": "7 film announcements, 6 TV announcements across 5 trades.",
   "film": [
+    {
+      "title": "Disconnected",
+      "studio": "",
+      "talent": "Kayla Ewell, Brian Dietzen, cast from 'Everybody Still Hates Chris'",
+      "announcement": "Feature film about teen deepfakes and cyberbullying with Kayla Ewell and Brian Dietzen headlining.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/kayla-ewell-brian-dietzen-disconnected-deepfakes-film-1236972096/"
+        }
+      ]
+    },
+    {
+      "title": "Armani: The King of Fashion",
+      "studio": "",
+      "talent": "Director: Bille August",
+      "announcement": "Giorgio Armani biopic with director Bille August attached to helm the project.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/bille-august-giorgio-armani-biopic-the-king-of-fashion-1236972180/"
+        }
+      ]
+    },
     {
       "title": "Chatlines",
       "studio": "Peccadillo Pictures",
       "talent": "",
-      "announcement": "Queer sci-fi film about a couple who meet on a Chatroulette-style app lands UK theatrical distribution.",
+      "announcement": "Queer sci-fi movie about a couple who meet on a Chatroulette-style app lands UK theatrical distribution.",
       "sources": [
         {
           "name": "Deadline",
@@ -15,26 +39,38 @@
       ]
     },
     {
-      "title": "Mimpi Kita: Castle in the Air",
-      "studio": "",
-      "talent": "",
-      "announcement": "Malaysian sci-fi feature charts audience-driven distribution plan ahead of Bucheon Market debut.",
+      "title": "Clarissa",
+      "studio": "Neon",
+      "talent": "Sophie Okonedo",
+      "announcement": "Neon sets theatrical release date for Esiri Twins' Lagos-set reimagining of 'Mrs. Dalloway' starring Sophie Okonedo.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/markets-festivals/mimpi-kita-naff-bucheon-distribution-1236799460/"
+          "url": "https://variety.com/2026/film/awards/neon-clarissa-release-date-sophie-okonedo-mrs-dolloway-1236799702/"
         }
       ]
     },
     {
-      "title": "Mupapa",
-      "studio": "Yash Raj Films, Posham Pa Pictures",
-      "talent": "Ayushmann Khurrana",
-      "announcement": "Ayushmann Khurrana to star in first theatrical collaboration between India's Yash Raj Films and Posham Pa Pictures.",
+      "title": "New York Knicks Championship Documentary",
+      "studio": "",
+      "talent": "Director: Travon Free",
+      "announcement": "Filmmaker Travon Free teams with Blink49 Creator Studios and 1Community for a documentary on the New York Knicks championship.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/news/ayushmann-khurrana-mupapa-yrf-posham-pa-1236799149/"
+          "url": "https://variety.com/2026/film/news/travon-free-new-york-knicks-documentary-blink49-1community-1236799703/"
+        }
+      ]
+    },
+    {
+      "title": "The Horseman",
+      "studio": "Scripps Networks/Grit TV",
+      "talent": "Barry Pepper, Kiefer Sutherland",
+      "announcement": "Western film from Nomadic Pictures with Barry Pepper and Kiefer Sutherland headlining for Scripps Networks.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/barry-pepper-kiefer-sutherland-the-horseman-movie-grit-tv-1236634122/"
         }
       ]
     },
@@ -42,7 +78,7 @@
       "title": "Possession",
       "studio": "Paramount",
       "talent": "Paul Dano",
-      "announcement": "Paul Dano boards Possession remake at Paramount.",
+      "announcement": "Paul Dano boards the 'Possession' remake at Paramount.",
       "sources": [
         {
           "name": "TheWrap",
@@ -53,10 +89,34 @@
   ],
   "tv": [
     {
+      "title": "The Escape Room",
+      "network": "Tap In Shorts",
+      "talent": "Dwight Howard",
+      "announcement": "Dwight Howard stars in vertical series 'The Escape Room' as among launch titles for streaming platform Tap In Shorts.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/dwight-howard-vertical-series-escape-room-tap-in-shorts-1236972117/"
+        }
+      ]
+    },
+    {
+      "title": "The Surf House",
+      "network": "Netflix",
+      "talent": "",
+      "announcement": "Netflix developing Lucy Clarke's thriller 'The Surf House' for television adaptation.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/the-surf-house-netflix-tv-series-lucy-clarke-north-road-1236970937/"
+        }
+      ]
+    },
+    {
       "title": "Breslau",
       "network": "Disney+",
       "talent": "",
-      "announcement": "Disney+ renews Polish drama Breslau for season 2 and orders two more shows from Central Europe.",
+      "announcement": "Disney+ renews Polish drama 'Breslau' for season 2 and orders two more shows from Central Europe.",
       "sources": [
         {
           "name": "Deadline",
@@ -65,45 +125,41 @@
       ]
     },
     {
-      "title": "Colin from Accounts",
-      "network": "",
+      "title": "Bleach: Thousand-Year Blood War – The Calamity",
+      "network": "Hulu, Disney+",
       "talent": "",
-      "announcement": "Season 3 trailer released with July 27 launch date.",
+      "announcement": "Anime series sets July premiere on Hulu and Disney+ via Viz Media.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/colin-from-accounts-trailer-season-3-july-27-launch-1236971979/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/bleach-thousand-year-blood-war-the-calamity-july-premiere-hulu-disney-1236799220/"
+        }
+      ]
+    },
+    {
+      "title": "The Wolf",
+      "network": "Quinn Audio",
+      "talent": "Matt Smith",
+      "announcement": "Matt Smith to star in Quinn Audio original drama 'The Wolf'.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/business/digital/matt-smith-narrate-quinn-audio-drama-the-wolf-1236633181/"
         }
       ]
     },
     {
       "title": "A Shop for Killers",
-      "network": "Disney+, Hulu",
+      "network": "Disney+",
       "talent": "",
-      "announcement": "Hit Korean thriller sets July season 2 premiere on Disney+ and Hulu with Pachinko and Drive My Car stars joining cast.",
+      "announcement": "Disney+ hit Korean series 'A Shop for Killers' sets season 2 premiere date.",
       "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/a-shop-for-killers-season-2-disney-hulu-1236799021/"
-        },
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/disney-plus-a-shop-for-killers-season-2-premiere-date-1236633620/"
         }
       ]
-    },
-    {
-      "title": "A Woman of Substance",
-      "network": "TVE",
-      "talent": "",
-      "announcement": "Series heads to Spain in TVE sales deal.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/a-woman-of-substance-series-heads-to-spain-tve-sales-deal-1236971360/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-01T11:41:39.716Z"
+  "lastUpdated": "2026-07-01T16:09:49.180Z"
 }
