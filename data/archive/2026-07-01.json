@@ -1,12 +1,72 @@
 {
   "date": "July 1, 2026",
-  "summary": "7 film announcements, 6 TV announcements across 5 trades.",
+  "summary": "8 film announcements, 7 TV announcements across 5 trades.",
   "film": [
+    {
+      "title": "Juice",
+      "studio": "Working Title",
+      "talent": "Joe Wright (director), Abi Morgan (screenplay)",
+      "announcement": "Joe Wright to direct feature adaptation of Tim Winton's sci-fi thriller with Abi Morgan adapting the screenplay.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/joe-wright-juice-working-title-1236972633/"
+        }
+      ]
+    },
+    {
+      "title": "Paranormal Activity",
+      "studio": "",
+      "talent": "Maya Da Costa (cast)",
+      "announcement": "Maya Da Costa joins the cast of the next Paranormal Activity movie.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/paranormal-activity-maya-da-costa-joins-new-movie-1236972539/"
+        }
+      ]
+    },
+    {
+      "title": "Siren Head",
+      "studio": "Warner Bros.",
+      "talent": "Brian Duffield (director), Zach Cregger (co-writer)",
+      "announcement": "Warner Bros. sets horror movie based on internet sensation Siren Head with Brian Duffield directing and Zach Cregger co-writing the script.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/siren-head-movie-warmer-bros-brian-duffield-directing-1236972398/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/siren-head-warner-bros-movie-brian-duffield-zach-cregger-1236800197/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/siren-head-horror-zach-cregger-brian-duffield-1236634292/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/zach-cregger-brian-duffield-siren-head/"
+        }
+      ]
+    },
+    {
+      "title": "Please",
+      "studio": "A24",
+      "talent": "Lola Tung (cast), Halina Reijn (director)",
+      "announcement": "Lola Tung joins the cast of A24's film 'Please' directed by Halina Reijn.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/lola-tung-joins-please-a24-halina-reijn-1236971574/"
+        }
+      ]
+    },
     {
       "title": "Disconnected",
       "studio": "",
-      "talent": "Kayla Ewell, Brian Dietzen, cast from 'Everybody Still Hates Chris'",
-      "announcement": "Feature film about teen deepfakes and cyberbullying with Kayla Ewell and Brian Dietzen headlining.",
+      "talent": "Kayla Ewell, Brian Dietzen (cast)",
+      "announcement": "Kayla Ewell and Brian Dietzen topline feature 'Disconnected' about teen deepfakes and cyberbullying, with additional cast from 'Everybody Still Hates Chris'.",
       "sources": [
         {
           "name": "Deadline",
@@ -15,151 +75,163 @@
       ]
     },
     {
-      "title": "Armani: The King of Fashion",
+      "title": "Reckoner",
+      "studio": "Lionsgate",
+      "talent": "Kenji Tanigaki (director), Peter Dinklage (cast)",
+      "announcement": "Director Kenji Tanigaki teams with Peter Dinklage for new action movie at Lionsgate and AGBO.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/the-furious-director-kenji-tanigaki-peter-dinklage-reckoner-1236634874/"
+        }
+      ]
+    },
+    {
+      "title": "Giorgio Armani",
       "studio": "",
-      "talent": "Director: Bille August",
-      "announcement": "Giorgio Armani biopic with director Bille August attached to helm the project.",
+      "talent": "Bille August (director)",
+      "announcement": "Bille August to direct Giorgio Armani biopic.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/bille-august-giorgio-armani-biopic-the-king-of-fashion-1236972180/"
-        }
-      ]
-    },
-    {
-      "title": "Chatlines",
-      "studio": "Peccadillo Pictures",
-      "talent": "",
-      "announcement": "Queer sci-fi movie about a couple who meet on a Chatroulette-style app lands UK theatrical distribution.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/chatlines-queer-movie-uk-distribution-peccadillo-pictures-1236972080/"
-        }
-      ]
-    },
-    {
-      "title": "Clarissa",
-      "studio": "Neon",
-      "talent": "Sophie Okonedo",
-      "announcement": "Neon sets theatrical release date for Esiri Twins' Lagos-set reimagining of 'Mrs. Dalloway' starring Sophie Okonedo.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/awards/neon-clarissa-release-date-sophie-okonedo-mrs-dolloway-1236799702/"
-        }
-      ]
-    },
-    {
-      "title": "New York Knicks Championship Documentary",
-      "studio": "",
-      "talent": "Director: Travon Free",
-      "announcement": "Filmmaker Travon Free teams with Blink49 Creator Studios and 1Community for a documentary on the New York Knicks championship.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/travon-free-new-york-knicks-documentary-blink49-1community-1236799703/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/bille-august-giorgio-armani-biopic-1236634933/"
         }
       ]
     },
     {
       "title": "The Horseman",
-      "studio": "Scripps Networks/Grit TV",
-      "talent": "Barry Pepper, Kiefer Sutherland",
-      "announcement": "Western film from Nomadic Pictures with Barry Pepper and Kiefer Sutherland headlining for Scripps Networks.",
+      "studio": "Scripps Networks",
+      "talent": "Barry Pepper, Kiefer Sutherland (cast)",
+      "announcement": "Barry Pepper and Kiefer Sutherland duel in Scripps Networks western from Nomadic Pictures.",
       "sources": [
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/barry-pepper-kiefer-sutherland-the-horseman-movie-grit-tv-1236634122/"
         }
       ]
-    },
-    {
-      "title": "Possession",
-      "studio": "Paramount",
-      "talent": "Paul Dano",
-      "announcement": "Paul Dano boards the 'Possession' remake at Paramount.",
-      "sources": [
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/industry-news/casting/paul-dano-joins-possession-remake-cast/"
-        }
-      ]
     }
   ],
   "tv": [
     {
-      "title": "The Escape Room",
-      "network": "Tap In Shorts",
-      "talent": "Dwight Howard",
-      "announcement": "Dwight Howard stars in vertical series 'The Escape Room' as among launch titles for streaming platform Tap In Shorts.",
+      "title": "NCIS",
+      "network": "CBS",
+      "talent": "Michael Weatherly (returning as Tony DiNozzo)",
+      "announcement": "Michael Weatherly returning to NCIS for Season 24 following cancellation of spin-off 'Tony & Ziva'.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/dwight-howard-vertical-series-escape-room-tap-in-shorts-1236972117/"
+          "url": "https://deadline.com/2026/07/michael-weatherly-ncis-return-season-24-1236972378/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/ncis-michael-weatherly-return-tony-dinozzo-season-24-1236800272/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/ncis-michael-weatherly-return-season-24-1236635151/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/ncis-michael-weatherly-returns-tony-dinozzo-season-24/"
         }
       ]
     },
     {
-      "title": "The Surf House",
+      "title": "Godfather of Harlem",
+      "network": "MGM+",
+      "talent": "Forest Whitaker (cast)",
+      "announcement": "Series to end with 2-hour series finale following 4-season run on MGM+.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/godfather-of-harlem-series-finale-mgm-plus-forest-whitaker-1236972313/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/godfather-of-harlem-ending-two-hour-finale-mgm-plus-1236800289/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/godfather-of-harlem-end-2-hour-series-finale-1236634830/"
+        }
+      ]
+    },
+    {
+      "title": "The Probability of Miracles",
+      "network": "Prime Video",
+      "talent": "",
+      "announcement": "Prime Video's 'The Probability of Miracles' adds 7 to recurring cast.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/prime-video-the-probability-of-miracles-series-cast-recur-1236972433/"
+        }
+      ]
+    },
+    {
+      "title": "Camp Rock 3",
+      "network": "Disney/Disney Channel",
+      "talent": "",
+      "announcement": "Camp Rock 3 sets release date and unveils teaser trailer.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/camp-rock-3-release-date-disney-disney-channel-1236900026/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/camp-rock-3-teaser-disney-release-date-one-beat-away-1236800112/"
+        }
+      ]
+    },
+    {
+      "title": "The Murder of JonBenét Ramsey",
       "network": "Netflix",
-      "talent": "",
-      "announcement": "Netflix developing Lucy Clarke's thriller 'The Surf House' for television adaptation.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/the-surf-house-netflix-tv-series-lucy-clarke-north-road-1236970937/"
-        }
-      ]
-    },
-    {
-      "title": "Breslau",
-      "network": "Disney+",
-      "talent": "",
-      "announcement": "Disney+ renews Polish drama 'Breslau' for season 2 and orders two more shows from Central Europe.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/disney-breslau-season-2-poland-two-new-shows-1236972051/"
-        }
-      ]
-    },
-    {
-      "title": "Bleach: Thousand-Year Blood War – The Calamity",
-      "network": "Hulu, Disney+",
-      "talent": "",
-      "announcement": "Anime series sets July premiere on Hulu and Disney+ via Viz Media.",
+      "talent": "Melissa McCarthy, Clive Owen (cast)",
+      "announcement": "Limited series moves to Netflix from Paramount+ with Melissa McCarthy and Clive Owen starring.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/bleach-thousand-year-blood-war-the-calamity-july-premiere-hulu-disney-1236799220/"
-        }
-      ]
-    },
-    {
-      "title": "The Wolf",
-      "network": "Quinn Audio",
-      "talent": "Matt Smith",
-      "announcement": "Matt Smith to star in Quinn Audio original drama 'The Wolf'.",
-      "sources": [
+          "url": "https://variety.com/2026/tv/news/murder-of-jonbenet-ramsey-limited-series-netflix-paramount-1236800192/"
+        },
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/business/digital/matt-smith-narrate-quinn-audio-drama-the-wolf-1236633181/"
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/jonbenet-ramsey-series-moves-netflix-paramount-plus-1236634974/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/the-murder-of-jonbenet-ramsey-netflix-premiere-paramount-plus-move/"
         }
       ]
     },
     {
-      "title": "A Shop for Killers",
-      "network": "Disney+",
+      "title": "Baywatch",
+      "network": "Fox",
+      "talent": "Stephen Amell (cast)",
+      "announcement": "Fox's Baywatch reboot unveils first footage in new teaser trailer ahead of January 2027 premiere.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/baywatch-fox-reboot-new-teaser-1236800181/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/baywatch-first-look/"
+        }
+      ]
+    },
+    {
+      "title": "Big Brother",
+      "network": "",
       "talent": "",
-      "announcement": "Disney+ hit Korean series 'A Shop for Killers' sets season 2 premiere date.",
+      "announcement": "Big Brother reveals 'Time Trip' theme for Season 28.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/disney-plus-a-shop-for-killers-season-2-premiere-date-1236633620/"
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/big-brother-season-28-theme-time-trip/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-01T16:09:49.180Z"
+  "lastUpdated": "2026-07-01T20:59:08.900Z"
 }
