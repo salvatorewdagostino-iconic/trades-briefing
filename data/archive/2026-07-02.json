@@ -1,17 +1,53 @@
 {
   "date": "July 2, 2026",
-  "summary": "4 film announcements, 2 TV announcements across 5 trades.",
+  "summary": "7 film announcements, 4 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Ocean's Eleven Prequel",
-      "studio": "Unknown",
-      "talent": "Josh Gad, Margot Robbie, Bradley Cooper",
-      "announcement": "Josh Gad joins the cast of the Ocean's Eleven prequel alongside Margot Robbie and Bradley Cooper.",
+      "title": "The Mandela Catalogue",
+      "studio": "Amazon MGM Studios",
+      "talent": "Steven Spielberg (producer), Scott Stuber (United Artists)",
+      "announcement": "Steven Spielberg, Scott Stuber's United Artists, and Amazon MGM Studios acquired the YouTube horror franchise for a big screen adaptation.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/youtube-mandela-catalog-steven-spielberg-scott-stuber-1236973259/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/spielberg-ua-amazon-mgm-nab-youtube-horror-hit-the-mandela-catalogue/"
+        }
+      ]
+    },
+    {
+      "title": "Best Men",
+      "studio": "",
+      "talent": "Patty Jenkins (producer)",
+      "announcement": "Patty Jenkins is set to produce the rom-com about an unexpected wedding romance, adapted from a gay romance novel.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/patty-jenkins-produce-rom-com-best-men-gay-romance-novel-1236973046/"
+        }
+      ]
+    },
+    {
+      "title": "Moana 3",
+      "studio": "Disney",
+      "talent": "Dwayne Johnson",
+      "announcement": "A third installment in the Moana franchise is in development at Disney, according to star Dwayne Johnson.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/news/margot-robbie-bradley-cooper-oceans-prequel-josh-gad-1236799715/"
-        },
+          "url": "https://variety.com/2026/film/news/moana-3-disney-1236235124/"
+        }
+      ]
+    },
+    {
+      "title": "Ocean's Eleven Prequel",
+      "studio": "",
+      "talent": "Josh Gad, Margot Robbie, Bradley Cooper",
+      "announcement": "Josh Gad boards the Ocean's Eleven prequel alongside Margot Robbie and Bradley Cooper.",
+      "sources": [
         {
           "name": "TheWrap",
           "url": "https://www.thewrap.com/creative-content/movies/josh-gad-joins-oceans-eleven-prequel-cast/"
@@ -19,67 +55,103 @@
       ]
     },
     {
-      "title": "The Gunfighter",
-      "studio": "RXM Entertainment",
-      "talent": "Patrick Perez Vidauri (director)",
-      "announcement": "RXM Entertainment vigilante movie sets Patrick Perez Vidauri to direct.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/the-gunfighter-mario-kassar-vanessa-vasquez-1236972808/"
-        }
-      ]
-    },
-    {
-      "title": "Khashaba",
-      "studio": "Jio Studios",
-      "talent": "Director Nagraj Manjule",
-      "announcement": "Nagraj Manjule's Khashaba unveils teaser and worldwide release date from Jio Studios.",
+      "title": "Les Misérables",
+      "studio": "StudioCanal",
+      "talent": "Vincent Lindon, Tahar Rahim, Fred Cavayé (director)",
+      "announcement": "StudioCanal unveiled a teaser for Fred Cavayé's sweeping adaptation of Victor Hugo's classic novel starring Vincent Lindon and Tahar Rahim.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/news/nagraj-manjule-khashaba-teaser-jio-studios-1236799319/"
+          "url": "https://variety.com/2026/film/global/studiocanal-teaser-les-miserables-fred-cavaye-victor-hugo-1236800839/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/tahar-rahim-storms-the-barricades-in-les-miserables-trailer-1236635717/"
         }
       ]
     },
     {
-      "title": "Les Misérables",
-      "studio": "Unknown",
-      "talent": "Vincent Lindon, Tahar Rahim",
-      "announcement": "Trailer released for Les Misérables starring Vincent Lindon and Tahar Rahim.",
+      "title": "Kiki's Delivery Service",
+      "studio": "GKIDS",
+      "talent": "",
+      "announcement": "GKIDS acquired the Studio Ghibli library for the U.K. and Ireland, including an IMAX release of Kiki's Delivery Service.",
       "sources": [
         {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/kikis-delivery-service-imax-release-gkids-studio-ghibli-uk-ireland-1236800611/"
+        },
+        {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/tahar-rahim-storms-the-barricades-in-les-miserables-trailer-1236635717/"
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/gkids-takes-studio-ghibli-library-for-uk-ireland-1236635705/"
+        }
+      ]
+    },
+    {
+      "title": "The Dog Stars",
+      "studio": "",
+      "talent": "Josh Brolin, Ridley Scott (director)",
+      "announcement": "Josh Brolin nearly quit Ridley Scott's film after the first day of filming, according to behind-the-scenes details.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/josh-brolin-almost-quit-ridley-scott-dog-stars-first-day-1236972863/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "The Crow Girl",
-      "network": "Paramount+",
-      "talent": "",
-      "announcement": "Paramount+ reveals trailer for Season 2 of dark crime drama The Crow Girl.",
+      "title": "Toxic Moms",
+      "network": "Netflix",
+      "talent": "Ashley Tisdale, Sabrina Jalees, Ali Wong",
+      "announcement": "Ashley Tisdale is developing a comedy series at Netflix with Sabrina Jalees and Ali Wong following a viral essay.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/crow-girl-season-2-trailer-paramount-plus-1236972138/"
+          "url": "https://deadline.com/2026/07/ashley-tisdale-toxic-moms-comedy-netflix-sabrina-jalees-ali-wong-1236972821/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/ashley-tisdale-toxic-moms-comedy-series-netflix-1236636103/"
         }
       ]
     },
     {
       "title": "Sarek",
       "network": "Prime Video Nordics",
-      "talent": "Actors from Quicksand and Barracuda Queens",
-      "announcement": "Prime Video Nordics adapts Ulf Kvensler's debut novel Sarek as a psychological thriller series.",
+      "talent": "Quicksand and Barracuda Queens actors",
+      "announcement": "Prime Video Nordics is adapting Ulf Kvensler's debut novel Sarek as a psychological thriller series starring actors from Quicksand and Barracuda Queens.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/07/prime-video-nordics-sarek-ulf-kvensler-novel-1236972077/"
         }
       ]
+    },
+    {
+      "title": "The Next Move",
+      "network": "North Road",
+      "talent": "Questlove",
+      "announcement": "Questlove is developing a digital talk show titled The Next Move in partnership with North Road.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/questlove-north-road-talk-show-the-next-move-1236800361/"
+        }
+      ]
+    },
+    {
+      "title": "Ghostbusters Animated Series",
+      "network": "",
+      "talent": "",
+      "announcement": "A Ghostbusters animated series is in development, eyeing its own Clone Wars-style expanded universe moment.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/ghostbusters-animated-series-eyes-its-own-clone-wars-moment-1236634464/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-07-02T10:19:51.063Z"
+  "lastUpdated": "2026-07-02T20:09:06.794Z"
 }
