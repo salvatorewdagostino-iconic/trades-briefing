@@ -1,24 +1,12 @@
 {
   "date": "July 2, 2026",
-  "summary": "4 film announcements, 1 TV announcement across 5 trades.",
+  "summary": "4 film announcements, 2 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "The Comebacker",
-      "studio": "Sony",
-      "talent": "Tom Hanks",
-      "announcement": "Tom Hanks baseball movie sets late summer 2027 release date.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/tom-hanks-mlb-the-comebacker-release-date-1236972868/"
-        }
-      ]
-    },
-    {
       "title": "Ocean's Eleven Prequel",
-      "studio": "",
-      "talent": "Margot Robbie, Bradley Cooper, Josh Gad",
-      "announcement": "Josh Gad joins Margot Robbie and Bradley Cooper in the Ocean's franchise prequel.",
+      "studio": "Unknown",
+      "talent": "Josh Gad, Margot Robbie, Bradley Cooper",
+      "announcement": "Josh Gad joins the cast of the Ocean's Eleven prequel alongside Margot Robbie and Bradley Cooper.",
       "sources": [
         {
           "name": "Variety",
@@ -33,8 +21,8 @@
     {
       "title": "The Gunfighter",
       "studio": "RXM Entertainment",
-      "talent": "Patrick Perez Vidauri (Director)",
-      "announcement": "Patrick Perez Vidauri set to direct the vigilante movie for RXM Entertainment.",
+      "talent": "Patrick Perez Vidauri (director)",
+      "announcement": "RXM Entertainment vigilante movie sets Patrick Perez Vidauri to direct.",
       "sources": [
         {
           "name": "Deadline",
@@ -45,22 +33,46 @@
     {
       "title": "Khashaba",
       "studio": "Jio Studios",
-      "talent": "Nagraj Manjule (Director)",
-      "announcement": "Nagraj Manjule's film unveils teaser and worldwide release date from Jio Studios.",
+      "talent": "Director Nagraj Manjule",
+      "announcement": "Nagraj Manjule's Khashaba unveils teaser and worldwide release date from Jio Studios.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/film/news/nagraj-manjule-khashaba-teaser-jio-studios-1236799319/"
         }
       ]
+    },
+    {
+      "title": "Les Misérables",
+      "studio": "Unknown",
+      "talent": "Vincent Lindon, Tahar Rahim",
+      "announcement": "Trailer released for Les Misérables starring Vincent Lindon and Tahar Rahim.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/tahar-rahim-storms-the-barricades-in-les-miserables-trailer-1236635717/"
+        }
+      ]
     }
   ],
   "tv": [
     {
+      "title": "The Crow Girl",
+      "network": "Paramount+",
+      "talent": "",
+      "announcement": "Paramount+ reveals trailer for Season 2 of dark crime drama The Crow Girl.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/crow-girl-season-2-trailer-paramount-plus-1236972138/"
+        }
+      ]
+    },
+    {
       "title": "Sarek",
-      "network": "Prime Video",
-      "talent": "Actors from 'Quicksand' and 'Barracuda Queens'",
-      "announcement": "Prime Video adapts Ulf Kvensler's debut novel as a psychological thriller series.",
+      "network": "Prime Video Nordics",
+      "talent": "Actors from Quicksand and Barracuda Queens",
+      "announcement": "Prime Video Nordics adapts Ulf Kvensler's debut novel Sarek as a psychological thriller series.",
       "sources": [
         {
           "name": "Deadline",
@@ -69,5 +81,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-02T08:30:15.731Z"
+  "lastUpdated": "2026-07-02T10:19:51.063Z"
 }
