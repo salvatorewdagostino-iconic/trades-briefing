@@ -1,40 +1,32 @@
 {
   "date": "July 3, 2026",
-  "summary": "3 film announcements, 3 TV announcements across 5 trades.",
+  "summary": "2 film announcements, 2 TV announcements across 5 trades.",
   "film": [
     {
+      "title": "Solo Leveling: Beyond the System",
+      "studio": "Crunchyroll and Aniplex",
+      "talent": "",
+      "announcement": "The theatrical anime film adaptation of Solo Leveling is now in production.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/solo-leveling-movie-beyond-the-system-in-production-1236801606/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/solo-leveling-beyond-the-system-feature-film-crunchyroll-in-production/"
+        }
+      ]
+    },
+    {
       "title": "Heat 2",
-      "studio": "Unknown",
+      "studio": "",
       "talent": "Leonardo DiCaprio, Christian Bale",
-      "announcement": "Leonardo DiCaprio and Christian Bale confirmed to star in Heat 2, with filming set to begin in November.",
+      "announcement": "Leonardo DiCaprio and Christian Bale are confirmed to star in Heat 2, with filming set to begin in November.",
       "sources": [
         {
           "name": "TheWrap",
           "url": "https://www.thewrap.com/creative-content/movies/heat-2-cast-filming-christian-bale-leonardo-dicaprio-michael-mann/"
-        }
-      ]
-    },
-    {
-      "title": "The Case of the Boy Who Lost His Heart",
-      "studio": "Unknown",
-      "talent": "Diego Céspedes (director)",
-      "announcement": "Cannes winner Diego Céspedes prepares his second feature film.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/diego-cespedes-preps-the-case-of-the-boy-who-lost-his-heart-1236790602/"
-        }
-      ]
-    },
-    {
-      "title": "Mountain",
-      "studio": "Unknown",
-      "talent": "Peter Mullan, Rebecca Lucy Taylor, Iwan Rheon",
-      "announcement": "Celyn Jones directs feature film Mountain starring Peter Mullan, Rebecca Lucy Taylor, and Iwan Rheon.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/peter-mullan-iwan-rheon-celyn-jones-mountain-film-1236801278/"
         }
       ]
     }
@@ -44,7 +36,7 @@
       "title": "Power: Origins",
       "network": "Starz",
       "talent": "Asjha Cooper as Young Jarita",
-      "announcement": "Asjha Cooper from Raising Kanan joins Power: Origins as series regular, playing young Jarita.",
+      "announcement": "Asjha Cooper, revealed as Young Jarita from Raising Kanan, joins Power: Origins as a series regular.",
       "sources": [
         {
           "name": "Deadline",
@@ -59,27 +51,15 @@
     {
       "title": "Frame",
       "network": "ZEE5",
-      "talent": "Nagraj Manjule (director), Amey Wagh",
-      "announcement": "Marathi social drama Frame directed by Nagraj Manjule and starring Amey Wagh sets premiere on ZEE5.",
+      "talent": "Nagraj Manjule, Amey Wagh",
+      "announcement": "Marathi social drama Frame directed by Nagraj Manjule and starring Amey Wagh is set to premiere on ZEE5.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/tv/news/nagraj-manjule-amey-wagh-frame-zee5-1236801437/"
         }
       ]
-    },
-    {
-      "title": "Satluj",
-      "network": "ZEE5 Global",
-      "talent": "Diljit Dosanjh",
-      "announcement": "Diljit Dosanjh's Satluj (formerly Punjab '95) streams uncut on ZEE5 Global without any cuts or compromises.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/diljit-dosanjh-satluj-punjab-95-uncut-zee5-global-1236801418/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-03T18:54:26.458Z"
+  "lastUpdated": "2026-07-03T22:39:55.939Z"
 }
