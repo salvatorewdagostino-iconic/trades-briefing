@@ -1,69 +1,85 @@
 {
   "date": "July 3, 2026",
-  "summary": "3 film announcements, 2 TV announcements across multiple trades.",
+  "summary": "3 film announcements, 3 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Hans Christian Andersen",
-      "studio": "Denmark (Production Incentive Scheme)",
-      "talent": "Nikolaj Arcel (director)",
-      "announcement": "Nikolaj Arcel's Hans Christian Andersen biopic is among the first titles to be supported through Denmark's new production incentive scheme.",
+      "title": "Heat 2",
+      "studio": "Unknown",
+      "talent": "Leonardo DiCaprio, Christian Bale",
+      "announcement": "Leonardo DiCaprio and Christian Bale confirmed to star in Heat 2, with filming set to begin in November.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/denmark-incentive-nikolaj-arcel-hans-christian-andersen-1236973758/"
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/heat-2-cast-filming-christian-bale-leonardo-dicaprio-michael-mann/"
         }
       ]
     },
     {
-      "title": "Peluru Senja: The Ghost & the Gun",
-      "studio": "Malaysia (theatrical distributor)",
-      "talent": "",
-      "announcement": "War drama locks Malaysia theatrical release date and drops trailer.",
+      "title": "The Case of the Boy Who Lost His Heart",
+      "studio": "Unknown",
+      "talent": "Diego Céspedes (director)",
+      "announcement": "Cannes winner Diego Céspedes prepares his second feature film.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/news/peluru-senja-malaysia-release-date-trailer-1236800826/"
+          "url": "https://variety.com/2026/film/global/diego-cespedes-preps-the-case-of-the-boy-who-lost-his-heart-1236790602/"
         }
       ]
     },
     {
-      "title": "My Indian Boyfriend: The Golden Mile",
-      "studio": "RFT Films",
-      "talent": "",
-      "announcement": "Film lands RFT Films for U.K. and Ireland theatrical distribution.",
+      "title": "Mountain",
+      "studio": "Unknown",
+      "talent": "Peter Mullan, Rebecca Lucy Taylor, Iwan Rheon",
+      "announcement": "Celyn Jones directs feature film Mountain starring Peter Mullan, Rebecca Lucy Taylor, and Iwan Rheon.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/news/my-indian-boyfriend-golden-mile-uk-ireland-rft-films-1236801248/"
+          "url": "https://variety.com/2026/film/global/peter-mullan-iwan-rheon-celyn-jones-mountain-film-1236801278/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "Army of Shadows",
-      "network": "Two Cities Television",
-      "talent": "",
-      "announcement": "Two Cities Television is developing a TV reimagining of the 1969 war movie, leveraging success from their series 'Backrooms'.",
+      "title": "Power: Origins",
+      "network": "Starz",
+      "talent": "Asjha Cooper as Young Jarita",
+      "announcement": "Asjha Cooper from Raising Kanan joins Power: Origins as series regular, playing young Jarita.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/two-cities-bosses-on-army-of-shadows-backrooms-ip-the-yank-1236970967/"
+          "url": "https://deadline.com/2026/07/starz-raising-kanan-asjha-cooper-jarita-power-origins-cast-1236973398/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/power-book-iii-raising-kanan-jarita-power-origins-1236801042/"
         }
       ]
     },
     {
-      "title": "Mohini – Khud Se Pyaar",
-      "network": "Galaxy Play",
-      "talent": "",
-      "announcement": "AI-created Indian musical microdrama unveils debut track 'Angaat Aalay Ka'.",
+      "title": "Frame",
+      "network": "ZEE5",
+      "talent": "Nagraj Manjule (director), Amey Wagh",
+      "announcement": "Marathi social drama Frame directed by Nagraj Manjule and starring Amey Wagh sets premiere on ZEE5.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/ai-indian-musical-microdrama-mohini-debut-track-1236800841/"
+          "url": "https://variety.com/2026/tv/news/nagraj-manjule-amey-wagh-frame-zee5-1236801437/"
+        }
+      ]
+    },
+    {
+      "title": "Satluj",
+      "network": "ZEE5 Global",
+      "talent": "Diljit Dosanjh",
+      "announcement": "Diljit Dosanjh's Satluj (formerly Punjab '95) streams uncut on ZEE5 Global without any cuts or compromises.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/diljit-dosanjh-satluj-punjab-95-uncut-zee5-global-1236801418/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-03T10:16:13.073Z"
+  "lastUpdated": "2026-07-03T18:54:26.458Z"
 }
