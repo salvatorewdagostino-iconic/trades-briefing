@@ -1,7 +1,31 @@
 {
   "date": "July 3, 2026",
-  "summary": "2 film announcements, 3 TV announcements across 5 trades.",
+  "summary": "3 film announcements, 2 TV announcements across multiple trades.",
   "film": [
+    {
+      "title": "Hans Christian Andersen",
+      "studio": "Denmark (Production Incentive Scheme)",
+      "talent": "Nikolaj Arcel (director)",
+      "announcement": "Nikolaj Arcel's Hans Christian Andersen biopic is among the first titles to be supported through Denmark's new production incentive scheme.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/denmark-incentive-nikolaj-arcel-hans-christian-andersen-1236973758/"
+        }
+      ]
+    },
+    {
+      "title": "Peluru Senja: The Ghost & the Gun",
+      "studio": "Malaysia (theatrical distributor)",
+      "talent": "",
+      "announcement": "War drama locks Malaysia theatrical release date and drops trailer.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/peluru-senja-malaysia-release-date-trailer-1236800826/"
+        }
+      ]
+    },
     {
       "title": "My Indian Boyfriend: The Golden Mile",
       "studio": "RFT Films",
@@ -13,26 +37,14 @@
           "url": "https://variety.com/2026/film/news/my-indian-boyfriend-golden-mile-uk-ireland-rft-films-1236801248/"
         }
       ]
-    },
-    {
-      "title": "Peluru Senja: The Ghost & the Gun",
-      "studio": "",
-      "talent": "",
-      "announcement": "War drama locks Malaysia theatrical release date and drops trailer.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/peluru-senja-malaysia-release-date-trailer-1236800826/"
-        }
-      ]
     }
   ],
   "tv": [
     {
       "title": "Army of Shadows",
-      "network": "",
+      "network": "Two Cities Television",
       "talent": "",
-      "announcement": "Two Cities Television announces TV reimagining of 1969 war movie as part of their slate following the success of 'Backrooms.'",
+      "announcement": "Two Cities Television is developing a TV reimagining of the 1969 war movie, leveraging success from their series 'Backrooms'.",
       "sources": [
         {
           "name": "Deadline",
@@ -41,22 +53,10 @@
       ]
     },
     {
-      "title": "Brothers for Life",
-      "network": "",
-      "talent": "",
-      "announcement": "Series included in Skyline Media and Galaxy Play's international sales slate.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/brothers-for-life-thousand-dollar-baby-skyline-galaxy-play-1236801240/"
-        }
-      ]
-    },
-    {
       "title": "Mohini – Khud Se Pyaar",
-      "network": "",
+      "network": "Galaxy Play",
       "talent": "",
-      "announcement": "AI-created Indian musical microdrama unveils debut track 'Angaat Aalay Ka.'",
+      "announcement": "AI-created Indian musical microdrama unveils debut track 'Angaat Aalay Ka'.",
       "sources": [
         {
           "name": "Variety",
@@ -65,5 +65,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-03T08:32:19.874Z"
+  "lastUpdated": "2026-07-03T10:16:13.073Z"
 }
