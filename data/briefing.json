@@ -1,33 +1,24 @@
 {
   "date": "July 4, 2026",
-  "summary": "1 film announcement, 1 TV announcement across 2 trades.",
-  "film": [
-    {
-      "title": "Sister Nibedita",
-      "studio": "",
-      "talent": "Celina Jaitly as Sister Nibedita; Ram Kamal Mukherjee",
-      "announcement": "Celina Jaitly returns to the big screen in the role of Sister Nibedita, the Irish-born disciple of Swami Vivekananda.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/celina-jaitly-sister-nibedita-ram-kamal-mukherjee-1236801458/"
-        }
-      ]
-    }
-  ],
+  "summary": "0 film announcements, 1 TV announcement across 3 trades.",
+  "film": [],
   "tv": [
     {
       "title": "Untitled Larry David HBO Show",
       "network": "HBO",
-      "talent": "Rob Reiner as George Washington; Larry David",
-      "announcement": "Rob Reiner cast in a secret final role as George Washington in Larry David's HBO show.",
+      "talent": "Rob Reiner (George Washington), Larry David",
+      "announcement": "Rob Reiner has secured a secret final role as George Washington in Larry David's HBO show, appearing in a political statement piece against Trump.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/tv/news/rob-reiner-trump-george-washington-larry-david-hbo-show-1236801101/"
+        },
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/rob-reiner-larry-david-donald-trump-1236974165/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-04T09:09:54.882Z"
+  "lastUpdated": "2026-07-04T18:17:03.142Z"
 }
