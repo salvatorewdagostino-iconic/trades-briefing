@@ -1,11 +1,11 @@
 {
   "date": "July 4, 2026",
-  "summary": "1 film announcement, 1 TV announcement across trades.",
+  "summary": "1 film announcement, 1 TV announcement across 2 trades.",
   "film": [
     {
       "title": "Sister Nibedita",
       "studio": "",
-      "talent": "Celina Jaitly as Sister Nibedita; Ram Kamal Mukherjee directing",
+      "talent": "Celina Jaitly as Sister Nibedita; Ram Kamal Mukherjee",
       "announcement": "Celina Jaitly returns to the big screen in the role of Sister Nibedita, the Irish-born disciple of Swami Vivekananda.",
       "sources": [
         {
@@ -29,5 +29,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-04T08:15:00.520Z"
+  "lastUpdated": "2026-07-04T09:09:54.882Z"
 }
