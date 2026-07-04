@@ -1,24 +1,53 @@
 {
   "date": "July 4, 2026",
-  "summary": "0 film announcements, 1 TV announcement across 3 trades.",
-  "film": [],
-  "tv": [
+  "summary": "2 film announcements, 1 TV announcement across 5 trades.",
+  "film": [
     {
-      "title": "Untitled Larry David HBO Show",
-      "network": "HBO",
-      "talent": "Rob Reiner (George Washington), Larry David",
-      "announcement": "Rob Reiner has secured a secret final role as George Washington in Larry David's HBO show, appearing in a political statement piece against Trump.",
+      "title": "Fast Forever",
+      "studio": "Universal Pictures",
+      "talent": "Vin Diesel",
+      "announcement": "Vin Diesel has begun production on Fast Forever, teasing it as the most amazing finale for the franchise.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/rob-reiner-trump-george-washington-larry-david-hbo-show-1236801101/"
-        },
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/vin-diesel-begins-fast-forever-production-1236974251/"
+        }
+      ]
+    },
+    {
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "studio": "Lionsgate",
+      "talent": "Joseph Zada as Young Haymitch",
+      "announcement": "A promotional featurette introduces Joseph Zada in the role of young Haymitch Abernathy.",
+      "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/rob-reiner-larry-david-donald-trump-1236974165/"
+          "url": "https://deadline.com/2026/07/hunger-games-sunrise-on-the-reaping-promo-haymitch-1236974073/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/sunrise-on-the-reaping-meet-haymitch-first-look-1236801106/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/hunger-games-sunrise-on-the-reaping-featurette-haymitch-actor-joseph-zada-woody-harrelson/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-04T18:17:03.142Z"
+  "tv": [
+    {
+      "title": "Untitled Larry David HBO Show",
+      "network": "HBO",
+      "talent": "Rob Reiner as George Washington, Larry David",
+      "announcement": "Rob Reiner makes a secret final appearance as George Washington in Larry David's HBO show.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/rob-reiner-trump-george-washington-larry-david-hbo-show-1236801101/"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-07-04T21:42:52.832Z"
 }
