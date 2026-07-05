@@ -1,12 +1,12 @@
 {
   "date": "July 5, 2026",
-  "summary": "2 film announcements, 1 TV announcement across 5 trades.",
+  "summary": "3 film announcements, 1 TV announcement across 5 trades.",
   "film": [
     {
       "title": "1776",
       "studio": "Angel Studios",
       "talent": "",
-      "announcement": "Sequel to 'Young Washington' greenlit following the original film's $20M+ opening record for Angel Studios' live-action releases.",
+      "announcement": "Sequel to 'Young Washington' greenlit following the original film's $20M+ opening record at the box office.",
       "sources": [
         {
           "name": "Deadline",
@@ -15,14 +15,26 @@
       ]
     },
     {
-      "title": "Basic Instinct Reboot",
+      "title": "Basic Instinct",
       "studio": "",
-      "talent": "",
-      "announcement": "Writer Joe Eszterhas provides update on the 'Basic Instinct' reboot with Catherine Tramell returning to the project.",
+      "talent": "Catherine Tramell (returning character)",
+      "announcement": "Writer Joe Eszterhas provides update on the reboot with original character Catherine Tramell returning.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/07/basic-instinct-writer-joe-eszterhas-update-reboot-1236974342/"
+        }
+      ]
+    },
+    {
+      "title": "Untitled Harvey Keitel Project",
+      "studio": "",
+      "talent": "Harvey Keitel, Daphna Kastner (writer/wife)",
+      "announcement": "Harvey Keitel is shooting a film written by his wife Daphna Kastner.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/harvey-keitel-daphna-kastner-ai-michael-caine-1236801929/"
         }
       ]
     }
@@ -41,5 +53,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-05T18:46:02.210Z"
+  "lastUpdated": "2026-07-05T22:35:43.328Z"
 }
