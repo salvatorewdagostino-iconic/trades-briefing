@@ -1,13 +1,38 @@
 {
   "date": "July 5, 2026",
-  "summary": "1 TV announcement across 2 trades.",
-  "film": [],
+  "summary": "2 film announcements, 1 TV announcement across 5 trades.",
+  "film": [
+    {
+      "title": "1776",
+      "studio": "Angel Studios",
+      "talent": "",
+      "announcement": "Sequel to 'Young Washington' greenlit following the original film's $20M+ opening record for Angel Studios' live-action releases.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/young-washington-sequel-1776-box-office-1236974374/"
+        }
+      ]
+    },
+    {
+      "title": "Basic Instinct Reboot",
+      "studio": "",
+      "talent": "",
+      "announcement": "Writer Joe Eszterhas provides update on the 'Basic Instinct' reboot with Catherine Tramell returning to the project.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/basic-instinct-writer-joe-eszterhas-update-reboot-1236974342/"
+        }
+      ]
+    }
+  ],
   "tv": [
     {
       "title": "Murciélago",
       "network": "HIDIVE",
       "talent": "",
-      "announcement": "Manga series receives TV anime adaptation set for 2027 release on HIDIVE.",
+      "announcement": "Manga adaptation greenlit for 2027 TV anime series on HIDIVE.",
       "sources": [
         {
           "name": "Variety",
@@ -16,5 +41,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-05T09:47:41.053Z"
+  "lastUpdated": "2026-07-05T18:46:02.210Z"
 }
