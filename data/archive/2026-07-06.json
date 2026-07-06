@@ -1,12 +1,36 @@
 {
   "date": "July 6, 2026",
-  "summary": "2 film announcements, 1 TV announcement across 5 trades.",
+  "summary": "7 film announcements, 6 TV announcements across 5 trades.",
   "film": [
+    {
+      "title": "Little Five",
+      "studio": "Somewhere Pictures",
+      "talent": "Rain Spencer, Ariana Greenblatt",
+      "announcement": "Rain Spencer and Ariana Greenblatt cast to star in the film from Anne Hathaway's Somewhere Pictures.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/rain-spencer-ariana-greenblatt-little-five-movie-1236974774/"
+        }
+      ]
+    },
+    {
+      "title": "1776",
+      "studio": "Angel Studios",
+      "talent": "",
+      "announcement": "Sequel to 'Young Washington' greenlit following the original's $19M+ opening weekend, marking the 2nd-best live-action debut for Angel Studios.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/young-washington-sequel-1776-box-office-1236974374/"
+        }
+      ]
+    },
     {
       "title": "Misaligned",
       "studio": "",
       "talent": "Tilly Norwood (AI actor)",
-      "announcement": "AI 'actor' Tilly Norwood to star in feature film 'Misaligned,' marking her feature debut.",
+      "announcement": "AI 'actor' Tilly Norwood to star in the coming-of-age feature film, marking her feature film debut.",
       "sources": [
         {
           "name": "Deadline",
@@ -15,39 +39,155 @@
         {
           "name": "Variety",
           "url": "https://variety.com/2026/film/global/ai-actor-tilly-norwood-movie-debut-misaligned-1236802325/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/ai-actor-tilly-norwood-movie-debut-misaligned-1236638719/"
         }
       ]
     },
     {
-      "title": "Dances with Wolves",
+      "title": "Ocean's Eleven Prequel",
       "studio": "",
-      "talent": "Kevin Costner (director)",
-      "announcement": "Kevin Costner's 'Dances with Wolves' set for new restored director's cut to premiere at Locarno Film Festival.",
+      "talent": "Margot Robbie, Vicky Krieps, George MacKay, Omar Sy",
+      "announcement": "Prequel film greenlit with Margot Robbie attached, joined by Vicky Krieps, George MacKay, and Omar Sy in the ensemble cast.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/oceans-eleven-prequel-cast-vicky-krieps-george-mackay-omar-sy-1236636566/"
+        }
+      ]
+    },
+    {
+      "title": "Tiny Fugitives",
+      "studio": "",
+      "talent": "Johnny Knoxville",
+      "announcement": "Johnny Knoxville comedy film from producer Seth Rogen sets fall release date.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/tiny-fugitives-johnny-knoxville-seth-rogen-release-date-1236636531/"
+        }
+      ]
+    },
+    {
+      "title": "Elderwood",
+      "studio": "",
+      "talent": "Peter Friedman, David Rasche",
+      "announcement": "'Succession' duo Peter Friedman and David Rasche reunite for the short film.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/global/kevin-costner-dances-with-wolves-restored-cut-locarno-1236802288/"
-        },
+          "url": "https://variety.com/2026/film/news/succession-peter-friedman-david-rasche-reunite-short-film-1236802547/"
+        }
+      ]
+    },
+    {
+      "title": "The Black Demon: Atlantis",
+      "studio": "",
+      "talent": "",
+      "announcement": "Shark thriller being filmed at 8,600 feet above sea level in Colombia.",
+      "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/locarno-studio-ghibli-kevin-costner-dances-with-wolves-4k-1236638333/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/black-demon-atlantis-shark-movie-at-8600-ft-in-colombia-1236801959/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "The Assassin",
-      "network": "Prime Video",
-      "talent": "",
-      "announcement": "Prime Video drama 'The Assassin' Season 2 lands host of global buyers.",
+      "title": "Guilty Creatures",
+      "network": "Apple TV+",
+      "talent": "Julia Garner, Craig Gillespie (director/executive producer)",
+      "announcement": "Julia Garner to headline the true crime thriller series based on a book, with Craig Gillespie directing and executive producing.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/prime-video-drama-the-assassin-season-2-global-buyers-1236974539/"
+          "url": "https://deadline.com/2026/07/julia-garner-guilty-creatures-apple-tv-series-book-1236975054/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/julia-garner-apple-tv-guilty-creatures-1236802666/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/julia-garner-true-crime-drama-guilty-creatures-apple-tv-1236639012/"
+        }
+      ]
+    },
+    {
+      "title": "Myron Bolitar",
+      "network": "Netflix",
+      "talent": "Colin Woodell, KJ Apa, Diane Guerrero",
+      "announcement": "Colin Woodell to lead the series based on Harlan Coben novels with KJ Apa and Diane Guerrero also cast in lead roles.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/colin-woodell-kj-apa-diane-guerrero-netflix-myron-bolitar-1236974493/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/myron-bolitar-netflix-colin-woodell-kj-apa-diane-guerrero-1236802419/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/colin-woodell-kj-apa-diane-guerrero-netflix-myron-bolitar-1236639007/"
+        }
+      ]
+    },
+    {
+      "title": "Big Brother Season 28",
+      "network": "CBS",
+      "talent": "",
+      "announcement": "Live feeds to debut on YouTube for limited periods with houseguest reveals in new special.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/cbs-big-brother-live-feeds-youtube-houseguests-special-1236975078/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/big-brother-season-28-youtube-cbs/"
+        }
+      ]
+    },
+    {
+      "title": "Texas Tech Football Docuseries",
+      "network": "Paramount+",
+      "talent": "Micah Brown (director/showrunner)",
+      "announcement": "Docuseries greenlit with Micah Brown to direct and showrun.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/tv-news-roundup-week-of-july-6-2-1236798553/"
+        }
+      ]
+    },
+    {
+      "title": "MicroHouse Films Original Microseries",
+      "network": "MicroHouse Films Platform",
+      "talent": "Taye Diggs",
+      "announcement": "Taye Diggs' MicroHouse Films platform launches with 7 original microseries.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/tv/taye-diggs-microhouse-films-original-microseries-exclusive/"
+        }
+      ]
+    },
+    {
+      "title": "President Curtis",
+      "network": "Adult Swim",
+      "talent": "Dan Harmon, James Siciliano",
+      "announcement": "'Rick and Morty' spin-off moves forward with Dan Harmon and James Siciliano creating the series.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/president-curtis-adult-swim-dan-harmon-james-siciliano-1236969898/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-06T14:07:16.476Z"
+  "lastUpdated": "2026-07-06T21:12:56.982Z"
 }
