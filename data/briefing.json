@@ -3,10 +3,26 @@
   "summary": "2 film announcements, 1 TV announcement across 5 trades.",
   "film": [
     {
-      "title": "Dances With Wolves",
-      "studio": "Restored Director's Cut",
-      "talent": "Kevin Costner",
-      "announcement": "Kevin Costner's 'Dances With Wolves' set for new restored director's cut that will launch at Locarno Film Festival.",
+      "title": "Misaligned",
+      "studio": "",
+      "talent": "Tilly Norwood (AI actor)",
+      "announcement": "AI 'actor' Tilly Norwood to star in feature film 'Misaligned,' marking her feature debut.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/tilly-norwood-ai-actor-misaligned-1236974639/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/ai-actor-tilly-norwood-movie-debut-misaligned-1236802325/"
+        }
+      ]
+    },
+    {
+      "title": "Dances with Wolves",
+      "studio": "",
+      "talent": "Kevin Costner (director)",
+      "announcement": "Kevin Costner's 'Dances with Wolves' set for new restored director's cut to premiere at Locarno Film Festival.",
       "sources": [
         {
           "name": "Variety",
@@ -15,18 +31,6 @@
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/locarno-studio-ghibli-kevin-costner-dances-with-wolves-4k-1236638333/"
-        }
-      ]
-    },
-    {
-      "title": "Replica",
-      "studio": "Next Interactive Studio",
-      "talent": "",
-      "announcement": "'Replica' leads Next Interactive Studio's showcase at Bucheon.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/replica-next-interactive-studio-bucheon-1236802281/"
         }
       ]
     }
@@ -45,5 +49,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-06T13:03:00.689Z"
+  "lastUpdated": "2026-07-06T14:07:16.476Z"
 }
