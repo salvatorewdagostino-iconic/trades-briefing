@@ -1,69 +1,337 @@
 {
   "date": "July 7, 2026",
-  "summary": "2 film announcements, 3 TV announcements across 5 trades.",
+  "summary": "15 film announcements, 8 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Crack'd",
-      "studio": "",
-      "talent": "Lauren McQueen",
-      "announcement": "Lauren McQueen to lead Michael J. Long's British psychological drama.",
+      "title": "The Woman In Me",
+      "studio": "Universal",
+      "talent": "Liz Meriwether (writer), Jon M. Chu (director)",
+      "announcement": "Liz Meriwether adapting Britney Spears' memoir into a biopic with Jon M. Chu directing.",
       "sources": [
         {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/britney-spears-the-woman-in-me-liz-meriwether-jon-chu-1236976085/"
+        },
+        {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/global/lauren-mcqueen-psychological-drama-crackd-michael-long-1236803133/"
+          "url": "https://variety.com/2026/film/news/britney-spears-biopic-script-liz-meriwether-new-girl-1236803830/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/britney-spears-biopic-liz-meriwether-1236639964/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/britney-spears-biopic-screenwriter-liz-meriwether/"
         }
       ]
     },
     {
-      "title": "Echoes",
+      "title": "Ali G Movie",
       "studio": "",
-      "talent": "Ashley Walters, Nathalie Emmanuel, Emmett J. Scanlan, Leo Gregory",
-      "announcement": "Ashley Walters, Nathalie Emmanuel, Emmett J. Scanlan and Leo Gregory join Alex Lanipekun's short film.",
+      "talent": "Sacha Baron Cohen",
+      "announcement": "Sacha Baron Cohen completes filming on a secret Ali G movie reviving the beloved character.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/ashley-walters-nathalie-emmanuel-lanipekun-echoes-short-film-1236975511/"
+          "url": "https://deadline.com/2026/07/ali-g-movie-sacha-baron-cohen-1236976060/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/sacha-baron-cohen-ali-g-new-movie-1236803794/"
+        }
+      ]
+    },
+    {
+      "title": "NDA",
+      "studio": "Bleecker Street",
+      "talent": "Rachel Zegler, Penn Badgley, Amy Ryan",
+      "announcement": "Bleecker Street acquires distribution rights to psychological thriller NDA starring Rachel Zegler and Penn Badgley.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/rachel-zegler-nda-bleecker-street-1236975771/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/rachel-zegler-nda-bleecker-street-audrey-ellis-fox-1236803454/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/nda-rachel-zegler-penn-badgley-bleecker-street-1236640371/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/bleecker-street-nabs-domestic-rights-to-rachel-zeglers-nda/"
+        }
+      ]
+    },
+    {
+      "title": "Friend Thing",
+      "studio": "",
+      "talent": "Pete Holmes, Lewis Black, Alfie Williams, Ryan Kiera Armstrong",
+      "announcement": "Feature drama Friend Thing casts Pete Holmes, Lewis Black, Alfie Williams, and Ryan Kiera Armstrong.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/pete-holmes-lewis-black-alfie-williams-friend-thing-1236976004/"
+        }
+      ]
+    },
+    {
+      "title": "Skeletons",
+      "studio": "Sony Pictures",
+      "talent": "John Goodman, Brie Larson",
+      "announcement": "John Goodman joins Brie Larson in horror thriller Skeletons from Sony Pictures.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/john-goodman-brie-larson-skeletons-1236975400/"
+        }
+      ]
+    },
+    {
+      "title": "Nue",
+      "studio": "20th Century",
+      "talent": "Takashi Yamazaki (director), Scott Free (production company)",
+      "announcement": "Godzilla Minus One director Takashi Yamazaki to direct sci-fi film Nue at 20th Century with Scott Free producing.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/godzilla-minus-one-takashi-yamazaki-nue-1236975741/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/godzilla-minus-one-takashi-yamazaki-nue-1236803830/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-one-director-nue-1236639979/"
+        }
+      ]
+    },
+    {
+      "title": "InvestiGators",
+      "studio": "Sycamore Studios",
+      "talent": "",
+      "announcement": "Sycamore Studios acquires movie rights to the InvestiGators book series.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/investigators-movie-1236975700/"
+        }
+      ]
+    },
+    {
+      "title": "The Dybbuk",
+      "studio": "",
+      "talent": "Steve Guttenberg, Beth Grant, Craig Bierko",
+      "announcement": "Horror film The Dybbuk casts Steve Guttenberg, Beth Grant, and Craig Bierko.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/steve-guttenberg-beth-grant-craig-bierko-horror-the-dybbuk-1236975611/"
+        }
+      ]
+    },
+    {
+      "title": "Free Byrd",
+      "studio": "",
+      "talent": "Dwayne Johnson, Greg Kwedar (director)",
+      "announcement": "Dwayne Johnson to star in Free Byrd as a motorcycle stuntman with dementia, directed by Greg Kwedar.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/dwayne-johnson-free-byrd-artists-equity-greg-kwedar-1236803636/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/dwayne-johnson-free-byrd-drama-1236639834/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/dwayne-johnson-to-star-in-free-byrd-from-sing-sing-director-greg-kwedar/"
+        }
+      ]
+    },
+    {
+      "title": "The Fisherman",
+      "studio": "Focus",
+      "talent": "David Lowery (director)",
+      "announcement": "David Lowery to adapt horror novel The Fisherman for Focus.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/the-fisherman-movie-michael-bay-1236638915/"
+        }
+      ]
+    },
+    {
+      "title": "Love and Other Words",
+      "studio": "Magic Hour Entertainment",
+      "talent": "",
+      "announcement": "Adaptation of Love and Other Words set at newly formed Magic Hour Entertainment.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/love-and-other-words-christina-lauren-film-magic-hour-1236639328/"
+        }
+      ]
+    },
+    {
+      "title": "The Life Golden",
+      "studio": "",
+      "talent": "Craig Kilborn (director), Lauren German, Tom Byrne",
+      "announcement": "Craig Kilborn sets directorial debut The Life Golden starring Lauren German and Tom Byrne.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/craig-kilborn-the-life-golden-lauren-german-tom-byrne-1236803833/"
+        }
+      ]
+    },
+    {
+      "title": "LSD Movie",
+      "studio": "",
+      "talent": "David Chase (writer/director)",
+      "announcement": "David Chase to write and direct film about CIA's weaponization of LSD alongside MKUltra series.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/festivals/the-sopranos-david-chase-lsd-movie-trump-concerns-1236803166/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/david-chase-movie-cia-lsd-polio-vaccine/"
+        }
+      ]
+    },
+    {
+      "title": "Harold & Kumar 4",
+      "studio": "",
+      "talent": "",
+      "announcement": "Harold & Kumar 4 confirmed in development with producers discussing casting and box office strategy.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/harold-kumar-the-hurt-locker-same-movie-box-office-gen-z-1236639852/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "Paris & Pups",
-      "network": "Sky Kids",
-      "talent": "Paris Hilton",
-      "announcement": "Paris Hilton's animated series set for UK's Sky Kids.",
+      "title": "NCIS: New York",
+      "network": "CBS",
+      "talent": "Jennifer Beals, LL Cool J, Scott Caan",
+      "announcement": "Jennifer Beals joins LL Cool J and Scott Caan in NCIS: New York spinoff series with three additional cast members announced.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/paris-hilton-animated-series-paris-pups-sky-kids-1236975509/"
+          "url": "https://deadline.com/2026/07/jennifer-beals-ncis-new-york-cast-ll-cool-j-scott-caan-1236976108/"
         }
       ]
     },
     {
-      "title": "A Pressing Engagement",
-      "network": "Audible",
-      "talent": "Rhea Norwood, Corey Mylchreest, Hannah Waddingham, Richard Ayoade, Vivian Oparah, Bessie Carter",
-      "announcement": "Jilly Cooper Audible Original cast announced with Rhea Norwood, Corey Mylchreest, Hannah Waddingham, Richard Ayoade, Vivian Oparah and Bessie Carter.",
+      "title": "Pawn",
+      "network": "Universal Global Television",
+      "talent": "Viola Davis, Julius Tennon (producers via JuVee Productions)",
+      "announcement": "Viola Davis and Julius Tennon's JuVee Productions inks first-look deal with Universal Global Television with drama Pawn set as first project.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/jilly-cooper-audible-rhea-norwood-corey-mylchreest-hannah-waddingham-1236975169/"
+          "url": "https://deadline.com/2026/07/viola-davis-julius-tennon-juvee-productions-deal-universal-1236975272/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/viola-davis-juvee-productions-first-look-universal-tv-1236803391/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/viola-davis-julius-tennon-first-look-deal-universal-global-tv-1236639875/"
         }
       ]
     },
     {
-      "title": "The Tatas",
-      "network": "",
-      "talent": "",
-      "announcement": "Team from 'Made in India: A Titan Story' reunites for 'The Tatas,' a saga about the prominent Indian business family.",
+      "title": "Dorothea Puente",
+      "network": "HBO",
+      "talent": "Geena Davis, Joshua Michael Stern (director), Michael Rosenbaum, Jeff Frost",
+      "announcement": "Geena Davis to star in true crime drama about serial killer Dorothea Puente in development at HBO.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/geena-davis-dorothea-puente-true-crime-drama-hbo-1236975250/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/geena-davis-serial-killer-dorothea-puente-hbo-1236803306/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/geena-davis-serial-killer-dorothea-puente-hbo-1236803306/"
+        }
+      ]
+    },
+    {
+      "title": "9/12",
+      "network": "Paramount+",
+      "talent": "Jeremy Strong, Barry Pepper",
+      "announcement": "Barry Pepper joins Jeremy Strong in Paramount+ limited series 9/12.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/9-12-barry-pepper-jeremy-strong-paramount-limited-series-1236975316/"
+        }
+      ]
+    },
+    {
+      "title": "Shark Tank",
+      "network": "ABC",
+      "talent": "MrBeast, Mindy Kaling, Erin Foster, Sara Foster",
+      "announcement": "MrBeast, Mindy Kaling, and Erin and Sara Foster announced as guest sharks for Shark Tank season 18.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/mrbeast-mindy-kaling-guest-sharks-shark-tank-season-18-1236975679/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/shark-tank-season-18-sharks-1236803706/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/mrbeast-will-be-shark-new-season-abc-shark-tank-1236640313/"
+        }
+      ]
+    },
+    {
+      "title": "Helpless",
+      "network": "Universal Global Television",
+      "talent": "Stacy Sher (producer)",
+      "announcement": "Jessica Knoll novel Helpless being developed for TV at Universal Global Television with Stacy Sher producing.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/made-in-india-team-reunites-the-tatas-1236803148/"
+          "url": "https://variety.com/2026/tv/news/jessica-knoll-helpless-tv-at-universal-tv-stacy-sher-1236803593/"
+        }
+      ]
+    },
+    {
+      "title": "Being Heumann",
+      "network": "TIFF (Festival)",
+      "talent": "Siân Heder (director)",
+      "announcement": "Siân Heder's Being Heumann set as opening-night film for 2026 Toronto International Film Festival.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/tiff-2026-being-heumann-prima-facie-cynthia-erivo-1236975564/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/tiff-2026-opening-night-lineup-sian-heder-being-heumann/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-07T11:22:32.078Z"
+  "lastUpdated": "2026-07-07T21:06:20.779Z"
 }
