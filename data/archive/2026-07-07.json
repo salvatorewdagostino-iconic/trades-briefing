@@ -1,24 +1,12 @@
 {
   "date": "July 7, 2026",
-  "summary": "3 film announcements, 3 TV announcements across 5 trades.",
+  "summary": "2 film announcements, 3 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Echoes",
-      "studio": "Unknown",
-      "talent": "Ashley Walters, Nathalie Emmanuel, Emmett J. Scanlan, Leo Gregory; Director Alex Lanipekun",
-      "announcement": "Ashley Walters, Nathalie Emmanuel, Emmett J. Scanlan and Leo Gregory join Alex Lanipekun's short film.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/ashley-walters-nathalie-emmanuel-lanipekun-echoes-short-film-1236975511/"
-        }
-      ]
-    },
-    {
       "title": "Crack'd",
-      "studio": "Unknown",
-      "talent": "Lauren McQueen; Director Michael J. Long",
-      "announcement": "Lauren McQueen cast to lead Michael J. Long's British psychological drama.",
+      "studio": "",
+      "talent": "Lauren McQueen",
+      "announcement": "Lauren McQueen to lead Michael J. Long's British psychological drama.",
       "sources": [
         {
           "name": "Variety",
@@ -27,22 +15,14 @@
       ]
     },
     {
-      "title": "The Odyssey",
-      "studio": "Unknown",
-      "talent": "Zendaya, Robert Pattinson",
-      "announcement": "Zendaya and Robert Pattinson cast in The Odyssey; articles detail Zendaya's casting discovery and Pattinson's character comparison to his Twilight role.",
+      "title": "Echoes",
+      "studio": "",
+      "talent": "Ashley Walters, Nathalie Emmanuel, Emmett J. Scanlan, Leo Gregory",
+      "announcement": "Ashley Walters, Nathalie Emmanuel, Emmett J. Scanlan and Leo Gregory join Alex Lanipekun's short film.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/how-zendaya-found-out-odyssey-role-1236975367/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/zendaya-mouth-frozen-botched-lines-first-day-odyssey-filming-1236639515/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-compares-the-odyssey-role-jacob-twilight-1236639465/"
+          "url": "https://deadline.com/2026/07/ashley-walters-nathalie-emmanuel-lanipekun-echoes-short-film-1236975511/"
         }
       ]
     }
@@ -64,7 +44,7 @@
       "title": "A Pressing Engagement",
       "network": "Audible",
       "talent": "Rhea Norwood, Corey Mylchreest, Hannah Waddingham, Richard Ayoade, Vivian Oparah, Bessie Carter",
-      "announcement": "Jilly Cooper Audible Original drama with ensemble cast announced.",
+      "announcement": "Jilly Cooper Audible Original cast announced with Rhea Norwood, Corey Mylchreest, Hannah Waddingham, Richard Ayoade, Vivian Oparah and Bessie Carter.",
       "sources": [
         {
           "name": "Deadline",
@@ -74,8 +54,8 @@
     },
     {
       "title": "The Tatas",
-      "network": "Unknown",
-      "talent": "Unknown",
+      "network": "",
+      "talent": "",
       "announcement": "Team from 'Made in India: A Titan Story' reunites for 'The Tatas,' a saga about the prominent Indian business family.",
       "sources": [
         {
@@ -85,5 +65,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-07T10:32:01.314Z"
+  "lastUpdated": "2026-07-07T11:22:32.078Z"
 }
