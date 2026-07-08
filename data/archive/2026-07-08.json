@@ -1,32 +1,73 @@
 {
   "date": "July 8, 2026",
-  "summary": "0 film announcements, 2 TV announcements across 5 trades.",
-  "film": [],
+  "summary": "3 film announcements, 2 TV announcements across 5 trades.",
+  "film": [
+    {
+      "title": "Making Marie Antoinette",
+      "studio": "MUBI",
+      "talent": "Eleanor Coppola (Director)",
+      "announcement": "MUBI acquired worldwide rights to Eleanor Coppola's documentary.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/eleanor-coppola-making-marie-antoinette-mubi-1236976667/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/mubi-take-making-marie-antoinette-documentary-sofia-coppola-1236641191/"
+        }
+      ]
+    },
+    {
+      "title": "Finding Mojo",
+      "studio": "Double Vision",
+      "talent": "Min Lim",
+      "announcement": "Malaysia-U.K. rom-com unveiled release dates with Double Vision outlining global distribution ambitions.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/finding-mojo-malaysia-uk-rom-com-double-vision-1236804161/"
+        }
+      ]
+    },
+    {
+      "title": "Super Size Me (Fried Chicken Documentary)",
+      "studio": "Netflix",
+      "talent": "Mo Gilligan (Host/Producer)",
+      "announcement": "Netflix is developing a documentary series in the style of Super Size Me focused on fried chicken.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/netflix-super-size-me-documentary-mo-gilligan-fried-chicken-1236640006/"
+        }
+      ]
+    }
+  ],
   "tv": [
     {
+      "title": "The Wall (Italian Version)",
+      "network": "Mediaset",
+      "talent": "Max Giusti (Host)",
+      "announcement": "Mediaset ordered a new Italian adaptation of The Wall game show hosted by Max Giusti.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/mediaset-orders-the-wall-italy-hosted-by-max-giusti-1236976688/"
+        }
+      ]
+    },
+    {
       "title": "Elle",
-      "network": "Unknown",
-      "talent": "Unknown",
-      "announcement": "Showrunners unpacked the Season 1 love triangle cliffhanger and teased Season 2 developments.",
+      "network": "",
+      "talent": "",
+      "announcement": "Showrunners unpacked the Season 1 love triangle cliffhanger and teased plans for Season 2.",
       "sources": [
         {
           "name": "TheWrap",
           "url": "https://www.thewrap.com/media-platforms/tv/elle-season-1-ending-explained-showrunner-interview/"
         }
       ]
-    },
-    {
-      "title": "Sullivan's Crossing",
-      "network": "CW",
-      "talent": "Unknown",
-      "announcement": "Creator stepped down as showrunner for Season 5, with CW renewal still pending.",
-      "sources": [
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/sullivans-crossing-showrunner-change-creator-steps-down-season-5/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-08T06:40:22.352Z"
+  "lastUpdated": "2026-07-08T09:16:22.993Z"
 }
