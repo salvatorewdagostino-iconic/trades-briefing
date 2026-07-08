@@ -1,73 +1,133 @@
 {
   "date": "July 8, 2026",
-  "summary": "3 film announcements, 2 TV announcements across 5 trades.",
+  "summary": "6 film announcements, 3 TV announcements across 5 trades.",
   "film": [
     {
+      "title": "Angels In Darkness",
+      "studio": "",
+      "talent": "Cuba Gooding Jr., Ron Perlman, Daniel Stisen",
+      "announcement": "Ron Perlman and Daniel Stisen join Cuba Gooding Jr. in the film.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/ron-perlman-cuba-gooding-jr-angels-in-darkness-1236977044/"
+        }
+      ]
+    },
+    {
+      "title": "Behind the Mask II: The Return of Leslie Vernon",
+      "studio": "",
+      "talent": "David Howard Thornton",
+      "announcement": "Terrifier star David Howard Thornton joins the sequel.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/terrifier-david-howard-thornton-behind-the-mask-sequel-leslie-vernon-1236803768/"
+        }
+      ]
+    },
+    {
+      "title": "Think Good",
+      "studio": "Cohen Media Group",
+      "talent": "Géraldine Nakache",
+      "announcement": "Cohen Media Group acquires U.S. rights to the Cannes title directed by Géraldine Nakache.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/cohen-media-group-cannes-drama-think-good-1236976834/"
+        }
+      ]
+    },
+    {
       "title": "Making Marie Antoinette",
-      "studio": "MUBI",
-      "talent": "Eleanor Coppola (Director)",
-      "announcement": "MUBI acquired worldwide rights to Eleanor Coppola's documentary.",
+      "studio": "Mubi",
+      "talent": "Eleanor Coppola",
+      "announcement": "Mubi acquires worldwide rights to Eleanor Coppola's documentary about the making of Sofia Coppola's Marie Antoinette film.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/07/eleanor-coppola-making-marie-antoinette-mubi-1236976667/"
         },
         {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/unzipped-isaac-mizrahi-documentary-getting-rerelease-1236804386/"
+        },
+        {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/mubi-take-making-marie-antoinette-documentary-sofia-coppola-1236641191/"
-        }
-      ]
-    },
-    {
-      "title": "Finding Mojo",
-      "studio": "Double Vision",
-      "talent": "Min Lim",
-      "announcement": "Malaysia-U.K. rom-com unveiled release dates with Double Vision outlining global distribution ambitions.",
-      "sources": [
+        },
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/finding-mojo-malaysia-uk-rom-com-double-vision-1236804161/"
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/making-marie-antoinette-documentary-mubi-release-eleanor-coppola/"
         }
       ]
     },
     {
-      "title": "Super Size Me (Fried Chicken Documentary)",
-      "studio": "Netflix",
-      "talent": "Mo Gilligan (Host/Producer)",
-      "announcement": "Netflix is developing a documentary series in the style of Super Size Me focused on fried chicken.",
+      "title": "SOULM8TE",
+      "studio": "Home Video/VOD",
+      "talent": "",
+      "announcement": "M3GAN spinoff SOULM8TE skips theatrical release and heads straight to home video and digital platforms after M3GAN 2.0 underperformed.",
       "sources": [
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/netflix-super-size-me-documentary-mo-gilligan-fried-chicken-1236640006/"
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/soulm8te-home-digital-release-megan-2-1236641412/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/m3gan-spinoff-soulm8te-release-date-vod-digital-skip-theaters/"
+        }
+      ]
+    },
+    {
+      "title": "The Hawk",
+      "studio": "Netflix",
+      "talent": "Will Ferrell",
+      "announcement": "Netflix's Will Ferrell golf comedy adds to its creative partnerships.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/the-hawk-will-ferrell-netflix-partnerships-1236641526/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "The Wall (Italian Version)",
-      "network": "Mediaset",
-      "talent": "Max Giusti (Host)",
-      "announcement": "Mediaset ordered a new Italian adaptation of The Wall game show hosted by Max Giusti.",
+      "title": "Heartstopper: Ending on a Hi",
+      "network": "Netflix",
+      "talent": "",
+      "announcement": "Netflix sets special for Heartstopper.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/mediaset-orders-the-wall-italy-hosted-by-max-giusti-1236976688/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-heartstopper-ending-on-a-hi-special-1236641453/"
         }
       ]
     },
     {
-      "title": "Elle",
-      "network": "",
-      "talent": "",
-      "announcement": "Showrunners unpacked the Season 1 love triangle cliffhanger and teased plans for Season 2.",
+      "title": "Rewarding",
+      "network": "BBC",
+      "talent": "Vittorio Angelone, Hannah McClean",
+      "announcement": "BBC and Wonder Project order care work comedy series led by Vittorio Angelone and Hannah McClean.",
       "sources": [
         {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/media-platforms/tv/elle-season-1-ending-explained-showrunner-interview/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/bbc-rewarding-comedy-vittorio-angelone-1236804194/"
+        }
+      ]
+    },
+    {
+      "title": "Wishbone Kitchen",
+      "network": "Netflix",
+      "talent": "Meredith Hayden",
+      "announcement": "Meredith Hayden lands Netflix deal for video podcast series.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/digital/news/netflix-meredith-hayden-wishbone-kitchen-video-podcast-1236803762/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-08T09:16:22.993Z"
+  "lastUpdated": "2026-07-08T16:14:35.343Z"
 }
