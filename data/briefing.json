@@ -1,57 +1,357 @@
 {
   "date": "July 9, 2026",
-  "summary": "2 film announcements, 2 TV announcements across 5 trades.",
+  "summary": "11 film announcements, 14 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Dune 3",
-      "studio": "Warner Bros.",
-      "talent": "Timothée Chalamet, Zendaya, Denis Villeneuve (director)",
-      "announcement": "Behind-the-scenes images reveal production underway in Abu Dhabi desert, confirming Chalamet, Zendaya, and Villeneuve's return for the third installment.",
+      "title": "Free Willy",
+      "studio": "Warner Bros., AGBO",
+      "talent": "Mary-Margaret Kunze, Jade Halley Bartlett (writers)",
+      "announcement": "Warner Bros. and AGBO's reimagining of Free Willy has tapped Mary-Margaret Kunze and Jade Halley Bartlett to pen the screenplay.",
       "sources": [
         {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/free-willy-reimagining-writers-warner-bros-agbo-1236978619/"
+        },
+        {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/global/dune-3-timothee-chalamet-abu-dhabi-desert-bts-images-1236805435/"
+          "url": "https://variety.com/2026/film/news/free-willy-reboot-warner-bros-1236805831/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/free-willy-warner-bros-russo-bros-agbo-1236641809/"
         }
       ]
     },
     {
-      "title": "The Lords' Day",
-      "studio": "Netflix",
-      "talent": "Damson Idris, Harry Lawtey, Arsema Thomas, Timothy Spall",
-      "announcement": "Netflix series adds Harry Lawtey, Arsema Thomas, Timothy Spall and additional cast members to the project starring Damson Idris.",
+      "title": "Roberto Clemente",
+      "studio": "Teton Ridge",
+      "talent": "Reinaldo Marcus Green (director)",
+      "announcement": "King Richard director Reinaldo Marcus Green is set to helm a Roberto Clemente biopic for Teton Ridge.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/netflix-lords-day-harry-lawtey-arsema-thomas-timothy-spall-1236976757/"
+          "url": "https://deadline.com/2026/07/king-richard-reinaldo-marcus-green-roberto-clemente-1236978101/"
+        }
+      ]
+    },
+    {
+      "title": "The Kellys",
+      "studio": "Amazon MGM Studios",
+      "talent": "Arnold Schwarzenegger, Liam Hemsworth, Noomi Rapace, Ron Funches",
+      "announcement": "Noomi Rapace and Ron Funches join Arnold Schwarzenegger and Liam Hemsworth in the action film The Kellys.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/arnold-schwarzenegger-the-kellys-noomi-rapace-ron-funches-1236978567/"
+        }
+      ]
+    },
+    {
+      "title": "The Debut",
+      "studio": "A24",
+      "talent": "Jesse Eisenberg",
+      "announcement": "A24 sets an early December theatrical release date for Jesse Eisenberg's The Debut.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/a24-the-debut-release-date-jesse-eisenberg-1236978336/"
+        }
+      ]
+    },
+    {
+      "title": "Possession",
+      "studio": "Paramount",
+      "talent": "Diego Calva",
+      "announcement": "Diego Calva joins the supernatural thriller Possession from Paramount.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/diego-calva-possession-1236978088/"
+        }
+      ]
+    },
+    {
+      "title": "The Fix",
+      "studio": "",
+      "talent": "Liam Neeson, Zachary Levi",
+      "announcement": "The Iran-set action movie starring Liam Neeson and Zachary Levi gets a new title, The Fix, and a release date.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/the-fix-liam-neeson-zachary-levi-iran-release-date-1236643151/"
+        }
+      ]
+    },
+    {
+      "title": "Tinderbox",
+      "studio": "",
+      "talent": "Jake Shears (producer)",
+      "announcement": "Scissor Sisters singer Jake Shears is set to produce Tinderbox, a film about the deadly 1973 LGBTQ attack.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/scissor-sisters-singer-jake-shears-tinderbox-1236642281/"
+        }
+      ]
+    },
+    {
+      "title": "Rain Catcher",
+      "studio": "",
+      "talent": "Iris Law",
+      "announcement": "Rain Catcher is an immersive psychological thriller with Iris Law and the Barbican in key roles.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/rain-catcher-psychological-thriller-film-iris-law-barbican-1236642390/"
+        }
+      ]
+    },
+    {
+      "title": "Buddy",
+      "studio": "",
+      "talent": "Casper Kelly",
+      "announcement": "Buddy is a bizarro take on Barney from the mind behind Too Many Cooks, with a new trailer released.",
+      "sources": [
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/trailers/buddy-trailer-casper-kelly-horror-movie-1235204302/"
+        }
+      ]
+    },
+    {
+      "title": "This Is Buzz",
+      "studio": "",
+      "talent": "Mark Pellington (director)",
+      "announcement": "Mark Pellington's This Is Buzz is a documentary telling the story of an MTV revolution, with trailer released.",
+      "sources": [
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/trailers/this-is-buzz-trailer-mark-pellington-documentary-mtv-1235204000/"
+        }
+      ]
+    },
+    {
+      "title": "Gamechangers: Mother/Athlete",
+      "studio": "Roku",
+      "talent": "Sheryl Swoopes, Skylar Diggins-Smith",
+      "announcement": "WNBA trailblazers including Sheryl Swoopes and Skylar Diggins-Smith front the docuseries Gamechangers: Mother/Athlete on Roku.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/wnba-sheryl-swoopes-gamechanges-mother-athlete-docuseries-roku-1236804905/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "Adarsh Baal Vidyalaya",
-      "network": "Prime Video",
-      "talent": "Kay Kay Menon",
-      "announcement": "Prime Video premiere date set for July with Kay Kay Menon starring.",
+      "title": "Alien: Earth",
+      "network": "FX/Hulu",
+      "talent": "Tracey Ullman, Sam Spruell, Jerome Flynn",
+      "announcement": "Tracey Ullman, Sam Spruell, and Jerome Flynn join Alien: Earth Season 2 as production begins in London.",
       "sources": [
         {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/tracey-ullman-sam-spruell-jerome-flynn-alien-earth-season-2-1236978668/"
+        },
+        {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/kay-kay-menon-adarsh-baal-vidyalaya-prime-video-1236805411/"
+          "url": "https://variety.com/2026/tv/news/alien-earth-season-2-tracey-ullman-sam-spruell-jerome-flynn-1236805913/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/alien-earth-season-2-tracey-ullman-sam-spruell-jerome-flynn-1236643421/"
         }
       ]
     },
     {
-      "title": "The Pitt",
-      "network": "TNT",
-      "talent": "Shawn Hatosy",
-      "announcement": "Shawn Hatosy confirms season 3 is in development and reveals he will direct an episode of the upcoming season.",
+      "title": "Love Love",
+      "network": "Amazon MGM Studios",
+      "talent": "Isabel May",
+      "announcement": "Isabel May from 1883 stars in Love Love from Amazon MGM Studios and Joey Power.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/shawn-hatosy-interview-emmy-nominations-the-pitt-2026-1236978116/"
+          "url": "https://deadline.com/2026/07/1883-isabel-may-love-love-1236978085/"
+        }
+      ]
+    },
+    {
+      "title": "Ghosts",
+      "network": "CBS",
+      "talent": "",
+      "announcement": "CBS's Ghosts is renewed for Year 5.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/cbs-studios-ghosts-eternally-yours-panels-sdcc-2026-1236978692/"
+        }
+      ]
+    },
+    {
+      "title": "Baywatch",
+      "network": "",
+      "talent": "Blair Redford",
+      "announcement": "Blair Redford adds to the recurring cast of the Baywatch reboot.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/baywatch-reboot-cast-blair-redford-1236978581/"
+        }
+      ]
+    },
+    {
+      "title": "The Gentlemen",
+      "network": "Netflix",
+      "talent": "",
+      "announcement": "The Gentlemen sets a Season 2 release date at Netflix.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/the-gentlemen-season-2-release-date-teaser-netflix-1236978537/"
+        }
+      ]
+    },
+    {
+      "title": "Jupiter Island",
+      "network": "Netflix",
+      "talent": "Connor Hines",
+      "announcement": "Netflix lands golf drama Jupiter Island from Connor Hines and A24 with a straight-to-series order, with Connor Hines signing an overall deal.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/netflix-golf-drama-jupiter-island-connor-hines-love-story-1236978117/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/netflix-golf-drama-jupiter-island-love-story-creator-1236805895/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/love-story-creator-connor-hines-netflix-deal-1236643277/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/tv/love-story-connor-hines-netflix-golf-drama-jupiter-island/"
+        }
+      ]
+    },
+    {
+      "title": "Spy School",
+      "network": "Disney+",
+      "talent": "Chris Fedak, Ryan Reynolds (Maximum Effort), Emma Watts",
+      "announcement": "Spy School series based on books is in development at Disney+ from Chris Fedak, Maximum Effort, and Emma Watts.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/spy-school-series-books-disney-chris-fedak-maximum-effort-1236977931/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/spy-school-tv-series-disney-ryan-reynolds-1236805667/"
+        }
+      ]
+    },
+    {
+      "title": "9/12",
+      "network": "Paramount+",
+      "talent": "Jeremy Strong, Andrea Riseborough",
+      "announcement": "Andrea Riseborough joins Jeremy Strong in the Paramount+ limited series 9/12.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/andrea-riseborough-9-12-jeremy-strong-series-paramount-plus-1236977986/"
+        }
+      ]
+    },
+    {
+      "title": "Task",
+      "network": "",
+      "talent": "Julianne Nicholson",
+      "announcement": "Julianne Nicholson reprises her Emmy-winning Mare of Easttown role in Task Season 2.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/julianne-nicholson-cast-lori-ross-mare-of-easttown-task-s2-1236978360/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/julianne-nicholson-task-season-2-mare-of-easttown-1236643185/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/tv/julianne-nicholson-lori-ross-return-mare-of-easttown-task-season-2-crossover/"
+        }
+      ]
+    },
+    {
+      "title": "The Lords' Day",
+      "network": "Netflix",
+      "talent": "Damson Idris, Harry Lawtey, Arsema Thomas, Timothy Spall",
+      "announcement": "Harry Lawtey, Arsema Thomas, Timothy Spall and more join Damson Idris in the Netflix series The Lords' Day.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/netflix-lords-day-harry-lawtey-arsema-thomas-timothy-spall-1236976757/"
+        }
+      ]
+    },
+    {
+      "title": "Sterling Point",
+      "network": "Prime Video",
+      "talent": "Megan Park",
+      "announcement": "Megan Park's Prime Video series Sterling Point receives a trailer showing two long-lost sisters reunite.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/sterling-point-trailer-megan-park-prime-video-show-1236978425/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/sterling-point-prime-video-megan-park-first-trailer-photos-1236643135/"
+        }
+      ]
+    },
+    {
+      "title": "The Stokes Twins",
+      "network": "Netflix",
+      "talent": "The Stokes Twins",
+      "announcement": "YouTube stars The Stokes Twins sign a Netflix deal coming to the platform in July.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/youtube-stokes-twins-netflix-deal-1236643152/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/tv/stokes-twins-netflix-youtube/"
+        }
+      ]
+    },
+    {
+      "title": "MobLand",
+      "network": "Paramount+",
+      "talent": "Tom Hardy",
+      "announcement": "MobLand Season 2 locks a Paramount+ premiere date amid the Tom Hardy situation.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/mobland-season-2-premiere-date/"
+        }
+      ]
+    },
+    {
+      "title": "Dunkman",
+      "network": "TNT Sports",
+      "talent": "Shaquille O'Neal",
+      "announcement": "Shaquille O'Neal, TNT Sports, and Authentic Studios announce a premiere date for Dunkman, a Professional Dunk League series.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/shaquille-oneal-tnt-sports-premiere-dunkman-professional-dunk-league-1236805570/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-09T11:26:32.073Z"
+  "lastUpdated": "2026-07-09T20:59:47.791Z"
 }
