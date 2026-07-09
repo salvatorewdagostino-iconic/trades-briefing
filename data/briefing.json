@@ -3,55 +3,55 @@
   "summary": "2 film announcements, 2 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Manhunt",
-      "studio": "Cinetic Media",
-      "talent": "Wayne Wapeemukwa",
-      "announcement": "Cinetic Media acquires North American sales rights to 'Manhunt,' a Locarno Main Competition contender.",
+      "title": "Dune 3",
+      "studio": "Warner Bros.",
+      "talent": "Timothée Chalamet, Zendaya, Denis Villeneuve (director)",
+      "announcement": "Behind-the-scenes images reveal production underway in Abu Dhabi desert, confirming Chalamet, Zendaya, and Villeneuve's return for the third installment.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/global/cinetic-media-manhunt-locarno-competition-wayne-wapeemukwa-1236805442/"
+          "url": "https://variety.com/2026/film/global/dune-3-timothee-chalamet-abu-dhabi-desert-bts-images-1236805435/"
         }
       ]
     },
     {
-      "title": "Behind the Rain",
-      "studio": "",
-      "talent": "",
-      "announcement": "Acclaimed Chilean filmmaker Valeria Sarmiento's childhood sexual abuse drama 'Behind the Rain' marks her farewell to directing.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/valeria-sarmiento-sexual-abuse-drama-behind-the-rain-1236805428/"
-        }
-      ]
-    }
-  ],
-  "tv": [
-    {
       "title": "The Lords' Day",
-      "network": "Netflix",
+      "studio": "Netflix",
       "talent": "Damson Idris, Harry Lawtey, Arsema Thomas, Timothy Spall",
-      "announcement": "Netflix series adds Harry Lawtey, Arsema Thomas, Timothy Spall and more to cast alongside Damson Idris.",
+      "announcement": "Netflix series adds Harry Lawtey, Arsema Thomas, Timothy Spall and additional cast members to the project starring Damson Idris.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/07/netflix-lords-day-harry-lawtey-arsema-thomas-timothy-spall-1236976757/"
         }
       ]
-    },
+    }
+  ],
+  "tv": [
     {
       "title": "Adarsh Baal Vidyalaya",
       "network": "Prime Video",
       "talent": "Kay Kay Menon",
-      "announcement": "Prime Video sets July premiere date for 'Adarsh Baal Vidyalaya' starring Kay Kay Menon.",
+      "announcement": "Prime Video premiere date set for July with Kay Kay Menon starring.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/tv/news/kay-kay-menon-adarsh-baal-vidyalaya-prime-video-1236805411/"
         }
       ]
+    },
+    {
+      "title": "The Pitt",
+      "network": "TNT",
+      "talent": "Shawn Hatosy",
+      "announcement": "Shawn Hatosy confirms season 3 is in development and reveals he will direct an episode of the upcoming season.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/shawn-hatosy-interview-emmy-nominations-the-pitt-2026-1236978116/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-07-09T08:55:06.314Z"
+  "lastUpdated": "2026-07-09T11:26:32.073Z"
 }
