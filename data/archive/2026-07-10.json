@@ -1,24 +1,36 @@
 {
   "date": "July 10, 2026",
-  "summary": "5 film announcements, 4 TV announcements across 5 trades.",
+  "summary": "7 film announcements, 6 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "How To Rob A Bank",
-      "studio": "Unknown",
-      "talent": "Nicholas Hoult, Zoë Kravitz, Pete Davidson",
-      "announcement": "Action film starring Nicholas Hoult, Zoë Kravitz, and Pete Davidson has been scheduled to move to a November release date.",
+      "title": "The Nightingale",
+      "studio": "TriStar",
+      "talent": "Dakota Fanning, Elle Fanning",
+      "announcement": "WWII film starring the Fanning sisters moved to March 2027 release date.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/nicholas-hoult-zoe-kravitz-how-to-rob-a-bank-changes-release-date-1236979381/"
+          "url": "https://deadline.com/2026/07/the-nightingale-releae-date-change-elle-fanning-dakota-fanning-1236979479/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/box-office/dakota-elle-fanning-nightingale-march-sonic-4-1236806835/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/dakota-fanning-and-elle-fannings-the-nightingale-1236644174/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/dakota-and-elle-fanning-the-nightingale-march-2027/"
         }
       ]
     },
     {
       "title": "Margaret Wise Brown",
-      "studio": "Unknown",
-      "talent": "Elle Fanning, Julianne Moore; Director: Rebecca Miller",
-      "announcement": "Rebecca Miller directing new film about 'Goodnight Moon' author Margaret Wise Brown, starring Elle Fanning and Julianne Moore.",
+      "studio": "",
+      "talent": "Elle Fanning, Julianne Moore",
+      "announcement": "New film from director Rebecca Miller about 'Goodnight Moon' author Margaret Wise Brown with Elle Fanning and Julianne Moore starring.",
       "sources": [
         {
           "name": "Deadline",
@@ -27,21 +39,33 @@
       ]
     },
     {
-      "title": "Freddy the 13th",
-      "studio": "Unknown",
-      "talent": "Director: Dan Trachtenberg",
-      "announcement": "Dan Trachtenberg's untitled 'Freddy the 13th' animated horror comedy has received a release date.",
+      "title": "Anna May Wong Biopic",
+      "studio": "",
+      "talent": "Gemma Chan",
+      "announcement": "Gemma Chan provides update on biopic about actress Anna May Wong, calling it 'a really resonant story.'",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/dan-trachtenberg-freddy-the-13th-release-date-1236979006/"
+          "url": "https://deadline.com/2026/07/gemma-chan-update-anna-may-wong-biopic-1236979528/"
+        }
+      ]
+    },
+    {
+      "title": "Trash Queen",
+      "studio": "",
+      "talent": "Chris Kattan",
+      "announcement": "Chris Kattan returns to horror with feature film 'Trash Queen.'",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/chris-kattan-trash-queen-1236979544/"
         }
       ]
     },
     {
       "title": "The Country",
-      "studio": "Unknown",
-      "talent": "Jodie Whittaker; Director: Ella Grace Kennedy",
+      "studio": "",
+      "talent": "Jodie Whittaker",
       "announcement": "Jodie Whittaker to star in and executive produce dystopian short film 'The Country' directed by Ella Grace Kennedy.",
       "sources": [
         {
@@ -51,19 +75,51 @@
       ]
     },
     {
-      "title": "Who Is Ernie Barnes?",
-      "studio": "Unknown",
-      "talent": "Directors: Chike Ozah, Coodie Simmons",
-      "announcement": "Filmmakers Chike Ozah and Coodie Simmons announce documentary and immersive experience about artist Ernie Barnes.",
+      "title": "Evil Dead Burn",
+      "studio": "",
+      "talent": "",
+      "announcement": "Director had to trim a scene to avoid NC-17 rating while keeping the film intense and brutal.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/evil-dead-burn-director-trim-scene-avoid-nc-17-rating-1236979511/"
+        }
+      ]
+    },
+    {
+      "title": "The Whistler",
+      "studio": "",
+      "talent": "",
+      "announcement": "Producers discuss shooting the film in Colombia despite dengue fever and rains.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/news/chike-ozah-coodie-simmons-who-is-ernie-barnes-documentary-1236806434/"
+          "url": "https://variety.com/2026/film/global/the-whistler-shooting-colombia-hideout-pictures-64a-films-1236806268/"
         }
       ]
     }
   ],
   "tv": [
+    {
+      "title": "The Secret of Secrets",
+      "network": "Netflix",
+      "talent": "Morgan Spector, Rebecca Hall",
+      "announcement": "Morgan Spector in talks to play Robert Langdon and Rebecca Hall eyed as female lead in Netflix series based on Dan Brown's 'The Secret of Secrets.'",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/morgan-spector-robert-langdon-rebecca-hall-dan-brown-netflix-1236978951/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/morgan-spector-robert-langdon-netflix-series-dan-brown-1236806909/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/tv/morgan-spector-rebecca-hall-netflix-robert-langdon-series-netflix/"
+        }
+      ]
+    },
     {
       "title": "House of David",
       "network": "Prime Video",
@@ -85,34 +141,22 @@
       ]
     },
     {
-      "title": "Kid Sister",
-      "network": "ChaiFlicks",
-      "talent": "Creator: Simone Nathan",
-      "announcement": "New Zealand comedy 'Kid Sister' from Simone Nathan lands at ChaiFlicks in deal with Seven.One Studios International.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/simone-nathan-kid-sister-chaiflicks-1236806400/"
-        }
-      ]
-    },
-    {
-      "title": "Hooligans",
-      "network": "Samsung TV Plus",
-      "talent": "Keanu Reeves",
-      "announcement": "Keanu Reeves motorcycle racing series 'Hooligans' debuts as Samsung TV Plus revs up live programming.",
+      "title": "Boston Blue",
+      "network": "",
+      "talent": "",
+      "announcement": "Promo reveals Season 2 release date.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/keanu-reeves-motorcycle-racing-samsung-tv-plus-live-streaming-1236978586/"
+          "url": "https://deadline.com/2026/07/boston-blue-season-2-release-date-promo-1236979461/"
         }
       ]
     },
     {
       "title": "American Horror Story",
       "network": "FX",
-      "talent": "Ariana Grande (exiting)",
-      "announcement": "Ariana Grande exits 'American Horror Story' Season 13 amid her 'Eternal Sunshine' concert tour.",
+      "talent": "Ariana Grande",
+      "announcement": "Ariana Grande exits Season 13 amid her 'Eternal Sunshine' concert tour.",
       "sources": [
         {
           "name": "Deadline",
@@ -125,13 +169,33 @@
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/ariana-grande-exits-american-horror-story-season-13-1236644074/"
-        },
+        }
+      ]
+    },
+    {
+      "title": "Hooligans",
+      "network": "Samsung TV Plus",
+      "talent": "Keanu Reeves",
+      "announcement": "Keanu Reeves motorcycle racing series debuts on Samsung TV Plus as the platform revs up live programming.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/keanu-reeves-motorcycle-racing-samsung-tv-plus-live-streaming-1236978586/"
+        }
+      ]
+    },
+    {
+      "title": "The Five Star Weekend",
+      "network": "Peacock",
+      "talent": "",
+      "announcement": "All-star cast assembles for beach read adaptation on Peacock.",
+      "sources": [
         {
           "name": "TheWrap",
-          "url": "https://www.thewrap.com/industry-news/business/ariana-grande-ahs-season-13-exits-cast/"
+          "url": "https://www.thewrap.com/creative-content/tv-shows/five-star-weekend-peacock-series-cast-character-guide/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-10T20:06:42.748Z"
+  "lastUpdated": "2026-07-10T23:42:21.042Z"
 }
