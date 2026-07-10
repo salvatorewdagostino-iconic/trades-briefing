@@ -1,12 +1,36 @@
 {
   "date": "July 10, 2026",
-  "summary": "3 film announcements, 1 TV announcement across 5 trades.",
+  "summary": "5 film announcements, 4 TV announcements across 5 trades.",
   "film": [
+    {
+      "title": "How To Rob A Bank",
+      "studio": "Unknown",
+      "talent": "Nicholas Hoult, Zoë Kravitz, Pete Davidson",
+      "announcement": "Action film starring Nicholas Hoult, Zoë Kravitz, and Pete Davidson has been scheduled to move to a November release date.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/nicholas-hoult-zoe-kravitz-how-to-rob-a-bank-changes-release-date-1236979381/"
+        }
+      ]
+    },
+    {
+      "title": "Margaret Wise Brown",
+      "studio": "Unknown",
+      "talent": "Elle Fanning, Julianne Moore; Director: Rebecca Miller",
+      "announcement": "Rebecca Miller directing new film about 'Goodnight Moon' author Margaret Wise Brown, starring Elle Fanning and Julianne Moore.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/elle-fanning-julianne-moore-margaret-wise-brown-1236979230/"
+        }
+      ]
+    },
     {
       "title": "Freddy the 13th",
       "studio": "Unknown",
-      "talent": "Dan Trachtenberg (Director)",
-      "announcement": "Dan Trachtenberg's untitled animated horror comedy 'Freddy the 13th' receives a release date.",
+      "talent": "Director: Dan Trachtenberg",
+      "announcement": "Dan Trachtenberg's untitled 'Freddy the 13th' animated horror comedy has received a release date.",
       "sources": [
         {
           "name": "Deadline",
@@ -15,43 +39,99 @@
       ]
     },
     {
-      "title": "Fabiola Gianotti Biopic",
+      "title": "The Country",
       "studio": "Unknown",
-      "talent": "Stefano Mordini (Director)",
-      "announcement": "Director Stefano Mordini to helm a feature biopic about 'God Particle' physicist Fabiola Gianotti.",
+      "talent": "Jodie Whittaker; Director: Ella Grace Kennedy",
+      "announcement": "Jodie Whittaker to star in and executive produce dystopian short film 'The Country' directed by Ella Grace Kennedy.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/mysterious-particle-fabiola-gianotti-god-particle-1236806300/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/jodie-whittaker-to-star-in-dystopian-short-film-the-country-1236979092/"
         }
       ]
     },
     {
-      "title": "Mimpi Kita: Castle in the Air",
-      "studio": "Abnormal Studios",
-      "talent": "",
-      "announcement": "Malaysian sci-fi film 'Mimpi Kita: Castle in the Air' lands distributor and sales agent Abnormal Studios.",
+      "title": "Who Is Ernie Barnes?",
+      "studio": "Unknown",
+      "talent": "Directors: Chike Ozah, Coodie Simmons",
+      "announcement": "Filmmakers Chike Ozah and Coodie Simmons announce documentary and immersive experience about artist Ernie Barnes.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/news/malaysian-sci-fi-mimpi-kita-castle-in-the-air-abnormal-studios-1236806294/"
+          "url": "https://variety.com/2026/film/news/chike-ozah-coodie-simmons-who-is-ernie-barnes-documentary-1236806434/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "Trojan Horse",
-      "network": "Multiple European Networks",
+      "title": "House of David",
+      "network": "Prime Video",
       "talent": "",
-      "announcement": "Mediawan rolls out kinetic content gameshow 'Trojan Horse' across Europe.",
+      "announcement": "Series renewed for Season 3 by Prime Video.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/house-of-david-renewed-season-3-prime-video-1236978963/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/house-of-david-renewed-season-3-amazon-1236806587/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/house-of-david-season-3-amazon-prime-video-1236644043/"
+        }
+      ]
+    },
+    {
+      "title": "Kid Sister",
+      "network": "ChaiFlicks",
+      "talent": "Creator: Simone Nathan",
+      "announcement": "New Zealand comedy 'Kid Sister' from Simone Nathan lands at ChaiFlicks in deal with Seven.One Studios International.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/global/mediawan-kinetic-content-gameshow-trojan-horse-1236806319/"
+          "url": "https://variety.com/2026/tv/news/simone-nathan-kid-sister-chaiflicks-1236806400/"
+        }
+      ]
+    },
+    {
+      "title": "Hooligans",
+      "network": "Samsung TV Plus",
+      "talent": "Keanu Reeves",
+      "announcement": "Keanu Reeves motorcycle racing series 'Hooligans' debuts as Samsung TV Plus revs up live programming.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/keanu-reeves-motorcycle-racing-samsung-tv-plus-live-streaming-1236978586/"
+        }
+      ]
+    },
+    {
+      "title": "American Horror Story",
+      "network": "FX",
+      "talent": "Ariana Grande (exiting)",
+      "announcement": "Ariana Grande exits 'American Horror Story' Season 13 amid her 'Eternal Sunshine' concert tour.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/ariana-grande-exits-ahs-season-13-1236979292/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/music/news/ariana-grande-exits-american-horror-story-13-tour-1236806759/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/ariana-grande-exits-american-horror-story-season-13-1236644074/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/industry-news/business/ariana-grande-ahs-season-13-exits-cast/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-10T11:23:29.329Z"
+  "lastUpdated": "2026-07-10T20:06:42.748Z"
 }
