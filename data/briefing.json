@@ -1,12 +1,12 @@
 {
   "date": "July 10, 2026",
-  "summary": "2 film announcements, 1 TV announcement across 3 trades.",
+  "summary": "3 film announcements, 1 TV announcement across 5 trades.",
   "film": [
     {
       "title": "Freddy the 13th",
       "studio": "Unknown",
       "talent": "Dan Trachtenberg (Director)",
-      "announcement": "Dan Trachtenberg's untitled animated horror comedy gets an official release date.",
+      "announcement": "Dan Trachtenberg's untitled animated horror comedy 'Freddy the 13th' receives a release date.",
       "sources": [
         {
           "name": "Deadline",
@@ -15,10 +15,22 @@
       ]
     },
     {
+      "title": "Fabiola Gianotti Biopic",
+      "studio": "Unknown",
+      "talent": "Stefano Mordini (Director)",
+      "announcement": "Director Stefano Mordini to helm a feature biopic about 'God Particle' physicist Fabiola Gianotti.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/mysterious-particle-fabiola-gianotti-god-particle-1236806300/"
+        }
+      ]
+    },
+    {
       "title": "Mimpi Kita: Castle in the Air",
       "studio": "Abnormal Studios",
       "talent": "",
-      "announcement": "Malaysian sci-fi film lands distributor and sales agent Abnormal Studios.",
+      "announcement": "Malaysian sci-fi film 'Mimpi Kita: Castle in the Air' lands distributor and sales agent Abnormal Studios.",
       "sources": [
         {
           "name": "Variety",
@@ -29,17 +41,17 @@
   ],
   "tv": [
     {
-      "title": "We Were Liars",
-      "network": "Unknown",
+      "title": "Trojan Horse",
+      "network": "Multiple European Networks",
       "talent": "",
-      "announcement": "Comprehensive update on season 2 development and what is known so far about the series.",
+      "announcement": "Mediawan rolls out kinetic content gameshow 'Trojan Horse' across Europe.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/feature/we-were-liars-season-2-news-updates-everything-we-know-1236887314/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/mediawan-kinetic-content-gameshow-trojan-horse-1236806319/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-10T08:52:52.284Z"
+  "lastUpdated": "2026-07-10T11:23:29.329Z"
 }
