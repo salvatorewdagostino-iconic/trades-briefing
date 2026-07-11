@@ -1,20 +1,33 @@
 {
   "date": "July 11, 2026",
-  "summary": "0 film announcements, 1 TV announcement across 5 trades.",
-  "film": [],
-  "tv": [
+  "summary": "1 film announcement, 1 TV announcement across 5 trades.",
+  "film": [
     {
-      "title": "Little House on the Prairie",
-      "network": "Netflix",
-      "talent": "Alice Halsey",
-      "announcement": "Netflix's new take on 'Little House on the Prairie' features 11-year-old actress Alice Halsey in the lead role.",
+      "title": "Whispers of Fatimah",
+      "studio": "Unknown",
+      "talent": "",
+      "announcement": "Indonesian virtual-production horror feature sets September release date and unveils first-look video.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-features/alice-halsey-little-house-on-the-prairie-netflix-interview-1236643390/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/whispers-of-fatimah-release-date-first-look-video-1236806380/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-11T18:09:10.584Z"
+  "tv": [
+    {
+      "title": "Big Brother",
+      "network": "CBS",
+      "talent": "",
+      "announcement": "Season 28 cast revealed featuring RuPaul's Drag Race alum, rocket scientist, MMA fighter and more.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/lists/big-brother-season-28-cast/"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-07-11T21:31:59.588Z"
 }
