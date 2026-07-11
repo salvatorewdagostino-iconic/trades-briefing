@@ -1,20 +1,20 @@
 {
   "date": "July 11, 2026",
-  "summary": "1 film announcement, 0 TV announcements across 5 trades.",
-  "film": [
+  "summary": "0 film announcements, 1 TV announcement across 5 trades.",
+  "film": [],
+  "tv": [
     {
-      "title": "Portal to Hell",
-      "studio": "Cineverse",
-      "talent": "",
-      "announcement": "Cineverse acquired the horror-comedy film 'Portal to Hell'.",
+      "title": "Little House on the Prairie",
+      "network": "Netflix",
+      "talent": "Alice Halsey",
+      "announcement": "Netflix's new take on 'Little House on the Prairie' features 11-year-old actress Alice Halsey in the lead role.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/cineverse-buys-horror-comedy-portal-to-hell-1236806935/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/alice-halsey-little-house-on-the-prairie-netflix-interview-1236643390/"
         }
       ]
     }
   ],
-  "tv": [],
-  "lastUpdated": "2026-07-11T07:23:48.521Z"
+  "lastUpdated": "2026-07-11T18:09:10.584Z"
 }
