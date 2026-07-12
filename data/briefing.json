@@ -1,13 +1,13 @@
 {
   "date": "July 12, 2026",
-  "summary": "0 film announcements, 1 TV announcement across 5 trades.",
+  "summary": "0 film announcements, 1 TV announcement across 3 trades.",
   "film": [],
   "tv": [
     {
       "title": "Summer House",
       "network": "Bravo",
       "talent": "Ciara Miller",
-      "announcement": "Love Island USA's Ciara Miller confirmed to return to Summer House Season 11 cast as filming starts.",
+      "announcement": "Love Island USA's Ciara Miller confirmed as part of Summer House Season 11 cast as filming begins.",
       "sources": [
         {
           "name": "Deadline",
@@ -16,5 +16,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-12T07:35:28.251Z"
+  "lastUpdated": "2026-07-12T07:50:28.789Z"
 }
