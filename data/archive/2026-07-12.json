@@ -1,13 +1,54 @@
 {
   "date": "July 12, 2026",
-  "summary": "0 film announcements, 1 TV announcement across 5 trades.",
-  "film": [],
+  "summary": "2 film announcements, 2 TV announcements across 5 trades.",
+  "film": [
+    {
+      "title": "Ali G Movie",
+      "studio": "",
+      "talent": "Sacha Baron Cohen",
+      "announcement": "New Ali G movie in development announced amid Sacha Baron Cohen's character appearance at Wimbledon.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/ali-g-wimbledon-sacha-baron-cohen-1236980220/"
+        }
+      ]
+    },
+    {
+      "title": "Avengers: Doomsday",
+      "studio": "Marvel Studios",
+      "talent": "Robert Downey Jr. (Doctor Doom)",
+      "announcement": "Concept art revealed showing Robert Downey Jr.'s Doctor Doom design and returning X-Men characters for the upcoming film.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/avengers-doomsday-art-director-character-illustration-1236980147/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/avengers-doomsday-art-doctor-doom-mask-x-men-1236809075/"
+        }
+      ]
+    }
+  ],
   "tv": [
     {
-      "title": "Legally Blonde",
-      "network": "Unknown",
+      "title": "Married at First Sight",
+      "network": "Peacock",
       "talent": "",
-      "announcement": "The team behind 'Elle' announced that the 'Legally Blonde' prequel will be developed as a series rather than a movie.",
+      "announcement": "Season 20 receives major overhaul with new experts and a returning familiar face joining the cast.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/married-at-first-sight-season-20-peacock-replacing-experts-1236806682/"
+        }
+      ]
+    },
+    {
+      "title": "Legally Blonde: Elle",
+      "network": "",
+      "talent": "",
+      "announcement": "Legally Blonde prequel greenlit as a TV series rather than a film.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -16,5 +57,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-12T18:11:16.257Z"
+  "lastUpdated": "2026-07-12T21:32:48.914Z"
 }
