@@ -1,91 +1,235 @@
 {
   "date": "July 13, 2026",
-  "summary": "6 film announcements, 4 TV announcements across 5 trades.",
+  "summary": "8 film announcements, 10 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Mourinho",
-      "studio": "Netflix",
-      "talent": "",
-      "announcement": "Teaser for Netflix sports documentary about legendary football manager José Mourinho drops with global launch date revealed.",
+      "title": "Nova",
+      "studio": "Marvel Studios",
+      "talent": "Michael Waldron (writer/developer)",
+      "announcement": "Michael Waldron is developing a Nova movie at Marvel Studios.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/mourinho-teaser-release-date-netflix-1236980599/"
+          "url": "https://deadline.com/2026/07/michael-waldron-nova-movie-marvel-studios-1236981012/"
         }
       ]
     },
     {
-      "title": "Hunt: We Need To Talk About James",
-      "studio": "",
-      "talent": "",
-      "announcement": "Feature documentary on legendary late Formula 1 driver James Hunt goes into production.",
+      "title": "Love Love",
+      "studio": "Amazon MGM Studios",
+      "talent": "Tyriq Withers, Isabel May",
+      "announcement": "Tyriq Withers is cast opposite Isabel May in the romantic comedy Love Love.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/hunt-we-need-to-talk-about-james-into-production-1236980585/"
+          "url": "https://deadline.com/2026/07/tyriq-withers-isabel-may-love-love-1236980378/"
         }
       ]
     },
     {
-      "title": "We Won't Let the Goat Die",
-      "studio": "Expansiva Cine, Infinito",
-      "talent": "Santiago Durán",
-      "announcement": "Fantastic Lab winner bolstered by new partners and director Santiago Durán attachment.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/we-wont-let-the-goat-die-expansiva-cine-infinito-santiago-duran-1236809426/"
-        }
-      ]
-    },
-    {
-      "title": "Spells to Revive a Witch",
+      "title": "Killing Hitler",
       "studio": "",
-      "talent": "Natalia Solórzano Vásquez",
-      "announcement": "Film about mythical fortune teller Soralla de Persia receives backing from Spain and Uruguay.",
+      "talent": "Dylan Douglas, David Arquette, Graham Sibley",
+      "announcement": "Dylan Douglas books his first movie role in the mobster assassination picture Killing Hitler alongside David Arquette and Graham Sibley.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/natalia-solorzano-vasquez-spells-to-revive-a-witch-1236809265/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/dylan-douglas-michael-douglas-first-movie-killing-hitler-1236980825/"
         }
       ]
     },
     {
-      "title": "Untitled Hilda Hidalgo Third Fiction Project",
+      "title": "A Nightmare on Elm Street",
+      "studio": "Paramount",
+      "talent": "",
+      "announcement": "Paramount acquires U.S. rights to an original A Nightmare on Elm Street screenplay for its new genre label Primal, in a deal with the Wes Craven estate.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/a-nightmare-on-elm-street-paramount-1236980882/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/nightmare-on-elm-street-reboot-paramount-wes-craven-estate-1236809749/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/nightmare-on-elm-street-movie-paramount-1236646496/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/nightmare-on-elm-street-remake-paramount-primal/"
+        }
+      ]
+    },
+    {
+      "title": "Nowhere to Lay My Eyes",
+      "studio": "Cinema Guild",
+      "talent": "Hong Sangsoo (director)",
+      "announcement": "Hong Sangsoo's Nowhere to Lay My Eyes lands North American distribution deal with Cinema Guild ahead of its Locarno debut.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/hong-sangsoo-nowhere-to-lay-my-eyes-cinema-guild-1236980821/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/hong-sang-soo-nowhere-to-lay-my-eyes-sale-cinema-guild-2026-1236646613/"
+        }
+      ]
+    },
+    {
+      "title": "A Social Contract",
       "studio": "",
-      "talent": "Hilda Hidalgo",
-      "announcement": "Director Hilda Hidalgo readies her third fiction film about sexual abuse after acclaimed dramas 'Of Love and Other Demons' and 'Violeta at Last'.",
+      "talent": "Sean Astin",
+      "announcement": "First trailer released for political survival thriller A Social Contract starring Sean Astin as a senator, with release date set.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/hilda-hidalgo-costa-rica-third-fiction-violeta-at-last-1236807000/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/sean-astin-social-contract-first-trailer-release-date-1236980698/"
         }
       ]
     },
     {
-      "title": "Punjabi Films Slate",
-      "studio": "Panorama Studios",
-      "talent": "Ammy Virk, Neeru Bajwa, Harrdy Sandhu",
-      "announcement": "Panorama Studios acquires Punjabi films starring Ammy Virk, Neeru Bajwa, and Harrdy Sandhu for worldwide release.",
+      "title": "Digger",
+      "studio": "",
+      "talent": "Tom Cruise, Alejandro G. Iñárritu (director)",
+      "announcement": "Trailer released for Digger, an apocalyptic comedy directed by Alejandro G. Iñárritu and starring Tom Cruise.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/tom-cruise-digger-trailer-1236646274/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/trailers/digger-trailer-tom-cruise-alejandro-g-inarritu-1235204741/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/digger-new-trailer-tom-cruise/"
+        }
+      ]
+    },
+    {
+      "title": "Quemada",
+      "studio": "Tres Tigres",
+      "talent": "Ana Istarú, Ardélia Istarú (director/daughter)",
+      "announcement": "Ana Istarú is cast to appear alongside her daughter director Ardélia Istarú in Quemada via Valentina Maurel's Tres Tigres label.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/news/ammy-virk-neeru-bajwa-harrdy-sandhu-punjabi-films-panorama-studios-1236805558/"
+          "url": "https://variety.com/2026/film/global/ardelia-istaru-quemada-tres-tigres-geko-films-mansa-1236809384/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "Anne Rice's Mayfair Witches",
-      "network": "AMC",
-      "talent": "Alexandra Daddario",
-      "announcement": "Season 3 teaser released featuring Alexandra Daddario.",
+      "title": "Silo",
+      "network": "Apple TV+",
+      "talent": "",
+      "announcement": "Release schedule announced for Season 3, detailing when new episodes will air.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/anne-rices-mayfair-witches-season-3-teaser-alex-daddario-1236979657/"
+          "url": "https://deadline.com/2026/07/silo-season-3-release-schedule-new-episodes-apple-tv-1236981124/"
+        }
+      ]
+    },
+    {
+      "title": "Alan's Universe",
+      "network": "Netflix",
+      "talent": "Alan Chikin Chow",
+      "announcement": "Alan Chikin Chow's Alan's Universe is headed to Netflix.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/alan-chikin-chow-alans-universe-netflix-youtube-1236980943/"
+        }
+      ]
+    },
+    {
+      "title": "Whisper Sisters",
+      "network": "",
+      "talent": "Emily Meade, Mae Whitman",
+      "announcement": "Emily Meade and Mae Whitman are cast to lead the comedy pilot Whisper Sisters.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/emily-meade-mae-whitman-cast-comedy-pilot-whisper-sisters-1236980906/"
+        }
+      ]
+    },
+    {
+      "title": "Monopoly",
+      "network": "Netflix",
+      "talent": "",
+      "announcement": "Netflix orders competition series based on the Monopoly board game with a $2 million dollar prize, opening casting for 2027 premiere.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/netflix-monopoly-competition-series-casting-1236809961/"
         },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/monopoly-competition-series-netflix-1236646527/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/netflix-monopoly-casting-premiere-date/"
+        }
+      ]
+    },
+    {
+      "title": "Carrie",
+      "network": "Prime Video",
+      "talent": "Mike Flanagan (creator/showrunner)",
+      "announcement": "First-look images released for Mike Flanagan's Carrie series adaptation of the Stephen King classic.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/carrie-tv-series-mike-flanagan-first-look-1236809673/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/prime-video-carrie-series-first-look-mike-flanagan-1236646525/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/carrie-prime-video-first-look/"
+        }
+      ]
+    },
+    {
+      "title": "Frisco King",
+      "network": "",
+      "talent": "Samuel L. Jackson, Tom Pecinka, Arturo Del Puerto",
+      "announcement": "Casting additions announced for the Samuel L. Jackson-led Frisco King series with Tom Pecinka and Arturo Del Puerto joining.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/frisco-king-series-cast-tom-pecinka-arturo-del-puerto-1236978800/"
+        }
+      ]
+    },
+    {
+      "title": "Untitled Alex Cary Thriller",
+      "network": "Apple TV+",
+      "talent": "Dakota Fanning, Susan Kelechi Watson",
+      "announcement": "Susan Kelechi Watson joins Dakota Fanning in Apple TV+'s untitled thriller from creator Alex Cary.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/susan-kelechi-watson-cast-apple-tv-alex-cary-series-1236980798/"
+        }
+      ]
+    },
+    {
+      "title": "Anne Rice's Mayfair Witches",
+      "network": "AMC",
+      "talent": "",
+      "announcement": "AMC reveals teaser for Season 3 of Anne Rice's Mayfair Witches.",
+      "sources": [
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/anne-rice-mayfair-witches-first-look-season-3-amc-1236646267/"
@@ -96,12 +240,8 @@
       "title": "The Real Housewives of London",
       "network": "Hayu",
       "talent": "",
-      "announcement": "Season 2 premiere date set at Hayu with cast photos revealed.",
+      "announcement": "Season 2 release date set for The Real Housewives of London on Hayu.",
       "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/gallery/the-real-housewives-of-london-season-2-cast-photos-hayu/"
-        },
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/real-housewives-of-london-season-2-date-air-hayu-release-1236646328/"
@@ -109,29 +249,17 @@
       ]
     },
     {
-      "title": "Love Island USA",
-      "network": "Peacock",
-      "talent": "Andy Cohen, Ariana Madix",
-      "announcement": "Season 8 reunion sets August premiere with Andy Cohen and Ariana Madix as hosts.",
+      "title": "Dance Moms Parody Musical",
+      "network": "",
+      "talent": "Tye Blue (director/co-creator of Titaníque)",
+      "announcement": "Tye Blue, director and co-creator of Titaníque, joins the creative team of the Dance Moms parody musical.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/peacock-love-island-usa-season-8-reunion-august-premiere-1236980355/"
-        }
-      ]
-    },
-    {
-      "title": "House of the Dragon",
-      "network": "HBO",
-      "talent": "",
-      "announcement": "Season 3 confirms a huge change to one character's ending.",
-      "sources": [
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/house-of-the-dragon-season-3-huge-character-change-sunfyre/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/columns/dance-moms-parody-musical-titanique-tye-blue-1236809314/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-13T11:43:03.188Z"
+  "lastUpdated": "2026-07-13T20:02:39.157Z"
 }
