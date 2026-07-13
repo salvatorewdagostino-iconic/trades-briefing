@@ -1,7 +1,19 @@
 {
   "date": "July 13, 2026",
-  "summary": "3 film announcements, 3 TV announcements across 5 trades.",
+  "summary": "6 film announcements, 4 TV announcements across 5 trades.",
   "film": [
+    {
+      "title": "Mourinho",
+      "studio": "Netflix",
+      "talent": "",
+      "announcement": "Teaser for Netflix sports documentary about legendary football manager José Mourinho drops with global launch date revealed.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/mourinho-teaser-release-date-netflix-1236980599/"
+        }
+      ]
+    },
     {
       "title": "Hunt: We Need To Talk About James",
       "studio": "",
@@ -15,9 +27,21 @@
       ]
     },
     {
+      "title": "We Won't Let the Goat Die",
+      "studio": "Expansiva Cine, Infinito",
+      "talent": "Santiago Durán",
+      "announcement": "Fantastic Lab winner bolstered by new partners and director Santiago Durán attachment.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/we-wont-let-the-goat-die-expansiva-cine-infinito-santiago-duran-1236809426/"
+        }
+      ]
+    },
+    {
       "title": "Spells to Revive a Witch",
       "studio": "",
-      "talent": "Natalia Solórzano Vásquez (director)",
+      "talent": "Natalia Solórzano Vásquez",
       "announcement": "Film about mythical fortune teller Soralla de Persia receives backing from Spain and Uruguay.",
       "sources": [
         {
@@ -27,43 +51,31 @@
       ]
     },
     {
-      "title": "Nobody's Violence",
-      "studio": "Heretic",
-      "talent": "Denis Côté (director)",
-      "announcement": "Film acquired by Heretic ahead of Locarno Main Competition premiere.",
+      "title": "Untitled Hilda Hidalgo Third Fiction Project",
+      "studio": "",
+      "talent": "Hilda Hidalgo",
+      "announcement": "Director Hilda Hidalgo readies her third fiction film about sexual abuse after acclaimed dramas 'Of Love and Other Demons' and 'Violeta at Last'.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/global/denis-cote-nobodys-violence-heretic-locarno-1236809302/"
+          "url": "https://variety.com/2026/film/global/hilda-hidalgo-costa-rica-third-fiction-violeta-at-last-1236807000/"
+        }
+      ]
+    },
+    {
+      "title": "Punjabi Films Slate",
+      "studio": "Panorama Studios",
+      "talent": "Ammy Virk, Neeru Bajwa, Harrdy Sandhu",
+      "announcement": "Panorama Studios acquires Punjabi films starring Ammy Virk, Neeru Bajwa, and Harrdy Sandhu for worldwide release.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/ammy-virk-neeru-bajwa-harrdy-sandhu-punjabi-films-panorama-studios-1236805558/"
         }
       ]
     }
   ],
   "tv": [
-    {
-      "title": "Love Island: Beyond The Villa",
-      "network": "Peacock",
-      "talent": "",
-      "announcement": "Series renewed for Season 3.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/love-island-beyond-the-villa-renewed-season-3-peacock-1236980356/"
-        }
-      ]
-    },
-    {
-      "title": "Love Island USA",
-      "network": "Peacock",
-      "talent": "Andy Cohen, Ariana Madix (hosts)",
-      "announcement": "Season 8 Reunion special set to premiere in August on Peacock with Andy Cohen and Ariana Madix as hosts.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/peacock-love-island-usa-season-8-reunion-august-premiere-1236980355/"
-        }
-      ]
-    },
     {
       "title": "Anne Rice's Mayfair Witches",
       "network": "AMC",
@@ -79,7 +91,47 @@
           "url": "https://www.hollywoodreporter.com/tv/tv-news/anne-rice-mayfair-witches-first-look-season-3-amc-1236646267/"
         }
       ]
+    },
+    {
+      "title": "The Real Housewives of London",
+      "network": "Hayu",
+      "talent": "",
+      "announcement": "Season 2 premiere date set at Hayu with cast photos revealed.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/gallery/the-real-housewives-of-london-season-2-cast-photos-hayu/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/real-housewives-of-london-season-2-date-air-hayu-release-1236646328/"
+        }
+      ]
+    },
+    {
+      "title": "Love Island USA",
+      "network": "Peacock",
+      "talent": "Andy Cohen, Ariana Madix",
+      "announcement": "Season 8 reunion sets August premiere with Andy Cohen and Ariana Madix as hosts.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/peacock-love-island-usa-season-8-reunion-august-premiere-1236980355/"
+        }
+      ]
+    },
+    {
+      "title": "House of the Dragon",
+      "network": "HBO",
+      "talent": "",
+      "announcement": "Season 3 confirms a huge change to one character's ending.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/house-of-the-dragon-season-3-huge-character-change-sunfyre/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-07-13T08:37:38.736Z"
+  "lastUpdated": "2026-07-13T11:43:03.188Z"
 }
