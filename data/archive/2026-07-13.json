@@ -1,28 +1,76 @@
 {
   "date": "July 13, 2026",
-  "summary": "8 film announcements, 10 TV announcements across 5 trades.",
+  "summary": "11 film announcements, 10 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Nova",
-      "studio": "Marvel Studios",
-      "talent": "Michael Waldron (writer/developer)",
-      "announcement": "Michael Waldron is developing a Nova movie at Marvel Studios.",
+      "title": "Cartoon Cat",
+      "studio": "TriStar Pictures",
+      "talent": "",
+      "announcement": "TriStar Pictures acquired feature film rights to Trevor Henderson's viral internet IP 'Cartoon Cat'.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/michael-waldron-nova-movie-marvel-studios-1236981012/"
+          "url": "https://deadline.com/2026/07/tristar-pictures-trevor-henderson-cartoon-cat-1236981042/"
         }
       ]
     },
     {
-      "title": "Love Love",
-      "studio": "Amazon MGM Studios",
-      "talent": "Tyriq Withers, Isabel May",
-      "announcement": "Tyriq Withers is cast opposite Isabel May in the romantic comedy Love Love.",
+      "title": "The Haunting of Hotel Transylvania",
+      "studio": "Sony Animation & Amazon MGM Studios",
+      "talent": "",
+      "announcement": "Sony Animation and Amazon MGM Studios teamed for 'The Haunting of Hotel Transylvania' (Hotel Transylvania 5), set for Fall 2027 theatrical release.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/tyriq-withers-isabel-may-love-love-1236980378/"
+          "url": "https://deadline.com/2026/07/hotel-transylvania-5-1236981257/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/hotel-transylvania-5-release-date-1236810065/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/hotel-transylvania-5-release-date-sony/"
+        }
+      ]
+    },
+    {
+      "title": "Christmas Wrapped In Love",
+      "studio": "Great American Media",
+      "talent": "Cindy Busby",
+      "announcement": "Cindy Busby cast to star in Great American Media holiday film 'Christmas Wrapped In Love'.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/cindy-busby-cast-film-christmas-wrapped-in-love-1236981200/"
+        }
+      ]
+    },
+    {
+      "title": "Untitled Daniels Secret Event Pic",
+      "studio": "Universal",
+      "talent": "PinkPantheress",
+      "announcement": "PinkPantheress cast in her feature acting debut in a secret event film by Daniels at Universal.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/pinkpantheress-daniels-secret-movie-1236981169/"
+        }
+      ]
+    },
+    {
+      "title": "Nova",
+      "studio": "Marvel Studios",
+      "talent": "Michael Waldron (screenwriter/developer)",
+      "announcement": "Michael Waldron developing 'Nova' movie at Marvel Studios.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/michael-waldron-nova-movie-marvel-studios-1236981012/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/avengers-doomsday-co-writer-michael-waldron-developing-nova-movie/"
         }
       ]
     },
@@ -30,7 +78,7 @@
       "title": "Killing Hitler",
       "studio": "",
       "talent": "Dylan Douglas, David Arquette, Graham Sibley",
-      "announcement": "Dylan Douglas books his first movie role in the mobster assassination picture Killing Hitler alongside David Arquette and Graham Sibley.",
+      "announcement": "Dylan Douglas books his first movie role in mobster assassination pic 'Killing Hitler' alongside David Arquette and Graham Sibley.",
       "sources": [
         {
           "name": "Deadline",
@@ -42,7 +90,7 @@
       "title": "A Nightmare on Elm Street",
       "studio": "Paramount",
       "talent": "",
-      "announcement": "Paramount acquires U.S. rights to an original A Nightmare on Elm Street screenplay for its new genre label Primal, in a deal with the Wes Craven estate.",
+      "announcement": "Paramount acquired U.S. rights to 'A Nightmare on Elm Street' original screenplay through its new genre label Primal, with a reboot in development.",
       "sources": [
         {
           "name": "Deadline",
@@ -65,8 +113,8 @@
     {
       "title": "Nowhere to Lay My Eyes",
       "studio": "Cinema Guild",
-      "talent": "Hong Sangsoo (director)",
-      "announcement": "Hong Sangsoo's Nowhere to Lay My Eyes lands North American distribution deal with Cinema Guild ahead of its Locarno debut.",
+      "talent": "Hong Sang-soo (director)",
+      "announcement": "Hong Sang-soo's 'Nowhere to Lay My Eyes' lands North American distribution deal with Cinema Guild ahead of Locarno Film Festival debut.",
       "sources": [
         {
           "name": "Deadline",
@@ -82,7 +130,7 @@
       "title": "A Social Contract",
       "studio": "",
       "talent": "Sean Astin",
-      "announcement": "First trailer released for political survival thriller A Social Contract starring Sean Astin as a senator, with release date set.",
+      "announcement": "First trailer released for political survival thriller 'A Social Contract' starring Sean Astin as a Senator, with release date set.",
       "sources": [
         {
           "name": "Deadline",
@@ -94,7 +142,7 @@
       "title": "Digger",
       "studio": "",
       "talent": "Tom Cruise, Alejandro G. Iñárritu (director)",
-      "announcement": "Trailer released for Digger, an apocalyptic comedy directed by Alejandro G. Iñárritu and starring Tom Cruise.",
+      "announcement": "Trailer released for 'Digger', a VistaVision comedy epic starring Tom Cruise and directed by Alejandro G. Iñárritu.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -103,36 +151,48 @@
         {
           "name": "IndieWire",
           "url": "https://www.indiewire.com/news/trailers/digger-trailer-tom-cruise-alejandro-g-inarritu-1235204741/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/digger-new-trailer-tom-cruise/"
         }
       ]
     },
     {
-      "title": "Quemada",
-      "studio": "Tres Tigres",
-      "talent": "Ana Istarú, Ardélia Istarú (director/daughter)",
-      "announcement": "Ana Istarú is cast to appear alongside her daughter director Ardélia Istarú in Quemada via Valentina Maurel's Tres Tigres label.",
+      "title": "Avengers: Doomsday",
+      "studio": "Marvel Studios",
+      "talent": "",
+      "announcement": "Tickets for 'Avengers: Doomsday' to go on sale next week with runtime revealed.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/ardelia-istaru-quemada-tres-tigres-geko-films-mansa-1236809384/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/avengers-doomsday-tickets-theaters-runtime-1236647030/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "Silo",
-      "network": "Apple TV+",
-      "talent": "",
-      "announcement": "Release schedule announced for Season 3, detailing when new episodes will air.",
+      "title": "Love Love",
+      "network": "Amazon MGM Studios",
+      "talent": "Tyriq Withers, Isabel May",
+      "announcement": "Tyriq Withers cast opposite Isabel May in Amazon MGM Studios rom-com 'Love Love'.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/silo-season-3-release-schedule-new-episodes-apple-tv-1236981124/"
+          "url": "https://deadline.com/2026/07/tyriq-withers-isabel-may-love-love-amazon-mgm-studios-rom-com-1236980378/"
+        }
+      ]
+    },
+    {
+      "title": "Summer House",
+      "network": "Bravo",
+      "talent": "Ciara Miller, Kyle Cooke, KJ Dillard",
+      "announcement": "Season 11 cast set at Bravo with Ciara Miller, Kyle Cooke, KJ Dillard and more returning.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/gallery/summer-house-season-11-cast-bravo/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/summer-house-season-11-cast-revealed-1236646977/"
         }
       ]
     },
@@ -140,7 +200,7 @@
       "title": "Alan's Universe",
       "network": "Netflix",
       "talent": "Alan Chikin Chow",
-      "announcement": "Alan Chikin Chow's Alan's Universe is headed to Netflix.",
+      "announcement": "Alan Chikin Chow's 'Alan's Universe' heads to Netflix.",
       "sources": [
         {
           "name": "Deadline",
@@ -152,7 +212,7 @@
       "title": "Whisper Sisters",
       "network": "",
       "talent": "Emily Meade, Mae Whitman",
-      "announcement": "Emily Meade and Mae Whitman are cast to lead the comedy pilot Whisper Sisters.",
+      "announcement": "Emily Meade and Mae Whitman cast to lead comedy pilot 'Whisper Sisters'.",
       "sources": [
         {
           "name": "Deadline",
@@ -161,10 +221,34 @@
       ]
     },
     {
+      "title": "Frisco King",
+      "network": "",
+      "talent": "Samuel L. Jackson, Tom Pecinka, Arturo Del Puerto",
+      "announcement": "Samuel L. Jackson-led series 'Frisco King' casts Tom Pecinka and Arturo Del Puerto.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/frisco-king-series-cast-tom-pecinka-arturo-del-puerto-1236978800/"
+        }
+      ]
+    },
+    {
+      "title": "Untitled Alex Cary Thriller",
+      "network": "Apple TV+",
+      "talent": "Susan Kelechi Watson, Dakota Fanning",
+      "announcement": "Susan Kelechi Watson joins Dakota Fanning in Apple TV+ thriller from Alex Cary.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/susan-kelechi-watson-cast-apple-tv-alex-cary-series-1236980798/"
+        }
+      ]
+    },
+    {
       "title": "Monopoly",
       "network": "Netflix",
       "talent": "",
-      "announcement": "Netflix orders competition series based on the Monopoly board game with a $2 million dollar prize, opening casting for 2027 premiere.",
+      "announcement": "Netflix orders 'Monopoly' competition series based on the board game with $2 million prize and 2027 premiere target.",
       "sources": [
         {
           "name": "Variety",
@@ -181,15 +265,23 @@
       ]
     },
     {
+      "title": "Crystal Lake",
+      "network": "Peacock",
+      "talent": "",
+      "announcement": "Peacock released teaser and photos for 'Crystal Lake' series.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/crystal-lake-teaser-pics-peacock-1236646998/"
+        }
+      ]
+    },
+    {
       "title": "Carrie",
       "network": "Prime Video",
       "talent": "Mike Flanagan (creator/showrunner)",
-      "announcement": "First-look images released for Mike Flanagan's Carrie series adaptation of the Stephen King classic.",
+      "announcement": "Prime Video releases first look at Mike Flanagan's 'Carrie' series.",
       "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/carrie-tv-series-mike-flanagan-first-look-1236809673/"
-        },
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/prime-video-carrie-series-first-look-mike-flanagan-1236646525/"
@@ -201,65 +293,17 @@
       ]
     },
     {
-      "title": "Frisco King",
-      "network": "",
-      "talent": "Samuel L. Jackson, Tom Pecinka, Arturo Del Puerto",
-      "announcement": "Casting additions announced for the Samuel L. Jackson-led Frisco King series with Tom Pecinka and Arturo Del Puerto joining.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/frisco-king-series-cast-tom-pecinka-arturo-del-puerto-1236978800/"
-        }
-      ]
-    },
-    {
-      "title": "Untitled Alex Cary Thriller",
-      "network": "Apple TV+",
-      "talent": "Dakota Fanning, Susan Kelechi Watson",
-      "announcement": "Susan Kelechi Watson joins Dakota Fanning in Apple TV+'s untitled thriller from creator Alex Cary.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/susan-kelechi-watson-cast-apple-tv-alex-cary-series-1236980798/"
-        }
-      ]
-    },
-    {
-      "title": "Anne Rice's Mayfair Witches",
-      "network": "AMC",
-      "talent": "",
-      "announcement": "AMC reveals teaser for Season 3 of Anne Rice's Mayfair Witches.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/anne-rice-mayfair-witches-first-look-season-3-amc-1236646267/"
-        }
-      ]
-    },
-    {
       "title": "The Real Housewives of London",
       "network": "Hayu",
       "talent": "",
-      "announcement": "Season 2 release date set for The Real Housewives of London on Hayu.",
+      "announcement": "Season 2 of 'The Real Housewives of London' set to return on Hayu.",
       "sources": [
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/real-housewives-of-london-season-2-date-air-hayu-release-1236646328/"
         }
       ]
-    },
-    {
-      "title": "Dance Moms Parody Musical",
-      "network": "",
-      "talent": "Tye Blue (director/co-creator of Titaníque)",
-      "announcement": "Tye Blue, director and co-creator of Titaníque, joins the creative team of the Dance Moms parody musical.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/columns/dance-moms-parody-musical-titanique-tye-blue-1236809314/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-13T20:02:39.157Z"
+  "lastUpdated": "2026-07-13T23:37:03.095Z"
 }
