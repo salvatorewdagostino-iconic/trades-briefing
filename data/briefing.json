@@ -1,45 +1,265 @@
 {
   "date": "July 14, 2026",
-  "summary": "2 film announcements, 1 TV announcement across 5 trades.",
+  "summary": "11 film announcements, 7 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Mr. Hero",
-      "studio": "Skyline Media",
-      "talent": "",
-      "announcement": "Vietnam's Skyline Media has scheduled a North America and international rollout for the film.",
+      "title": "Skeletons",
+      "studio": "Sony Pictures",
+      "talent": "Brie Larson, Keith Carradine",
+      "announcement": "Keith Carradine joins Brie Larson in the horror thriller.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/thai-hoa-mr-hero-vietnam-skyline-media-north-america-1236980649/"
+          "url": "https://deadline.com/2026/07/keith-carradine-brie-larson-skeletons-1236981998/"
         }
       ]
     },
     {
-      "title": "The Chilean",
-      "studio": "Fandango Sales",
-      "talent": "",
-      "announcement": "Fandango Sales has picked up the film ahead of its Locarno premiere.",
+      "title": "The Conjuring: First Communion",
+      "studio": "New Line",
+      "talent": "Garrett Wareing as young Ed Warren, Amanda Fix as young Lorraine Warren",
+      "announcement": "Casting announced for young versions of Ed and Lorraine Warren in the prequel with 2027 release date.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/conjuring-first-communion-garrett-wareing-amanda-fix-1236981902/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/conjuring-prequel-movie-2027-release-1236810606/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/the-conjuring-prequel-casts-its-young-ed-and-loraine-1236647707/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/the-conjuring-first-communion-cast-young-warrens-garrett-wareing-amanda-fix/"
+        }
+      ]
+    },
+    {
+      "title": "Maelstrom",
+      "studio": "Netflix",
+      "talent": "Alan Ritchson",
+      "announcement": "Alan Ritchson in talks to lead the splashy Netflix action movie.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/global/fandango-sales-locarno-the-chilean-sergio-castro-san-martin-1236809739/"
+          "url": "https://variety.com/2026/film/news/alan-ritchson-maelstrom-action-movie-netflix-1236810075/"
+        }
+      ]
+    },
+    {
+      "title": "Knife: The Attempted Murder of Salman Rushdie",
+      "studio": "Abramorama",
+      "talent": "",
+      "announcement": "Abramorama acquires North American rights to Alex Gibney's documentary about the attempted murder of author Salman Rushdie.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/knife-the-attempted-murder-of-salman-rushdie-abramorama-acquisition-1236981428/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/festivals/sundance-2026-movies-sold-so-far-1235174095/"
+        }
+      ]
+    },
+    {
+      "title": "A Man of His Time",
+      "studio": "1-2 Special",
+      "talent": "",
+      "announcement": "1-2 Special acquires North American rights to Emmanuel Marre's Cannes-winning period drama.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/1-2-special-emmanuel-marre-a-man-of-his-time-1236981687/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/1-2-special-buys-french-period-drama-a-man-of-his-time-1236647377/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/festivals/cannes-2026-movies-sold-so-far-paper-tiger-minotaur-1235191174/"
+        }
+      ]
+    },
+    {
+      "title": "Buried in Barstow",
+      "studio": "Lifetime",
+      "talent": "Angie Harmon, Megan Follows, Finley Sehorn",
+      "announcement": "Lifetime greenlights two sequel films with Angie Harmon returning and Megan Follows and Finley Sehorn joining the cast.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/angie-harmon-lifetime-buried-in-barstow-sequel-films-1236981315/"
+        }
+      ]
+    },
+    {
+      "title": "Substitute Teacher",
+      "studio": "Tubi",
+      "talent": "",
+      "announcement": "Wall Of Entertainment partners with AI platform for Tubi's project.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/tubi-substitute-teacher-house-rules-ai-wall-of-entertainment-1236981789/"
+        }
+      ]
+    },
+    {
+      "title": "House Rules",
+      "studio": "Tubi",
+      "talent": "",
+      "announcement": "Wall Of Entertainment partners with AI platform for Tubi's project.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/tubi-substitute-teacher-house-rules-ai-wall-of-entertainment-1236981789/"
+        }
+      ]
+    },
+    {
+      "title": "Godhead",
+      "studio": "",
+      "talent": "",
+      "announcement": "Anglo-French outfit Alief boards sales on Kinematics horror film before Fantasia debut.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/horror-godhead-fantasia-gets-sales-deal-1236981775/"
+        }
+      ]
+    },
+    {
+      "title": "Humpty: American Dream",
+      "studio": "",
+      "talent": "James Presson as exec producer",
+      "announcement": "James Presson boards the Frontières biopic parody film.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/markets-festivals/james-presson-generic-animal-humpty-american-dream-fantasia-1236810578/"
+        }
+      ]
+    },
+    {
+      "title": "Behemoth!",
+      "studio": "",
+      "talent": "Pedro Pascal, Olivia Wilde, Eva Victor",
+      "announcement": "Pedro Pascal plays the cello in Tony Gilroy's classical music drama co-starring Olivia Wilde and Eva Victor.",
+      "sources": [
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/trailers/behemoth-trailer-pedro-pascal-plays-cello-tony-gilroy-movie-1235205108/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "The Beauty",
-      "network": "FX",
-      "talent": "",
-      "announcement": "The cast of the FX series has been released, with the future of the series unclear.",
+      "title": "The Girlfriend",
+      "network": "",
+      "talent": "Rosario Dawson, Lamorne Morris, Joshua Jackson, Stephen Root, Edi Patterson",
+      "announcement": "Casting announced for the project with Rosario Dawson, Lamorne Morris, Joshua Jackson, Stephen Root, and Edi Patterson.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/the-beauty-cast-released-canceled-renewed-season-2-fx-1236979577/"
+          "url": "https://deadline.com/2026/07/rosario-dawson-lamorne-morris-joshua-jackson-the-girlfriend-1236981794/"
+        }
+      ]
+    },
+    {
+      "title": "Elizabeth Banks-Led Apple TV Comedy Series",
+      "network": "Apple TV",
+      "talent": "Elizabeth Banks, Jared Goldstein, Spencer Moss",
+      "announcement": "Elizabeth Banks-led comedy series casts Jared Goldstein and Spencer Moss.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/elizabeth-banks-apple-series-jared-goldstein-spencer-moss-1236982013/"
+        }
+      ]
+    },
+    {
+      "title": "The Shards",
+      "network": "FX",
+      "talent": "Igby Rigney, Kaia Gerber",
+      "announcement": "Ryan Murphy's coming-of-age drama series based on Bret Easton Ellis novel with trailer released.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/the-shards-trailer-ryan-murphy-bret-easton-ellis-novel-1236981780/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/the-shards-trailer-fx-show-1236810036/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/ryan-murphy-the-shards-trailer-1236647068/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/the-shards-trailer-fx-ryan-murphy-kaia-gerber/"
+        }
+      ]
+    },
+    {
+      "title": "Scrambled Up",
+      "network": "National Syndication",
+      "talent": "",
+      "announcement": "Syndicated game show renewed for Season 2 with Michael Eisner's Tornante joining as co-producer.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/scrambled-up-renewed-season-2-national-syndication-1236981047/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/game-show-scrambled-up-season-2-1236810066/"
+        }
+      ]
+    },
+    {
+      "title": "The Whisper Man",
+      "network": "Netflix",
+      "talent": "Robert De Niro, Adam Scott",
+      "announcement": "Trailer released for Netflix series starring Robert De Niro and Adam Scott.",
+      "sources": [
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/trailers/the-whisper-man-trailer-robert-de-niro-adam-scott-netflix-1235205147/"
+        }
+      ]
+    },
+    {
+      "title": "Mythical Kitchen",
+      "network": "Netflix",
+      "talent": "",
+      "announcement": "Mythical's cooking content to stream on Netflix in latest creator partnership.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/industry-news/business/mythical-netflix-creator-partnership-mythical-kitchen-last-meals/"
+        }
+      ]
+    },
+    {
+      "title": "Descendants 5",
+      "network": "Disney",
+      "talent": "",
+      "announcement": "Project ventures further into the world of Wonderland with new characters including Chessy the Cat.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/descendants-5-wicked-wonderland-characters-plot-1236646459/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-14T07:24:40.067Z"
+  "lastUpdated": "2026-07-14T18:49:09.180Z"
 }
