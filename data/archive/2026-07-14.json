@@ -1,12 +1,72 @@
 {
   "date": "July 14, 2026",
-  "summary": "11 film announcements, 7 TV announcements across 5 trades.",
+  "summary": "10 film announcements, 8 TV announcements across 5 trades.",
   "film": [
+    {
+      "title": "Boys For Life",
+      "studio": "Paramount",
+      "talent": "Tyler Falbo (director)",
+      "announcement": "R-rated comedy set for Spring 2027 release through Paramount's Primal label.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/tyler-falbo-boys-for-life-teyana-taylor-get-lite-release-date-1236982363/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/almost-friday-tyler-falbo-comedy-boys-for-life-paramount-1236811056/"
+        }
+      ]
+    },
+    {
+      "title": "Get Lite",
+      "studio": "Paramount",
+      "talent": "Teyana Taylor",
+      "announcement": "Dance film moves to late summer release date.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/tyler-falbo-boys-for-life-teyana-taylor-get-lite-release-date-1236982363/"
+        }
+      ]
+    },
+    {
+      "title": "Vigilant",
+      "studio": "Miramax",
+      "talent": "James DeMonaco (director)",
+      "announcement": "James DeMonaco set to direct Miramax thriller.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/purge-james-demonaco-miramax-vigilant-1236982157/"
+        }
+      ]
+    },
+    {
+      "title": "Man of Tomorrow",
+      "studio": "Warner Bros.",
+      "talent": "Xolo Maridueña (Blue Beetle), James Gunn (director)",
+      "announcement": "Xolo Maridueña confirmed to return as Blue Beetle in Superman sequel.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/xolo-mariduena-superman-man-of-tomorrow-blue-beetle-1236982296/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/blue-beetle-superman-2-man-of-tomorrow-1236811013/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/man-of-tomorrow-blue-beetle-xolo-mariduena/"
+        }
+      ]
+    },
     {
       "title": "Skeletons",
       "studio": "Sony Pictures",
       "talent": "Brie Larson, Keith Carradine",
-      "announcement": "Keith Carradine joins Brie Larson in the horror thriller.",
+      "announcement": "Keith Carradine joins Brie Larson in horror thriller.",
       "sources": [
         {
           "name": "Deadline",
@@ -17,16 +77,12 @@
     {
       "title": "The Conjuring: First Communion",
       "studio": "New Line",
-      "talent": "Garrett Wareing as young Ed Warren, Amanda Fix as young Lorraine Warren",
-      "announcement": "Casting announced for young versions of Ed and Lorraine Warren in the prequel with 2027 release date.",
+      "talent": "Garrett Wareing (young Ed Warren), Amanda Fix (young Lorraine Warren)",
+      "announcement": "New Line casts young versions of Ed and Lorraine Warren for Conjuring prequel.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/07/conjuring-first-communion-garrett-wareing-amanda-fix-1236981902/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/conjuring-prequel-movie-2027-release-1236810606/"
         },
         {
           "name": "Hollywood Reporter",
@@ -39,22 +95,10 @@
       ]
     },
     {
-      "title": "Maelstrom",
-      "studio": "Netflix",
-      "talent": "Alan Ritchson",
-      "announcement": "Alan Ritchson in talks to lead the splashy Netflix action movie.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/alan-ritchson-maelstrom-action-movie-netflix-1236810075/"
-        }
-      ]
-    },
-    {
       "title": "Knife: The Attempted Murder of Salman Rushdie",
       "studio": "Abramorama",
-      "talent": "",
-      "announcement": "Abramorama acquires North American rights to Alex Gibney's documentary about the attempted murder of author Salman Rushdie.",
+      "talent": "Alex Gibney (director)",
+      "announcement": "Abramorama acquires North American rights to Alex Gibney documentary about attempted assassination of Salman Rushdie.",
       "sources": [
         {
           "name": "Deadline",
@@ -67,115 +111,103 @@
       ]
     },
     {
-      "title": "A Man of His Time",
-      "studio": "1-2 Special",
-      "talent": "",
-      "announcement": "1-2 Special acquires North American rights to Emmanuel Marre's Cannes-winning period drama.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/1-2-special-emmanuel-marre-a-man-of-his-time-1236981687/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/1-2-special-buys-french-period-drama-a-man-of-his-time-1236647377/"
-        },
-        {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/news/festivals/cannes-2026-movies-sold-so-far-paper-tiger-minotaur-1235191174/"
-        }
-      ]
-    },
-    {
-      "title": "Buried in Barstow",
-      "studio": "Lifetime",
-      "talent": "Angie Harmon, Megan Follows, Finley Sehorn",
-      "announcement": "Lifetime greenlights two sequel films with Angie Harmon returning and Megan Follows and Finley Sehorn joining the cast.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/angie-harmon-lifetime-buried-in-barstow-sequel-films-1236981315/"
-        }
-      ]
-    },
-    {
-      "title": "Substitute Teacher",
-      "studio": "Tubi",
-      "talent": "",
-      "announcement": "Wall Of Entertainment partners with AI platform for Tubi's project.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/tubi-substitute-teacher-house-rules-ai-wall-of-entertainment-1236981789/"
-        }
-      ]
-    },
-    {
-      "title": "House Rules",
-      "studio": "Tubi",
-      "talent": "",
-      "announcement": "Wall Of Entertainment partners with AI platform for Tubi's project.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/tubi-substitute-teacher-house-rules-ai-wall-of-entertainment-1236981789/"
-        }
-      ]
-    },
-    {
-      "title": "Godhead",
-      "studio": "",
-      "talent": "",
-      "announcement": "Anglo-French outfit Alief boards sales on Kinematics horror film before Fantasia debut.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/horror-godhead-fantasia-gets-sales-deal-1236981775/"
-        }
-      ]
-    },
-    {
-      "title": "Humpty: American Dream",
-      "studio": "",
-      "talent": "James Presson as exec producer",
-      "announcement": "James Presson boards the Frontières biopic parody film.",
+      "title": "The Lord of the Rings: The Hunt for Gollum",
+      "studio": "New Line/Warner Bros.",
+      "talent": "Andy Serkis (Gollum)",
+      "announcement": "Production begins with first set footage of Andy Serkis reviving his iconic Gollum character.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/markets-festivals/james-presson-generic-animal-humpty-american-dream-fantasia-1236810578/"
+          "url": "https://variety.com/2026/film/news/lord-of-the-rings-hunt-for-gollum-filming-set-footage-1236810966/"
         }
       ]
     },
     {
-      "title": "Behemoth!",
-      "studio": "",
-      "talent": "Pedro Pascal, Olivia Wilde, Eva Victor",
-      "announcement": "Pedro Pascal plays the cello in Tony Gilroy's classical music drama co-starring Olivia Wilde and Eva Victor.",
+      "title": "Oddfellows First Look Deal",
+      "studio": "Warner Bros.",
+      "talent": "Chris Ferguson (producer/director)",
+      "announcement": "Chris Ferguson's production company Oddfellows signs first look deal with Warner Bros. Pictures.",
       "sources": [
         {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/news/trailers/behemoth-trailer-pedro-pascal-plays-cello-tony-gilroy-movie-1235205108/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/backrooms-chris-ferguson-warner-bros-1236982000/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/backrooms-producer-chris-ferguson-warner-bros-1st-look-deal-1236647939/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/chris-ferguson-oddfellows-signs-first-look-deal-warner-bros-pictures/"
+        }
+      ]
+    },
+    {
+      "title": "Horror Short",
+      "studio": "",
+      "talent": "Jeff Barker (writer/director), Dane Cook (star)",
+      "announcement": "Jeff Barker to write and direct horror short starring Dane Cook.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/obsession-curry-barker-jeff-barker-horror-short-dane-cook-1236646534/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "The Girlfriend",
-      "network": "",
-      "talent": "Rosario Dawson, Lamorne Morris, Joshua Jackson, Stephen Root, Edi Patterson",
-      "announcement": "Casting announced for the project with Rosario Dawson, Lamorne Morris, Joshua Jackson, Stephen Root, and Edi Patterson.",
+      "title": "Thunder Road",
+      "network": "AMC",
+      "talent": "Maggie Grace (cast)",
+      "announcement": "Maggie Grace joins cast of NASCAR drama series.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/rosario-dawson-lamorne-morris-joshua-jackson-the-girlfriend-1236981794/"
+          "url": "https://deadline.com/2026/07/maggie-grace-cast-amc-nascar-series-thunder-road-1236982252/"
+        }
+      ]
+    },
+    {
+      "title": "Far Cry",
+      "network": "FX/Hulu",
+      "talent": "Steve Buscemi, Noah Hawley (creator), Rob Mac (creator), Lizzy Caplan",
+      "announcement": "Steve Buscemi joins FX anthology series based on video game franchise.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/steve-buscemi-cast-fx-anthology-series-far-cry-1236982135/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/far-cry-fx-series-cast-steve-buscemi-1236810902/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/steve-buscemi-far-cry-fx-hulu-1236648052/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/steve-buscemi-cast-fx-far-cry-tv-show-adaptation/"
+        }
+      ]
+    },
+    {
+      "title": "Shifter",
+      "network": "Hulu",
+      "talent": "Adam Scott, Ezra Claytan Daniels, Eli Jorné (creators/producers)",
+      "announcement": "Series adaptation of graphic novel in development at Hulu from Severance trio.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/shifter-tv-hulu-ezra-claytan-daniels-eli-jorne-adam-scott-1236981473/"
         }
       ]
     },
     {
       "title": "Elizabeth Banks-Led Apple TV Comedy Series",
-      "network": "Apple TV",
-      "talent": "Elizabeth Banks, Jared Goldstein, Spencer Moss",
+      "network": "Apple TV+",
+      "talent": "Elizabeth Banks (star/producer), Jared Goldstein, Spencer Moss (cast)",
       "announcement": "Elizabeth Banks-led comedy series casts Jared Goldstein and Spencer Moss.",
       "sources": [
         {
@@ -185,42 +217,38 @@
       ]
     },
     {
-      "title": "The Shards",
-      "network": "FX",
-      "talent": "Igby Rigney, Kaia Gerber",
-      "announcement": "Ryan Murphy's coming-of-age drama series based on Bret Easton Ellis novel with trailer released.",
+      "title": "The Girlfriend",
+      "network": "",
+      "talent": "Rosario Dawson, Lamorne Morris, Joshua Jackson, Stephen Root, Edi Patterson (cast)",
+      "announcement": "Multi-episode ensemble cast announced for The Girlfriend.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/the-shards-trailer-ryan-murphy-bret-easton-ellis-novel-1236981780/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/the-shards-trailer-fx-show-1236810036/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/ryan-murphy-the-shards-trailer-1236647068/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/the-shards-trailer-fx-ryan-murphy-kaia-gerber/"
+          "url": "https://deadline.com/2026/07/rosario-dawson-lamorne-morris-joshua-jackson-the-girlfriend-1236981794/"
         }
       ]
     },
     {
-      "title": "Scrambled Up",
-      "network": "National Syndication",
-      "talent": "",
-      "announcement": "Syndicated game show renewed for Season 2 with Michael Eisner's Tornante joining as co-producer.",
+      "title": "Buried in Barstow Sequels",
+      "network": "Lifetime",
+      "talent": "Angie Harmon, Megan Follows, Finley Sehorn (cast)",
+      "announcement": "Lifetime sets two Buried in Barstow sequel films with Angie Harmon returning.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/scrambled-up-renewed-season-2-national-syndication-1236981047/"
-        },
+          "url": "https://deadline.com/2026/07/angie-harmon-lifetime-buried-in-barstow-sequel-films-1236981315/"
+        }
+      ]
+    },
+    {
+      "title": "The Shards",
+      "network": "FX",
+      "talent": "Igby Rigney, Kaia Gerber",
+      "announcement": "FX thriller series adaptation of Bret Easton Ellis novel with Ryan Murphy involved; Igby Rigney and Kaia Gerber in cast.",
+      "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/game-show-scrambled-up-season-2-1236810066/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/ryan-murphy-the-shards-trailer-1236647068/"
         }
       ]
     },
@@ -228,38 +256,14 @@
       "title": "The Whisper Man",
       "network": "Netflix",
       "talent": "Robert De Niro, Adam Scott",
-      "announcement": "Trailer released for Netflix series starring Robert De Niro and Adam Scott.",
+      "announcement": "Netflix thriller starring Robert De Niro and Adam Scott in story about a kid-killer.",
       "sources": [
         {
           "name": "IndieWire",
           "url": "https://www.indiewire.com/news/trailers/the-whisper-man-trailer-robert-de-niro-adam-scott-netflix-1235205147/"
         }
       ]
-    },
-    {
-      "title": "Mythical Kitchen",
-      "network": "Netflix",
-      "talent": "",
-      "announcement": "Mythical's cooking content to stream on Netflix in latest creator partnership.",
-      "sources": [
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/industry-news/business/mythical-netflix-creator-partnership-mythical-kitchen-last-meals/"
-        }
-      ]
-    },
-    {
-      "title": "Descendants 5",
-      "network": "Disney",
-      "talent": "",
-      "announcement": "Project ventures further into the world of Wonderland with new characters including Chessy the Cat.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-features/descendants-5-wicked-wonderland-characters-plot-1236646459/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-14T18:49:09.180Z"
+  "lastUpdated": "2026-07-14T22:35:46.078Z"
 }
