@@ -1,61 +1,325 @@
 {
   "date": "July 15, 2026",
-  "summary": "2 film announcements, 2 TV announcements across 5 trades.",
+  "summary": "14 film announcements, 11 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "The Hunt for Gollum",
-      "studio": "New Line Cinema / Warner Bros.",
-      "talent": "Andy Serkis (Director, Character)",
-      "announcement": "Andy Serkis directs and appears in character for the Lord of the Rings spinoff, with set footage revealed.",
+      "title": "13 Going On 30 Reboot",
+      "studio": "Netflix",
+      "talent": "Jessica Alba",
+      "announcement": "Jessica Alba joins Netflix's reboot of the film, taking on a lead role in the reimagining.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/andy-serkis-hunt-for-gollum-set-footage-1236982655/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/lord-of-the-rings-andy-serkis-white-cast-gollum/"
+          "url": "https://deadline.com/2026/07/13-going-on-30-reboot-casts-jessica-alba-1236983044/"
         }
       ]
     },
     {
-      "title": "Miss Marple (Audible Adaptation)",
-      "studio": "Audible",
-      "talent": "Toni Collette (Miss Marple), Kit Harington",
-      "announcement": "Toni Collette and Kit Harington lead the cast for an Audible adaptation of an Agatha Christie classic, with Collette playing Miss Marple.",
+      "title": "G.I. Joe",
+      "studio": "Paramount",
+      "talent": "Danny McBride (director)",
+      "announcement": "Danny McBride is set to direct a new G.I. Joe film for Paramount.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/toni-collette-kit-harington-agatha-christie-miss-marple-1236982471/"
+          "url": "https://deadline.com/2026/07/g-i-joe-movie-danny-mcbride-1236983118/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/danny-mcbride-to-direct-g-i-joe-movie-1236647496/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/danny-mcbride-directing-gi-joe-movie/"
+        }
+      ]
+    },
+    {
+      "title": "They Follow",
+      "studio": "Neon",
+      "talent": "Jackie Earle Haley, Justine Lupe, Michael Gandolfini, Melora Walters",
+      "announcement": "Neon adds Jackie Earle Haley, Justine Lupe, Michael Gandolfini, Melora Walters and six additional actors to the cast.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/they-follow-cast-jackie-earle-haley-michael-gandolfini-justine-lupe-1236983018/"
+        }
+      ]
+    },
+    {
+      "title": "Mini War",
+      "studio": "",
+      "talent": "Luke Wilson, Vanessa Hudgens, Nick Swardson",
+      "announcement": "Luke Wilson, Vanessa Hudgens, and Nick Swardson star in feature comedy 'Mini War' from the creators of 'Grandma's Boy'.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/luke-wilson-vanessa-hudgens-nick-swardson-mini-war-1236982122/"
+        }
+      ]
+    },
+    {
+      "title": "Jason Statham Stole My Bike",
+      "studio": "",
+      "talent": "Hannah Waddingham, Jason Statham; David Leitch (director)",
+      "announcement": "Hannah Waddingham is cast opposite Jason Statham in David Leitch's action-comedy.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/hannah-waddingham-jason-statham-stole-my-bike-david-leitch-1236982850/"
+        }
+      ]
+    },
+    {
+      "title": "Steps",
+      "studio": "Netflix",
+      "talent": "Daniel Radcliffe, Young Mazino, Peter Dinklage",
+      "announcement": "Daniel Radcliffe, Young Mazino, and Peter Dinklage join the cast of Netflix's animated 'Cinderella' reimagining.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/steps-daniel-radcliffe-young-mazino-peter-dinklage-netflix-1236982853/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/daniel-radcliffe-young-mazino-peter-dinklage-netflix-steps-cast-1236811631/"
+        }
+      ]
+    },
+    {
+      "title": "Shadows In Sunlight",
+      "studio": "Documentary+",
+      "talent": "",
+      "announcement": "Documentary+ acquires the documentary film about a polio vaccination campaign beset by violence.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/shadows-in-sunlight-documentary-acquisition-1236982460/"
+        }
+      ]
+    },
+    {
+      "title": "The Batman Part II",
+      "studio": "Warner Bros.",
+      "talent": "",
+      "announcement": "Warner Bros. delays the release of 'The Batman Part II' again, now moving to 2028.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/the-batman-part-ii-release-delayed-again-2028-1236649280/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/the-batman-part-ii-release-date-delayed-robert-pattinson-first-look/"
+        }
+      ]
+    },
+    {
+      "title": "All of a Sudden",
+      "studio": "",
+      "talent": "Ryusuke Hamaguchi (director)",
+      "announcement": "Ryusuke Hamaguchi's acclaimed drama locks down its awards season release date.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/ryusuke-hamaguchi-all-of-a-sudden-release-date-1236648733/"
+        }
+      ]
+    },
+    {
+      "title": "Alvin and the Chipmunks",
+      "studio": "",
+      "talent": "Brian Robbins (director)",
+      "announcement": "A new 'Alvin and the Chipmunks' movie is in development with a planned 2028 release.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/alvin-and-the-chipmunks-movie-release-brian-robbins-1236648954/"
+        }
+      ]
+    },
+    {
+      "title": "The Great Beyond",
+      "studio": "Warner Bros.",
+      "talent": "J.J. Abrams (director), Glen Powell",
+      "announcement": "J.J. Abrams' 'The Great Beyond' starring Glen Powell is delayed one year in Warner Bros. slate shakeup.",
+      "sources": [
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/breaking-news/the-batman-part-ii-delay-j-j-abrams-the-great-beyond-1235205477/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/jj-abrams-great-beyond-delayed-release-date/"
+        }
+      ]
+    },
+    {
+      "title": "Don't Move",
+      "studio": "",
+      "talent": "James Murray",
+      "announcement": "James Murray from 'Impractical Jokers' stars in the giant spider horror movie 'Don't Move' which debuts its trailer.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/features/dont-move-trailer-impractical-jokers-james-murray-1236811020/"
+        }
+      ]
+    },
+    {
+      "title": "Hope",
+      "studio": "Neon",
+      "talent": "Na Hong-Jin (director)",
+      "announcement": "Neon brings Na Hong-Jin's 'Hope' to Comic-Con for a panel presentation.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/neon-na-hong-jin-hope-comic-con-panel-1236811805/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "Plastic Beauty",
-      "network": "Netflix",
-      "talent": "Mayu Matsuoka, Riisa Naka",
-      "announcement": "Netflix cosmetic surgery drama sets September premiere with Mayu Matsuoka and Riisa Naka, adding 23 cast members.",
+      "title": "The Rookie",
+      "network": "ABC/Hulu",
+      "talent": "Nathan Fillion",
+      "announcement": "ABC's 'The Rookie' releases an extended cut of episode 810 on Hulu in a rare move for the series.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/mayu-matsuoka-riisa-naka-plastic-beauty-netflix-premiere-1236810894/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/the-rookie-extended-cut-episode-810-hulu-nathan-fillion-1236982682/"
         }
       ]
     },
     {
-      "title": "Unleeshed",
-      "network": "Vertical",
-      "talent": "Alisha Dhillon, Quentin Lee",
-      "announcement": "Comedy Invasion alums Alisha Dhillon and Quentin Lee reunite for Vertical series Unleeshed.",
+      "title": "Dexter: Resurrection",
+      "network": "",
+      "talent": "Gabriel Luna",
+      "announcement": "Gabriel Luna joins the cast of 'Dexter: Resurrection' Season 2 as a serial killer guest star.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/gabriel-luna-cast-dexter-resurrection-season-2-1236982410/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/dexter-resurrection-season-2-cast-gabriel-luna-1236811702/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/dexter-resurrection-season-2-gabriel-luna-1236649380/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/gabriel-luna-dexter-resurrection-season-2-serial-killer-guest-star/"
+        }
+      ]
+    },
+    {
+      "title": "Chicks",
+      "network": "Hulu",
+      "talent": "Jodie Whittaker, Ellen Pompeo; Katie Robbins (creator)",
+      "announcement": "Jodie Whittaker joins Ellen Pompeo in the Hulu dramedy pilot 'Chicks' from creator Katie Robbins.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/jodie-whittaker-joins-chicks-pilot-hulu-ellen-pompeo-1236982952/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/jodie-whittaker-ellen-pompeo-hulu-pilot-chicks-1236811789/"
+        }
+      ]
+    },
+    {
+      "title": "It's Always Sunny in Philadelphia",
+      "network": "FX",
+      "talent": "",
+      "announcement": "FX sets Season 18 of 'It's Always Sunny in Philadelphia' for release with expanded episode count.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/its-always-sunny-in-philadelphia-season-18-release-date-1236982870/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/its-always-sunny-in-philadelphia-season-18-release-date-1236811653/"
+        }
+      ]
+    },
+    {
+      "title": "Cold as Balls",
+      "network": "Netflix",
+      "talent": "Kevin Hart",
+      "announcement": "Kevin Hart's ice-bath interview show 'Cold as Balls' debuts new episodes on Netflix.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/comedy-invasion-alisha-dhillon-quentin-lee-vertical-series-unleeshed-1236811392/"
+          "url": "https://variety.com/2026/tv/news/kevin-hart-cold-as-balls-new-episodes-netflix-1236811300/"
+        }
+      ]
+    },
+    {
+      "title": "Army of Shadows",
+      "network": "Channel 4",
+      "talent": "America Ferrera, Paddy Considine, Kit Harington",
+      "announcement": "America Ferrera, Paddy Considine, and Kit Harington lead the cast of Channel 4 thriller 'Army of Shadows'.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/america-ferrera-paddy-considine-kit-harington-tv-show-4-1236649119/"
+        }
+      ]
+    },
+    {
+      "title": "Death in Llanes",
+      "network": "SkyShowtime",
+      "talent": "Javier Gutiérrez (director)",
+      "announcement": "SkyShowtime sets Spanish original series 'Death in Llanes' about the murder of a politician.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/skyshowtime-spanish-series-death-in-llanes-javier-gutierrez-1236647368/"
+        }
+      ]
+    },
+    {
+      "title": "HGTV 90s Home Renovation Series",
+      "network": "HGTV",
+      "talent": "Jaleel White (host)",
+      "announcement": "HGTV sets new '90s home renovation series with Jaleel White as host.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/hgtv-90s-home-renovation-show-jaleel-white-1236648092/"
+        }
+      ]
+    },
+    {
+      "title": "My Life With the Walter Boys",
+      "network": "Netflix",
+      "talent": "",
+      "announcement": "Netflix releases Season 3 trailer for 'My Life With the Walter Boys' teasing fallout from a major love confession.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-my-life-with-the-walter-boys-season-3-trailer-1236648871/"
+        }
+      ]
+    },
+    {
+      "title": "The Challenge",
+      "network": "Paramount+",
+      "talent": "",
+      "announcement": "'The Challenge' moves to Paramount+ for Season 42, formerly known as 'Cutthroat'.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/the-challenge-season-42-cutthroat-paramount-plus-premiere/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-15T07:30:13.348Z"
+  "lastUpdated": "2026-07-15T18:46:09.488Z"
 }
