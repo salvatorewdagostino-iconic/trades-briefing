@@ -5,8 +5,8 @@
     {
       "title": "The Hunt for Gollum",
       "studio": "New Line Cinema / Warner Bros.",
-      "talent": "Andy Serkis (director, in character)",
-      "announcement": "Andy Serkis directs the Lord of the Rings spinoff with set footage revealed.",
+      "talent": "Andy Serkis (Director, Character)",
+      "announcement": "Andy Serkis directs and appears in character for the Lord of the Rings spinoff, with set footage revealed.",
       "sources": [
         {
           "name": "Deadline",
@@ -19,47 +19,43 @@
       ]
     },
     {
-      "title": "The Odyssey",
-      "studio": "Universal Pictures",
-      "talent": "Christopher Nolan (director), Matt Damon, Tom Holland (cast)",
-      "announcement": "Production update with Christopher Nolan filming pivotal Trojan Horse scene with cast.",
+      "title": "Miss Marple (Audible Adaptation)",
+      "studio": "Audible",
+      "talent": "Toni Collette (Miss Marple), Kit Harington",
+      "announcement": "Toni Collette and Kit Harington lead the cast for an Audible adaptation of an Agatha Christie classic, with Collette playing Miss Marple.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/christopher-nolan-inside-trojan-horse-the-odyssey-premiere-1236648771/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/matt-damon-mistook-tom-holland-costume-mishap-acting-choice-the-odyssey/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/toni-collette-kit-harington-agatha-christie-miss-marple-1236982471/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "Unleeshed",
-      "network": "Vertical",
-      "talent": "Alisha Dhillon, Quentin Lee (creators/cast)",
-      "announcement": "Vertical greenlights new series reuniting Comedy Invasion alums Dhillon and Lee.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/comedy-invasion-alisha-dhillon-quentin-lee-vertical-series-unleeshed-1236811392/"
-        }
-      ]
-    },
-    {
       "title": "Plastic Beauty",
       "network": "Netflix",
-      "talent": "Mayu Matsuoka, Riisa Naka (lead cast)",
-      "announcement": "Netflix cosmetic surgery drama sets September premiere date and adds 23 cast members.",
+      "talent": "Mayu Matsuoka, Riisa Naka",
+      "announcement": "Netflix cosmetic surgery drama sets September premiere with Mayu Matsuoka and Riisa Naka, adding 23 cast members.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/tv/news/mayu-matsuoka-riisa-naka-plastic-beauty-netflix-premiere-1236810894/"
         }
       ]
+    },
+    {
+      "title": "Unleeshed",
+      "network": "Vertical",
+      "talent": "Alisha Dhillon, Quentin Lee",
+      "announcement": "Comedy Invasion alums Alisha Dhillon and Quentin Lee reunite for Vertical series Unleeshed.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/comedy-invasion-alisha-dhillon-quentin-lee-vertical-series-unleeshed-1236811392/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-07-15T07:23:31.095Z"
+  "lastUpdated": "2026-07-15T07:30:13.348Z"
 }
