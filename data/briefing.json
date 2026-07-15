@@ -1,24 +1,12 @@
 {
   "date": "July 15, 2026",
-  "summary": "14 film announcements, 11 TV announcements across 5 trades.",
+  "summary": "10 film announcements, 10 TV announcements across 5 trades.",
   "film": [
-    {
-      "title": "13 Going On 30 Reboot",
-      "studio": "Netflix",
-      "talent": "Jessica Alba",
-      "announcement": "Jessica Alba joins Netflix's reboot of the film, taking on a lead role in the reimagining.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/13-going-on-30-reboot-casts-jessica-alba-1236983044/"
-        }
-      ]
-    },
     {
       "title": "G.I. Joe",
       "studio": "Paramount",
       "talent": "Danny McBride (director)",
-      "announcement": "Danny McBride is set to direct a new G.I. Joe film for Paramount.",
+      "announcement": "Paramount greenlit a new G.I. Joe movie with Danny McBride set to direct.",
       "sources": [
         {
           "name": "Deadline",
@@ -38,7 +26,7 @@
       "title": "They Follow",
       "studio": "Neon",
       "talent": "Jackie Earle Haley, Justine Lupe, Michael Gandolfini, Melora Walters",
-      "announcement": "Neon adds Jackie Earle Haley, Justine Lupe, Michael Gandolfini, Melora Walters and six additional actors to the cast.",
+      "announcement": "Neon's horror film adds Jackie Earle Haley, Justine Lupe, Michael Gandolfini, Melora Walters and six additional cast members.",
       "sources": [
         {
           "name": "Deadline",
@@ -50,7 +38,7 @@
       "title": "Mini War",
       "studio": "",
       "talent": "Luke Wilson, Vanessa Hudgens, Nick Swardson",
-      "announcement": "Luke Wilson, Vanessa Hudgens, and Nick Swardson star in feature comedy 'Mini War' from the creators of 'Grandma's Boy'.",
+      "announcement": "Feature comedy starring Luke Wilson, Vanessa Hudgens and Nick Swardson from the team behind 'Grandma's Boy'.",
       "sources": [
         {
           "name": "Deadline",
@@ -61,8 +49,8 @@
     {
       "title": "Jason Statham Stole My Bike",
       "studio": "",
-      "talent": "Hannah Waddingham, Jason Statham; David Leitch (director)",
-      "announcement": "Hannah Waddingham is cast opposite Jason Statham in David Leitch's action-comedy.",
+      "talent": "Jason Statham, Hannah Waddingham, David Leitch (director)",
+      "announcement": "Action-comedy directed by David Leitch with Jason Statham and Hannah Waddingham cast in leading roles.",
       "sources": [
         {
           "name": "Deadline",
@@ -71,38 +59,22 @@
       ]
     },
     {
-      "title": "Steps",
+      "title": "13 Going On 30",
       "studio": "Netflix",
-      "talent": "Daniel Radcliffe, Young Mazino, Peter Dinklage",
-      "announcement": "Daniel Radcliffe, Young Mazino, and Peter Dinklage join the cast of Netflix's animated 'Cinderella' reimagining.",
+      "talent": "Jessica Alba",
+      "announcement": "Netflix greenlit a reboot of '13 Going On 30' with Jessica Alba cast in the lead role.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/steps-daniel-radcliffe-young-mazino-peter-dinklage-netflix-1236982853/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/daniel-radcliffe-young-mazino-peter-dinklage-netflix-steps-cast-1236811631/"
-        }
-      ]
-    },
-    {
-      "title": "Shadows In Sunlight",
-      "studio": "Documentary+",
-      "talent": "",
-      "announcement": "Documentary+ acquires the documentary film about a polio vaccination campaign beset by violence.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/shadows-in-sunlight-documentary-acquisition-1236982460/"
+          "url": "https://deadline.com/2026/07/13-going-on-30-reboot-casts-jessica-alba-1236983044/"
         }
       ]
     },
     {
       "title": "The Batman Part II",
       "studio": "Warner Bros.",
-      "talent": "",
-      "announcement": "Warner Bros. delays the release of 'The Batman Part II' again, now moving to 2028.",
+      "talent": "Robert Pattinson",
+      "announcement": "Warner Bros. delayed 'The Batman Part II' again, now scheduled for 2028 release.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -115,34 +87,10 @@
       ]
     },
     {
-      "title": "All of a Sudden",
-      "studio": "",
-      "talent": "Ryusuke Hamaguchi (director)",
-      "announcement": "Ryusuke Hamaguchi's acclaimed drama locks down its awards season release date.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/ryusuke-hamaguchi-all-of-a-sudden-release-date-1236648733/"
-        }
-      ]
-    },
-    {
-      "title": "Alvin and the Chipmunks",
-      "studio": "",
-      "talent": "Brian Robbins (director)",
-      "announcement": "A new 'Alvin and the Chipmunks' movie is in development with a planned 2028 release.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/alvin-and-the-chipmunks-movie-release-brian-robbins-1236648954/"
-        }
-      ]
-    },
-    {
       "title": "The Great Beyond",
       "studio": "Warner Bros.",
       "talent": "J.J. Abrams (director), Glen Powell",
-      "announcement": "J.J. Abrams' 'The Great Beyond' starring Glen Powell is delayed one year in Warner Bros. slate shakeup.",
+      "announcement": "J.J. Abrams' 'The Great Beyond' starring Glen Powell was delayed a year in Warner Bros. slate shakeup.",
       "sources": [
         {
           "name": "IndieWire",
@@ -155,40 +103,76 @@
       ]
     },
     {
-      "title": "Don't Move",
+      "title": "Alvin and the Chipmunks",
       "studio": "",
-      "talent": "James Murray",
-      "announcement": "James Murray from 'Impractical Jokers' stars in the giant spider horror movie 'Don't Move' which debuts its trailer.",
+      "talent": "Brian Robbins (director)",
+      "announcement": "New 'Alvin and the Chipmunks' movie in the works for planned 2028 release with director Brian Robbins.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/features/dont-move-trailer-impractical-jokers-james-murray-1236811020/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/alvin-and-the-chipmunks-movie-release-brian-robbins-1236648954/"
         }
       ]
     },
     {
-      "title": "Hope",
-      "studio": "Neon",
-      "talent": "Na Hong-Jin (director)",
-      "announcement": "Neon brings Na Hong-Jin's 'Hope' to Comic-Con for a panel presentation.",
+      "title": "I Play Rocky",
+      "studio": "",
+      "talent": "Anthony Ippolito (as young Sylvester Stallone)",
+      "announcement": "Film about Sylvester Stallone fighting for his right to play Rocky, starring Anthony Ippolito.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/neon-na-hong-jin-hope-comic-con-panel-1236811805/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/i-play-rocky-trailer-anthony-ippolito-sylvester-stallone-1236649330/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/trailers/i-play-rocky-trailer-sylvester-stallone-1235205382/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/i-play-rocky-trailer/"
+        }
+      ]
+    },
+    {
+      "title": "The Mongoose",
+      "studio": "",
+      "talent": "Liam Neeson",
+      "announcement": "Liam Neeson goes on the run in fast-paced action thriller 'The Mongoose'.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/liam-neeson-the-mongoose-trailer-1236649239/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "The Rookie",
-      "network": "ABC/Hulu",
-      "talent": "Nathan Fillion",
-      "announcement": "ABC's 'The Rookie' releases an extended cut of episode 810 on Hulu in a rare move for the series.",
+      "title": "The Roman",
+      "network": "Netflix",
+      "talent": "Vincent D'Onofrio, Kate Mara, Clancy Brown, Thomas Sadoski, Jason Schwartzman",
+      "announcement": "Netflix's Vegas drama casts five major actors including Vincent D'Onofrio, Kate Mara, and Clancy Brown.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/the-rookie-extended-cut-episode-810-hulu-nathan-fillion-1236982682/"
+          "url": "https://deadline.com/2026/07/the-roman-tv-series-cast-adds-five-1236983310/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/vincent-donofrio-kate-mara-clancy-brown-netflix-vegas-roman-1236812086/"
+        }
+      ]
+    },
+    {
+      "title": "Conviction",
+      "network": "Hulu",
+      "talent": "Ella Anderson",
+      "announcement": "Ella Anderson joins Hulu's legal drama 'Conviction'.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/ella-anderson-cast-hulu-legal-drama-conviction-1236983111/"
         }
       ]
     },
@@ -196,7 +180,7 @@
       "title": "Dexter: Resurrection",
       "network": "",
       "talent": "Gabriel Luna",
-      "announcement": "Gabriel Luna joins the cast of 'Dexter: Resurrection' Season 2 as a serial killer guest star.",
+      "announcement": "Gabriel Luna cast in Season 2 of 'Dexter: Resurrection' in a serial killer role.",
       "sources": [
         {
           "name": "Deadline",
@@ -219,8 +203,8 @@
     {
       "title": "Chicks",
       "network": "Hulu",
-      "talent": "Jodie Whittaker, Ellen Pompeo; Katie Robbins (creator)",
-      "announcement": "Jodie Whittaker joins Ellen Pompeo in the Hulu dramedy pilot 'Chicks' from creator Katie Robbins.",
+      "talent": "Jodie Whittaker, Ellen Pompeo",
+      "announcement": "Jodie Whittaker joins Ellen Pompeo in Hulu dramedy pilot 'Chicks' from Katie Robbins.",
       "sources": [
         {
           "name": "Deadline",
@@ -233,59 +217,71 @@
       ]
     },
     {
-      "title": "It's Always Sunny in Philadelphia",
-      "network": "FX",
+      "title": "The Valley",
+      "network": "",
+      "talent": "Jax Taylor, Brittany Cartwright",
+      "announcement": "'The Valley' picks up Season 3 filming to capture fallout from Jax Taylor being spotted with his ex-wife Brittany Cartwright's publicist.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/the-valley-filming-jax-brittany-publicist-photo-fallout-1236649548/"
+        }
+      ]
+    },
+    {
+      "title": "Idaho Student Murders",
+      "network": "Netflix",
       "talent": "",
-      "announcement": "FX sets Season 18 of 'It's Always Sunny in Philadelphia' for release with expanded episode count.",
+      "announcement": "Netflix greenlit a docuseries on the Idaho student murders case involving Bryan Kohberger.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/idaho-student-murders-netflix-docuseries-bryan-kohberger-1236649630/"
+        }
+      ]
+    },
+    {
+      "title": "The Challenge",
+      "network": "Paramount+",
+      "talent": "",
+      "announcement": "'The Challenge' moves to Paramount+ for Season 42 with cast including veterans and alums from 'Love Island USA', 'Big Brother', and 'Survivor'.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/its-always-sunny-in-philadelphia-season-18-release-date-1236982870/"
+          "url": "https://deadline.com/gallery/the-challenge-season-42-cast-photos-paramount-plus/"
         },
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/its-always-sunny-in-philadelphia-season-18-release-date-1236811653/"
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/the-challenge-season-42-cutthroat-paramount-plus-premiere/"
         }
       ]
     },
     {
-      "title": "Cold as Balls",
+      "title": "Special Forces",
+      "network": "Fox",
+      "talent": "",
+      "announcement": "'Special Forces' Season 5 cast includes stars from 'The Real Housewives of Beverly Hills', 'Selling Sunset', NFL, and former congressman George Santos.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/gallery/special-forces-season-5-cast-photos-fox/"
+        }
+      ]
+    },
+    {
+      "title": "My Life With the Walter Boys",
       "network": "Netflix",
-      "talent": "Kevin Hart",
-      "announcement": "Kevin Hart's ice-bath interview show 'Cold as Balls' debuts new episodes on Netflix.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/kevin-hart-cold-as-balls-new-episodes-netflix-1236811300/"
-        }
-      ]
-    },
-    {
-      "title": "Army of Shadows",
-      "network": "Channel 4",
-      "talent": "America Ferrera, Paddy Considine, Kit Harington",
-      "announcement": "America Ferrera, Paddy Considine, and Kit Harington lead the cast of Channel 4 thriller 'Army of Shadows'.",
+      "talent": "",
+      "announcement": "Netflix's 'My Life With the Walter Boys' Season 3 trailer teases fallout from a big love confession.",
       "sources": [
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/america-ferrera-paddy-considine-kit-harington-tv-show-4-1236649119/"
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-my-life-with-the-walter-boys-season-3-trailer-1236648871/"
         }
       ]
     },
     {
-      "title": "Death in Llanes",
-      "network": "SkyShowtime",
-      "talent": "Javier Gutiérrez (director)",
-      "announcement": "SkyShowtime sets Spanish original series 'Death in Llanes' about the murder of a politician.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/skyshowtime-spanish-series-death-in-llanes-javier-gutierrez-1236647368/"
-        }
-      ]
-    },
-    {
-      "title": "HGTV 90s Home Renovation Series",
+      "title": "90s Home Renovation Series",
       "network": "HGTV",
       "talent": "Jaleel White (host)",
       "announcement": "HGTV sets new '90s home renovation series with Jaleel White as host.",
@@ -295,31 +291,7 @@
           "url": "https://www.hollywoodreporter.com/tv/tv-news/hgtv-90s-home-renovation-show-jaleel-white-1236648092/"
         }
       ]
-    },
-    {
-      "title": "My Life With the Walter Boys",
-      "network": "Netflix",
-      "talent": "",
-      "announcement": "Netflix releases Season 3 trailer for 'My Life With the Walter Boys' teasing fallout from a major love confession.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-my-life-with-the-walter-boys-season-3-trailer-1236648871/"
-        }
-      ]
-    },
-    {
-      "title": "The Challenge",
-      "network": "Paramount+",
-      "talent": "",
-      "announcement": "'The Challenge' moves to Paramount+ for Season 42, formerly known as 'Cutthroat'.",
-      "sources": [
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/the-challenge-season-42-cutthroat-paramount-plus-premiere/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-15T18:46:09.488Z"
+  "lastUpdated": "2026-07-15T22:34:20.718Z"
 }
