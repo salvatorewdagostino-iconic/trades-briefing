@@ -1,33 +1,341 @@
 {
   "date": "July 16, 2026",
-  "summary": "1 film announcement, 1 TV announcement across 3 trades.",
+  "summary": "11 film announcements, 10 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "The Swimming Lesson",
+      "title": "Crush",
+      "studio": "20th Century Studios",
+      "talent": "Julius Avery (director)",
+      "announcement": "Julius Avery attached to direct Python thriller 'Crush' for 20th Century Studios.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/julius-avery-to-direct-crush-20th-century-studios-1236983961/"
+        }
+      ]
+    },
+    {
+      "title": "Nasty",
+      "studio": "Warner Bros. Clockwork & LuckyChap",
+      "talent": "Jenna Ortega, Rose Byrne; Mary Bronstein (director)",
+      "announcement": "Jenna Ortega and Rose Byrne cast in 'Nasty,' directed by Mary Bronstein, for Warner Bros. Clockwork and LuckyChap.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/jenna-ortega-rose-byrne-nasty-1236984089/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/rose-byrne-jenna-ortega-mary-bronstein-nasty-warner-bros-clockwork-1236812557/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/jenna-ortega-rose-byrne-mary-bronstein-nasty-1236650204/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/breaking-news/rose-byrne-reunites-mary-bronstein-nasty-jenna-ortega-1235205814/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/nasty-jenna-ortega-rose-byrne-warner-bros-clockwork/"
+        }
+      ]
+    },
+    {
+      "title": "13 Going On 30 Reboot",
+      "studio": "Netflix",
+      "talent": "Taylor Ortega, Tim Meadows, Dan Bucatinsky (cast additions)",
+      "announcement": "Taylor Ortega, Tim Meadows, and Dan Bucatinsky added to cast of Netflix's '13 Going On 30' reboot.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/13-going-on-30-reboot-cast-adds-three-1236983936/"
+        }
+      ]
+    },
+    {
+      "title": "Enigma Variations",
+      "studio": "Netflix",
+      "talent": "Riley Keough, Devon Terrell, Carl Clemons-Hopkins, Nicholas Podany (cast)",
+      "announcement": "Netflix's 'Enigma Variations' casts Riley Keough, Devon Terrell, Carl Clemons-Hopkins, and Nicholas Podany.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/riley-keough-enigma-varations-netflix-cast-devon-terrell-1236984225/"
+        }
+      ]
+    },
+    {
+      "title": "Broken Ones",
       "studio": "",
-      "talent": "Lamorne Morris, Abby Elliott, Heidi Gardner",
-      "announcement": "Lamorne Morris and Abby Elliott join Heidi Gardner in the dramedy film.",
+      "talent": "Terrence Howard, Guillermo Iván, Kate Bosworth (cast)",
+      "announcement": "Terrence Howard, Guillermo Iván, and Kate Bosworth set to star in legal thriller 'Broken Ones.'",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/terrence-howard-kate-bosworth-legal-thriller-broken-ones-1236812216/"
+        }
+      ]
+    },
+    {
+      "title": "Atonement",
+      "studio": "Kino Lorber",
+      "talent": "Hiam Abbass, Boyd Holbrook, Kenneth Branagh (cast); Reed Van Dyk (director)",
+      "announcement": "Kino Lorber acquires Reed Van Dyk's 'Atonement' starring Hiam Abbass, Boyd Holbrook, and Kenneth Branagh.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/kino-lorber-reed-van-dyk-atonement-1236982719/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/festivals/cannes-2026-movies-sold-so-far-paper-tiger-minotaur-1235191174/"
+        }
+      ]
+    },
+    {
+      "title": "Paper Tiger",
+      "studio": "Focus Features",
+      "talent": "Adam Driver, Scarlett Johansson, Miles Teller (cast); James Gray (director)",
+      "announcement": "James Gray's crime thriller 'Paper Tiger' with Adam Driver, Scarlett Johansson, and Miles Teller set to open New York Film Festival.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/new-york-film-festival-opening-night-james-gray-paper-tiger-1236983888/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/awards/paper-tiger-new-york-film-festival-opening-night-2026-1236812082/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/paper-tiger-2026-ny-film-festival-opening-night-1236649741/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/festivals/2026-new-york-film-festival-james-gray-paper-tiger-1235205510/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/paper-tiger-to-open-2026-new-york-film-festival-james-gray/"
+        }
+      ]
+    },
+    {
+      "title": "The Uprising",
+      "studio": "Focus Features",
+      "talent": "Andrew Garfield (lead); Paul Greengrass (director)",
+      "announcement": "First trailer released for Paul Greengrass' Focus Features historical drama 'The Uprising' starring Andrew Garfield.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/the-uprising-trailer-andrew-garfield-paul-greengrass-1236984061/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/the-uprising-trailer-andrew-garfield-paul-focus-features-1236811387/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/trailers/the-uprising-trailer-andrew-garfield-1235205555/"
+        }
+      ]
+    },
+    {
+      "title": "Ink",
+      "studio": "",
+      "talent": "Danny Boyle (director); story about Rupert Murdoch",
+      "announcement": "Danny Boyle's Rupert Murdoch drama 'Ink' set to open Venice Film Festival.",
       "sources": [
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/lamorne-morris-abby-elliott-the-swimming-lesson-cast-1236649795/"
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/danny-boyle-rupert-murdoch-drama-ink-to-open-venice-1236650055/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/festivals/venice-film-festival-2026-danny-boyle-ink-1235205720/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/industry-news/awards/venice-film-festival-opener-danny-boyle-ink/"
+        }
+      ]
+    },
+    {
+      "title": "If I Go Will They Miss Me",
+      "studio": "",
+      "talent": "Danielle Brooks (lead)",
+      "announcement": "Danielle Brooks drama 'If I Go Will They Miss Me' set to bow in theaters this fall.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/if-i-go-will-they-miss-me-release-date-rich-spirit-danielle-brooks/"
+        }
+      ]
+    },
+    {
+      "title": "14th",
+      "studio": "Netflix",
+      "talent": "Ava DuVernay (director)",
+      "announcement": "Ava DuVernay and Netflix reteam for constitutional documentary '14th' about the 14th Amendment.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/ava-duvernay-netflix-citizenship-documentary-14-amendment-1236983852/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "Grown Ups",
+      "title": "Myron Bolitar",
       "network": "Netflix",
-      "talent": "Barry Ward",
-      "announcement": "Barry Ward cast in the Netflix series.",
+      "talent": "Chloe Fineman (cast)",
+      "announcement": "Chloe Fineman leaving 'Saturday Night Live' after 7 seasons to eye Netflix's 'Myron Bolitar' drama series.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/chloe-fineman-leaving-saturday-night-live-myron-bolitar-1236984191/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/chloe-fineman-leaves-snl-1236812654/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/chloe-fineman-exits-saturday-night-live/"
+        }
+      ]
+    },
+    {
+      "title": "The Golden Life",
+      "network": "E!",
+      "talent": "Candace Bushnell, Margaret Josephs (cast additions)",
+      "announcement": "Candace Bushnell and Margaret Josephs join 'The Golden Life' cast as E! orders additional episodes of 'RHONY' reunion series.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/candace-bushnell-margaret-josephs-golden-life-cast-rhony-reboot-1236984290/"
+        }
+      ]
+    },
+    {
+      "title": "Apple Comedy Series (Elizabeth Banks)",
+      "network": "Apple",
+      "talent": "Hamish Linklater, Michelle Buteau, Simu Liu (cast); Elizabeth Banks (lead)",
+      "announcement": "Hamish Linklater, Michelle Buteau, and Simu Liu join Elizabeth Banks-led Apple comedy series.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/hamish-linklater-michelle-buteau-simu-liu-cast-apple-series-1236984258/"
+        }
+      ]
+    },
+    {
+      "title": "This Summer Will Be Different",
+      "network": "Netflix",
+      "talent": "Sophie Nélisse (lead)",
+      "announcement": "Sophie Nélisse cast to star in Netflix's 'This Summer Will Be Different' adaptation of romance novel.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/sophie-nelisse-lucy-this-summer-will-be-different-netflix-1236983517/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/this-summer-will-be-different-sophie-nelisse-netflix-1236632674/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/tv/yellowjackets-sophie-nelisse-this-summer-will-be-different-netflix-adaptation/"
+        }
+      ]
+    },
+    {
+      "title": "Power: Origins",
+      "network": "Starz",
+      "talent": "Young Ghost and Young Tommy (cast)",
+      "announcement": "Starz unveils first look at young Ghost and young Tommy in 'Power: Origins' prequel series as production begins.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/power-origins-season-1-trailer-first-look-photos-1236984183/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/power-origins-first-look-young-ghost-tommy-teaser-1236812130/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/power-origins-first-look-young-ghost-young-tommy-1236650029/"
+        }
+      ]
+    },
+    {
+      "title": "Conviction",
+      "network": "Hulu",
+      "talent": "William Jackson Harper (cast)",
+      "announcement": "William Jackson Harper joins Hulu legal drama 'Conviction.'",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/william-jackson-harper-cast-conviction-hulu-series-1236983396/"
+        }
+      ]
+    },
+    {
+      "title": "Robin Hood",
+      "network": "",
+      "talent": "James Purefoy, Colin O'Donoghue, Luke Roberts (cast)",
+      "announcement": "'Robin Hood' casts James Purefoy, Colin O'Donoghue, and Luke Roberts in season 2 as production begins.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/robin-hood-season-2-cast-james-purefoy-colin-odonoghue-1236983280/"
+        }
+      ]
+    },
+    {
+      "title": "Mickey Mouse Club",
+      "network": "Disney",
+      "talent": "",
+      "announcement": "Disney orders pilot for reboot of iconic kids show 'The Mickey Mouse Club' that originally starred young Britney Spears and Ryan Gosling.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/mickey-mouse-club-reboot-disney-orders-pilot-new-cast-1236812553/"
+        }
+      ]
+    },
+    {
+      "title": "Pompeii: Out of Time",
+      "network": "",
+      "talent": "Tom Hiddleston (lead)",
+      "announcement": "Tom Hiddleston set to star in 'Pompeii: Out of Time,' with production underway.",
       "sources": [
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/barry-ward-interview-bill-evans-film-netflix-show-grown-ups-1236649041/"
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/tom-hiddleston-loki-pompeii-out-of-time-1236648387/"
+        }
+      ]
+    },
+    {
+      "title": "The Hawk",
+      "network": "Netflix",
+      "talent": "Will Ferrell (lead)",
+      "announcement": "Will Ferrell stars in Netflix golf comedy series 'The Hawk,' his first Netflix series.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-reviews/the-hawk-review-will-ferrell-netflix-golf-1236649613/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/criticism/shows/the-hawk-review-will-ferrell-netflix-series-bizarre-1235205449/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-16T07:37:34.660Z"
+  "lastUpdated": "2026-07-16T18:48:14.510Z"
 }
