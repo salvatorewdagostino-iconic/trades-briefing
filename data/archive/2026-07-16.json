@@ -1,12 +1,12 @@
 {
   "date": "July 16, 2026",
-  "summary": "1 film announcement, 1 TV announcement across the trades.",
+  "summary": "1 film announcement, 1 TV announcement across 3 trades.",
   "film": [
     {
       "title": "The Swimming Lesson",
       "studio": "",
       "talent": "Lamorne Morris, Abby Elliott, Heidi Gardner",
-      "announcement": "Lamorne Morris and Abby Elliott have joined Heidi Gardner in the dramedy film.",
+      "announcement": "Lamorne Morris and Abby Elliott join Heidi Gardner in the dramedy film.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -20,7 +20,7 @@
       "title": "Grown Ups",
       "network": "Netflix",
       "talent": "Barry Ward",
-      "announcement": "Barry Ward is part of the cast for the Netflix series.",
+      "announcement": "Barry Ward cast in the Netflix series.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -29,5 +29,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-16T07:32:59.067Z"
+  "lastUpdated": "2026-07-16T07:37:34.660Z"
 }
