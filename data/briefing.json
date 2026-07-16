@@ -1,12 +1,12 @@
 {
   "date": "July 16, 2026",
-  "summary": "11 film announcements, 10 TV announcements across 5 trades.",
+  "summary": "8 film announcements, 12 TV announcements across 5 trades.",
   "film": [
     {
       "title": "Crush",
       "studio": "20th Century Studios",
       "talent": "Julius Avery (director)",
-      "announcement": "Julius Avery attached to direct Python thriller 'Crush' for 20th Century Studios.",
+      "announcement": "Julius Avery to direct Python thriller 'Crush' for 20th Century Studios.",
       "sources": [
         {
           "name": "Deadline",
@@ -15,15 +15,23 @@
       ]
     },
     {
-      "title": "Nasty",
-      "studio": "Warner Bros. Clockwork & LuckyChap",
-      "talent": "Jenna Ortega, Rose Byrne; Mary Bronstein (director)",
-      "announcement": "Jenna Ortega and Rose Byrne cast in 'Nasty,' directed by Mary Bronstein, for Warner Bros. Clockwork and LuckyChap.",
+      "title": "Broken Ones",
+      "studio": "",
+      "talent": "Terrence Howard, Guillermo Iván, Kate Bosworth",
+      "announcement": "Terrence Howard, Guillermo Iván, and Kate Bosworth set to star in legal thriller 'Broken Ones'.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/jenna-ortega-rose-byrne-nasty-1236984089/"
-        },
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/terrence-howard-kate-bosworth-legal-thriller-broken-ones-1236812216/"
+        }
+      ]
+    },
+    {
+      "title": "Nasty",
+      "studio": "Warner Bros. Clockwork",
+      "talent": "Rose Byrne, Jenna Ortega; Mary Bronstein (director)",
+      "announcement": "Rose Byrne and Jenna Ortega set to star in 'Nasty' directed by Mary Bronstein for Warner Bros. Clockwork.",
+      "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/film/news/rose-byrne-jenna-ortega-mary-bronstein-nasty-warner-bros-clockwork-1236812557/"
@@ -35,117 +43,13 @@
         {
           "name": "IndieWire",
           "url": "https://www.indiewire.com/news/breaking-news/rose-byrne-reunites-mary-bronstein-nasty-jenna-ortega-1235205814/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/nasty-jenna-ortega-rose-byrne-warner-bros-clockwork/"
-        }
-      ]
-    },
-    {
-      "title": "13 Going On 30 Reboot",
-      "studio": "Netflix",
-      "talent": "Taylor Ortega, Tim Meadows, Dan Bucatinsky (cast additions)",
-      "announcement": "Taylor Ortega, Tim Meadows, and Dan Bucatinsky added to cast of Netflix's '13 Going On 30' reboot.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/13-going-on-30-reboot-cast-adds-three-1236983936/"
-        }
-      ]
-    },
-    {
-      "title": "Enigma Variations",
-      "studio": "Netflix",
-      "talent": "Riley Keough, Devon Terrell, Carl Clemons-Hopkins, Nicholas Podany (cast)",
-      "announcement": "Netflix's 'Enigma Variations' casts Riley Keough, Devon Terrell, Carl Clemons-Hopkins, and Nicholas Podany.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/riley-keough-enigma-varations-netflix-cast-devon-terrell-1236984225/"
-        }
-      ]
-    },
-    {
-      "title": "Broken Ones",
-      "studio": "",
-      "talent": "Terrence Howard, Guillermo Iván, Kate Bosworth (cast)",
-      "announcement": "Terrence Howard, Guillermo Iván, and Kate Bosworth set to star in legal thriller 'Broken Ones.'",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/terrence-howard-kate-bosworth-legal-thriller-broken-ones-1236812216/"
-        }
-      ]
-    },
-    {
-      "title": "Atonement",
-      "studio": "Kino Lorber",
-      "talent": "Hiam Abbass, Boyd Holbrook, Kenneth Branagh (cast); Reed Van Dyk (director)",
-      "announcement": "Kino Lorber acquires Reed Van Dyk's 'Atonement' starring Hiam Abbass, Boyd Holbrook, and Kenneth Branagh.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/kino-lorber-reed-van-dyk-atonement-1236982719/"
-        },
-        {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/news/festivals/cannes-2026-movies-sold-so-far-paper-tiger-minotaur-1235191174/"
-        }
-      ]
-    },
-    {
-      "title": "Paper Tiger",
-      "studio": "Focus Features",
-      "talent": "Adam Driver, Scarlett Johansson, Miles Teller (cast); James Gray (director)",
-      "announcement": "James Gray's crime thriller 'Paper Tiger' with Adam Driver, Scarlett Johansson, and Miles Teller set to open New York Film Festival.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/new-york-film-festival-opening-night-james-gray-paper-tiger-1236983888/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/awards/paper-tiger-new-york-film-festival-opening-night-2026-1236812082/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/paper-tiger-2026-ny-film-festival-opening-night-1236649741/"
-        },
-        {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/news/festivals/2026-new-york-film-festival-james-gray-paper-tiger-1235205510/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/paper-tiger-to-open-2026-new-york-film-festival-james-gray/"
-        }
-      ]
-    },
-    {
-      "title": "The Uprising",
-      "studio": "Focus Features",
-      "talent": "Andrew Garfield (lead); Paul Greengrass (director)",
-      "announcement": "First trailer released for Paul Greengrass' Focus Features historical drama 'The Uprising' starring Andrew Garfield.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/the-uprising-trailer-andrew-garfield-paul-greengrass-1236984061/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/the-uprising-trailer-andrew-garfield-paul-focus-features-1236811387/"
-        },
-        {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/news/trailers/the-uprising-trailer-andrew-garfield-1235205555/"
         }
       ]
     },
     {
       "title": "Ink",
       "studio": "",
-      "talent": "Danny Boyle (director); story about Rupert Murdoch",
+      "talent": "Danny Boyle (director)",
       "announcement": "Danny Boyle's Rupert Murdoch drama 'Ink' set to open Venice Film Festival.",
       "sources": [
         {
@@ -155,75 +59,91 @@
         {
           "name": "IndieWire",
           "url": "https://www.indiewire.com/news/festivals/venice-film-festival-2026-danny-boyle-ink-1235205720/"
+        }
+      ]
+    },
+    {
+      "title": "Paper Tiger",
+      "studio": "",
+      "talent": "James Gray (director)",
+      "announcement": "James Gray's 'Paper Tiger' set as opening night film for New York Film Festival.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/paper-tiger-2026-ny-film-festival-opening-night-1236649741/"
         },
         {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/industry-news/awards/venice-film-festival-opener-danny-boyle-ink/"
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/festivals/2026-new-york-film-festival-james-gray-paper-tiger-1235205510/"
         }
       ]
     },
     {
-      "title": "If I Go Will They Miss Me",
+      "title": "The Uprising",
       "studio": "",
-      "talent": "Danielle Brooks (lead)",
-      "announcement": "Danielle Brooks drama 'If I Go Will They Miss Me' set to bow in theaters this fall.",
+      "talent": "Andrew Garfield; Paul Greengrass (director)",
+      "announcement": "Andrew Garfield to star in Paul Greengrass' historical drama 'The Uprising'.",
       "sources": [
         {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/if-i-go-will-they-miss-me-release-date-rich-spirit-danielle-brooks/"
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/trailers/the-uprising-trailer-andrew-garfield-1235205555/"
         }
       ]
     },
     {
-      "title": "14th",
-      "studio": "Netflix",
-      "talent": "Ava DuVernay (director)",
-      "announcement": "Ava DuVernay and Netflix reteam for constitutional documentary '14th' about the 14th Amendment.",
+      "title": "Alpha Gang",
+      "studio": "",
+      "talent": "The Zellners (directors)",
+      "announcement": "The Zellners' starry sci-fi 'Alpha Gang' set for TIFF Special Presentations.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/ava-duvernay-netflix-citizenship-documentary-14-amendment-1236983852/"
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/festivals/2026-tiff-special-presentations-alpha-gang-1235205711/"
+        }
+      ]
+    },
+    {
+      "title": "Your Mother Your Mother Your Mother",
+      "studio": "",
+      "talent": "Mahershala Ali",
+      "announcement": "Mahershala Ali set for 'Your Mother Your Mother Your Mother' at TIFF Special Presentations.",
+      "sources": [
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/festivals/2026-tiff-special-presentations-alpha-gang-1235205711/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "Myron Bolitar",
+      "title": "13 Going On 30 Reboot",
       "network": "Netflix",
-      "talent": "Chloe Fineman (cast)",
-      "announcement": "Chloe Fineman leaving 'Saturday Night Live' after 7 seasons to eye Netflix's 'Myron Bolitar' drama series.",
+      "talent": "Taylor Ortega, Tim Meadows, Dan Bucatinsky",
+      "announcement": "Taylor Ortega, Tim Meadows, and Dan Bucatinsky join Netflix's '13 Going On 30' reboot.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/chloe-fineman-leaving-saturday-night-live-myron-bolitar-1236984191/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/chloe-fineman-leaves-snl-1236812654/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/chloe-fineman-exits-saturday-night-live/"
+          "url": "https://deadline.com/2026/07/13-going-on-30-reboot-cast-adds-three-1236983936/"
         }
       ]
     },
     {
-      "title": "The Golden Life",
-      "network": "E!",
-      "talent": "Candace Bushnell, Margaret Josephs (cast additions)",
-      "announcement": "Candace Bushnell and Margaret Josephs join 'The Golden Life' cast as E! orders additional episodes of 'RHONY' reunion series.",
+      "title": "Queenstown",
+      "network": "Netflix",
+      "talent": "Rufus Sewell, Frances O'Connor, Alycia Debnam-Carey, Te Kohe Tuhaka; Chloe Stearns (creator)",
+      "announcement": "Netflix greenlights 'Queenstown' with Rufus Sewell, Frances O'Connor, Alycia Debnam-Carey, and Te Kohe Tuhaka from creator Chloe Stearns.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/candace-bushnell-margaret-josephs-golden-life-cast-rhony-reboot-1236984290/"
+          "url": "https://deadline.com/2026/07/netflix-queenstown-rufus-sewell-frances-oconnor-show-cast-1236984382/"
         }
       ]
     },
     {
-      "title": "Apple Comedy Series (Elizabeth Banks)",
+      "title": "Elizabeth Banks Comedy Series",
       "network": "Apple",
-      "talent": "Hamish Linklater, Michelle Buteau, Simu Liu (cast); Elizabeth Banks (lead)",
+      "talent": "Hamish Linklater, Michelle Buteau, Simu Liu; Elizabeth Banks (lead)",
       "announcement": "Hamish Linklater, Michelle Buteau, and Simu Liu join Elizabeth Banks-led Apple comedy series.",
       "sources": [
         {
@@ -233,10 +153,22 @@
       ]
     },
     {
+      "title": "Enigma Variations",
+      "network": "Netflix",
+      "talent": "Riley Keough, Devon Terrell, Carl Clemons-Hopkins, Nicholas Podany",
+      "announcement": "Netflix's 'Enigma Variations' casts Riley Keough, Devon Terrell, Carl Clemons-Hopkins, and Nicholas Podany.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/riley-keough-enigma-varations-netflix-cast-devon-terrell-1236984225/"
+        }
+      ]
+    },
+    {
       "title": "This Summer Will Be Different",
       "network": "Netflix",
-      "talent": "Sophie Nélisse (lead)",
-      "announcement": "Sophie Nélisse cast to star in Netflix's 'This Summer Will Be Different' adaptation of romance novel.",
+      "talent": "Sophie Nélisse",
+      "announcement": "Sophie Nélisse to star in Netflix adaptation of romance novel 'This Summer Will Be Different'.",
       "sources": [
         {
           "name": "Deadline",
@@ -245,38 +177,14 @@
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/this-summer-will-be-different-sophie-nelisse-netflix-1236632674/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/media-platforms/tv/yellowjackets-sophie-nelisse-this-summer-will-be-different-netflix-adaptation/"
-        }
-      ]
-    },
-    {
-      "title": "Power: Origins",
-      "network": "Starz",
-      "talent": "Young Ghost and Young Tommy (cast)",
-      "announcement": "Starz unveils first look at young Ghost and young Tommy in 'Power: Origins' prequel series as production begins.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/power-origins-season-1-trailer-first-look-photos-1236984183/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/power-origins-first-look-young-ghost-tommy-teaser-1236812130/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/power-origins-first-look-young-ghost-young-tommy-1236650029/"
         }
       ]
     },
     {
       "title": "Conviction",
       "network": "Hulu",
-      "talent": "William Jackson Harper (cast)",
-      "announcement": "William Jackson Harper joins Hulu legal drama 'Conviction.'",
+      "talent": "William Jackson Harper",
+      "announcement": "William Jackson Harper joins Hulu legal drama 'Conviction'.",
       "sources": [
         {
           "name": "Deadline",
@@ -287,8 +195,8 @@
     {
       "title": "Robin Hood",
       "network": "",
-      "talent": "James Purefoy, Colin O'Donoghue, Luke Roberts (cast)",
-      "announcement": "'Robin Hood' casts James Purefoy, Colin O'Donoghue, and Luke Roberts in season 2 as production begins.",
+      "talent": "James Purefoy, Colin O'Donoghue, Luke Roberts",
+      "announcement": "'Robin Hood' casts James Purefoy, Colin O'Donoghue, and Luke Roberts in Season 2 as production begins.",
       "sources": [
         {
           "name": "Deadline",
@@ -297,22 +205,46 @@
       ]
     },
     {
-      "title": "Mickey Mouse Club",
-      "network": "Disney",
-      "talent": "",
-      "announcement": "Disney orders pilot for reboot of iconic kids show 'The Mickey Mouse Club' that originally starred young Britney Spears and Ryan Gosling.",
+      "title": "FX National Park Volunteer Rescue Squad Series",
+      "network": "FX",
+      "talent": "Color Force (production company)",
+      "announcement": "FX and Color Force to develop series based on New Yorker article about National Park volunteer rescue squad.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/mickey-mouse-club-reboot-disney-orders-pilot-new-cast-1236812553/"
+          "url": "https://variety.com/2026/tv/news/fx-series-new-yorker-national-park-volunteer-rescue-squad-1236813417/"
+        }
+      ]
+    },
+    {
+      "title": "14th",
+      "network": "Netflix",
+      "talent": "Ava DuVernay (director)",
+      "announcement": "Ava DuVernay returns to documentaries with Netflix's '14th' examining birthright citizenship.",
+      "sources": [
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/general-news/ava-duvernay-14th-netflix-doc-birthright-citizenship-1235205835/"
+        }
+      ]
+    },
+    {
+      "title": "Power: Origins",
+      "network": "Starz",
+      "talent": "",
+      "announcement": "Starz unveils first looks at Young Ghost and Young Tommy in 'Power: Origins'.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/power-origins-first-look-young-ghost-young-tommy-1236650029/"
         }
       ]
     },
     {
       "title": "Pompeii: Out of Time",
       "network": "",
-      "talent": "Tom Hiddleston (lead)",
-      "announcement": "Tom Hiddleston set to star in 'Pompeii: Out of Time,' with production underway.",
+      "talent": "Tom Hiddleston",
+      "announcement": "Tom Hiddleston discusses his role in 'Pompeii: Out of Time'.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -321,21 +253,17 @@
       ]
     },
     {
-      "title": "The Hawk",
-      "network": "Netflix",
-      "talent": "Will Ferrell (lead)",
-      "announcement": "Will Ferrell stars in Netflix golf comedy series 'The Hawk,' his first Netflix series.",
+      "title": "Lucky",
+      "network": "Apple TV",
+      "talent": "Anya Taylor-Joy; Jonathan Tropper (creator)",
+      "announcement": "'Lucky' creators produced 7-episode 'blockbuster movie' for Apple TV with Anya Taylor-Joy.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-reviews/the-hawk-review-will-ferrell-netflix-golf-1236649613/"
-        },
-        {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/criticism/shows/the-hawk-review-will-ferrell-netflix-series-bizarre-1235205449/"
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/lucky-apple-anya-taylor-joy-jonathan-tropper-cassie-pappas-lauren-neustadter-interview/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-16T18:48:14.510Z"
+  "lastUpdated": "2026-07-16T22:32:21.841Z"
 }
