@@ -1,24 +1,12 @@
 {
   "date": "July 17, 2026",
-  "summary": "12 film announcements, 8 TV announcements across 5 trades.",
+  "summary": "8 film announcements, 7 TV announcements across 5 trades.",
   "film": [
-    {
-      "title": "The Musical",
-      "studio": "Blue Harbor & Variance",
-      "talent": "Rob Lowe, Will Brill, Gillian Jacobs",
-      "announcement": "Blue Harbor and Variance acquire U.S. distribution rights to the Sundance film starring Rob Lowe, Will Brill, and Gillian Jacobs.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/rob-lowe-gillian-jacobs-sundance-the-musical-release-date-1236996895/"
-        }
-      ]
-    },
     {
       "title": "Hollow",
       "studio": "Sony",
-      "talent": "Sydney Sweeney starring; Lindsey Anderson Beer writing and directing; LuckyChap producing",
-      "announcement": "Sony acquires the 'Sleepy Hollow' package with Sydney Sweeney starring, Lindsey Anderson Beer writing and directing, and LuckyChap Entertainment producing.",
+      "talent": "Sydney Sweeney (starring), Lindsey Anderson Beer (writing, directing), LuckyChap (producing)",
+      "announcement": "Sony lands the Sleepy Hollow package with Sydney Sweeney starring in the film adaptation, Lindsey Anderson Beer writing and directing, and LuckyChap producing.",
       "sources": [
         {
           "name": "Deadline",
@@ -31,10 +19,22 @@
       ]
     },
     {
+      "title": "The Musical",
+      "studio": "Blue Harbor & Variance",
+      "talent": "Rob Lowe, Will Brill, Gillian Jacobs (starring)",
+      "announcement": "Blue Harbor and Variance take U.S. rights to the Sundance film starring Rob Lowe, Will Brill, and Gillian Jacobs.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/rob-lowe-gillian-jacobs-sundance-the-musical-release-date-1236996895/"
+        }
+      ]
+    },
+    {
       "title": "How The Cookie Crumbles",
       "studio": "",
-      "talent": "Giorgia Whigham, Trevor Wallace, Alyssa Milano, Shea Whigham",
-      "announcement": "R-rated comedy film leads Giorgia Whigham, Trevor Wallace, Alyssa Milano, and Shea Whigham.",
+      "talent": "Giorgia Whigham, Trevor Wallace, Alyssa Milano, Shea Whigham (starring)",
+      "announcement": "R-rated comedy film with Giorgia Whigham, Trevor Wallace, Alyssa Milano, and Shea Whigham in the lead roles.",
       "sources": [
         {
           "name": "Deadline",
@@ -45,8 +45,8 @@
     {
       "title": "Kaet Might Die",
       "studio": "",
-      "talent": "Jimmi Simpson, Ben Wang, Zosia Mamet",
-      "announcement": "Mercedes Bryce Morgan's dark comedy adds Jimmi Simpson, Ben Wang, and Zosia Mamet to its cast.",
+      "talent": "Jimmi Simpson, Ben Wang, Zosia Mamet (joining cast), Mercedes Bryce Morgan (director)",
+      "announcement": "Dark comedy from director Mercedes Bryce Morgan adds Jimmi Simpson, Ben Wang, and Zosia Mamet to its cast.",
       "sources": [
         {
           "name": "Deadline",
@@ -57,8 +57,8 @@
     {
       "title": "The Drill",
       "studio": "",
-      "talent": "Rowan Blanchard",
-      "announcement": "Rowan Blanchard stars in school shooting-themed dark comedy directed by Millicent Hailes.",
+      "talent": "Rowan Blanchard (starring), Millicent Hailes (director)",
+      "announcement": "School shooting-themed dark comedy from director Millicent Hailes stars Rowan Blanchard.",
       "sources": [
         {
           "name": "Deadline",
@@ -67,10 +67,22 @@
       ]
     },
     {
+      "title": "Mini War",
+      "studio": "",
+      "talent": "Brett Gelman, Kevin Nealon, Rob Morgan (starring)",
+      "announcement": "Comedy film adds Brett Gelman, Kevin Nealon, and Rob Morgan to its cast.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/brett-gelman-kevin-nealon-rob-morgan-mini-war-1236996910/"
+        }
+      ]
+    },
+    {
       "title": "I Want To Feel Fun",
       "studio": "",
-      "talent": "Michaela Watkins",
-      "announcement": "Michaela Watkins stars in Jessica Sanders' improvised indie comedy.",
+      "talent": "Michaela Watkins (starring), Jessica Sanders (writer, director)",
+      "announcement": "Improvised indie comedy from writer-director Jessica Sanders stars Michaela Watkins.",
       "sources": [
         {
           "name": "Deadline",
@@ -81,94 +93,34 @@
     {
       "title": "Bender",
       "studio": "",
-      "talent": "Bill Burr, Chris O'Dowd, Ruari Spooner",
-      "announcement": "Harry Potter series star Ruari Spooner joins Bill Burr and Chris O'Dowd in comedy film Bender.",
+      "talent": "Bill Burr, Chris O'Dowd, Ruari Spooner (starring)",
+      "announcement": "Comedy film adds Harry Potter series star Ruari Spooner to join Bill Burr and Chris O'Dowd.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/07/harry-potter-ruari-spooner-joins-bill-burr-bender-1236996681/"
         }
       ]
-    },
-    {
-      "title": "Mussau: The First Song",
-      "studio": "",
-      "talent": "Bijukumar Damodaran directing",
-      "announcement": "Indigenous missionary biopic to shoot in Papua New Guinea with Indian National Film Award winner Bijukumar Damodaran directing.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/indigenous-missionary-biopic-mussau-the-first-song-papua-new-guinea-1236814609/"
-        }
-      ]
-    },
-    {
-      "title": "Act Of Service",
-      "studio": "",
-      "talent": "Ilie Mitaru directing; Alex Lieberman producing",
-      "announcement": "Documentary focusing on equine therapy for incarcerated veterans directed by Ilie Mitaru with Alex Lieberman producing.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/ilie-mitaru-act-of-service-documentary-equine-therapy-vets-1236996922/"
-        }
-      ]
-    },
-    {
-      "title": "Mortal Kombat 2",
-      "studio": "HBO Max",
-      "talent": "",
-      "announcement": "Mortal Kombat 2 sets HBO Max release date for theatrical film.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/mortal-kombat-2-hbo-max-release-date-streaming-1236757527/"
-        }
-      ]
-    },
-    {
-      "title": "Time and Tide",
-      "studio": "Inwave Films",
-      "talent": "",
-      "announcement": "Sydney Film Festival winner Time and Tide lands at Paris-based Inwave Films.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/time-and-tide-inwave-films-sydney-winner-1236814788/"
-        }
-      ]
-    },
-    {
-      "title": "Mini War",
-      "studio": "",
-      "talent": "Brett Gelman, Kevin Nealon, Rob Morgan",
-      "announcement": "Comedy film adds Brett Gelman, Kevin Nealon, and Rob Morgan to its cast.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/brett-gelman-kevin-nealon-rob-morgan-mini-war-1236996910/"
-        }
-      ]
     }
   ],
   "tv": [
     {
-      "title": "The Ultimate Self-Defense Championship: Female-Focused Spinoff",
-      "network": "YouTube",
-      "talent": "",
-      "announcement": "The Ultimate Self-Defense Championship launches female-focused spinoff series on YouTube.",
+      "title": "Thunder Road",
+      "network": "AMC",
+      "talent": "West Duchovny (casting)",
+      "announcement": "West Duchovny joins AMC's NASCAR drama series in a casting announcement.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/ultimate-self-defense-championship-female-focused-spinoff-1236996943/"
+          "url": "https://deadline.com/2026/07/west-duchovny-cast-amc-nascar-series-thunder-road-1236996939/"
         }
       ]
     },
     {
       "title": "This Summer Will Be Different",
       "network": "Netflix",
-      "talent": "Roby Attal as Felix; Francesca Reale as Bridget",
-      "announcement": "Netflix series adds Roby Attal as Felix and Francesca Reale as Bridget to cast.",
+      "talent": "Roby Attal, Francesca Reale (casting as Felix and Bridget)",
+      "announcement": "Netflix series adds Roby Attal and Francesca Reale to the cast in the roles of Felix and Bridget.",
       "sources": [
         {
           "name": "Deadline",
@@ -177,22 +129,10 @@
       ]
     },
     {
-      "title": "Stuart Fails To Save The Universe",
-      "network": "",
-      "talent": "John Ross Bowie as Kripke; original Big Bang Theory leads",
-      "announcement": "Big Bang Theory spinoff adds John Ross Bowie as Kripke alongside original three Big Bang leads in nod to Lost in Space.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/john-ross-bowie-kripke-stuart-big-bang-theory-spinoff-1236979720/"
-        }
-      ]
-    },
-    {
       "title": "God of War",
       "network": "Prime Video",
-      "talent": "Ryan Hurst recasts Kratos role",
-      "announcement": "Prime Video series recasts lead Kratos role following Ryan Hurst's on-set injury.",
+      "talent": "Ryan Hurst (recasting as Kratos)",
+      "announcement": "Prime Video series to recast the lead Kratos role following Ryan Hurst's on-set injury during filming.",
       "sources": [
         {
           "name": "Deadline",
@@ -211,8 +151,8 @@
     {
       "title": "Jakarta",
       "network": "Alcon Entertainment",
-      "talent": "Iko Uwais; Albert Hughes directing",
-      "announcement": "Multi-generational crime series unites Iko Uwais and director Albert Hughes at Alcon Entertainment.",
+      "talent": "Iko Uwais (starring), Albert Hughes (attached to direct)",
+      "announcement": "Multi-generational crime series developed at Alcon Entertainment with Iko Uwais starring and Albert Hughes directing.",
       "sources": [
         {
           "name": "Variety",
@@ -223,8 +163,8 @@
     {
       "title": "Boys of Tommen",
       "network": "",
-      "talent": "Jamie Schneider as Patrick Feely; James Craven as Pierce O'Neill",
-      "announcement": "Series finds Jamie Schneider as Patrick Feely and James Craven as Pierce O'Neill in cast additions.",
+      "talent": "Jamie Schneider (as Patrick Feely), James Craven (as Pierce O'Neill)",
+      "announcement": "Series casts Jamie Schneider as Patrick Feely and James Craven as Pierce O'Neill.",
       "sources": [
         {
           "name": "Variety",
@@ -233,29 +173,29 @@
       ]
     },
     {
-      "title": "One Hundred Years of Solitude",
-      "network": "Netflix",
-      "talent": "",
-      "announcement": "Netflix plans special premiere events in Colombia for the grand finale of Part 2 of epic series.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/global/netflix-one-hundred-years-of-solitude-dates-part-2-1236812149/"
-        }
-      ]
-    },
-    {
       "title": "Queenstown",
       "network": "Netflix",
       "talent": "",
-      "announcement": "Netflix unveils Queenstown as its first original New Zealand series.",
+      "announcement": "Netflix unveils Queenstown, its first new series set in New Zealand.",
       "sources": [
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-unveils-queenstown-first-new-zealand-series-1236650684/"
         }
       ]
+    },
+    {
+      "title": "The Ultimate Self-Defense Championship Spinoff",
+      "network": "YouTube",
+      "talent": "",
+      "announcement": "YouTube is launching a female-focused spinoff series from The Ultimate Self-Defense Championship.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/ultimate-self-defense-championship-female-focused-spinoff-1236996943/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-07-17T17:39:39.807Z"
+  "lastUpdated": "2026-07-17T19:16:15.488Z"
 }
