@@ -6,7 +6,7 @@
       "title": "Renegades",
       "studio": "Sony Pictures",
       "talent": "Jonathan Goldstein and John Francis Daley (directors)",
-      "announcement": "Sony Pictures has landed the short story adaptation with Jonathan Goldstein and John Francis Daley set to direct the action-thriller feature.",
+      "announcement": "Sony Pictures acquired the short story 'Renegades' by Will Simmons with Goldstein and Daley set to helm the feature adaptation of the action-thriller.",
       "sources": [
         {
           "name": "Deadline",
@@ -27,10 +27,22 @@
       ]
     },
     {
+      "title": "Herbert West: Reanimator",
+      "studio": "",
+      "talent": "Joseph Morgan and Katie Cassidy",
+      "announcement": "First look released at Joseph Morgan and Katie Cassidy in the fantasy horror film adapted from H.P. Lovecraft's story.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/joseph-morgan-katie-cassidy-herbert-west-reanimator-1236997129/"
+        }
+      ]
+    },
+    {
       "title": "Hollow",
-      "studio": "Sony Pictures",
-      "talent": "Sydney Sweeney (star), Lindsey Anderson Beer (writer/director)",
-      "announcement": "Sony has landed the Sleepy Hollow package with Sydney Sweeney starring, Lindsey Anderson Beer writing and directing, and LuckyChap producing.",
+      "studio": "Sony",
+      "talent": "Sydney Sweeney (star), Lindsey Anderson Beer (writer/director), LuckyChap (producer)",
+      "announcement": "Sony lands the 'Sleepy Hollow' package 'Hollow' with Sydney Sweeney starring, Lindsey Anderson Beer writing and directing, and LuckyChap producing.",
       "sources": [
         {
           "name": "Deadline",
@@ -43,46 +55,10 @@
       ]
     },
     {
-      "title": "If I Tell You",
-      "studio": "Suncatcher Productions",
-      "talent": "Carol Kane (star)",
-      "announcement": "Tessa Blake's 'If I Tell You' starring Carol Kane has been acquired by Suncatcher Productions for distribution.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/suncatcher-productions-distribution-rights-if-i-tell-you-1236814835/"
-        }
-      ]
-    },
-    {
-      "title": "The Musical",
-      "studio": "Blue Harbor and Variance",
-      "talent": "Rob Lowe, Will Brill, Gillian Jacobs (stars)",
-      "announcement": "Blue Harbor and Variance have taken U.S. distribution rights to the Sundance pic 'The Musical' starring Rob Lowe, Will Brill and Gillian Jacobs.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/rob-lowe-gillian-jacobs-sundance-the-musical-release-date-1236996895/"
-        }
-      ]
-    },
-    {
-      "title": "Bender",
-      "studio": "",
-      "talent": "Bill Burr, Chris O'Dowd, Ruari Spooner (stars)",
-      "announcement": "Ruari Spooner from 'Harry Potter' has joined Bill Burr and Chris O'Dowd in the comedy 'Bender'.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/harry-potter-ruari-spooner-joins-bill-burr-bender-1236996681/"
-        }
-      ]
-    },
-    {
       "title": "Mini War",
       "studio": "",
-      "talent": "Brett Gelman, Kevin Nealon, Rob Morgan (cast)",
-      "announcement": "Brett Gelman, Kevin Nealon and Rob Morgan have joined the 'Mini War' comedy.",
+      "talent": "Brett Gelman, Kevin Nealon, Rob Morgan",
+      "announcement": "Brett Gelman, Kevin Nealon, and Rob Morgan join the cast of the comedy 'Mini War'.",
       "sources": [
         {
           "name": "Deadline",
@@ -93,8 +69,8 @@
     {
       "title": "How The Cookie Crumbles",
       "studio": "",
-      "talent": "Giorgia Whigham, Trevor Wallace, Alyssa Milano, Shea Whigham (leads)",
-      "announcement": "Giorgia Whigham, Trevor Wallace, Alyssa Milano and Shea Whigham lead the R-rated comedy 'How The Cookie Crumbles'.",
+      "talent": "Giorgia Whigham, Trevor Wallace, Alyssa Milano, Shea Whigham",
+      "announcement": "Giorgia Whigham, Trevor Wallace, Alyssa Milano, and Shea Whigham lead the R-rated comedy 'How The Cookie Crumbles'.",
       "sources": [
         {
           "name": "Deadline",
@@ -103,14 +79,38 @@
       ]
     },
     {
+      "title": "Kaet Might Die",
+      "studio": "",
+      "talent": "Jimmi Simpson, Ben Wang, Zosia Mamet",
+      "announcement": "Jimmi Simpson, Ben Wang, and Zosia Mamet join Mercedes Bryce Morgan's dark comedy 'Kaet Might Die'.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/kaet-might-die-cast-jimmi-simpson-ben-wang-zosia-mamet-1236996860/"
+        }
+      ]
+    },
+    {
       "title": "The Drill",
       "studio": "",
       "talent": "Rowan Blanchard (star), Millicent Hailes (director/writer)",
-      "announcement": "Rowan Blanchard has been cast to star in the school shooting-themed dark comedy 'The Drill' from director Millicent Hailes.",
+      "announcement": "Rowan Blanchard stars in the school shooting-themed dark comedy 'The Drill' from director Millicent Hailes.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/07/rowan-blanchard-millicent-hailes-teaming-the-drill-1236996828/"
+        }
+      ]
+    },
+    {
+      "title": "If I Tell You",
+      "studio": "Suncatcher Productions",
+      "talent": "Carol Kane",
+      "announcement": "Suncatcher Productions acquired distribution rights to Tessa Blake's 'If I Tell You' starring Carol Kane.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/suncatcher-productions-distribution-rights-if-i-tell-you-1236814835/"
         }
       ]
     }
@@ -119,8 +119,8 @@
     {
       "title": "Thunder Road",
       "network": "AMC",
-      "talent": "West Duchovny (cast)",
-      "announcement": "West Duchovny has joined AMC's NASCAR drama series 'Thunder Road'.",
+      "talent": "West Duchovny",
+      "announcement": "West Duchovny joins AMC's NASCAR drama series 'Thunder Road'.",
       "sources": [
         {
           "name": "Deadline",
@@ -131,8 +131,8 @@
     {
       "title": "This Summer Will Be Different",
       "network": "Netflix",
-      "talent": "Roby Attal, Francesca Reale (cast as Felix and Bridget)",
-      "announcement": "Roby Attal and Francesca Reale have joined Netflix's 'This Summer Will Be Different' as Felix and Bridget.",
+      "talent": "Roby Attal, Francesca Reale",
+      "announcement": "Roby Attal and Francesca Reale join Netflix's 'This Summer Will Be Different' as Felix and Bridget.",
       "sources": [
         {
           "name": "Deadline",
@@ -141,10 +141,22 @@
       ]
     },
     {
+      "title": "Bender",
+      "network": "",
+      "talent": "Bill Burr, Chris O'Dowd, Ruari Spooner",
+      "announcement": "Ruari Spooner joins Bill Burr and Chris O'Dowd in the comedy 'Bender'.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/harry-potter-ruari-spooner-joins-bill-burr-bender-1236996681/"
+        }
+      ]
+    },
+    {
       "title": "God of War",
       "network": "Prime Video",
-      "talent": "Ryan Hurst (being recast as Kratos)",
-      "announcement": "Prime Video's 'God of War' series will recast the lead Kratos role after Ryan Hurst suffered an injury on set.",
+      "talent": "",
+      "announcement": "Prime Video's 'God of War' series recasts the Kratos role following Ryan Hurst's on-set injury.",
       "sources": [
         {
           "name": "Deadline",
@@ -153,18 +165,14 @@
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/god-of-war-recast-kratos-ryan-hurst-stunt-injury-1236650848/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/god-of-war-halts-production-recasts-ryan-hurst-after-injury/"
         }
       ]
     },
     {
       "title": "Jakarta",
       "network": "Alcon Entertainment",
-      "talent": "Iko Uwais (star), Albert Hughes (director)",
-      "announcement": "Iko Uwais and Albert Hughes have united for the multi-generational crime series 'Jakarta' at Alcon Entertainment.",
+      "talent": "Iko Uwais, Albert Hughes (director)",
+      "announcement": "Iko Uwais and director Albert Hughes unite for the multi-generational crime series 'Jakarta' at Alcon Entertainment.",
       "sources": [
         {
           "name": "Variety",
@@ -176,26 +184,14 @@
       "title": "Queenstown",
       "network": "Netflix",
       "talent": "",
-      "announcement": "Netflix has unveiled 'Queenstown,' its first New Zealand series.",
+      "announcement": "Netflix unveils 'Queenstown', its first new New Zealand series.",
       "sources": [
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-unveils-queenstown-first-new-zealand-series-1236650684/"
         }
       ]
-    },
-    {
-      "title": "The Ultimate Self-Defense Championship",
-      "network": "YouTube",
-      "talent": "",
-      "announcement": "The Ultimate Self-Defense Championship is launching a female-focused spinoff series on YouTube.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/ultimate-self-defense-championship-female-focused-spinoff-1236996943/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-17T20:28:07.710Z"
+  "lastUpdated": "2026-07-17T21:24:45.313Z"
 }
