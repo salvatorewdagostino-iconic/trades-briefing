@@ -1,12 +1,24 @@
 {
   "date": "July 17, 2026",
-  "summary": "7 film announcements, 9 TV announcements across 5 trades.",
+  "summary": "11 film announcements, 9 TV announcements across 5 trades.",
   "film": [
+    {
+      "title": "Tiana",
+      "studio": "Disney",
+      "talent": "Colman Domingo and Robert O'Hara (writers)",
+      "announcement": "Colman Domingo and Robert O'Hara are in talks to write an original live-action film about Princess and the Frog's Tiana.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/colman-domingo-princess-and-the-frog-movie-tiana-1236997261/"
+        }
+      ]
+    },
     {
       "title": "Ink",
       "studio": "Netflix",
       "talent": "Danny Boyle (director)",
-      "announcement": "Netflix acquired U.S. and Latin American distribution rights to Danny Boyle's Rupert Murdoch thriller ahead of its Venice Film Festival premiere.",
+      "announcement": "Netflix acquired distribution rights to Danny Boyle's Rupert Murdoch thriller 'Ink' ahead of its Venice Film Festival premiere.",
       "sources": [
         {
           "name": "Deadline",
@@ -17,8 +29,24 @@
           "url": "https://variety.com/2026/film/global/danny-boyle-rupert-murdoch-movie-ink-bought-us-netflix-1236812563/"
         },
         {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/breaking-news/danny-boyle-ink-netflix-venice-sale-1235206128/"
+        },
+        {
           "name": "TheWrap",
           "url": "https://www.thewrap.com/creative-content/movies/netflix-lands-us-latin-american-rights-to-danny-boyle-thriller-ink/"
+        }
+      ]
+    },
+    {
+      "title": "Herbert West: Reanimator",
+      "studio": "",
+      "talent": "Joseph Morgan and Katie Cassidy",
+      "announcement": "First look revealed at Joseph Morgan and Katie Cassidy starring in the fantasy horror film adapted from H.P. Lovecraft's story.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/joseph-morgan-katie-cassidy-herbert-west-reanimator-1236997129/"
         }
       ]
     },
@@ -26,7 +54,7 @@
       "title": "Renegades",
       "studio": "Sony Pictures",
       "talent": "Jonathan Goldstein and John Francis Daley (directors)",
-      "announcement": "Sony Pictures acquired the short story \"Renegades\" by Will Simmons and tapped Goldstein and Daley to helm the feature adaptation of the action-thriller.",
+      "announcement": "Sony Pictures acquired short story 'Renegades' by Will Simmons with Jonathan Goldstein and John Francis Daley attached to direct the action-thriller feature adaptation.",
       "sources": [
         {
           "name": "Deadline",
@@ -37,8 +65,8 @@
     {
       "title": "The Bell Jar",
       "studio": "Focus Features",
-      "talent": "Ella Beatty (circling lead role)",
-      "announcement": "Ella Beatty is in final talks to join Focus Features' adaptation of The Bell Jar.",
+      "talent": "Ella Beatty (circling)",
+      "announcement": "Ella Beatty is in final talks to join Focus Features' 'The Bell Jar' adaptation.",
       "sources": [
         {
           "name": "Deadline",
@@ -47,22 +75,10 @@
       ]
     },
     {
-      "title": "Herbert West: Reanimator",
-      "studio": "",
-      "talent": "Joseph Morgan, Katie Cassidy",
-      "announcement": "First look released at Joseph Morgan and Katie Cassidy in the fantasy horror film adapted from H.P. Lovecraft's story.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/joseph-morgan-katie-cassidy-herbert-west-reanimator-1236997129/"
-        }
-      ]
-    },
-    {
       "title": "Hollow",
-      "studio": "Sony Pictures",
-      "talent": "Sydney Sweeney (starring), Lindsey Anderson Beer (writing and directing), LuckyChap (producing)",
-      "announcement": "Sony landed the Sleepy Hollow package \"Hollow\" with Sydney Sweeney starring, Lindsey Anderson Beer writing and directing, and LuckyChap Entertainment producing.",
+      "studio": "Sony",
+      "talent": "Sydney Sweeney (star), Lindsey Anderson Beer (writer/director), LuckyChap (producer)",
+      "announcement": "Sony landed the 'Sleepy Hollow' package 'Hollow' with Sydney Sweeney starring, Lindsey Anderson Beer writing and directing, and LuckyChap producing.",
       "sources": [
         {
           "name": "Deadline",
@@ -74,7 +90,7 @@
       "title": "Bender",
       "studio": "",
       "talent": "Bill Burr, Chris O'Dowd, Ruari Spooner",
-      "announcement": "Harry Potter series star Ruari Spooner joined the comedy film alongside Bill Burr and Chris O'Dowd.",
+      "announcement": "Harry Potter series star Ruari Spooner joined Bill Burr and Chris O'Dowd in the comedy 'Bender'.",
       "sources": [
         {
           "name": "Deadline",
@@ -83,48 +99,34 @@
       ]
     },
     {
+      "title": "Mini War",
+      "studio": "",
+      "talent": "Brett Gelman, Kevin Nealon, Rob Morgan",
+      "announcement": "Brett Gelman, Kevin Nealon and Rob Morgan joined the cast of comedy 'Mini War'.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/brett-gelman-kevin-nealon-rob-morgan-mini-war-1236996910/"
+        }
+      ]
+    },
+    {
       "title": "If I Tell You",
       "studio": "Suncatcher Productions",
       "talent": "Carol Kane",
-      "announcement": "Tessa Blake's film \"If I Tell You\" starring Carol Kane was acquired by Suncatcher Productions for distribution.",
+      "announcement": "Tessa Blake's 'If I Tell You' starring Carol Kane was acquired by Suncatcher Productions for distribution.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/film/news/suncatcher-productions-distribution-rights-if-i-tell-you-1236814835/"
         }
       ]
-    }
-  ],
-  "tv": [
-    {
-      "title": "This Summer Will Be Different",
-      "network": "Netflix",
-      "talent": "Roby Attal (Felix), Francesca Reale (Bridget)",
-      "announcement": "Roby Attal and Francesca Reale joined Netflix's \"This Summer Will Be Different\" as Felix and Bridget.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/this-summer-will-be-different-felix-bridget-casting-netflix-1236985685/"
-        }
-      ]
-    },
-    {
-      "title": "Kaet Might Die",
-      "network": "",
-      "talent": "Jimmi Simpson, Ben Wang, Zosia Mamet",
-      "announcement": "Jimmi Simpson, Ben Wang, and Zosia Mamet joined the dark comedy series created by Mercedes Bryce Morgan.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/kaet-might-die-cast-jimmi-simpson-ben-wang-zosia-mamet-1236996860/"
-        }
-      ]
     },
     {
       "title": "The Drill",
-      "network": "",
-      "talent": "Rowan Blanchard",
-      "announcement": "Rowan Blanchard was cast to star in the school shooting-themed dark comedy \"The Drill\" from creator Millicent Hailes.",
+      "studio": "",
+      "talent": "Rowan Blanchard (star), Millicent Hailes (director)",
+      "announcement": "Rowan Blanchard stars in school shooting-themed dark comedy 'The Drill' directed by Millicent Hailes.",
       "sources": [
         {
           "name": "Deadline",
@@ -133,34 +135,24 @@
       ]
     },
     {
-      "title": "Thunder Road",
-      "network": "AMC",
-      "talent": "West Duchovny",
-      "announcement": "West Duchovny joined AMC's NASCAR drama series \"Thunder Road\".",
+      "title": "Kaet Might Die",
+      "studio": "",
+      "talent": "Jimmi Simpson, Ben Wang, Zosia Mamet",
+      "announcement": "Jimmi Simpson, Ben Wang and Zosia Mamet joined Mercedes Bryce Morgan's dark comedy 'Kaet Might Die'.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/west-duchovny-cast-amc-nascar-series-thunder-road-1236996939/"
+          "url": "https://deadline.com/2026/07/kaet-might-die-cast-jimmi-simpson-ben-wang-zosia-mamet-1236996860/"
         }
       ]
-    },
-    {
-      "title": "Jakarta",
-      "network": "Alcon Entertainment",
-      "talent": "Iko Uwais (starring), Albert Hughes (directing)",
-      "announcement": "Iko Uwais and Albert Hughes united for the multi-generational crime series \"Jakarta\" at Alcon Entertainment.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/iko-uwais-albert-hughes-jakarta-series-alcon-entertainment-1236814756/"
-        }
-      ]
-    },
+    }
+  ],
+  "tv": [
     {
       "title": "God of War",
       "network": "Prime Video",
-      "talent": "Ryan Hurst (being recast as Kratos)",
-      "announcement": "Prime Video's \"God of War\" series will recast the lead role of Kratos after Ryan Hurst suffered an injury on set.",
+      "talent": "Ryan Hurst (originally cast as Kratos, now recasting)",
+      "announcement": "Prime Video's 'God of War' series will recast the lead role of Kratos following Ryan Hurst's on-set injury.",
       "sources": [
         {
           "name": "Deadline",
@@ -173,14 +165,38 @@
       ]
     },
     {
-      "title": "Mini War",
-      "network": "",
-      "talent": "Brett Gelman, Kevin Nealon, Rob Morgan",
-      "announcement": "Brett Gelman, Kevin Nealon, and Rob Morgan joined the comedy series \"Mini War\".",
+      "title": "Thunder Road",
+      "network": "AMC",
+      "talent": "West Duchovny",
+      "announcement": "West Duchovny joined AMC's NASCAR drama series 'Thunder Road'.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/brett-gelman-kevin-nealon-rob-morgan-mini-war-1236996910/"
+          "url": "https://deadline.com/2026/07/west-duchovny-cast-amc-nascar-series-thunder-road-1236996939/"
+        }
+      ]
+    },
+    {
+      "title": "This Summer Will Be Different",
+      "network": "Netflix",
+      "talent": "Roby Attal (Felix), Francesca Reale (Bridget)",
+      "announcement": "Roby Attal and Francesca Reale joined Netflix's 'This Summer Will Be Different' as Felix and Bridget.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/this-summer-will-be-different-felix-bridget-casting-netflix-1236985685/"
+        }
+      ]
+    },
+    {
+      "title": "Jakarta",
+      "network": "Alcon Entertainment",
+      "talent": "Iko Uwais (star), Albert Hughes (director)",
+      "announcement": "Iko Uwais and Albert Hughes united for multi-generational crime series 'Jakarta' at Alcon Entertainment.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/iko-uwais-albert-hughes-jakarta-series-alcon-entertainment-1236814756/"
         }
       ]
     },
@@ -188,7 +204,7 @@
       "title": "Queenstown",
       "network": "Netflix",
       "talent": "",
-      "announcement": "Netflix unveiled \"Queenstown,\" its first New Zealand original series.",
+      "announcement": "Netflix unveiled 'Queenstown', its first New Zealand series.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -197,17 +213,53 @@
       ]
     },
     {
-      "title": "Ultimate Self-Defense Championship: Female-Focused Spinoff",
+      "title": "Stuart Fails to Save the Universe",
+      "network": "",
+      "talent": "",
+      "announcement": "Details revealed on why episodes of the 'Big Bang Theory' spinoff 'Stuart Fails to Save the Universe' are so short.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/big-bang-spinoff-stuart-fails-episodes-length-short-why-1236979041/"
+        }
+      ]
+    },
+    {
+      "title": "The Ultimate Self-Defense Championship",
       "network": "YouTube",
       "talent": "",
-      "announcement": "The Ultimate Self-Defense Championship launched a female-focused spinoff series on YouTube.",
+      "announcement": "The Ultimate Self-Defense Championship is launching a female-focused spinoff series on YouTube.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/07/ultimate-self-defense-championship-female-focused-spinoff-1236996943/"
         }
       ]
+    },
+    {
+      "title": "Cape Fear",
+      "network": "",
+      "talent": "Nick Antosca (showrunner)",
+      "announcement": "Showrunner Nick Antosca brings the 'Blunt Force Trauma' of Martin Scorsese's 'Cape Fear' into the 2020s for a new adaptation.",
+      "sources": [
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/features/interviews/cape-fear-showrunner-nick-antosca-interview-1235205302/"
+        }
+      ]
+    },
+    {
+      "title": "House Rules",
+      "network": "Tubi",
+      "talent": "Laro Benz (creator)",
+      "announcement": "Creator Laro Benz jumped out of his comfort zone with Tubi's 'House Rules'.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/house-rules-tubi-laro-benz-interview/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-07-17T22:24:02.831Z"
+  "lastUpdated": "2026-07-17T23:26:02.859Z"
 }
