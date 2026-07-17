@@ -1,7 +1,40 @@
 {
   "date": "July 17, 2026",
-  "summary": "0 film announcements, 0 TV announcements across provided articles.",
+  "summary": "0 film announcements, 2 TV announcements across 3 trades.",
   "film": [],
-  "tv": [],
-  "lastUpdated": "2026-07-17T00:01:52.679Z"
+  "tv": [
+    {
+      "title": "God of War",
+      "network": "Prime Video",
+      "talent": "Ryan Hurst (Kratos) - being recast",
+      "announcement": "Ryan Hurst is being recast in the lead role of Kratos after suffering an injury on set of the Prime Video series.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/god-of-war-recast-kratos-role-ryan-hurst-injured-on-set-1236984409/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/god-of-war-recast-kratos-actor-ryan-hurst-injury-1236814409/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/god-of-war-halts-production-recasts-ryan-hurst-after-injury/"
+        }
+      ]
+    },
+    {
+      "title": "Queenstown",
+      "network": "Netflix",
+      "talent": "",
+      "announcement": "Netflix unveiled 'Queenstown,' its first original series from New Zealand.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-unveils-queenstown-first-new-zealand-series-1236650684/"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-07-17T07:35:00.080Z"
 }
