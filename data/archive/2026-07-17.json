@@ -1,21 +1,142 @@
 {
   "date": "July 17, 2026",
-  "summary": "0 film announcements, 2 TV announcements across 3 trades.",
-  "film": [],
+  "summary": "8 film announcements, 6 TV announcements across 5 trades.",
+  "film": [
+    {
+      "title": "How The Cookie Crumbles",
+      "studio": "",
+      "talent": "Giorgia Whigham, Trevor Wallace, Alyssa Milano, Shea Whigham",
+      "announcement": "R-rated comedy film with ensemble cast announced; Jack Wigham among producers.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/giorgia-whigham-trevor-wallace-alyssa-milano-cookie-movie-1236996821/"
+        }
+      ]
+    },
+    {
+      "title": "Kaet Might Die",
+      "studio": "",
+      "talent": "Jimmi Simpson, Ben Wang, Zosia Mamet",
+      "announcement": "Dark comedy film directed by Mercedes Bryce Morgan with new cast additions announced.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/kaet-might-die-cast-jimmi-simpson-ben-wang-zosia-mamet-1236996860/"
+        }
+      ]
+    },
+    {
+      "title": "Hollow",
+      "studio": "Sony",
+      "talent": "Sydney Sweeney, Lindsey Anderson Beer (writer-director), LuckyChap (producer)",
+      "announcement": "Sony lands Sleepy Hollow package with Sydney Sweeney starring; Lindsey Anderson Beer writing and directing with LuckyChap producing.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/sony-hollow-sydney-sweeney-lindsey-anderson-beer-luckychap-1236983735/"
+        }
+      ]
+    },
+    {
+      "title": "The Drill",
+      "studio": "",
+      "talent": "Rowan Blanchard",
+      "announcement": "School shooting-themed dark comedy film starring Rowan Blanchard, written and directed by Millicent Hailes.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/rowan-blanchard-millicent-hailes-teaming-the-drill-1236996828/"
+        }
+      ]
+    },
+    {
+      "title": "I Want To Feel Fun",
+      "studio": "",
+      "talent": "Michaela Watkins",
+      "announcement": "Improvised indie comedy film starring Michaela Watkins, written by Jessica Sanders.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/michaela-watkins-s-jessica-sanders-comedy-i-want-to-feel-fun-1236996758/"
+        }
+      ]
+    },
+    {
+      "title": "Bender",
+      "studio": "",
+      "talent": "Bill Burr, Chris O'Dowd, Ruari Spooner",
+      "announcement": "Comedy film with cast including Harry Potter series star Ruari Spooner joining Bill Burr and Chris O'Dowd.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/harry-potter-ruari-spooner-joins-bill-burr-bender-1236996681/"
+        }
+      ]
+    },
+    {
+      "title": "Mussau: The First Song",
+      "studio": "",
+      "talent": "Bijukumar Damodaran (director)",
+      "announcement": "Indigenous missionary biopic to shoot in Papua New Guinea with Indian National Film Award winner Bijukumar Damodaran directing.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/indigenous-missionary-biopic-mussau-the-first-song-papua-new-guinea-1236814609/"
+        }
+      ]
+    },
+    {
+      "title": "Wilson Shedd",
+      "studio": "",
+      "talent": "Amanda Seyfried, Scoot McNairy, Tim Blake Nelson (director)",
+      "announcement": "Dark film from director Tim Blake Nelson starring Amanda Seyfried and Scoot McNairy.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/amanda-seyfried-scoot-mcnairy-tim-blake-nelson-wilson-shedd-1236650655/"
+        }
+      ]
+    }
+  ],
   "tv": [
+    {
+      "title": "Jakarta",
+      "network": "Alcon Entertainment",
+      "talent": "Iko Uwais, Albert Hughes (director)",
+      "announcement": "Multi-generational crime series starring Iko Uwais with director Albert Hughes attached, produced by Alcon Entertainment.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/iko-uwais-albert-hughes-jakarta-series-alcon-entertainment-1236814756/"
+        }
+      ]
+    },
+    {
+      "title": "Stuart Fails To Save The Universe",
+      "network": "",
+      "talent": "John Ross Bowie, original Big Bang Theory leads",
+      "announcement": "Big Bang Theory spinoff adds John Ross Bowie's Kripke character to original three leads in nod to Lost in Space.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/john-ross-bowie-kripke-stuart-big-bang-theory-spinoff-1236979720/"
+        }
+      ]
+    },
     {
       "title": "God of War",
       "network": "Prime Video",
-      "talent": "Ryan Hurst (Kratos) - being recast",
-      "announcement": "Ryan Hurst is being recast in the lead role of Kratos after suffering an injury on set of the Prime Video series.",
+      "talent": "Ryan Hurst (recasting Kratos)",
+      "announcement": "Prime Video series to recast lead Kratos role after Ryan Hurst suffers injury on set.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/07/god-of-war-recast-kratos-role-ryan-hurst-injured-on-set-1236984409/"
         },
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/god-of-war-recast-kratos-actor-ryan-hurst-injury-1236814409/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/god-of-war-recast-kratos-ryan-hurst-stunt-injury-1236650848/"
         },
         {
           "name": "TheWrap",
@@ -24,10 +145,34 @@
       ]
     },
     {
+      "title": "Boys of Tommen",
+      "network": "",
+      "talent": "Jamie Schneider, James Craven",
+      "announcement": "Series casts Jamie Schneider as Patrick Feely and James Craven as Pierce O'Neill.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/boys-of-tommen-patrick-feely-jamie-schneider-pierce-oneill-1236814552/"
+        }
+      ]
+    },
+    {
+      "title": "The Lords' Day",
+      "network": "Netflix",
+      "talent": "Annabel Scholey, Damson Idris, Harry Lawtey",
+      "announcement": "Netflix thriller series adds Annabel Scholey alongside Damson Idris and Harry Lawtey.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/annabel-scholey-jnetflix-thriller-series-the-lords-day-1236814480/"
+        }
+      ]
+    },
+    {
       "title": "Queenstown",
       "network": "Netflix",
       "talent": "",
-      "announcement": "Netflix unveiled 'Queenstown,' its first original series from New Zealand.",
+      "announcement": "Netflix unveils Queenstown as its first New Zealand original series.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -36,5 +181,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-17T07:35:00.080Z"
+  "lastUpdated": "2026-07-17T16:18:16.737Z"
 }
