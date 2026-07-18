@@ -5,20 +5,24 @@
     {
       "title": "Varanasi",
       "studio": "",
-      "talent": "Priyanka Chopra; Director: S.S. Rajamouli (RRR director)",
-      "announcement": "First look released at Priyanka Chopra in the RRR director's new film project.",
+      "talent": "Priyanka Chopra Jonas; Director: S.S. Rajamouli",
+      "announcement": "First look images released for RRR director S.S. Rajamouli's new film starring Priyanka Chopra Jonas, marked with new images shared on the actress's birthday.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/07/varanasi-first-look-priyanka-chopra-rrr-director-film-1236997441/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/priyanka-chopra-jonas-varanasi-images-birthday-1236815343/"
         }
       ]
     },
     {
       "title": "The Princess and the Frog (Live-Action)",
       "studio": "Disney",
-      "talent": "Colman Domingo, Robert O'Hara (writers in talks)",
-      "announcement": "Colman Domingo and Robert O'Hara are in early talks to write Disney's live-action adaptation inspired by the animated film.",
+      "talent": "Colman Domingo and Robert O'Hara in talks to write",
+      "announcement": "Colman Domingo and Robert O'Hara are in early talks to write Disney's live-action adaptation of 'The Princess and the Frog.'",
       "sources": [
         {
           "name": "Variety",
@@ -40,7 +44,7 @@
       "title": "Life, Larry and the Pursuit of Unhappiness",
       "network": "HBO Max",
       "talent": "Larry David",
-      "announcement": "New HBO show reunites the Curb Your Enthusiasm cast (except Cheryl Hines) with Larry David mocking RFK Jr. in the series.",
+      "announcement": "HBO Max series reunites Curb Your Enthusiasm cast (except Cheryl Hines) and features Larry David mocking RFK Jr. in new content.",
       "sources": [
         {
           "name": "Variety",
@@ -53,5 +57,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-18T05:27:52.811Z"
+  "lastUpdated": "2026-07-18T16:00:27.850Z"
 }
