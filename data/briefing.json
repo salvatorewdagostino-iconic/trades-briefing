@@ -1,12 +1,28 @@
 {
   "date": "July 18, 2026",
-  "summary": "2 film announcements, 0 TV announcements across 5 trades.",
+  "summary": "3 film announcements, 0 TV announcements across 5 trades.",
   "film": [
+    {
+      "title": "Call of Duty",
+      "studio": "Unknown",
+      "talent": "Taylor Sheridan (writer/producer)",
+      "announcement": "Taylor Sheridan's Call of Duty movie adaptation will be set in the Modern Warfare universe.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/call-of-duty-movie-modern-warfare-games-1236815430/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/call-of-duty-movie-modern-warfare/"
+        }
+      ]
+    },
     {
       "title": "Varanasi",
       "studio": "Unknown",
       "talent": "Priyanka Chopra Jonas (lead), S.S. Rajamouli (director)",
-      "announcement": "First look images released for the film directed by S.S. Rajamouli, marking Priyanka Chopra Jonas's birthday.",
+      "announcement": "First look images released for the RRR director's new film Varanasi starring Priyanka Chopra Jonas.",
       "sources": [
         {
           "name": "Deadline",
@@ -21,8 +37,8 @@
     {
       "title": "The Princess and the Frog (Live-Action)",
       "studio": "Disney",
-      "talent": "Colman Domingo (in talks to write)",
-      "announcement": "Colman Domingo is in early talks to write Disney's live-action adaptation inspired by the animated film.",
+      "talent": "Colman Domingo (writer, in talks)",
+      "announcement": "Colman Domingo is in early talks to write Disney's live-action adaptation of The Princess and the Frog.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -36,5 +52,5 @@
     }
   ],
   "tv": [],
-  "lastUpdated": "2026-07-18T17:07:57.274Z"
+  "lastUpdated": "2026-07-18T18:28:47.483Z"
 }
