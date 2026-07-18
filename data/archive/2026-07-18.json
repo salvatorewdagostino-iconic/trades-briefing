@@ -5,8 +5,8 @@
     {
       "title": "Call of Duty",
       "studio": "Unknown",
-      "talent": "Taylor Sheridan (writer/producer), Peter Berg (director)",
-      "announcement": "Taylor Sheridan and Peter Berg's Call of Duty movie adaptation will be set in the Modern Warfare universe.",
+      "talent": "Taylor Sheridan (writer), Peter Berg (director)",
+      "announcement": "The Call of Duty movie will be set in the Modern Warfare universe, with Taylor Sheridan writing and Peter Berg directing.",
       "sources": [
         {
           "name": "Variety",
@@ -34,14 +34,14 @@
         },
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/news/s-s-rajamouli-marks-priyanka-chopra-jonas-birthday-with-new-varanasi-images-1236815343/"
+          "url": "https://variety.com/2026/film/news/priyanka-chopra-jonas-varanasi-images-birthday-1236815343/"
         }
       ]
     },
     {
       "title": "The Princess and the Frog (Live-Action)",
       "studio": "Disney",
-      "talent": "Colman Domingo (writer)",
+      "talent": "Colman Domingo (in talks to write)",
       "announcement": "Colman Domingo is in early talks to write Disney's live-action adaptation of The Princess and the Frog.",
       "sources": [
         {
@@ -56,5 +56,5 @@
     }
   ],
   "tv": [],
-  "lastUpdated": "2026-07-18T20:54:39.608Z"
+  "lastUpdated": "2026-07-18T21:55:00.914Z"
 }
