@@ -1,12 +1,12 @@
 {
   "date": "July 18, 2026",
-  "summary": "3 film announcements, 0 TV announcements across 5 trades.",
+  "summary": "3 film announcements, 1 TV announcement across 5 trades.",
   "film": [
     {
       "title": "Call of Duty",
       "studio": "Unknown",
       "talent": "Taylor Sheridan (writer), Peter Berg (director)",
-      "announcement": "The Call of Duty movie adaptation will be set in the Modern Warfare universe.",
+      "announcement": "Live-action film adaptation set in the Modern Warfare universe from writer Taylor Sheridan and director Peter Berg.",
       "sources": [
         {
           "name": "Variety",
@@ -25,8 +25,8 @@
     {
       "title": "Varanasi",
       "studio": "Unknown",
-      "talent": "Priyanka Chopra (lead), RRR director S.S. Rajamouli (director)",
-      "announcement": "First look released for Priyanka Chopra in director S.S. Rajamouli's new film Varanasi.",
+      "talent": "Priyanka Chopra (lead), S.S. Rajamouli (director)",
+      "announcement": "First look revealed at Priyanka Chopra in RRR director S.S. Rajamouli's new film.",
       "sources": [
         {
           "name": "Deadline",
@@ -37,8 +37,8 @@
     {
       "title": "The Princess and the Frog (Live-Action)",
       "studio": "Disney",
-      "talent": "Colman Domingo (in talks to write)",
-      "announcement": "Colman Domingo is in early talks to write Disney's live-action adaptation of The Princess and the Frog.",
+      "talent": "Colman Domingo (writer, in talks)",
+      "announcement": "Colman Domingo in early talks to write live-action adaptation inspired by Disney's animated 'The Princess and the Frog.'",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -51,6 +51,23 @@
       ]
     }
   ],
-  "tv": [],
-  "lastUpdated": "2026-07-18T22:54:14.432Z"
+  "tv": [
+    {
+      "title": "Heartstopper Forever",
+      "network": "Netflix",
+      "talent": "Joe Locke (star/director), Kit Connor (star/writer), Alice Oseman (creator/writer)",
+      "announcement": "Finale episode of Heartstopper features Joe Locke and Kit Connor directing and writing, connecting the whole Heartstopper gang in the series conclusion.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/heartstopper-forever-ending-kit-connor-joe-lock-interview-1236647039/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/heartstopper-forever-alice-oseman-interview/"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-07-18T23:57:14.416Z"
 }
