@@ -1,12 +1,24 @@
 {
   "date": "July 18, 2026",
-  "summary": "1 film announcement, 0 TV announcements across 2 trades.",
+  "summary": "2 film announcements, 1 TV announcement across 5 trades.",
   "film": [
     {
-      "title": "Princess Tiana (Live-Action)",
+      "title": "Varanasi",
+      "studio": "",
+      "talent": "Priyanka Chopra; Director: S.S. Rajamouli (RRR director)",
+      "announcement": "First look released at Priyanka Chopra in the RRR director's new film project.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/varanasi-first-look-priyanka-chopra-rrr-director-film-1236997441/"
+        }
+      ]
+    },
+    {
+      "title": "The Princess and the Frog (Live-Action)",
       "studio": "Disney",
-      "talent": "Colman Domingo (writer), Robert O'Hara (writer)",
-      "announcement": "Colman Domingo and Robert O'Hara are in talks to write a live-action Princess Tiana movie inspired by Disney's 'The Princess and the Frog.'",
+      "talent": "Colman Domingo, Robert O'Hara (writers in talks)",
+      "announcement": "Colman Domingo and Robert O'Hara are in early talks to write Disney's live-action adaptation inspired by the animated film.",
       "sources": [
         {
           "name": "Variety",
@@ -15,10 +27,31 @@
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/colman-domingo-live-action-tiana-princess-and-the-frog-1236651364/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/the-princess-and-the-frog-live-action-adaptation-colman-domingo/"
         }
       ]
     }
   ],
-  "tv": [],
-  "lastUpdated": "2026-07-18T02:35:19.277Z"
+  "tv": [
+    {
+      "title": "Life, Larry and the Pursuit of Unhappiness",
+      "network": "HBO Max",
+      "talent": "Larry David",
+      "announcement": "New HBO show reunites the Curb Your Enthusiasm cast (except Cheryl Hines) with Larry David mocking RFK Jr. in the series.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/larry-david-mocks-rfk-jr-hbo-show-1236806043/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/larry-and-the-pursuit-of-unhappiness-guest-stars-cameos-1236651445/"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-07-18T05:27:52.811Z"
 }
