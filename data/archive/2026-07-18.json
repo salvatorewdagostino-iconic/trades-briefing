@@ -1,11 +1,11 @@
 {
   "date": "July 18, 2026",
-  "summary": "1 film announcement across 2 trades.",
+  "summary": "1 film announcement, 0 TV announcements across 2 trades.",
   "film": [
     {
-      "title": "Princess Tiana",
+      "title": "Princess Tiana (Live-Action)",
       "studio": "Disney",
-      "talent": "Colman Domingo and Robert O'Hara (writers)",
+      "talent": "Colman Domingo (writer), Robert O'Hara (writer)",
       "announcement": "Colman Domingo and Robert O'Hara are in talks to write a live-action Princess Tiana movie inspired by Disney's 'The Princess and the Frog.'",
       "sources": [
         {
@@ -20,5 +20,5 @@
     }
   ],
   "tv": [],
-  "lastUpdated": "2026-07-18T00:57:12.535Z"
+  "lastUpdated": "2026-07-18T02:35:19.277Z"
 }
