@@ -5,12 +5,16 @@
     {
       "title": "Call of Duty",
       "studio": "Unknown",
-      "talent": "Taylor Sheridan (writer/producer)",
-      "announcement": "Taylor Sheridan's Call of Duty movie will be set in the Modern Warfare universe, with the film drawing from the Modern Warfare game storyline.",
+      "talent": "Taylor Sheridan (writer/producer), Peter Berg (director)",
+      "announcement": "Taylor Sheridan and Peter Berg's Call of Duty movie adaptation will be set in the Modern Warfare universe.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/film/news/call-of-duty-movie-modern-warfare-games-1236815430/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/call-of-duty-movie-set-in-modern-warfare-universe-1236651562/"
         },
         {
           "name": "TheWrap",
@@ -22,7 +26,7 @@
       "title": "Varanasi",
       "studio": "Unknown",
       "talent": "Priyanka Chopra (lead), S.S. Rajamouli (director)",
-      "announcement": "First look images released for RRR director S.S. Rajamouli's new film Varanasi starring Priyanka Chopra, marking her involvement in the project.",
+      "announcement": "First look images released for RRR director S.S. Rajamouli's new film Varanasi starring Priyanka Chopra.",
       "sources": [
         {
           "name": "Deadline",
@@ -30,14 +34,14 @@
         },
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/news/priyanka-chopra-jonas-varanasi-images-birthday-1236815343/"
+          "url": "https://variety.com/2026/film/news/s-s-rajamouli-marks-priyanka-chopra-jonas-birthday-with-new-varanasi-images-1236815343/"
         }
       ]
     },
     {
-      "title": "The Princess and the Frog",
+      "title": "The Princess and the Frog (Live-Action)",
       "studio": "Disney",
-      "talent": "Colman Domingo (in talks to write)",
+      "talent": "Colman Domingo (writer)",
       "announcement": "Colman Domingo is in early talks to write Disney's live-action adaptation of The Princess and the Frog.",
       "sources": [
         {
@@ -52,5 +56,5 @@
     }
   ],
   "tv": [],
-  "lastUpdated": "2026-07-18T19:45:20.229Z"
+  "lastUpdated": "2026-07-18T20:54:39.608Z"
 }
