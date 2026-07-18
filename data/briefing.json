@@ -6,7 +6,7 @@
       "title": "Call of Duty",
       "studio": "Unknown",
       "talent": "Taylor Sheridan (writer), Peter Berg (director)",
-      "announcement": "The Call of Duty movie will be set in the Modern Warfare universe, with Taylor Sheridan writing and Peter Berg directing.",
+      "announcement": "The Call of Duty movie adaptation will be set in the Modern Warfare universe.",
       "sources": [
         {
           "name": "Variety",
@@ -25,16 +25,12 @@
     {
       "title": "Varanasi",
       "studio": "Unknown",
-      "talent": "Priyanka Chopra (lead), S.S. Rajamouli (director)",
-      "announcement": "First look images released for RRR director S.S. Rajamouli's new film Varanasi starring Priyanka Chopra.",
+      "talent": "Priyanka Chopra (lead), RRR director S.S. Rajamouli (director)",
+      "announcement": "First look released for Priyanka Chopra in director S.S. Rajamouli's new film Varanasi.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/07/varanasi-first-look-priyanka-chopra-rrr-director-film-1236997441/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/priyanka-chopra-jonas-varanasi-images-birthday-1236815343/"
         }
       ]
     },
@@ -56,5 +52,5 @@
     }
   ],
   "tv": [],
-  "lastUpdated": "2026-07-18T21:55:00.914Z"
+  "lastUpdated": "2026-07-18T22:54:14.432Z"
 }
