@@ -1,7 +1,45 @@
 {
   "date": "July 19, 2026",
-  "summary": "0 film announcements, 0 TV announcements across 5 trades.",
-  "film": [],
-  "tv": [],
-  "lastUpdated": "2026-07-19T02:49:52.858Z"
+  "summary": "2 film announcements, 1 TV announcement across 3 trades.",
+  "film": [
+    {
+      "title": "The Family Stone",
+      "studio": "",
+      "talent": "Luke Wilson",
+      "announcement": "Sequel to 'The Family Stone' is in development with Luke Wilson attached to reprise his role.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/luke-wilson-the-family-stone-sequel-1236997627/"
+        }
+      ]
+    },
+    {
+      "title": "The Odyssey",
+      "studio": "",
+      "talent": "Tom Holland, Robert Pattinson",
+      "announcement": "Robert Pattinson has been cast in 'The Odyssey' alongside Tom Holland.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/the-odyssey-tom-holland-robert-pattinson-casting-dickhead-1236997608/"
+        }
+      ]
+    }
+  ],
+  "tv": [
+    {
+      "title": "Man of Tomorrow",
+      "network": "",
+      "talent": "Rick Devens",
+      "announcement": "Rick Devens from 'Big Brother 28' was set for a cameo in the Superman series but the appearance was cancelled due to CBS competition concerns.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/james-gunn-big-brother-28-rick-devens-superman-cameo-1236997635/"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-07-19T05:55:13.835Z"
 }
