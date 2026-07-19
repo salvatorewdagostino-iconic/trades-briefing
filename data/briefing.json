@@ -1,12 +1,12 @@
 {
   "date": "July 19, 2026",
-  "summary": "2 film announcements, 1 TV announcement across 5 trades.",
+  "summary": "2 film announcements, 0 TV announcements across 5 trades.",
   "film": [
     {
       "title": "Princess Diaries 3",
-      "studio": "Disney",
+      "studio": "",
       "talent": "Anne Hathaway",
-      "announcement": "Anne Hathaway shares update on Princess Diaries 3 development, revealing the project had to 'start over' but has now achieved a 'story breakthrough' with the script moving in the right direction.",
+      "announcement": "Anne Hathaway shares update that the project had a 'story breakthrough' after the team had to 'start over' with the script, indicating development progress on the third installment.",
       "sources": [
         {
           "name": "Deadline",
@@ -23,35 +23,18 @@
       ]
     },
     {
-      "title": "The End of Oak Street",
+      "title": "The Family Stone Sequel",
       "studio": "",
-      "talent": "Anne Hathaway, Ewan McGregor",
-      "announcement": "New 4DX footage preview released featuring Anne Hathaway and Ewan McGregor in scenes involving dinosaurs.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/the-end-of-oak-street-new-footage-anne-hathaway-ewan-mcgregor-dinosaurs-4dx-1236815202/"
-        }
-      ]
-    }
-  ],
-  "tv": [
-    {
-      "title": "Man of Tomorrow",
-      "network": "DC Studios",
-      "talent": "James Gunn (director), Rick Devens",
-      "announcement": "James Gunn reveals that Big Brother 28 star Rick Devens was set for a cameo in Man of Tomorrow but had to cancel due to CBS competition conflicts.",
+      "talent": "Luke Wilson",
+      "announcement": "Luke Wilson confirms that a sequel to 'The Family Stone' is in development, expressing excitement that the project is moving forward.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/james-gunn-big-brother-28-rick-devens-superman-cameo-1236997635/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/james-gunn-big-brother-rick-devens-man-of-tomorrow-cameo-1236815991/"
+          "url": "https://deadline.com/2026/07/luke-wilson-the-family-stone-sequel-1236997627/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-19T20:24:13.532Z"
+  "tv": [],
+  "lastUpdated": "2026-07-19T21:26:21.776Z"
 }
