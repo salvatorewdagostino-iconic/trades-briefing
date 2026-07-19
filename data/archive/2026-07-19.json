@@ -6,7 +6,7 @@
       "title": "Princess Diaries 3",
       "studio": "Disney",
       "talent": "Anne Hathaway",
-      "announcement": "Anne Hathaway shares update on the project after the team had to 'start over,' revealing they have experienced a 'story breakthrough' in development.",
+      "announcement": "Anne Hathaway shared an update on the project after having to 'start over,' revealing the team had a 'story breakthrough.'",
       "sources": [
         {
           "name": "Deadline",
@@ -16,9 +16,9 @@
     },
     {
       "title": "The Family Stone Sequel",
-      "studio": "Unknown",
+      "studio": "",
       "talent": "Luke Wilson",
-      "announcement": "Luke Wilson confirms the sequel is moving forward, expressing his excitement about the project's development.",
+      "announcement": "Luke Wilson commented on the sequel, expressing disbelief that the project is moving forward.",
       "sources": [
         {
           "name": "Deadline",
@@ -28,5 +28,5 @@
     }
   ],
   "tv": [],
-  "lastUpdated": "2026-07-19T17:32:29.459Z"
+  "lastUpdated": "2026-07-19T19:11:25.849Z"
 }
