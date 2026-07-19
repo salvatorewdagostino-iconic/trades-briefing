@@ -1,12 +1,12 @@
 {
   "date": "July 19, 2026",
-  "summary": "2 film announcements, 0 TV announcements across 5 trades.",
+  "summary": "2 film announcements, 1 TV announcement across 5 trades.",
   "film": [
     {
       "title": "Princess Diaries 3",
-      "studio": "",
+      "studio": "Disney",
       "talent": "Anne Hathaway",
-      "announcement": "Anne Hathaway shares update that the project had a 'story breakthrough' after the team had to 'start over' with the script, indicating development progress on the third installment.",
+      "announcement": "Anne Hathaway reveals the film had a 'story breakthrough' after having to 'start over' with the script and confirms the project is moving in the right direction.",
       "sources": [
         {
           "name": "Deadline",
@@ -26,7 +26,7 @@
       "title": "The Family Stone Sequel",
       "studio": "",
       "talent": "Luke Wilson",
-      "announcement": "Luke Wilson confirms that a sequel to 'The Family Stone' is in development, expressing excitement that the project is moving forward.",
+      "announcement": "Luke Wilson expresses excitement about the sequel happening, stating 'I Can't Believe It's Happening.'",
       "sources": [
         {
           "name": "Deadline",
@@ -35,6 +35,23 @@
       ]
     }
   ],
-  "tv": [],
-  "lastUpdated": "2026-07-19T21:26:21.776Z"
+  "tv": [
+    {
+      "title": "Man of Tomorrow",
+      "network": "DC/Warner Bros.",
+      "talent": "James Gunn (director), Rick Devens",
+      "announcement": "James Gunn reveals that Big Brother 28 star Rick Devens was originally set for a cameo but had to cancel due to CBS competition rules.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/james-gunn-big-brother-28-rick-devens-superman-cameo-1236997635/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/james-gunn-big-brother-rick-devens-man-of-tomorrow-cameo-1236815991/"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-07-19T22:27:59.866Z"
 }
