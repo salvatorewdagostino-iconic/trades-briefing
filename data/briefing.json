@@ -6,7 +6,7 @@
       "title": "Princess Diaries 3",
       "studio": "Disney",
       "talent": "Anne Hathaway",
-      "announcement": "Anne Hathaway reveals the film had a 'story breakthrough' after having to 'start over' with the script and confirms the project is moving in the right direction.",
+      "announcement": "Anne Hathaway reveals the project had a 'story breakthrough' after the team had to 'start over' with the script and is moving in the right direction.",
       "sources": [
         {
           "name": "Deadline",
@@ -26,7 +26,7 @@
       "title": "The Family Stone Sequel",
       "studio": "",
       "talent": "Luke Wilson",
-      "announcement": "Luke Wilson expresses excitement about the sequel happening, stating 'I Can't Believe It's Happening.'",
+      "announcement": "Luke Wilson expresses excitement about the sequel happening, stating 'I can't believe it's happening.'",
       "sources": [
         {
           "name": "Deadline",
@@ -38,9 +38,9 @@
   "tv": [
     {
       "title": "Man of Tomorrow",
-      "network": "DC/Warner Bros.",
+      "network": "DC Studios",
       "talent": "James Gunn (director), Rick Devens",
-      "announcement": "James Gunn reveals that Big Brother 28 star Rick Devens was originally set for a cameo but had to cancel due to CBS competition rules.",
+      "announcement": "James Gunn reveals that Big Brother 28 star Rick Devens was set for a cameo but had to cancel due to CBS competition concerns.",
       "sources": [
         {
           "name": "Deadline",
@@ -53,5 +53,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-19T22:27:59.866Z"
+  "lastUpdated": "2026-07-19T23:32:30.917Z"
 }
