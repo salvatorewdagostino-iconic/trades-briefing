@@ -1,7 +1,20 @@
 {
   "date": "July 20, 2026",
-  "summary": "0 film announcements, 0 TV announcements across 5 trades.",
+  "summary": "0 film announcements, 1 TV announcement across 5 trades.",
   "film": [],
-  "tv": [],
-  "lastUpdated": "2026-07-20T03:18:55.898Z"
+  "tv": [
+    {
+      "title": "Shark Tank India",
+      "network": "SonyLIV",
+      "talent": "",
+      "announcement": "Season 6 of Shark Tank India has been set with a Parrot Campaign on SonyLIV.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/shark-tank-india-season-6-sonyliv-1236815830/"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-07-20T06:33:13.401Z"
 }
