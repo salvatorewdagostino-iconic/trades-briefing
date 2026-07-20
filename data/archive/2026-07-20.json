@@ -1,12 +1,24 @@
 {
   "date": "July 20, 2026",
-  "summary": "11 film announcements, 10 TV announcements across 5 trades.",
+  "summary": "11 film announcements, 13 TV announcements across 5 trades.",
   "film": [
     {
+      "title": "The Conjuring: First Communion",
+      "studio": "New Line Cinema",
+      "talent": "Matthias Schweighöfer",
+      "announcement": "Matthias Schweighöfer joins the cast of New Line's upcoming Conjuring film.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/conjuring-10-first-communion-matthias-schweighofer-1236998523/"
+        }
+      ]
+    },
+    {
       "title": "Son of the Mob",
-      "studio": "Red Sage Studios & Sun Distribution",
+      "studio": "Red Sage Studios, Sun Distribution",
       "talent": "The Kissing Booth filmmakers",
-      "announcement": "YA rom-com film in development from The Kissing Booth duo for Red Sage Studios and Sun Distribution.",
+      "announcement": "The filmmaking duo behind The Kissing Booth is tackling the YA rom-com adaptation of Son of the Mob.",
       "sources": [
         {
           "name": "Deadline",
@@ -16,9 +28,9 @@
     },
     {
       "title": "Lizard Music",
-      "studio": "Amazon MGM & United Artists",
-      "talent": "Dwayne Johnson, Theo Clark Leber (lead), Benny Safdie (director)",
-      "announcement": "Benny Safdie directs this project with Dwayne Johnson and 10-year-old Theo Clark Leber landing the lead role opposite Johnson.",
+      "studio": "Amazon MGM Studios, United Artists",
+      "talent": "Theo Clark Leber (lead), Dwayne Johnson, director Benny Safdie",
+      "announcement": "10-year-old Theo Clark Leber lands the lead role opposite Dwayne Johnson in Benny Safdie's Lizard Music.",
       "sources": [
         {
           "name": "Deadline",
@@ -29,8 +41,8 @@
     {
       "title": "Positano",
       "studio": "Netflix",
-      "talent": "Toni Collette, Karren Karagulian, Daniel Roher (director)",
-      "announcement": "Netflix's Italian-set romantic caper adds Toni Collette and Karren Karagulian to cast from director Daniel Roher.",
+      "talent": "Toni Collette, Karren Karagulian, director Daniel Roher",
+      "announcement": "Toni Collette and Karren Karagulian join Netflix's Italian-set romantic caper Positano directed by Daniel Roher.",
       "sources": [
         {
           "name": "Deadline",
@@ -41,8 +53,8 @@
     {
       "title": "Ally",
       "studio": "Pathé",
-      "talent": "Bong Joon Ho (director), Bradley Cooper, Ayo Edebiri (voice cast)",
-      "announcement": "Bong Joon Ho's first animated feature with voice cast including Bradley Cooper and Ayo Edebiri sells globally through Pathé.",
+      "talent": "Bradley Cooper, Ayo Edebiri, director Bong Joon Ho",
+      "announcement": "Bong Joon Ho's first animated feature Ally, with voice cast including Bradley Cooper and Ayo Edebiri, sells globally through Pathé.",
       "sources": [
         {
           "name": "Variety",
@@ -51,22 +63,10 @@
       ]
     },
     {
-      "title": "The Most Serious Fart",
-      "studio": "Utopai Studios",
-      "talent": "Not Another Teen Movie writer",
-      "announcement": "Utopai Studios is producing this AI-assisted animated movie written by a Not Another Teen Movie writer.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/utopai-studios-ai-animated-movie-most-serious-fart-1236816485/"
-        }
-      ]
-    },
-    {
       "title": "Grayson 'The Professor' Boucher Biopic",
       "studio": "Hidden Empire Sports",
-      "talent": "Deon Taylor (director)",
-      "announcement": "Deon Taylor to direct biopic on streetball star Grayson 'The Professor' Boucher for Hidden Empire Sports.",
+      "talent": "Director Deon Taylor",
+      "announcement": "Director Deon Taylor will helm a biopic on streetball star Grayson 'The Professor' Boucher for Hidden Empire Sports.",
       "sources": [
         {
           "name": "Variety",
@@ -77,8 +77,8 @@
     {
       "title": "The Two Week Wait",
       "studio": "",
-      "talent": "Daniel Ings, Jessica Brown Findlay, Olivia Grant (director)",
-      "announcement": "Daniel Ings and Jessica Brown Findlay star in Olivia Grant's directorial debut short film.",
+      "talent": "Daniel Ings, Jessica Brown Findlay, director Olivia Grant",
+      "announcement": "Daniel Ings and Jessica Brown Findlay star in Olivia Grant's directorial debut short film The Two Week Wait.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -89,8 +89,8 @@
     {
       "title": "Onwards and Sideways",
       "studio": "",
-      "talent": "Laura Linney, Rhys Ifans, John Madden (director)",
-      "announcement": "John Madden directs this film with Laura Linney and Rhys Ifans as people being diagnosed with Parkinson's, headed to Toronto Film Festival.",
+      "talent": "Laura Linney, Rhys Ifans, director John Madden",
+      "announcement": "John Madden directs Onwards and Sideways featuring Laura Linney and Rhys Ifans as people being diagnosed with Parkinson's, heading to Toronto Film Festival.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -102,7 +102,7 @@
       "title": "Bad Karaoke",
       "studio": "Tubi",
       "talent": "",
-      "announcement": "Horror-comedy film debuts trailer ahead of Tubi FrightFest premiere.",
+      "announcement": "Horror-comedy Bad Karaoke debuts its trailer ahead of Tubi FrightFest premiere.",
       "sources": [
         {
           "name": "Variety",
@@ -111,36 +111,68 @@
       ]
     },
     {
-      "title": "Misty Green",
-      "studio": "",
-      "talent": "Chris Rock",
-      "announcement": "Chris Rock film set for world premiere at TIFF 2026.",
+      "title": "The Portrait of a Lady",
+      "studio": "PBS, BBC",
+      "talent": "Bill Nighy, Gemma Arterton, Nell Tiger Free",
+      "announcement": "Bill Nighy, Gemma Arterton, and Nell Tiger Free are set for the PBS and BBC adaptation of The Portrait of a Lady.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/toronto-film-festival-2026-line-up-1236998190/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/bill-nighy-nell-tiger-free-portrait-of-a-lady-pbs-bbc-1236652160/"
         }
       ]
     },
     {
-      "title": "A Talent for Murder",
+      "title": "Avatar Aang: The Last Airbender",
       "studio": "",
-      "talent": "Anton Corbijn (director)",
-      "announcement": "Anton Corbijn film set for world premiere at TIFF 2026.",
+      "talent": "",
+      "announcement": "The Avatar Aang: The Last Airbender film sequel to the beloved animated series releases with reviews noting dazzling visuals but lackluster storytelling.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/toronto-film-festival-2026-line-up-1236998190/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-reviews/avatar-aang-the-last-airbender-review-1236651085/"
         }
       ]
     }
   ],
   "tv": [
     {
+      "title": "Scrubs",
+      "network": "ABC",
+      "talent": "Ava Bunn (series regular), X Mayo (departing), Joel Kim Booster (departing)",
+      "announcement": "Ava Bunn is promoted to series regular for Season 2 of the Scrubs revival, while X Mayo and Joel Kim Booster exit the series.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/scrubs-season-2-cast-ava-bunn-who-is-returning-leaving-1236998486/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/scrubs-revival-season-11-ava-bun-joel-kim-booster-1236816776/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/scrubs-season-2-ava-bunn-joel-kim-booster-x-mayo-1236652517/"
+        }
+      ]
+    },
+    {
+      "title": "Conviction",
+      "network": "Hulu",
+      "talent": "Liza Colon-Zayas, creator David Shore",
+      "announcement": "Liza Colon-Zayas joins the cast of Hulu's David Shore legal drama Conviction.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/liza-colon-zayas-hulu-david-shore-series-conviction-1236998671/"
+        }
+      ]
+    },
+    {
       "title": "Myron Bolitar",
       "network": "Netflix",
       "talent": "Chloe Fineman, Jabari Banks, Jamie McShane, Ben McKenzie",
-      "announcement": "Netflix series adds Chloe Fineman to cast alongside Jabari Banks, Jamie McShane, and Ben McKenzie.",
+      "announcement": "Chloe Fineman joins Netflix's Myron Bolitar series following her SNL exit, alongside Jabari Banks, Jamie McShane, and Ben McKenzie.",
       "sources": [
         {
           "name": "Deadline",
@@ -149,14 +181,18 @@
         {
           "name": "Variety",
           "url": "https://variety.com/2026/tv/news/chloe-fineman-myron-bolitar-series-netflix-1236816733/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/chloe-fineman-post-saturday-night-live-gig-1236652419/"
         }
       ]
     },
     {
-      "title": "Afterlife With Archie",
+      "title": "Afterlife with Archie",
       "network": "Disney+",
       "talent": "Riverdale team",
-      "announcement": "Series based on comic greenlit by Disney+ with Halloween 2027 premiere date, reuniting Riverdale team.",
+      "announcement": "Disney+ greenlights the Afterlife with Archie series based on the comic with the Riverdale team attached, set for Halloween 2027 premiere.",
       "sources": [
         {
           "name": "Deadline",
@@ -180,7 +216,7 @@
       "title": "Guilty Creatures",
       "network": "Apple TV+",
       "talent": "Julia Garner, Lewis Pullman, Tomorrow Studios",
-      "announcement": "Apple TV+ thriller series adds Lewis Pullman to cast alongside Julia Garner from Tomorrow Studios.",
+      "announcement": "Lewis Pullman joins Julia Garner in Apple TV+'s thriller series Guilty Creatures from Tomorrow Studios.",
       "sources": [
         {
           "name": "Deadline",
@@ -197,26 +233,10 @@
       ]
     },
     {
-      "title": "The Portrait of a Lady",
-      "network": "PBS/BBC",
-      "talent": "Nell Tiger Free, Gemma Arterton, Bill Nighy, Jim Sturgess, Miranda Richardson",
-      "announcement": "PBS Masterpiece and BBC adaptation of Henry James novel with ensemble cast featuring Nell Tiger Free, Gemma Arterton, Bill Nighy, Jim Sturgess, and Miranda Richardson.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/pbs-bbc-adapting-portrait-of-a-lady-henry-james-bill-nighy-1236998240/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/bill-nighy-nell-tiger-free-portrait-of-a-lady-pbs-bbc-1236652160/"
-        }
-      ]
-    },
-    {
       "title": "The Earliest Show",
       "network": "Amplify Pictures",
       "talent": "Kevin Carroll, Henry Winkler, Ryan Gaul, Brandon Scott Jones",
-      "announcement": "Revival greenlit at Amplify Pictures with Kevin Carroll, Henry Winkler, Ryan Gaul, and Brandon Scott Jones joining cast.",
+      "announcement": "The Earliest Show revival is greenlit at Amplify Pictures with Kevin Carroll, Henry Winkler, Ryan Gaul, and Brandon Scott Jones joining the cast.",
       "sources": [
         {
           "name": "Deadline",
@@ -225,11 +245,27 @@
       ]
     },
     {
+      "title": "Happy Hour",
+      "network": "Netflix",
+      "talent": "Kelsey Cook",
+      "announcement": "Kelsey Cook sets her Netflix stand-up special Happy Hour.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/kelsey-cook-netflix-special-happy-hour-premiere-date-1236997042/"
+        }
+      ]
+    },
+    {
       "title": "A Different World",
       "network": "Netflix",
-      "talent": "Dwayne Wayne (character returning)",
-      "announcement": "Netflix revival of A Different World with Dwayne Wayne returning without the flip-up shades, first look revealed.",
+      "talent": "Dwayne Wayne (returning)",
+      "announcement": "Netflix's A Different World revival brings back Dwayne Wayne for Season 1.",
       "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/feature/a-different-world-story-season-1-first-look-photos-netflix/"
+        },
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/dwayne-wayne-netflix-a-different-world-first-look-1236652182/"
@@ -239,8 +275,8 @@
     {
       "title": "John Carter of Mars",
       "network": "",
-      "talent": "Mark Andrews (director)",
-      "announcement": "Oscar winner Mark Andrews boards animated series adaptation.",
+      "talent": "Oscar winner Mark Andrews (director)",
+      "announcement": "Oscar winner Mark Andrews boards the John Carter of Mars animated series.",
       "sources": [
         {
           "name": "TheWrap",
@@ -249,41 +285,57 @@
       ]
     },
     {
-      "title": "The Dressing Room",
-      "network": "OUTtv",
-      "talent": "Eric McCormack (guest star)",
-      "announcement": "Eric McCormack to guest star in Season 2 of OUTtv's The Dressing Room.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/eric-mccormack-dressing-room-season-2-1236652167/"
-        }
-      ]
-    },
-    {
-      "title": "Roku Holiday Rom-Coms",
-      "network": "Roku",
-      "talent": "Ayesha Curry, Matthew Daddario, Joey Graziadei, Jamie Chung",
-      "announcement": "Roku greenlights holiday romantic comedies starring Ayesha Curry, Matthew Daddario, Joey Graziadei, and Jamie Chung.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/roku-holiday-romantic-comedies-ayesha-curry-joey-graziadei-1236649016/"
-        }
-      ]
-    },
-    {
-      "title": "Happy Hour",
-      "network": "Netflix",
-      "talent": "Kelsey Cook",
-      "announcement": "Kelsey Cook sets Netflix stand-up special titled Happy Hour.",
+      "title": "Percy Jackson and the Olympians",
+      "network": "Disney+",
+      "talent": "",
+      "announcement": "Season 3 of Percy Jackson and the Olympians is in development with series details emerging.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/kelsey-cook-netflix-special-happy-hour-premiere-date-1236997042/"
+          "url": "https://deadline.com/feature/percy-jackson-and-the-olympians-season-3-news-updates-1236495797/"
+        }
+      ]
+    },
+    {
+      "title": "My Life with the Walter Boys",
+      "network": "Netflix",
+      "talent": "",
+      "announcement": "Season 3 of Netflix's My Life with the Walter Boys is in development with series updates emerging.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/feature/my-life-with-the-walter-boys-season-3-news-1236507779/"
+        }
+      ]
+    },
+    {
+      "title": "Interview with the Vampire",
+      "network": "AMC",
+      "talent": "Showrunner Rolin Jones",
+      "announcement": "Season 3 finale of Interview with the Vampire concludes with Lestat reveal and new details on the series' direction.",
+      "sources": [
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/features/interviews/the-vampire-lestat-finale-showrunner-interview-rolin-jones-1235206059/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/the-vampire-lestat-episode-7-finale-explained/"
+        }
+      ]
+    },
+    {
+      "title": "Stuart Fails to Save the Universe",
+      "network": "",
+      "talent": "",
+      "announcement": "Limited edition DC comic book and experiential space planned for Stuart Fails to Save the Universe at San Diego Comic-Con.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/stuart-fails-to-save-the-universe-comic-book-comic-con-1236816349/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-20T18:30:52.678Z"
+  "lastUpdated": "2026-07-20T20:24:28.328Z"
 }
