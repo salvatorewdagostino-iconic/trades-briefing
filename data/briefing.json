@@ -1,20 +1,221 @@
 {
   "date": "July 20, 2026",
-  "summary": "0 film announcements, 1 TV announcement across 5 trades.",
-  "film": [],
-  "tv": [
+  "summary": "7 film announcements, 8 TV announcements across 5 trades.",
+  "film": [
     {
-      "title": "Shark Tank India",
-      "network": "SonyLIV",
-      "talent": "",
-      "announcement": "Season 6 of Shark Tank India has been set with a Parrot Campaign on SonyLIV.",
+      "title": "The Price Of Peace",
+      "studio": "",
+      "talent": "Guy Pearce, Jared Harris, Merab Ninidze, Mia Threapleton, Danny Huston",
+      "announcement": "Mia Threapleton and Danny Huston join the cast as filming begins in London.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/threapleton-huston-guy-pearce-price-peace-filming-begins-1236998242/"
+        }
+      ]
+    },
+    {
+      "title": "Grayson 'The Professor' Boucher Biopic",
+      "studio": "Hidden Empire Sports",
+      "talent": "Deon Taylor (director)",
+      "announcement": "Deon Taylor to direct biopic on streetball star Grayson 'The Professor' Boucher.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/shark-tank-india-season-6-sonyliv-1236815830/"
+          "url": "https://variety.com/2026/film/news/deon-taylor-grayson-the-professor-boucher-biopic-1236815146/"
+        }
+      ]
+    },
+    {
+      "title": "Ally",
+      "studio": "Pathé",
+      "talent": "Bong Joon Ho (director), Bradley Cooper, Ayo Edebiri (voice cast)",
+      "announcement": "Bong Joon Ho's first animated feature sells globally to Pathé with voice cast including Bradley Cooper and Ayo Edebiri.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/bong-joon-ho-animated-feature-ally-sells-globally-pathe-1236814713/"
+        }
+      ]
+    },
+    {
+      "title": "The Most Serious Fart",
+      "studio": "Utopai Studios",
+      "talent": "Not Another Teen Movie writer",
+      "announcement": "AI-assisted animated movie produced by Utopai Studios with writer from Not Another Teen Movie.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/utopai-studios-ai-animated-movie-most-serious-fart-1236816485/"
+        }
+      ]
+    },
+    {
+      "title": "Growth of the Soil",
+      "studio": "Beta Cinema",
+      "talent": "Hans Petter Moland (director)",
+      "announcement": "Hans Petter Moland's film picked up by Beta Cinema ahead of Toronto premiere.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/hans-petter-moland-growth-of-the-soil-beta-cinema-toronto-1236816486/"
+        }
+      ]
+    },
+    {
+      "title": "The Two Week Wait",
+      "studio": "",
+      "talent": "Daniel Ings, Jessica Brown Findlay; Olivia Grant (director)",
+      "announcement": "Daniel Ings and Jessica Brown Findlay star in Olivia Grant's directorial debut.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/daniel-ings-jessica-brown-findlay-olivia-grant-short-film-1236652010/"
+        }
+      ]
+    },
+    {
+      "title": "Bad Karaoke",
+      "studio": "Tubi",
+      "talent": "",
+      "announcement": "Horror-comedy debuts trailer ahead of Tubi FrightFest premiere.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/bad-karaoke-trailer-horror-comedy-movie-terrible-singers-1236814775/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-20T06:33:13.401Z"
+  "tv": [
+    {
+      "title": "Afterlife With Archie",
+      "network": "Disney+",
+      "talent": "Riverdale team",
+      "announcement": "Series based on Archie comic ordered by Disney+ with Halloween 2027 premiere date, reuniting Riverdale team.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/afterlife-with-archie-series-comic-disney-release-window-1236997243/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/afterlife-with-archie-series-disney-plus-riverdale-1236815103/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/afterlife-with-archie-tv-series-disney-plus-1236652172/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/riverdale-apocalypse-series-afterlife-with-archie-disney/"
+        }
+      ]
+    },
+    {
+      "title": "Guilty Creatures",
+      "network": "Apple TV+",
+      "talent": "Julia Garner, Lewis Pullman; Tomorrow Studios (production)",
+      "announcement": "Lewis Pullman joins Julia Garner in Apple TV+ thriller series from Tomorrow Studios.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/lewis-pullman-julia-garner-guilty-creatures-apple-series-1236997333/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/lewis-pullman-julia-garner-apple-tv-guilty-creatures-1236816633/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/lewis-pullman-apple-tv-guilty-creatures-series-1236652193/"
+        }
+      ]
+    },
+    {
+      "title": "The Earliest Show",
+      "network": "Amplify Pictures",
+      "talent": "Kevin Carroll, Henry Winkler, Ryan Gaul, Brandon Scott Jones",
+      "announcement": "Revival greenlit at Amplify Pictures with Kevin Carroll, Henry Winkler, Ryan Gaul, and Brandon Scott Jones joining cast.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/earliest-show-greenlit-kevin-carroll-henry-more-cast-1236996687/"
+        }
+      ]
+    },
+    {
+      "title": "The Portrait of a Lady",
+      "network": "PBS Masterpiece, BBC, Fox",
+      "talent": "Nell Tiger Free, Gemma Arterton, Bill Nighy, Jim Sturgess, Miranda Richardson",
+      "announcement": "PBS Masterpiece, BBC, and Fox adapting Henry James novel with ensemble cast.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/pbs-bbc-adapting-portrait-of-a-lady-henry-james-bill-nighy-1236998240/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/bill-nighy-gemma-arterton-nell-tiger-free-the-portrait-of-a-lady-1236816416/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/bill-nighy-nell-tiger-free-portrait-of-a-lady-pbs-bbc-1236652160/"
+        }
+      ]
+    },
+    {
+      "title": "A Different World",
+      "network": "Netflix",
+      "talent": "Dwayne Wayne (returning)",
+      "announcement": "Sequel series drops first look at new generation of Hillman students with Dwayne Wayne returning.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/a-different-world-sequel-series-first-look-1236816606/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/dwayne-wayne-netflix-a-different-world-first-look-1236652182/"
+        }
+      ]
+    },
+    {
+      "title": "Grim Death and Bill the Electrocuted Criminal",
+      "network": "",
+      "talent": "Mike Mignola, Thomas E. Sniegoski (based on their novel)",
+      "announcement": "TV series in development based on supernatural novel by Hellboy creator Mike Mignola and Thomas E. Sniegoski.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/grim-death-and-bill-the-electrocuted-criminal-tv-series-1236815274/"
+        }
+      ]
+    },
+    {
+      "title": "Happy Hour",
+      "network": "Netflix",
+      "talent": "Kelsey Cook",
+      "announcement": "Kelsey Cook sets stand-up special at Netflix.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/kelsey-cook-netflix-special-happy-hour-premiere-date-1236997042/"
+        }
+      ]
+    },
+    {
+      "title": "The Dressing Room",
+      "network": "OUTtv",
+      "talent": "Eric McCormack (guest star)",
+      "announcement": "Eric McCormack to guest star in season 2.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/eric-mccormack-dressing-room-season-2-1236652167/"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-07-20T16:27:13.482Z"
 }
