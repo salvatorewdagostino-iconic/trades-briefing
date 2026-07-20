@@ -1,28 +1,40 @@
 {
   "date": "July 20, 2026",
-  "summary": "7 film announcements, 8 TV announcements across 5 trades.",
+  "summary": "11 film announcements, 10 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "The Price Of Peace",
-      "studio": "",
-      "talent": "Guy Pearce, Jared Harris, Merab Ninidze, Mia Threapleton, Danny Huston",
-      "announcement": "Mia Threapleton and Danny Huston join the cast as filming begins in London.",
+      "title": "Son of the Mob",
+      "studio": "Red Sage Studios & Sun Distribution",
+      "talent": "The Kissing Booth filmmakers",
+      "announcement": "YA rom-com film in development from The Kissing Booth duo for Red Sage Studios and Sun Distribution.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/threapleton-huston-guy-pearce-price-peace-filming-begins-1236998242/"
+          "url": "https://deadline.com/2026/07/the-kissing-booth-filmmakers-son-of-the-mob-rom-com-1236998511/"
         }
       ]
     },
     {
-      "title": "Grayson 'The Professor' Boucher Biopic",
-      "studio": "Hidden Empire Sports",
-      "talent": "Deon Taylor (director)",
-      "announcement": "Deon Taylor to direct biopic on streetball star Grayson 'The Professor' Boucher.",
+      "title": "Lizard Music",
+      "studio": "Amazon MGM & United Artists",
+      "talent": "Dwayne Johnson, Theo Clark Leber (lead), Benny Safdie (director)",
+      "announcement": "Benny Safdie directs this project with Dwayne Johnson and 10-year-old Theo Clark Leber landing the lead role opposite Johnson.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/deon-taylor-grayson-the-professor-boucher-biopic-1236815146/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/lizard-music-theo-leber-joins-dwayne-johnson-movie-1236997691/"
+        }
+      ]
+    },
+    {
+      "title": "Positano",
+      "studio": "Netflix",
+      "talent": "Toni Collette, Karren Karagulian, Daniel Roher (director)",
+      "announcement": "Netflix's Italian-set romantic caper adds Toni Collette and Karren Karagulian to cast from director Daniel Roher.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/positano-movie-casts-toni-collette-karren-karagulian-1236997694/"
         }
       ]
     },
@@ -30,7 +42,7 @@
       "title": "Ally",
       "studio": "Pathé",
       "talent": "Bong Joon Ho (director), Bradley Cooper, Ayo Edebiri (voice cast)",
-      "announcement": "Bong Joon Ho's first animated feature sells globally to Pathé with voice cast including Bradley Cooper and Ayo Edebiri.",
+      "announcement": "Bong Joon Ho's first animated feature with voice cast including Bradley Cooper and Ayo Edebiri sells globally through Pathé.",
       "sources": [
         {
           "name": "Variety",
@@ -42,7 +54,7 @@
       "title": "The Most Serious Fart",
       "studio": "Utopai Studios",
       "talent": "Not Another Teen Movie writer",
-      "announcement": "AI-assisted animated movie produced by Utopai Studios with writer from Not Another Teen Movie.",
+      "announcement": "Utopai Studios is producing this AI-assisted animated movie written by a Not Another Teen Movie writer.",
       "sources": [
         {
           "name": "Variety",
@@ -51,22 +63,22 @@
       ]
     },
     {
-      "title": "Growth of the Soil",
-      "studio": "Beta Cinema",
-      "talent": "Hans Petter Moland (director)",
-      "announcement": "Hans Petter Moland's film picked up by Beta Cinema ahead of Toronto premiere.",
+      "title": "Grayson 'The Professor' Boucher Biopic",
+      "studio": "Hidden Empire Sports",
+      "talent": "Deon Taylor (director)",
+      "announcement": "Deon Taylor to direct biopic on streetball star Grayson 'The Professor' Boucher for Hidden Empire Sports.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/global/hans-petter-moland-growth-of-the-soil-beta-cinema-toronto-1236816486/"
+          "url": "https://variety.com/2026/film/news/deon-taylor-grayson-the-professor-boucher-biopic-1236815146/"
         }
       ]
     },
     {
       "title": "The Two Week Wait",
       "studio": "",
-      "talent": "Daniel Ings, Jessica Brown Findlay; Olivia Grant (director)",
-      "announcement": "Daniel Ings and Jessica Brown Findlay star in Olivia Grant's directorial debut.",
+      "talent": "Daniel Ings, Jessica Brown Findlay, Olivia Grant (director)",
+      "announcement": "Daniel Ings and Jessica Brown Findlay star in Olivia Grant's directorial debut short film.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -75,24 +87,76 @@
       ]
     },
     {
+      "title": "Onwards and Sideways",
+      "studio": "",
+      "talent": "Laura Linney, Rhys Ifans, John Madden (director)",
+      "announcement": "John Madden directs this film with Laura Linney and Rhys Ifans as people being diagnosed with Parkinson's, headed to Toronto Film Festival.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/onwards-and-sideways-film-images-laura-linney-rhys-ifans-1236651002/"
+        }
+      ]
+    },
+    {
       "title": "Bad Karaoke",
       "studio": "Tubi",
       "talent": "",
-      "announcement": "Horror-comedy debuts trailer ahead of Tubi FrightFest premiere.",
+      "announcement": "Horror-comedy film debuts trailer ahead of Tubi FrightFest premiere.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/film/news/bad-karaoke-trailer-horror-comedy-movie-terrible-singers-1236814775/"
         }
       ]
+    },
+    {
+      "title": "Misty Green",
+      "studio": "",
+      "talent": "Chris Rock",
+      "announcement": "Chris Rock film set for world premiere at TIFF 2026.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/toronto-film-festival-2026-line-up-1236998190/"
+        }
+      ]
+    },
+    {
+      "title": "A Talent for Murder",
+      "studio": "",
+      "talent": "Anton Corbijn (director)",
+      "announcement": "Anton Corbijn film set for world premiere at TIFF 2026.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/toronto-film-festival-2026-line-up-1236998190/"
+        }
+      ]
     }
   ],
   "tv": [
     {
+      "title": "Myron Bolitar",
+      "network": "Netflix",
+      "talent": "Chloe Fineman, Jabari Banks, Jamie McShane, Ben McKenzie",
+      "announcement": "Netflix series adds Chloe Fineman to cast alongside Jabari Banks, Jamie McShane, and Ben McKenzie.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/netflix-myron-bolitar-cast-chloe-fineman-jabari-banks-1236998530/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/chloe-fineman-myron-bolitar-series-netflix-1236816733/"
+        }
+      ]
+    },
+    {
       "title": "Afterlife With Archie",
       "network": "Disney+",
       "talent": "Riverdale team",
-      "announcement": "Series based on Archie comic ordered by Disney+ with Halloween 2027 premiere date, reuniting Riverdale team.",
+      "announcement": "Series based on comic greenlit by Disney+ with Halloween 2027 premiere date, reuniting Riverdale team.",
       "sources": [
         {
           "name": "Deadline",
@@ -115,8 +179,8 @@
     {
       "title": "Guilty Creatures",
       "network": "Apple TV+",
-      "talent": "Julia Garner, Lewis Pullman; Tomorrow Studios (production)",
-      "announcement": "Lewis Pullman joins Julia Garner in Apple TV+ thriller series from Tomorrow Studios.",
+      "talent": "Julia Garner, Lewis Pullman, Tomorrow Studios",
+      "announcement": "Apple TV+ thriller series adds Lewis Pullman to cast alongside Julia Garner from Tomorrow Studios.",
       "sources": [
         {
           "name": "Deadline",
@@ -133,6 +197,22 @@
       ]
     },
     {
+      "title": "The Portrait of a Lady",
+      "network": "PBS/BBC",
+      "talent": "Nell Tiger Free, Gemma Arterton, Bill Nighy, Jim Sturgess, Miranda Richardson",
+      "announcement": "PBS Masterpiece and BBC adaptation of Henry James novel with ensemble cast featuring Nell Tiger Free, Gemma Arterton, Bill Nighy, Jim Sturgess, and Miranda Richardson.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/pbs-bbc-adapting-portrait-of-a-lady-henry-james-bill-nighy-1236998240/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/bill-nighy-nell-tiger-free-portrait-of-a-lady-pbs-bbc-1236652160/"
+        }
+      ]
+    },
+    {
       "title": "The Earliest Show",
       "network": "Amplify Pictures",
       "talent": "Kevin Carroll, Henry Winkler, Ryan Gaul, Brandon Scott Jones",
@@ -145,35 +225,11 @@
       ]
     },
     {
-      "title": "The Portrait of a Lady",
-      "network": "PBS Masterpiece, BBC, Fox",
-      "talent": "Nell Tiger Free, Gemma Arterton, Bill Nighy, Jim Sturgess, Miranda Richardson",
-      "announcement": "PBS Masterpiece, BBC, and Fox adapting Henry James novel with ensemble cast.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/pbs-bbc-adapting-portrait-of-a-lady-henry-james-bill-nighy-1236998240/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/global/bill-nighy-gemma-arterton-nell-tiger-free-the-portrait-of-a-lady-1236816416/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/bill-nighy-nell-tiger-free-portrait-of-a-lady-pbs-bbc-1236652160/"
-        }
-      ]
-    },
-    {
       "title": "A Different World",
       "network": "Netflix",
-      "talent": "Dwayne Wayne (returning)",
-      "announcement": "Sequel series drops first look at new generation of Hillman students with Dwayne Wayne returning.",
+      "talent": "Dwayne Wayne (character returning)",
+      "announcement": "Netflix revival of A Different World with Dwayne Wayne returning without the flip-up shades, first look revealed.",
       "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/a-different-world-sequel-series-first-look-1236816606/"
-        },
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/dwayne-wayne-netflix-a-different-world-first-look-1236652182/"
@@ -181,26 +237,14 @@
       ]
     },
     {
-      "title": "Grim Death and Bill the Electrocuted Criminal",
+      "title": "John Carter of Mars",
       "network": "",
-      "talent": "Mike Mignola, Thomas E. Sniegoski (based on their novel)",
-      "announcement": "TV series in development based on supernatural novel by Hellboy creator Mike Mignola and Thomas E. Sniegoski.",
+      "talent": "Mark Andrews (director)",
+      "announcement": "Oscar winner Mark Andrews boards animated series adaptation.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/grim-death-and-bill-the-electrocuted-criminal-tv-series-1236815274/"
-        }
-      ]
-    },
-    {
-      "title": "Happy Hour",
-      "network": "Netflix",
-      "talent": "Kelsey Cook",
-      "announcement": "Kelsey Cook sets stand-up special at Netflix.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/kelsey-cook-netflix-special-happy-hour-premiere-date-1236997042/"
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/john-carter-warlord-of-mars-adds-mark-andrews/"
         }
       ]
     },
@@ -208,14 +252,38 @@
       "title": "The Dressing Room",
       "network": "OUTtv",
       "talent": "Eric McCormack (guest star)",
-      "announcement": "Eric McCormack to guest star in season 2.",
+      "announcement": "Eric McCormack to guest star in Season 2 of OUTtv's The Dressing Room.",
       "sources": [
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/eric-mccormack-dressing-room-season-2-1236652167/"
         }
       ]
+    },
+    {
+      "title": "Roku Holiday Rom-Coms",
+      "network": "Roku",
+      "talent": "Ayesha Curry, Matthew Daddario, Joey Graziadei, Jamie Chung",
+      "announcement": "Roku greenlights holiday romantic comedies starring Ayesha Curry, Matthew Daddario, Joey Graziadei, and Jamie Chung.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/roku-holiday-romantic-comedies-ayesha-curry-joey-graziadei-1236649016/"
+        }
+      ]
+    },
+    {
+      "title": "Happy Hour",
+      "network": "Netflix",
+      "talent": "Kelsey Cook",
+      "announcement": "Kelsey Cook sets Netflix stand-up special titled Happy Hour.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/kelsey-cook-netflix-special-happy-hour-premiere-date-1236997042/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-07-20T16:27:13.482Z"
+  "lastUpdated": "2026-07-20T18:30:52.678Z"
 }
