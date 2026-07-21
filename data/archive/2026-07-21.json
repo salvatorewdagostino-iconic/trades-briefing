@@ -1,7 +1,20 @@
 {
   "date": "July 21, 2026",
-  "summary": "0 film announcements, 0 TV announcements across 5 trades.",
-  "film": [],
+  "summary": "1 film announcement, 0 TV announcements across 5 trades.",
+  "film": [
+    {
+      "title": "Spider-Man: Brand New Day",
+      "studio": "Sony Pictures",
+      "talent": "Sadie Sink",
+      "announcement": "Sadie Sink cast in mystery role for Spider-Man: Brand New Day, confirming she is not playing Aunt May.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/sadie-sink-mystery-spider-man-brand-new-day-role-1236999030/"
+        }
+      ]
+    }
+  ],
   "tv": [],
-  "lastUpdated": "2026-07-21T02:47:00.228Z"
+  "lastUpdated": "2026-07-21T05:52:50.193Z"
 }
