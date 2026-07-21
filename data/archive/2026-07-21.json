@@ -1,11 +1,47 @@
 {
   "date": "July 21, 2026",
-  "summary": "6 film announcements, 5 TV announcements across 5 trades.",
+  "summary": "8 film announcements, 9 TV announcements across 5 trades.",
   "film": [
     {
+      "title": "The Silent Patient",
+      "studio": "Sony",
+      "talent": "",
+      "announcement": "Sony, Annapurna and Plan B are teaming on a feature adaptation of Alex Michaelides' bestselling novel.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/sony-annapurna-plan-b-alex-michaelides-the-silent-patient-1236998783/"
+        }
+      ]
+    },
+    {
+      "title": "Supermax",
+      "studio": "",
+      "talent": "Will Smith, AnnaSophia Robb",
+      "announcement": "AnnaSophia Robb joins Will Smith in the action thriller, co-starring opposite the actor.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/i-play-rocky-annasophia-robb-will-smith-supermax-1236998794/"
+        }
+      ]
+    },
+    {
+      "title": "Goblin",
+      "studio": "A24",
+      "talent": "Kenneth Branagh, Skyler Gisondo, Will Forte",
+      "announcement": "Will Forte joins Kenneth Branagh and Skyler Gisondo in A24's 'Goblin'.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/will-forte-joins-skyler-gisondo-kenneth-branagh-in-goblin-1236999516/"
+        }
+      ]
+    },
+    {
       "title": "Turn The Lights Back On",
-      "studio": "Indie",
-      "talent": "Alex Borstein, June Squibb",
+      "studio": "",
+      "talent": "June Squibb, Alex Borstein",
       "announcement": "June Squibb joins Alex Borstein in the indie dramedy.",
       "sources": [
         {
@@ -16,9 +52,9 @@
     },
     {
       "title": "Deadpool",
-      "studio": "Marvel/Disney",
+      "studio": "Marvel",
       "talent": "Ryan Reynolds",
-      "announcement": "Ryan Reynolds confirms a new Deadpool movie is in active development.",
+      "announcement": "Ryan Reynolds confirms a new Deadpool movie is in works.",
       "sources": [
         {
           "name": "Deadline",
@@ -30,7 +66,7 @@
       "title": "Runaway",
       "studio": "",
       "talent": "Josh Duhamel, James Franco, Paula Patton, Summer H. Howell",
-      "announcement": "Action-thriller wraps production with its full cast.",
+      "announcement": "Josh Duhamel, James Franco, Paula Patton and Summer H. Howell wrap production on the action-thriller.",
       "sources": [
         {
           "name": "Deadline",
@@ -39,26 +75,14 @@
       ]
     },
     {
-      "title": "The Stunt Driver",
-      "studio": "Independent Film Company",
-      "talent": "Jay Baruchel",
-      "announcement": "Independent Film Company acquires the comedy about Canadian daredevil Ken Carter ahead of TIFF premiere.",
+      "title": "Kill Jackie",
+      "studio": "AMC+",
+      "talent": "Catherine Zeta-Jones",
+      "announcement": "Catherine Zeta-Jones thriller 'Kill Jackie' is acquired by AMC+.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/the-stunt-driver-movie-release-date-independent-film-company-1236997681/"
-        }
-      ]
-    },
-    {
-      "title": "Jason Statham Stole My Bike",
-      "studio": "",
-      "talent": "Eddie Peng, Daniel Ings, Artie Wilkinson-Hunt",
-      "announcement": "Action-comedy adds three cast members to its ensemble.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/jason-statham-stole-my-bike-eddie-peng-daniel-ings-1236817082/"
+          "url": "https://deadline.com/2026/07/amc-plus-kill-jackie-catherine-zeta-jones-thriller-ings-1236999320/"
         }
       ]
     },
@@ -66,7 +90,7 @@
       "title": "Champions of Nowhere",
       "studio": "",
       "talent": "",
-      "announcement": "Kenya soccer documentary set as part of three-film co-production deal between The Brutalist EP and Nawi makers.",
+      "announcement": "Filmmakers behind 'The Brutalist' and 'Nawi' strike a three-film co-production deal with a Kenya soccer documentary 'Champions of Nowhere' announced.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -77,10 +101,42 @@
   ],
   "tv": [
     {
+      "title": "Dutton Ranch",
+      "network": "",
+      "talent": "Ed Harris",
+      "announcement": "Ed Harris is returning to 'Dutton Ranch' for Season 2 following a showrunner change despite character arc frustrations.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/ed-harris-returning-dutton-ranch-season-2-showrunner-change-1236999568/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/ed-harris-dutton-ranch-taylor-sheridan-1236653026/"
+        }
+      ]
+    },
+    {
+      "title": "Monsterverse Series",
+      "network": "Apple TV+",
+      "talent": "Wyatt Russell, Corey Stoll, Ralph Ineson, Nyasha Hatendi",
+      "announcement": "Corey Stoll, Ralph Ineson and Nyasha Hatendi join the Wyatt Russell-led Monsterverse series.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/apple-monsterverse-series-cast-corey-stoll-1236999454/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/wyatt-russell-monsterverse-series-corey-stoll-ralph-ineson-1236817481/"
+        }
+      ]
+    },
+    {
       "title": "Sex Criminals",
       "network": "Prime Video",
       "talent": "Joseph Lee, Sunita Mani",
-      "announcement": "Joseph Lee and Sunita Mani join the Prime Video series based on the comic book.",
+      "announcement": "Joseph Lee and Sunita Mani join Prime Video's 'Sex Criminals' series based on the comic.",
       "sources": [
         {
           "name": "Deadline",
@@ -92,7 +148,7 @@
       "title": "The Magnificent Seven",
       "network": "MGM+",
       "talent": "",
-      "announcement": "MGM+ series adds four actors to its series regular cast.",
+      "announcement": "MGM+ adds four actors to the 'The Magnificent Seven' series regular cast.",
       "sources": [
         {
           "name": "Deadline",
@@ -104,7 +160,7 @@
       "title": "RoboCop",
       "network": "Prime Video",
       "talent": "",
-      "announcement": "Amazon orders RoboCop series from Blumhouse and Atomic Monster, set to tackle corporate greed themes.",
+      "announcement": "Amazon orders 'RoboCop' series from Blumhouse and Atomic Monster, tackling themes of corporate greed.",
       "sources": [
         {
           "name": "Deadline",
@@ -125,29 +181,53 @@
       ]
     },
     {
-      "title": "Kill Jackie",
-      "network": "AMC+",
-      "talent": "Catherine Zeta-Jones",
-      "announcement": "AMC+ acquires the Catherine Zeta-Jones thriller.",
+      "title": "The Real Housewives of New York City",
+      "network": "Bravo",
+      "talent": "Carole Radziwill",
+      "announcement": "Season 16 cast photos, trailer and premiere date are set; Carole Radziwill returns full-time to the cast.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/amc-plus-kill-jackie-catherine-zeta-jones-thriller-ings-1236999320/"
+          "url": "https://deadline.com/gallery/the-real-housewives-of-new-york-city-season-16-cast-photos-bravo/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/lists/real-housewives-new-york-city-season-16-trailer-cast/"
         }
       ]
     },
     {
-      "title": "Stamptown",
-      "network": "Netflix",
-      "talent": "Zach Zucker",
-      "announcement": "Comedian Zach Zucker's variety special set to premiere on Netflix in August.",
+      "title": "The Daily Show",
+      "network": "Comedy Central",
+      "talent": "",
+      "announcement": "The Daily Show launches its first microdrama spoofing billionaires Elon Musk and Jeff Bezos as Bachelor contestants.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/stamptown-netflix-special-zach-zucker-sets-premiere-date-1236998914/"
+          "url": "https://deadline.com/2026/07/robocop-series-ordered-amazon-blumhouse-atomic-monster-1236999196/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/the-daily-show-first-microdrama-1236652665/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/the-daily-show-microdrama/"
+        }
+      ]
+    },
+    {
+      "title": "Dancing With the Stars: The Next Pro",
+      "network": "ABC",
+      "talent": "",
+      "announcement": "Cast revealed for 'Dancing With the Stars: The Next Pro', the competition to find a new pro for Season 35.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/lists/dancing-with-the-stars-next-pro-cast-judges/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-21T17:54:22.266Z"
+  "lastUpdated": "2026-07-21T19:37:05.530Z"
 }
