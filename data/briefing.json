@@ -1,20 +1,93 @@
 {
   "date": "July 21, 2026",
-  "summary": "1 film announcement, 0 TV announcements across 5 trades.",
+  "summary": "4 film announcements, 2 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Spider-Man: Brand New Day",
-      "studio": "Sony Pictures",
-      "talent": "Sadie Sink",
-      "announcement": "Sadie Sink cast in mystery role for Spider-Man: Brand New Day, confirming she is not playing Aunt May.",
+      "title": "Kill Jackie",
+      "studio": "AMC+",
+      "talent": "Catherine Zeta-Jones",
+      "announcement": "Catherine Zeta-Jones thriller acquired by AMC+.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/sadie-sink-mystery-spider-man-brand-new-day-role-1236999030/"
+          "url": "https://deadline.com/2026/07/amc-plus-kill-jackie-catherine-zeta-jones-thriller-ings-1236999320/"
+        }
+      ]
+    },
+    {
+      "title": "Runaway",
+      "studio": "",
+      "talent": "Josh Duhamel, James Franco, Paula Patton, Summer H. Howell",
+      "announcement": "Action-thriller starring Josh Duhamel, James Franco, and Paula Patton wraps production.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/josh-duhamel-james-franco-paula-patton-join-runaway-1236999173/"
+        }
+      ]
+    },
+    {
+      "title": "The Stunt Driver",
+      "studio": "Independent Film Company",
+      "talent": "Jay Baruchel",
+      "announcement": "Independent Film Company acquires comedy starring Jay Baruchel as Canadian daredevil Ken Carter ahead of TIFF premiere.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/the-stunt-driver-movie-release-date-independent-film-company-1236997681/"
+        }
+      ]
+    },
+    {
+      "title": "Jason Statham Stole My Bike",
+      "studio": "",
+      "talent": "Eddie Peng, Daniel Ings, Artie Wilkinson-Hunt",
+      "announcement": "Action-comedy adds Eddie Peng, Daniel Ings, and Artie Wilkinson-Hunt to cast.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/jason-statham-stole-my-bike-eddie-peng-daniel-ings-1236817082/"
         }
       ]
     }
   ],
-  "tv": [],
-  "lastUpdated": "2026-07-21T05:52:50.193Z"
+  "tv": [
+    {
+      "title": "RoboCop",
+      "network": "Amazon Prime Video",
+      "talent": "Blumhouse, Atomic Monster",
+      "announcement": "Series ordered at Amazon Prime Video from Blumhouse and Atomic Monster, set to tackle corporate greed.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/robocop-series-ordered-amazon-blumhouse-atomic-monster-1236999196/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/robocop-reboot-series-amazon-prime-video-1236817195/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/robocop-tv-series-amazon-prime-video-blumhouse-1236652947/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/tv/robocop-series-prime-video-james-wan/"
+        }
+      ]
+    },
+    {
+      "title": "Stamptown",
+      "network": "Netflix",
+      "talent": "Zach Zucker",
+      "announcement": "Comedian Zach Zucker's variety special set to premiere on Netflix in August.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/stamptown-netflix-special-zach-zucker-sets-premiere-date-1236998914/"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-07-21T16:25:07.268Z"
 }
