@@ -1,12 +1,12 @@
 {
   "date": "July 21, 2026",
-  "summary": "8 film announcements, 9 TV announcements across 5 trades.",
+  "summary": "7 film announcements, 11 TV announcements across 5 trades.",
   "film": [
     {
       "title": "The Silent Patient",
-      "studio": "Sony",
+      "studio": "Sony Pictures",
       "talent": "",
-      "announcement": "Sony, Annapurna and Plan B are teaming on a feature adaptation of Alex Michaelides' bestselling novel.",
+      "announcement": "Sony, Annapurna Pictures, and Plan B Entertainment team on feature adaptation of Alex Michaelides' bestselling novel.",
       "sources": [
         {
           "name": "Deadline",
@@ -18,7 +18,7 @@
       "title": "Supermax",
       "studio": "",
       "talent": "Will Smith, AnnaSophia Robb",
-      "announcement": "AnnaSophia Robb joins Will Smith in the action thriller, co-starring opposite the actor.",
+      "announcement": "AnnaSophia Robb cast opposite Will Smith in action thriller.",
       "sources": [
         {
           "name": "Deadline",
@@ -30,7 +30,7 @@
       "title": "Goblin",
       "studio": "A24",
       "talent": "Kenneth Branagh, Skyler Gisondo, Will Forte",
-      "announcement": "Will Forte joins Kenneth Branagh and Skyler Gisondo in A24's 'Goblin'.",
+      "announcement": "Will Forte joins Kenneth Branagh and Skyler Gisondo in A24's Goblin.",
       "sources": [
         {
           "name": "Deadline",
@@ -41,8 +41,8 @@
     {
       "title": "Turn The Lights Back On",
       "studio": "",
-      "talent": "June Squibb, Alex Borstein",
-      "announcement": "June Squibb joins Alex Borstein in the indie dramedy.",
+      "talent": "Alex Borstein, June Squibb",
+      "announcement": "June Squibb joins Alex Borstein in indie dramedy.",
       "sources": [
         {
           "name": "Deadline",
@@ -52,9 +52,9 @@
     },
     {
       "title": "Deadpool",
-      "studio": "Marvel",
+      "studio": "",
       "talent": "Ryan Reynolds",
-      "announcement": "Ryan Reynolds confirms a new Deadpool movie is in works.",
+      "announcement": "Ryan Reynolds confirms new Deadpool movie in works.",
       "sources": [
         {
           "name": "Deadline",
@@ -66,7 +66,7 @@
       "title": "Runaway",
       "studio": "",
       "talent": "Josh Duhamel, James Franco, Paula Patton, Summer H. Howell",
-      "announcement": "Josh Duhamel, James Franco, Paula Patton and Summer H. Howell wrap production on the action-thriller.",
+      "announcement": "Action-thriller wraps production with cast including Josh Duhamel, James Franco, and Paula Patton.",
       "sources": [
         {
           "name": "Deadline",
@@ -75,22 +75,10 @@
       ]
     },
     {
-      "title": "Kill Jackie",
-      "studio": "AMC+",
-      "talent": "Catherine Zeta-Jones",
-      "announcement": "Catherine Zeta-Jones thriller 'Kill Jackie' is acquired by AMC+.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/amc-plus-kill-jackie-catherine-zeta-jones-thriller-ings-1236999320/"
-        }
-      ]
-    },
-    {
       "title": "Champions of Nowhere",
       "studio": "",
       "talent": "",
-      "announcement": "Filmmakers behind 'The Brutalist' and 'Nawi' strike a three-film co-production deal with a Kenya soccer documentary 'Champions of Nowhere' announced.",
+      "announcement": "Kenya soccer documentary set as part of three-film co-production deal from The Brutalist EP and Nawi makers.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -104,7 +92,7 @@
       "title": "Dutton Ranch",
       "network": "",
       "talent": "Ed Harris",
-      "announcement": "Ed Harris is returning to 'Dutton Ranch' for Season 2 following a showrunner change despite character arc frustrations.",
+      "announcement": "Ed Harris returning for Season 2 following showrunner change and character arc frustrations.",
       "sources": [
         {
           "name": "Deadline",
@@ -120,7 +108,7 @@
       "title": "Monsterverse Series",
       "network": "Apple TV+",
       "talent": "Wyatt Russell, Corey Stoll, Ralph Ineson, Nyasha Hatendi",
-      "announcement": "Corey Stoll, Ralph Ineson and Nyasha Hatendi join the Wyatt Russell-led Monsterverse series.",
+      "announcement": "Corey Stoll, Ralph Ineson, and Nyasha Hatendi join Wyatt Russell-led Monsterverse series.",
       "sources": [
         {
           "name": "Deadline",
@@ -136,7 +124,7 @@
       "title": "Sex Criminals",
       "network": "Prime Video",
       "talent": "Joseph Lee, Sunita Mani",
-      "announcement": "Joseph Lee and Sunita Mani join Prime Video's 'Sex Criminals' series based on the comic.",
+      "announcement": "Joseph Lee and Sunita Mani join Prime Video series based on comic.",
       "sources": [
         {
           "name": "Deadline",
@@ -148,7 +136,7 @@
       "title": "The Magnificent Seven",
       "network": "MGM+",
       "talent": "",
-      "announcement": "MGM+ adds four actors to the 'The Magnificent Seven' series regular cast.",
+      "announcement": "MGM+ series adds four cast members to series regular roles.",
       "sources": [
         {
           "name": "Deadline",
@@ -160,7 +148,7 @@
       "title": "RoboCop",
       "network": "Prime Video",
       "talent": "",
-      "announcement": "Amazon orders 'RoboCop' series from Blumhouse and Atomic Monster, tackling themes of corporate greed.",
+      "announcement": "Series ordered by Amazon from Blumhouse and Atomic Monster, will tackle corporate greed.",
       "sources": [
         {
           "name": "Deadline",
@@ -184,11 +172,15 @@
       "title": "The Real Housewives of New York City",
       "network": "Bravo",
       "talent": "Carole Radziwill",
-      "announcement": "Season 16 cast photos, trailer and premiere date are set; Carole Radziwill returns full-time to the cast.",
+      "announcement": "Season 16 cast photos, trailer, and premiere date set; Carole Radziwill returning full time.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/gallery/the-real-housewives-of-new-york-city-season-16-cast-photos-bravo/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/carole-radziwill-jeffrey-epstein-rhony-season-16-trailer-1236817476/"
         },
         {
           "name": "Hollywood Reporter",
@@ -197,15 +189,35 @@
       ]
     },
     {
+      "title": "Untold",
+      "network": "Netflix",
+      "talent": "",
+      "announcement": "Documentary series returns with new installments on Raygun, Vince Young, and Mr. T.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/untold-docs-raygun-vince-young-mr-t-netflix-exclusive-1236653211/"
+        }
+      ]
+    },
+    {
+      "title": "Camp Rock 3",
+      "network": "",
+      "talent": "Jonas Brothers",
+      "announcement": "Trailer released for project where Jonas Brothers search for next big star.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/tv-news-roundup-week-of-july-20-1236816679/"
+        }
+      ]
+    },
+    {
       "title": "The Daily Show",
       "network": "Comedy Central",
       "talent": "",
-      "announcement": "The Daily Show launches its first microdrama spoofing billionaires Elon Musk and Jeff Bezos as Bachelor contestants.",
+      "announcement": "First late night microdrama launched, spoofing Elon Musk and Jeff Bezos as billionaire bachelors.",
       "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/robocop-series-ordered-amazon-blumhouse-atomic-monster-1236999196/"
-        },
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/the-daily-show-first-microdrama-1236652665/"
@@ -217,17 +229,17 @@
       ]
     },
     {
-      "title": "Dancing With the Stars: The Next Pro",
-      "network": "ABC",
-      "talent": "",
-      "announcement": "Cast revealed for 'Dancing With the Stars: The Next Pro', the competition to find a new pro for Season 35.",
+      "title": "Euphoria",
+      "network": "HBO",
+      "talent": "Jacob Elordi",
+      "announcement": "Jacob Elordi reveals he spent two days locked in a coffin with a real snake for his death scene.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/lists/dancing-with-the-stars-next-pro-cast-judges/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/jacob-elordi-euphoria-death-locked-in-coffin-snake-1236817094/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-21T19:37:05.530Z"
+  "lastUpdated": "2026-07-21T21:14:56.962Z"
 }
