@@ -1,12 +1,12 @@
 {
   "date": "July 21, 2026",
-  "summary": "7 film announcements, 11 TV announcements across 5 trades.",
+  "summary": "11 film announcements, 8 TV announcements across 5 trades.",
   "film": [
     {
       "title": "The Silent Patient",
       "studio": "Sony Pictures",
       "talent": "",
-      "announcement": "Sony, Annapurna Pictures, and Plan B Entertainment team on feature adaptation of Alex Michaelides' bestselling novel.",
+      "announcement": "Sony, Annapurna Pictures, and Plan B Entertainment team up for a feature adaptation of Alex Michaelides' bestselling novel.",
       "sources": [
         {
           "name": "Deadline",
@@ -15,10 +15,34 @@
       ]
     },
     {
+      "title": "Snoop Dogg Biopic",
+      "studio": "Universal",
+      "talent": "",
+      "announcement": "Craig Brewer-directed Snoop Dogg biopic sets Summer 2027 release date.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/snoop-dogg-biopic-release-date-1236999750/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/snoop-dogg-movie-biopic-release-date-1236817610/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/snoop-dogg-biopic-lands-summer-2027-release-1236653520/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/snoop-summer-2027-release-date/"
+        }
+      ]
+    },
+    {
       "title": "Supermax",
       "studio": "",
       "talent": "Will Smith, AnnaSophia Robb",
-      "announcement": "AnnaSophia Robb cast opposite Will Smith in action thriller.",
+      "announcement": "AnnaSophia Robb cast to co-star opposite Will Smith in action thriller Supermax.",
       "sources": [
         {
           "name": "Deadline",
@@ -42,7 +66,7 @@
       "title": "Turn The Lights Back On",
       "studio": "",
       "talent": "Alex Borstein, June Squibb",
-      "announcement": "June Squibb joins Alex Borstein in indie dramedy.",
+      "announcement": "June Squibb joins Alex Borstein in indie dramedy Turn The Lights Back On.",
       "sources": [
         {
           "name": "Deadline",
@@ -52,9 +76,9 @@
     },
     {
       "title": "Deadpool",
-      "studio": "",
+      "studio": "Marvel/Disney",
       "talent": "Ryan Reynolds",
-      "announcement": "Ryan Reynolds confirms new Deadpool movie in works.",
+      "announcement": "Ryan Reynolds confirms a new Deadpool movie is in works.",
       "sources": [
         {
           "name": "Deadline",
@@ -66,7 +90,7 @@
       "title": "Runaway",
       "studio": "",
       "talent": "Josh Duhamel, James Franco, Paula Patton, Summer H. Howell",
-      "announcement": "Action-thriller wraps production with cast including Josh Duhamel, James Franco, and Paula Patton.",
+      "announcement": "Josh Duhamel, James Franco, Paula Patton and Summer H. Howell wrap filming on action-thriller Runaway.",
       "sources": [
         {
           "name": "Deadline",
@@ -75,14 +99,50 @@
       ]
     },
     {
+      "title": "Armadillo World Headquarters",
+      "studio": "",
+      "talent": "Woody Harrelson (producer)",
+      "announcement": "Woody Harrelson to produce documentary on legendary Austin music venue Armadillo World Headquarters.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/woody-harrelson-documentary-armadillo-world-headquarters-1236999688/"
+        }
+      ]
+    },
+    {
       "title": "Champions of Nowhere",
       "studio": "",
       "talent": "",
-      "announcement": "Kenya soccer documentary set as part of three-film co-production deal from The Brutalist EP and Nawi makers.",
+      "announcement": "Makers of 'Nawi' strike three-film co-production deal and set Kenya soccer documentary Champions of Nowhere.",
       "sources": [
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/thomas-pierce-nawi-filmcrew-film-deal-champions-of-nowhere-1236650930/"
+        }
+      ]
+    },
+    {
+      "title": "The Odyssey",
+      "studio": "",
+      "talent": "",
+      "announcement": "Christopher Nolan's The Odyssey movie adaptation generating interest and boosting book engagement.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/the-odyssey-christopher-nolan-movie-book-spotify-streams-gen-z-homer-1236817374/"
+        }
+      ]
+    },
+    {
+      "title": "Other Mommy",
+      "studio": "",
+      "talent": "Jessica Chastain",
+      "announcement": "Horror film Other Mommy features Jessica Chastain as a body-twisting doppelganger.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/other-mommy-trailer-jessica-chastain-horror-1236653044/"
         }
       ]
     }
@@ -90,9 +150,9 @@
   "tv": [
     {
       "title": "Dutton Ranch",
-      "network": "",
+      "network": "Paramount",
       "talent": "Ed Harris",
-      "announcement": "Ed Harris returning for Season 2 following showrunner change and character arc frustrations.",
+      "announcement": "Ed Harris returning to Dutton Ranch for Season 2 after character arc frustrations and showrunner change.",
       "sources": [
         {
           "name": "Deadline",
@@ -108,7 +168,7 @@
       "title": "Monsterverse Series",
       "network": "Apple TV+",
       "talent": "Wyatt Russell, Corey Stoll, Ralph Ineson, Nyasha Hatendi",
-      "announcement": "Corey Stoll, Ralph Ineson, and Nyasha Hatendi join Wyatt Russell-led Monsterverse series.",
+      "announcement": "Corey Stoll, Ralph Ineson and Nyasha Hatendi join Wyatt Russell-led Monsterverse series.",
       "sources": [
         {
           "name": "Deadline",
@@ -124,7 +184,7 @@
       "title": "Sex Criminals",
       "network": "Prime Video",
       "talent": "Joseph Lee, Sunita Mani",
-      "announcement": "Joseph Lee and Sunita Mani join Prime Video series based on comic.",
+      "announcement": "Joseph Lee and Sunita Mani join Prime Video series based on comic Sex Criminals.",
       "sources": [
         {
           "name": "Deadline",
@@ -136,7 +196,7 @@
       "title": "The Magnificent Seven",
       "network": "MGM+",
       "talent": "",
-      "announcement": "MGM+ series adds four cast members to series regular roles.",
+      "announcement": "MGM+ series The Magnificent Seven adds four to series regular cast.",
       "sources": [
         {
           "name": "Deadline",
@@ -148,7 +208,7 @@
       "title": "RoboCop",
       "network": "Prime Video",
       "talent": "",
-      "announcement": "Series ordered by Amazon from Blumhouse and Atomic Monster, will tackle corporate greed.",
+      "announcement": "RoboCop series ordered by Amazon from Blumhouse and Atomic Monster to tackle corporate greed themes.",
       "sources": [
         {
           "name": "Deadline",
@@ -169,30 +229,10 @@
       ]
     },
     {
-      "title": "The Real Housewives of New York City",
-      "network": "Bravo",
-      "talent": "Carole Radziwill",
-      "announcement": "Season 16 cast photos, trailer, and premiere date set; Carole Radziwill returning full time.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/gallery/the-real-housewives-of-new-york-city-season-16-cast-photos-bravo/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/carole-radziwill-jeffrey-epstein-rhony-season-16-trailer-1236817476/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/lists/real-housewives-new-york-city-season-16-trailer-cast/"
-        }
-      ]
-    },
-    {
       "title": "Untold",
       "network": "Netflix",
       "talent": "",
-      "announcement": "Documentary series returns with new installments on Raygun, Vince Young, and Mr. T.",
+      "announcement": "Netflix documentary series Untold returns with documentaries on Raygun, Vince Young, and Mr. T.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -201,22 +241,10 @@
       ]
     },
     {
-      "title": "Camp Rock 3",
-      "network": "",
-      "talent": "Jonas Brothers",
-      "announcement": "Trailer released for project where Jonas Brothers search for next big star.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/tv-news-roundup-week-of-july-20-1236816679/"
-        }
-      ]
-    },
-    {
-      "title": "The Daily Show",
+      "title": "The Daily Show Microdrama",
       "network": "Comedy Central",
       "talent": "",
-      "announcement": "First late night microdrama launched, spoofing Elon Musk and Jeff Bezos as billionaire bachelors.",
+      "announcement": "The Daily Show launches first late night microdrama spoofing billionaires and featuring a love triangle.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -229,17 +257,17 @@
       ]
     },
     {
-      "title": "Euphoria",
-      "network": "HBO",
-      "talent": "Jacob Elordi",
-      "announcement": "Jacob Elordi reveals he spent two days locked in a coffin with a real snake for his death scene.",
+      "title": "Camp Rock 3",
+      "network": "Disney Channel",
+      "talent": "Jonas Brothers",
+      "announcement": "Camp Rock 3 trailer released featuring Jonas Brothers searching for the next big star.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/jacob-elordi-euphoria-death-locked-in-coffin-snake-1236817094/"
+          "url": "https://variety.com/2026/tv/news/tv-news-roundup-week-of-july-20-1236816679/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-21T21:14:56.962Z"
+  "lastUpdated": "2026-07-21T22:28:06.593Z"
 }
