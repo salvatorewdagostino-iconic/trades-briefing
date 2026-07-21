@@ -1,16 +1,28 @@
 {
   "date": "July 21, 2026",
-  "summary": "4 film announcements, 2 TV announcements across 5 trades.",
+  "summary": "6 film announcements, 5 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Kill Jackie",
-      "studio": "AMC+",
-      "talent": "Catherine Zeta-Jones",
-      "announcement": "Catherine Zeta-Jones thriller acquired by AMC+.",
+      "title": "Turn The Lights Back On",
+      "studio": "Indie",
+      "talent": "Alex Borstein, June Squibb",
+      "announcement": "June Squibb joins Alex Borstein in the indie dramedy.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/amc-plus-kill-jackie-catherine-zeta-jones-thriller-ings-1236999320/"
+          "url": "https://deadline.com/2026/07/june-squibb-joins-turn-the-lights-back-on-alex-borstein-1236999457/"
+        }
+      ]
+    },
+    {
+      "title": "Deadpool",
+      "studio": "Marvel/Disney",
+      "talent": "Ryan Reynolds",
+      "announcement": "Ryan Reynolds confirms a new Deadpool movie is in active development.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/ryan-reynolds-new-deadpool-movie-1236999423/"
         }
       ]
     },
@@ -18,7 +30,7 @@
       "title": "Runaway",
       "studio": "",
       "talent": "Josh Duhamel, James Franco, Paula Patton, Summer H. Howell",
-      "announcement": "Action-thriller starring Josh Duhamel, James Franco, and Paula Patton wraps production.",
+      "announcement": "Action-thriller wraps production with its full cast.",
       "sources": [
         {
           "name": "Deadline",
@@ -30,7 +42,7 @@
       "title": "The Stunt Driver",
       "studio": "Independent Film Company",
       "talent": "Jay Baruchel",
-      "announcement": "Independent Film Company acquires comedy starring Jay Baruchel as Canadian daredevil Ken Carter ahead of TIFF premiere.",
+      "announcement": "Independent Film Company acquires the comedy about Canadian daredevil Ken Carter ahead of TIFF premiere.",
       "sources": [
         {
           "name": "Deadline",
@@ -42,21 +54,57 @@
       "title": "Jason Statham Stole My Bike",
       "studio": "",
       "talent": "Eddie Peng, Daniel Ings, Artie Wilkinson-Hunt",
-      "announcement": "Action-comedy adds Eddie Peng, Daniel Ings, and Artie Wilkinson-Hunt to cast.",
+      "announcement": "Action-comedy adds three cast members to its ensemble.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/film/global/jason-statham-stole-my-bike-eddie-peng-daniel-ings-1236817082/"
         }
       ]
+    },
+    {
+      "title": "Champions of Nowhere",
+      "studio": "",
+      "talent": "",
+      "announcement": "Kenya soccer documentary set as part of three-film co-production deal between The Brutalist EP and Nawi makers.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/thomas-pierce-nawi-filmcrew-film-deal-champions-of-nowhere-1236650930/"
+        }
+      ]
     }
   ],
   "tv": [
     {
+      "title": "Sex Criminals",
+      "network": "Prime Video",
+      "talent": "Joseph Lee, Sunita Mani",
+      "announcement": "Joseph Lee and Sunita Mani join the Prime Video series based on the comic book.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/sex-criminals-joseph-lee-sunita-mani-amazon-series-comic-1236999322/"
+        }
+      ]
+    },
+    {
+      "title": "The Magnificent Seven",
+      "network": "MGM+",
+      "talent": "",
+      "announcement": "MGM+ series adds four actors to its series regular cast.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/mgm-plus-the-magnificent-seven-cast-series-regulars-1236999301/"
+        }
+      ]
+    },
+    {
       "title": "RoboCop",
-      "network": "Amazon Prime Video",
-      "talent": "Blumhouse, Atomic Monster",
-      "announcement": "Series ordered at Amazon Prime Video from Blumhouse and Atomic Monster, set to tackle corporate greed.",
+      "network": "Prime Video",
+      "talent": "",
+      "announcement": "Amazon orders RoboCop series from Blumhouse and Atomic Monster, set to tackle corporate greed themes.",
       "sources": [
         {
           "name": "Deadline",
@@ -77,6 +125,18 @@
       ]
     },
     {
+      "title": "Kill Jackie",
+      "network": "AMC+",
+      "talent": "Catherine Zeta-Jones",
+      "announcement": "AMC+ acquires the Catherine Zeta-Jones thriller.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/amc-plus-kill-jackie-catherine-zeta-jones-thriller-ings-1236999320/"
+        }
+      ]
+    },
+    {
       "title": "Stamptown",
       "network": "Netflix",
       "talent": "Zach Zucker",
@@ -89,5 +149,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-21T16:25:07.268Z"
+  "lastUpdated": "2026-07-21T17:54:22.266Z"
 }
