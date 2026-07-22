@@ -5,8 +5,8 @@
     {
       "title": "Treasure Island",
       "studio": "Sony Pictures",
-      "talent": "Hugh Jackman (star), Ridley Scott (director)",
-      "announcement": "Sony Pictures is circling Ridley Scott's 'Treasure Island' package starring Hugh Jackman.",
+      "talent": "Ridley Scott (director), Hugh Jackman (star)",
+      "announcement": "Sony Pictures is circling Ridley Scott's Treasure Island package starring Hugh Jackman.",
       "sources": [
         {
           "name": "Deadline",
@@ -14,7 +14,7 @@
         },
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/global/casey-affleck-company-cast-nick-nolte-scoot-mcnairy-1236817877/"
+          "url": "https://variety.com/2026/film/news/ridley-scott-hugh-jackman-treasure-island-sony-1236818353/"
         },
         {
           "name": "Hollywood Reporter",
@@ -26,7 +26,7 @@
       "title": "Ali G: Who Iz I?",
       "studio": "Amazon MGM Studios",
       "talent": "Sacha Baron Cohen (star)",
-      "announcement": "Sacha Baron Cohen's secret movie 'Ali G: Who Iz I?' is being released by Amazon MGM Studios in October 2026.",
+      "announcement": "Sacha Baron Cohen's secret movie Ali G: Who Iz I? is unveiled and set for October theatrical release from Amazon MGM Studios.",
       "sources": [
         {
           "name": "Deadline",
@@ -49,8 +49,8 @@
     {
       "title": "Days of Thunder 2",
       "studio": "Paramount",
-      "talent": "Tom Cruise (star), Jonathan Levine (director - in talks)",
-      "announcement": "Jonathan Levine is in talks to direct Paramount's 'Days of Thunder' sequel starring Tom Cruise.",
+      "talent": "Tom Cruise (star), Jonathan Levine (director, in talks)",
+      "announcement": "Jonathan Levine is in talks to direct Paramount's Days of Thunder sequel starring Tom Cruise.",
       "sources": [
         {
           "name": "Deadline",
@@ -74,7 +74,7 @@
       "title": "Lou Gehrig",
       "studio": "Universal",
       "talent": "Glen Powell (star), Richard Linklater (director), Lorne Michaels (producer)",
-      "announcement": "Glen Powell and Richard Linklater are reteaming for a Lou Gehrig biopic at Universal, with Lorne Michaels producing.",
+      "announcement": "Glen Powell stars in a Lou Gehrig biopic directed by Richard Linklater with Lorne Michaels producing at Universal.",
       "sources": [
         {
           "name": "Deadline",
@@ -82,35 +82,31 @@
         },
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/news/glen-powell-richard-linklater-lou-gehrig-biopic-lorne-michaels-1236818235/"
+          "url": "https://variety.com/2026/film/news/glen-powell-lou-gehrig-movie-richard-linklater-lorne-michaels-1236999778/"
         },
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/glen-powell-lou-gehrig-richard-linklater-lorne-michaels-1236654085/"
         },
         {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/news/breaking-news/richard-linklater-glen-powell-lou-gehrig-film-1235206631/"
-        },
-        {
           "name": "TheWrap",
           "url": "https://www.thewrap.com/creative-content/movies/glen-powell-richard-linklater-lou-gehrig-biopic-universal/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/breaking-news/richard-linklater-glen-powell-lou-gehrig-film-1235206631/"
         }
       ]
     },
     {
       "title": "Gods Don't Give Gifts",
       "studio": "Theatrical Release",
-      "talent": "Gossip Goblin (AI creator)",
-      "announcement": "AI YouTuber Gossip Goblin plans to release AI film 'Gods Don't Give Gifts' in movie theaters this fall.",
+      "talent": "Gossip Goblin (AI filmmaker)",
+      "announcement": "YouTuber and AI filmmaker Gossip Goblin is releasing the AI feature film Gods Don't Give Gifts in theaters this fall.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/07/gossip-goblin-ai-feature-gods-dont-give-gifts-youtube-theaters-1236998952/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/gossip-goblin-ai-film-gods-dont-give-gifts-theaters-1236818068/"
         },
         {
           "name": "IndieWire",
@@ -119,34 +115,54 @@
       ]
     },
     {
-      "title": "Company",
-      "studio": "",
-      "talent": "Casey Affleck (director), Nick Nolte, Adelaide Clemens, Ben Mendelsohn, Scoot McNairy (cast)",
-      "announcement": "Casey Affleck's gothic mystery 'Company' has cast Nick Nolte, Adelaide Clemens, Ben Mendelsohn, and Scoot McNairy.",
+      "title": "Julie Andrews Documentary",
+      "studio": "Disney+",
+      "talent": "R.J. Cutler (director)",
+      "announcement": "A Julie Andrews documentary from Martha director R.J. Cutler is being developed for Disney+.",
       "sources": [
         {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/julie-andrews-documentary-disney-1237000388/"
+        },
+        {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/global/casey-affleck-company-cast-nick-nolte-scoot-mcnairy-1236817877/"
+          "url": "https://variety.com/2026/film/news/julie-andrews-documentary-disney-rj-cutler-1236818273/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/julie-andrews-documentary-disney-1236654295/"
         }
       ]
     },
     {
-      "title": "13 Going On 30 Reboot",
-      "studio": "Netflix",
-      "talent": "Taylor Zakhar Perez, Owen Thiele, Nasim Pedrad, Supriya Ganesh (cast additions)",
-      "announcement": "Taylor Zakhar Perez, Owen Thiele, Nasim Pedrad, and Supriya Ganesh are among final cast additions to Netflix's '13 Going On 30' reboot.",
+      "title": "Disney Worldbuilders",
+      "studio": "Disney+",
+      "talent": "Leslie Iwerks (director), James Cameron, Kevin Feige, Jon Favreau (featured)",
+      "announcement": "A Disney Worldbuilders documentary by Leslie Iwerks featuring James Cameron, Kevin Feige and Jon Favreau is set to premiere on Disney+.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/13-going-on-30-reboot-cast-adds-taylor-zakhar-perez-owen-thiele-1237000490/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/artisans/news/disney-worldbuilders-disney-plus-august-1236818262/"
+        }
+      ]
+    },
+    {
+      "title": "The Girl in the River",
+      "studio": "Independent",
+      "talent": "Tiffany Haddish, Devon Sawa (stars)",
+      "announcement": "Thriller The Girl in the River starring Tiffany Haddish and Devon Sawa gets a late summer release with a new trailer.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/the-girl-in-the-river-tiffany-haddish-devon-sawa-release-1236653795/"
         }
       ]
     },
     {
       "title": "Misty Green",
       "studio": "A24",
-      "talent": "Chris Rock (producer/creator), Rosalind Eleazar (star)",
-      "announcement": "Chris Rock's 'Misty Green' is an A24 industry drama following an actress hustling for her next act.",
+      "talent": "Chris Rock (producer/subject), Rosalind Eleazar (star)",
+      "announcement": "Chris Rock's Misty Green follows a Hollywood actress fighting for her second act with Rosalind Eleazar starring in the A24 industry drama.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -159,80 +175,64 @@
       ]
     },
     {
-      "title": "The Girl in the River",
-      "studio": "",
-      "talent": "Tiffany Haddish, Devon Sawa (cast)",
-      "announcement": "Thriller 'The Girl in the River' starring Tiffany Haddish and Devon Sawa gets a late summer release and trailer.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/the-girl-in-the-river-tiffany-haddish-devon-sawa-release-1236653795/"
-        }
-      ]
-    },
-    {
-      "title": "A Great Depression",
-      "studio": "",
-      "talent": "Paul Sparks, Kate Burton, Xander Berkeley, Rhys Coiro (cast)",
-      "announcement": "Indie movie 'A Great Depression' starring Paul Sparks, Kate Burton, Xander Berkeley, and Rhys Coiro wraps filming in New Jersey.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/kate-burton-paul-sparks-lead-a-great-depression-indie-movie-1236999421/"
-        }
-      ]
-    },
-    {
-      "title": "Julie Andrews Documentary",
-      "studio": "Disney+",
-      "talent": "R.J. Cutler (director)",
-      "announcement": "A Julie Andrews documentary from 'Martha' director R.J. Cutler is set for Disney+.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/julie-andrews-documentary-disney-1237000388/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/julie-andrews-documentary-disney-rj-cutler-1236818273/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/julie-andrews-documentary-disney-rj-cutler-1236818273/"
-        }
-      ]
-    },
-    {
-      "title": "Disney Worldbuilders",
-      "studio": "Disney+",
-      "talent": "Leslie Iwerks (director), James Cameron, Kevin Feige, Jon Favreau (featured)",
-      "announcement": "Documentary 'Disney Worldbuilders' by Leslie Iwerks, featuring James Cameron, Kevin Feige, and Jon Favreau, is set to premiere on Disney+.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/artisans/news/disney-worldbuilders-disney-plus-august-1236818262/"
-        }
-      ]
-    },
-    {
       "title": "Stuffed",
-      "studio": "",
-      "talent": "Jodie Comer, Harry Melling (cast)",
-      "announcement": "Jodie Comer and Harry Melling's taxidermy musical 'Stuffed' leads TIFF Discovery lineup of rising filmmakers.",
+      "studio": "TIFF",
+      "talent": "Jodie Comer, Harry Melling (stars)",
+      "announcement": "Jodie Comer and Harry Melling star in the taxidermy musical Stuffed, which leads the TIFF Discovery lineup.",
       "sources": [
         {
           "name": "IndieWire",
           "url": "https://www.indiewire.com/news/festivals/tiff-discovery-lineup-jodie-comer-taxidermy-musical-stuffed-1235206555/"
         }
       ]
+    },
+    {
+      "title": "It Ends",
+      "studio": "Neon",
+      "talent": "",
+      "announcement": "Neon's endless roadtrip horror film It Ends is hitting theaters with a new trailer.",
+      "sources": [
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/trailers/it-ends-movie-trailer-neon-horror-hits-theaters-1235206541/"
+        }
+      ]
+    },
+    {
+      "title": "Clayface",
+      "studio": "DC Studios",
+      "talent": "Tom Rhys Harries (star)",
+      "announcement": "DC Studios' Batman villain film Clayface starring Tom Rhys Harries releases a new trailer.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/clayface-trailer-tom-rhys-harries-1237000368/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/trailers/clayface-trailer-1235206594/"
+        }
+      ]
     }
   ],
   "tv": [
     {
+      "title": "13 Going On 30 Reboot",
+      "network": "Netflix",
+      "talent": "Taylor Zakhar Perez, Owen Thiele, Nasim Pedrad, Supriya Ganesh (cast additions)",
+      "announcement": "Taylor Zakhar Perez, Owen Thiele, Nasim Pedrad and Supriya Ganesh are among final cast additions to Netflix's 13 Going On 30 reboot.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/13-going-on-30-reboot-cast-adds-taylor-zakhar-perez-owen-thiele-1237000490/"
+        }
+      ]
+    },
+    {
       "title": "Stewie",
-      "network": "Fox",
-      "talent": "Seth MacFarlane (creator), Kenan Thompson, Vanessa Bayer, Melissa O'Neil, Mike Henry (voice cast)",
-      "announcement": "Voice cast set for 'Family Guy' spinoff 'Stewie' including Kenan Thompson, Vanessa Bayer, Melissa O'Neil, and Mike Henry alongside Seth MacFarlane.",
+      "network": "TBA",
+      "talent": "Seth MacFarlane, Kenan Thompson, Vanessa Bayer, Melissa O'Neil, Mike Henry (voice cast)",
+      "announcement": "Family Guy spinoff Stewie announces voice cast including Kenan Thompson, Vanessa Bayer, Melissa O'Neil and Mike Henry joining Seth MacFarlane.",
       "sources": [
         {
           "name": "Deadline",
@@ -247,8 +247,8 @@
     {
       "title": "Protective Custody",
       "network": "Apple TV+",
-      "talent": "Benicio Del Toro, Ben Stiller, Mike Judge (creator/showrunner)",
-      "announcement": "Benicio Del Toro joins Ben Stiller in Apple TV+ comedy series 'Protective Custody' created by Mike Judge.",
+      "talent": "Benicio Del Toro, Ben Stiller (stars), Mike Judge (producer)",
+      "announcement": "Benicio Del Toro stars in the Apple TV+ comedy series Protective Custody alongside Ben Stiller, created by Mike Judge.",
       "sources": [
         {
           "name": "Deadline",
@@ -271,8 +271,8 @@
     {
       "title": "Laird",
       "network": "Paramount+",
-      "talent": "Kenneth Branagh (star), Jez Butterworth (creator), 101 Studios (producer)",
-      "announcement": "Kenneth Branagh stars in Paramount+ Scottish Highland drama 'Laird' ordered from writer Jez Butterworth and 101 Studios.",
+      "talent": "Kenneth Branagh (star), Jez Butterworth (creator), 101 Studios (production)",
+      "announcement": "Kenneth Branagh stars in Scottish Highland family saga Laird ordered by Paramount+ from creator Jez Butterworth and 101 Studios.",
       "sources": [
         {
           "name": "Deadline",
@@ -280,7 +280,7 @@
         },
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/kenneth-branagh-paramount-series-laird-scottish-highlands-1236818249/"
+          "url": "https://variety.com/2026/tv/news/kenneth-branagh-drama-laird-paramount-plus-jez-butterworth-1236998943/"
         },
         {
           "name": "Hollywood Reporter",
@@ -294,9 +294,9 @@
     },
     {
       "title": "Mt. Mystic",
-      "network": "",
+      "network": "TBA",
       "talent": "Johnny Knoxville (cast)",
-      "announcement": "Johnny Knoxville joins comedy series 'Mt. Mystic'.",
+      "announcement": "Johnny Knoxville joins the cast of comedy series Mt. Mystic.",
       "sources": [
         {
           "name": "Deadline",
@@ -305,22 +305,10 @@
       ]
     },
     {
-      "title": "Chicks",
-      "network": "Hulu",
-      "talent": "Ellen Pompeo, Jodie Whittaker, Louis Cancelmi (cast)",
-      "announcement": "Louis Cancelmi joins Ellen Pompeo and Jodie Whittaker in Hulu dramedy pilot 'Chicks'.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/louis-cancelmi-ellen-pompeo-hulu-dramedy-pilot-chicks-1236999801/"
-        }
-      ]
-    },
-    {
       "title": "Dracula",
       "network": "Audible",
-      "talent": "Jonathan Bailey, Ella Purnell, Aimee Lou Wood, Maggie Gyllenhaal (cast), Omar Sy, Deva Cassel, Riccardo Scamarcio (international versions)",
-      "announcement": "Jonathan Bailey, Ella Purnell, Aimee Lou Wood, and Maggie Gyllenhaal set for Audible's 'Dracula' with international versions featuring Omar Sy, Deva Cassel, and Riccardo Scamarcio.",
+      "talent": "Jonathan Bailey, Ella Purnell, Aimee Lou Wood, Maggie Gyllenhaal, Omar Sy, Deva Cassel, Riccardo Scamarcio (cast)",
+      "announcement": "Jonathan Bailey, Ella Purnell, Aimee Lou Wood and Maggie Gyllenhaal set for Audible's Dracula with international versions starring Omar Sy, Deva Cassel and Riccardo Scamarcio.",
       "sources": [
         {
           "name": "Deadline",
@@ -329,10 +317,22 @@
       ]
     },
     {
+      "title": "Chicks",
+      "network": "Hulu",
+      "talent": "Ellen Pompeo, Jodie Whittaker, Louis Cancelmi (cast)",
+      "announcement": "Louis Cancelmi joins Ellen Pompeo and Jodie Whittaker in Hulu dramedy pilot Chicks.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/louis-cancelmi-ellen-pompeo-hulu-dramedy-pilot-chicks-1236999801/"
+        }
+      ]
+    },
+    {
       "title": "Pompeii: Out of Time with Tom Hiddleston",
       "network": "Disney+",
-      "talent": "Tom Hiddleston (host), Kevin R. Wright (EP)",
-      "announcement": "Documentary 'Pompeii: Out of Time with Tom Hiddleston' is in development with EP Kevin R. Wright.",
+      "talent": "Tom Hiddleston (host)",
+      "announcement": "Documentary Pompeii: Out of Time with Tom Hiddleston is coming to Disney+.",
       "sources": [
         {
           "name": "Variety",
@@ -345,22 +345,10 @@
       ]
     },
     {
-      "title": "Let's Marry Harry",
-      "network": "Netflix",
-      "talent": "Harry Jowsey (star), Alex Cooper (featured)",
-      "announcement": "Netflix's 'Let's Marry Harry' season 1 features Harry Jowsey looking for love with help from friends including Alex Cooper.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/gallery/lets-marry-harry-season-1-photos-trailer-netflix/"
-        }
-      ]
-    },
-    {
       "title": "The Chosen x Bear Grylls",
-      "network": "",
-      "talent": "Bear Grylls (featured)",
-      "announcement": "TV crossover event 'The Chosen' x Bear Grylls features a memorable scene with Jesus rappelling down a cliff.",
+      "network": "TBA",
+      "talent": "Bear Grylls (host)",
+      "announcement": "The Chosen partners with Bear Grylls for a crossover special event In The Wild with Bear Grylls.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -369,5 +357,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-22T20:40:39.936Z"
+  "lastUpdated": "2026-07-22T22:07:24.041Z"
 }
