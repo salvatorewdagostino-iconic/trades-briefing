@@ -1,24 +1,80 @@
 {
   "date": "July 22, 2026",
-  "summary": "10 film announcements, 8 TV announcements across 5 trades.",
+  "summary": "11 film announcements, 7 TV announcements across 5 trades.",
   "film": [
+    {
+      "title": "Ali G: Who Iz I?",
+      "studio": "Amazon MGM Studios",
+      "talent": "Sacha Baron Cohen",
+      "announcement": "Secret Ali G movie unveiled with October theatrical release date set.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/ali-g-secret-movie-title-release-date-sacha-baron-cohen-1237000447/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/sacha-baron-cohen-ali-g-movie-release-date-1236818332/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/sacha-baron-cohen-ali-g-movie-release-amazon-mgm-1236654144/"
+        }
+      ]
+    },
+    {
+      "title": "Days of Thunder 2",
+      "studio": "Paramount",
+      "talent": "Tom Cruise, Jonathan Levine (director - in talks)",
+      "announcement": "Jonathan Levine in talks to direct Tom Cruise in the Days of Thunder sequel.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/tom-cruise-days-of-thunder-jonathan-levine-1237000297/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/days-of-thunder-2-jonathan-levine-tom-cruise-paramount-sequel-1236818265/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/jonathan-levine-direct-days-of-thunder-2-tom-cruise-1236653926/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/days-of-thunder-2-jonathan-levine-talks-direct/"
+        }
+      ]
+    },
     {
       "title": "Lou Gehrig Film",
       "studio": "Universal",
       "talent": "Glen Powell, Richard Linklater (director), Lorne Michaels (producer)",
-      "announcement": "Glen Powell and Richard Linklater reunite for a Lou Gehrig biopic at Universal with Lorne Michaels producing.",
+      "announcement": "Glen Powell and Richard Linklater reunite for a Lou Gehrig biopic with Lorne Michaels producing.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/07/glen-powell-lou-gehrig-movie-richard-linklater-1236999778/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/glen-powell-richard-linklater-lou-gehrig-biopic-lorne-michaels-1236818235/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/glen-powell-lou-gehrig-richard-linklater-lorne-michaels-1236654085/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/glen-powell-richard-linklater-lou-gehrig-biopic-universal/"
         }
       ]
     },
     {
       "title": "Gods Don't Give Gifts",
-      "studio": "Independent",
-      "talent": "Gossip Goblin (AI creator)",
-      "announcement": "AI YouTuber Gossip Goblin's feature film is poised to move from YouTube to theatrical release.",
+      "studio": "",
+      "talent": "Gossip Goblin (AI filmmaker)",
+      "announcement": "AI feature film from YouTuber Gossip Goblin poised to make theatrical release this fall.",
       "sources": [
         {
           "name": "Deadline",
@@ -35,38 +91,38 @@
       ]
     },
     {
-      "title": "A Great Depression",
-      "studio": "Independent",
-      "talent": "Paul Sparks, Kate Burton, Xander Berkeley, Rhys Coiro",
-      "announcement": "Indie movie wraps filming in New Jersey with an ensemble cast including Paul Sparks and Kate Burton.",
+      "title": "Company",
+      "studio": "",
+      "talent": "Casey Affleck (director), Nick Nolte, Adelaide Clemens, Ben Mendelsohn, Scoot McNairy",
+      "announcement": "Casey Affleck's gothic mystery film Company casts Nick Nolte, Adelaide Clemens, Ben Mendelsohn and Scoot McNairy.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/kate-burton-paul-sparks-lead-a-great-depression-indie-movie-1236999421/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/casey-affleck-company-cast-nick-nolte-scoot-mcnairy-1236817877/"
         }
       ]
     },
     {
-      "title": "The Saviors",
-      "studio": "Vertical",
-      "talent": "Adam Scott, Danielle Deadwyler",
-      "announcement": "Vertical acquires North America distribution rights for SXSW thriller starring Adam Scott and Danielle Deadwyler.",
+      "title": "The Girl in the River",
+      "studio": "",
+      "talent": "Tiffany Haddish, Devon Sawa",
+      "announcement": "Thriller starring Tiffany Haddish and Devon Sawa gets late summer release and trailer.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/vertical-north-america-sxsw-thriller-the-saviors-1237000132/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/the-girl-in-the-river-tiffany-haddish-devon-sawa-release-1236653795/"
         }
       ]
     },
     {
       "title": "Misty Green",
       "studio": "A24",
-      "talent": "Chris Rock (director), Rosalind Eleazar, Adam Driver",
-      "announcement": "Chris Rock directs A24 feature about a Hollywood actress fighting for her second act, starring Rosalind Eleazar and Adam Driver.",
+      "talent": "Rosalind Eleazar",
+      "announcement": "Chris Rock-produced Hollywood drama Misty Green follows an actress fighting for her second act with trailer released.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/misty-green-trailer-chris-rock-a24-adam-driver-1237000060/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/misty-green-trailer-chris-rock-hollywood-actress-1236653942/"
         },
         {
           "name": "IndieWire",
@@ -79,88 +135,136 @@
       ]
     },
     {
-      "title": "Company",
-      "studio": "Independent",
-      "talent": "Casey Affleck (director), Nick Nolte, Adelaide Clemens, Ben Mendelsohn, Scoot McNairy",
-      "announcement": "Casey Affleck's gothic mystery film casts Nick Nolte, Adelaide Clemens, Ben Mendelsohn, and Scoot McNairy.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/casey-affleck-company-cast-nick-nolte-scoot-mcnairy-1236817877/"
-        }
-      ]
-    },
-    {
-      "title": "I Plant My Hand in the Garden",
-      "studio": "Square Eyes",
-      "talent": "",
-      "announcement": "Square Eyes acquires film ahead of world premiere at Venice Days festival.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/square-eyes-i-plant-my-hand-in-the-garden-venice-days-1236818157/"
-        }
-      ]
-    },
-    {
-      "title": "Echo",
-      "studio": "Independent",
-      "talent": "Joel Courtney (star/producer), Zac Stracener (director)",
-      "announcement": "Joel Courtney stars in and produces thriller directed by TikTok creator Zac Stracener in his feature directorial debut.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/joel-courtney-echo-tiktok-zac-stracener-1236818022/"
-        }
-      ]
-    },
-    {
-      "title": "The Girl in the River",
-      "studio": "Independent",
-      "talent": "Tiffany Haddish, Devon Sawa",
-      "announcement": "Thriller starring Tiffany Haddish and Devon Sawa receives late summer release date and trailer.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/the-girl-in-the-river-tiffany-haddish-devon-sawa-release-1236653795/"
-        }
-      ]
-    },
-    {
       "title": "Stuffed",
-      "studio": "Independent",
+      "studio": "",
       "talent": "Jodie Comer, Harry Melling",
-      "announcement": "Jodie Comer and Harry Melling's taxidermy musical opens Toronto International Film Festival Discovery program.",
+      "announcement": "Jodie Comer and Harry Melling's taxidermy musical Stuffed to lead TIFF Discovery lineup.",
       "sources": [
-        {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/news/festivals/tiff-discovery-lineup-jodie-comer-taxidermy-musical-stuffed-1235206555/"
-        },
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/toronto-jodie-comers-stuffed-discovery-program-1236653546/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/festivals/tiff-discovery-lineup-jodie-comer-taxidermy-musical-stuffed-1235206555/"
+        }
+      ]
+    },
+    {
+      "title": "We Are Born Good",
+      "studio": "Edko Films",
+      "talent": "Yeung Leung Cheun (director)",
+      "announcement": "Edko Films acquires world rights to Yeung Leung Cheun's Toronto Discovery title We Are Born Good.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/toronto-edko-films-yeung-leung-cheuns-we-are-born-good-1237000355/"
+        }
+      ]
+    },
+    {
+      "title": "The Saviors",
+      "studio": "Vertical",
+      "talent": "Adam Scott, Danielle Deadwyler",
+      "announcement": "Vertical takes North America rights for SXSW thriller The Saviors starring Adam Scott and Danielle Deadwyler.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/vertical-north-america-sxsw-thriller-the-saviors-1237000132/"
+        }
+      ]
+    },
+    {
+      "title": "Julie Andrews Documentary",
+      "studio": "Disney+",
+      "talent": "R.J. Cutler (director)",
+      "announcement": "Julie Andrews documentary flies to Disney+ with Martha director R.J. Cutler helming.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/julie-andrews-documentary-disney-1237000388/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/julie-andrews-documentary-disney-rj-cutler-1236818273/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/industry-news/business/julie-andrews-documentary-disney-plus-rj-cutler/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "Mt. Mystic",
-      "network": "Unknown",
-      "talent": "Johnny Knoxville",
-      "announcement": "Johnny Knoxville joins comedy series cast.",
+      "title": "Protective Custody",
+      "network": "Apple TV",
+      "talent": "Benicio Del Toro, Ben Stiller (star/creator with Mike Judge)",
+      "announcement": "Benicio Del Toro cast in Apple comedy series Protective Custody alongside Ben Stiller and Mike Judge.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/johnny-knoxville-mt-mystic-comedy-series-1236999513/"
+          "url": "https://deadline.com/2026/07/benicio-del-toro-apple-comedy-series-protective-custody-1237000280/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/benicio-del-toro-ben-stiller-apple-protective-custody-1236818184/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/benicio-del-toro-first-comedy-series-starring-role-apple-tv-1236653968/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/tv/benicio-del-toro-apple-tv-protective-custody/"
+        }
+      ]
+    },
+    {
+      "title": "Laird",
+      "network": "Paramount+",
+      "talent": "Kenneth Branagh, Jez Butterworth (creator/writer), 101 Studios",
+      "announcement": "Kenneth Branagh to star in Scottish Highland drama Laird ordered by Paramount+ from Jez Butterworth and 101 Studios.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/kenneth-branagh-drama-laird-paramount-plus-jez-butterworth-1236998943/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/kenneth-branagh-paramount-series-laird-scottish-highlands-1236818249/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/paramount-scottish-highland-saga-laird-kenneth-branagh-1236653912/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/kenneth-branagh-laird-paramount-jez-butterworth/"
+        }
+      ]
+    },
+    {
+      "title": "Stillwater",
+      "network": "Prime Video",
+      "talent": "Greg Berlanti, Carly Wray (showrunners), Skybound (comic source)",
+      "announcement": "Prime Video orders Stillwater series from Greg Berlanti and Carly Wray based on Skybound graphic novel.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/stillwater-prime-video-greg-berlanti-carly-wray-skybound-1236999820/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/stillwater-series-skybound-amazon-greg-berlanti-carly-wray-1236818129/"
         }
       ]
     },
     {
       "title": "Peculiar Stars",
-      "network": "Apple TV+",
-      "talent": "",
-      "announcement": "Apple TV+ lands adaptation rights to Rebecca Yarros' upcoming novel from Fourth Wing author.",
+      "network": "Apple TV",
+      "talent": "Rebecca Yarros (author)",
+      "announcement": "Apple TV lands rights to adapt Rebecca Yarros' Fourth Wing author upcoming novel Peculiar Stars.",
       "sources": [
         {
           "name": "Deadline",
@@ -176,7 +280,7 @@
       "title": "Chicks",
       "network": "Hulu",
       "talent": "Ellen Pompeo, Jodie Whittaker, Louis Cancelmi",
-      "announcement": "Louis Cancelmi joins Ellen Pompeo and Jodie Whittaker in Hulu dramedy pilot.",
+      "announcement": "Louis Cancelmi joins Ellen Pompeo and Jodie Whittaker in Hulu dramedy pilot Chicks.",
       "sources": [
         {
           "name": "Deadline",
@@ -185,69 +289,29 @@
       ]
     },
     {
+      "title": "Mt. Mystic",
+      "network": "",
+      "talent": "Johnny Knoxville",
+      "announcement": "Johnny Knoxville joins Mt. Mystic comedy series.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/johnny-knoxville-mt-mystic-comedy-series-1236999513/"
+        }
+      ]
+    },
+    {
       "title": "Dracula",
       "network": "Audible",
       "talent": "Jonathan Bailey, Ella Purnell, Aimee Lou Wood, Maggie Gyllenhaal, Omar Sy, Deva Cassel, Riccardo Scamarcio",
-      "announcement": "Audible announces cast for audio adaptation with Jonathan Bailey, Ella Purnell, Aimee Lou Wood, and Maggie Gyllenhaal for English version and international talent for other versions.",
+      "announcement": "Audible's Dracula adaptation cast announced with Jonathan Bailey, Ella Purnell, Aimee Lou Wood, Maggie Gyllenhaal leading, plus international cast members.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/07/bailey-purnell-gyllenhaal-dracula-audible-1237000068/"
         }
       ]
-    },
-    {
-      "title": "Stillwater",
-      "network": "Prime Video",
-      "talent": "Greg Berlanti, Carly Wray",
-      "announcement": "Prime Video orders series from Greg Berlanti and Carly Wray based on Skybound graphic novel.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/stillwater-prime-video-greg-berlanti-carly-wray-skybound-1236999820/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/stillwater-series-skybound-amazon-greg-berlanti-carly-wray-1236818129/"
-        }
-      ]
-    },
-    {
-      "title": "Terminal Crew of Dudes",
-      "network": "HBO",
-      "talent": "Whitmer Thomas",
-      "announcement": "Whitmer Thomas stars in HBO comedy special combining singing, skating, and stand-up.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/whitmer-thomas-hbo-special-trailer-1236817774/"
-        }
-      ]
-    },
-    {
-      "title": "Sentimiento Louco",
-      "network": "Prime Video",
-      "talent": "",
-      "announcement": "Prime Video sets launch plans for Marília Mendonça documentary.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/marilia-mendonca-sentimento-louco-documentary-prime-video-1236999254/"
-        }
-      ]
-    },
-    {
-      "title": "Romeo & Juliet, Reimagined",
-      "network": "Unknown",
-      "talent": "",
-      "announcement": "BuzzFeed Studios and MuVPix announce 100-title microdrama production pact starting with Romeo & Juliet reimagining.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/buzzfeed-studios-muvpix-microdrama-romeo-juliet-reimagined-1237000057/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-22T16:21:46.342Z"
+  "lastUpdated": "2026-07-22T17:50:02.893Z"
 }
