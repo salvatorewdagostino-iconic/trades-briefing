@@ -1,33 +1,253 @@
 {
   "date": "July 22, 2026",
-  "summary": "2 film announcements, 1 TV announcement across 5 trades.",
+  "summary": "10 film announcements, 8 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "13 Going on 30 Reboot",
-      "studio": "Netflix",
-      "talent": "Jennifer Garner, Judy Greer",
-      "announcement": "Jennifer Garner and Judy Greer are set to appear in Netflix's reboot of '13 Going on 30' in cameo roles.",
+      "title": "Lou Gehrig Film",
+      "studio": "Universal",
+      "talent": "Glen Powell, Richard Linklater (director), Lorne Michaels (producer)",
+      "announcement": "Glen Powell and Richard Linklater reunite for a Lou Gehrig biopic at Universal with Lorne Michaels producing.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/glen-powell-lou-gehrig-movie-richard-linklater-1236999778/"
+        }
+      ]
+    },
+    {
+      "title": "Gods Don't Give Gifts",
+      "studio": "Independent",
+      "talent": "Gossip Goblin (AI creator)",
+      "announcement": "AI YouTuber Gossip Goblin's feature film is poised to move from YouTube to theatrical release.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/gossip-goblin-ai-feature-gods-dont-give-gifts-youtube-theaters-1236998952/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/gossip-goblin-ai-film-gods-dont-give-gifts-theaters-1236818068/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/breaking-news/gossip-goblin-releasing-ai-feature-film-theaters-1235206317/"
+        }
+      ]
+    },
+    {
+      "title": "A Great Depression",
+      "studio": "Independent",
+      "talent": "Paul Sparks, Kate Burton, Xander Berkeley, Rhys Coiro",
+      "announcement": "Indie movie wraps filming in New Jersey with an ensemble cast including Paul Sparks and Kate Burton.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/kate-burton-paul-sparks-lead-a-great-depression-indie-movie-1236999421/"
+        }
+      ]
+    },
+    {
+      "title": "The Saviors",
+      "studio": "Vertical",
+      "talent": "Adam Scott, Danielle Deadwyler",
+      "announcement": "Vertical acquires North America distribution rights for SXSW thriller starring Adam Scott and Danielle Deadwyler.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/vertical-north-america-sxsw-thriller-the-saviors-1237000132/"
+        }
+      ]
+    },
+    {
+      "title": "Misty Green",
+      "studio": "A24",
+      "talent": "Chris Rock (director), Rosalind Eleazar, Adam Driver",
+      "announcement": "Chris Rock directs A24 feature about a Hollywood actress fighting for her second act, starring Rosalind Eleazar and Adam Driver.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/misty-green-trailer-chris-rock-a24-adam-driver-1237000060/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/trailers/chris-rock-misty-green-trailer-hollywood-drama-a24-1235206552/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/misty-green-trailer-chris-rock/"
+        }
+      ]
+    },
+    {
+      "title": "Company",
+      "studio": "Independent",
+      "talent": "Casey Affleck (director), Nick Nolte, Adelaide Clemens, Ben Mendelsohn, Scoot McNairy",
+      "announcement": "Casey Affleck's gothic mystery film casts Nick Nolte, Adelaide Clemens, Ben Mendelsohn, and Scoot McNairy.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/news/jennifer-garner-judy-greer-netflix-13-going-on-30-reboot-cameo-1236817722/"
+          "url": "https://variety.com/2026/film/global/casey-affleck-company-cast-nick-nolte-scoot-mcnairy-1236817877/"
+        }
+      ]
+    },
+    {
+      "title": "I Plant My Hand in the Garden",
+      "studio": "Square Eyes",
+      "talent": "",
+      "announcement": "Square Eyes acquires film ahead of world premiere at Venice Days festival.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/square-eyes-i-plant-my-hand-in-the-garden-venice-days-1236818157/"
+        }
+      ]
+    },
+    {
+      "title": "Echo",
+      "studio": "Independent",
+      "talent": "Joel Courtney (star/producer), Zac Stracener (director)",
+      "announcement": "Joel Courtney stars in and produces thriller directed by TikTok creator Zac Stracener in his feature directorial debut.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/joel-courtney-echo-tiktok-zac-stracener-1236818022/"
+        }
+      ]
+    },
+    {
+      "title": "The Girl in the River",
+      "studio": "Independent",
+      "talent": "Tiffany Haddish, Devon Sawa",
+      "announcement": "Thriller starring Tiffany Haddish and Devon Sawa receives late summer release date and trailer.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/the-girl-in-the-river-tiffany-haddish-devon-sawa-release-1236653795/"
+        }
+      ]
+    },
+    {
+      "title": "Stuffed",
+      "studio": "Independent",
+      "talent": "Jodie Comer, Harry Melling",
+      "announcement": "Jodie Comer and Harry Melling's taxidermy musical opens Toronto International Film Festival Discovery program.",
+      "sources": [
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/festivals/tiff-discovery-lineup-jodie-comer-taxidermy-musical-stuffed-1235206555/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/toronto-jodie-comers-stuffed-discovery-program-1236653546/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "The Legend of Karna",
-      "network": "Sony LIV",
-      "talent": "",
-      "announcement": "Sony LIV has acquired the animated series 'The Legend of Karna' from Graphic.",
+      "title": "Mt. Mystic",
+      "network": "Unknown",
+      "talent": "Johnny Knoxville",
+      "announcement": "Johnny Knoxville joins comedy series cast.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/sony-liv-legend-of-karna-1236999298/"
+          "url": "https://deadline.com/2026/07/johnny-knoxville-mt-mystic-comedy-series-1236999513/"
+        }
+      ]
+    },
+    {
+      "title": "Peculiar Stars",
+      "network": "Apple TV+",
+      "talent": "",
+      "announcement": "Apple TV+ lands adaptation rights to Rebecca Yarros' upcoming novel from Fourth Wing author.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/rebecca-yarros-peculiar-stars-adaptation-apple-tv-1236999936/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/apple-tv-peculiar-stars-series-rebecca-yarros-fourth-wing-1236654021/"
+        }
+      ]
+    },
+    {
+      "title": "Chicks",
+      "network": "Hulu",
+      "talent": "Ellen Pompeo, Jodie Whittaker, Louis Cancelmi",
+      "announcement": "Louis Cancelmi joins Ellen Pompeo and Jodie Whittaker in Hulu dramedy pilot.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/louis-cancelmi-ellen-pompeo-hulu-dramedy-pilot-chicks-1236999801/"
+        }
+      ]
+    },
+    {
+      "title": "Dracula",
+      "network": "Audible",
+      "talent": "Jonathan Bailey, Ella Purnell, Aimee Lou Wood, Maggie Gyllenhaal, Omar Sy, Deva Cassel, Riccardo Scamarcio",
+      "announcement": "Audible announces cast for audio adaptation with Jonathan Bailey, Ella Purnell, Aimee Lou Wood, and Maggie Gyllenhaal for English version and international talent for other versions.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/bailey-purnell-gyllenhaal-dracula-audible-1237000068/"
+        }
+      ]
+    },
+    {
+      "title": "Stillwater",
+      "network": "Prime Video",
+      "talent": "Greg Berlanti, Carly Wray",
+      "announcement": "Prime Video orders series from Greg Berlanti and Carly Wray based on Skybound graphic novel.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/stillwater-prime-video-greg-berlanti-carly-wray-skybound-1236999820/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/stillwater-series-skybound-amazon-greg-berlanti-carly-wray-1236818129/"
+        }
+      ]
+    },
+    {
+      "title": "Terminal Crew of Dudes",
+      "network": "HBO",
+      "talent": "Whitmer Thomas",
+      "announcement": "Whitmer Thomas stars in HBO comedy special combining singing, skating, and stand-up.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/whitmer-thomas-hbo-special-trailer-1236817774/"
+        }
+      ]
+    },
+    {
+      "title": "Sentimiento Louco",
+      "network": "Prime Video",
+      "talent": "",
+      "announcement": "Prime Video sets launch plans for Marília Mendonça documentary.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/marilia-mendonca-sentimento-louco-documentary-prime-video-1236999254/"
+        }
+      ]
+    },
+    {
+      "title": "Romeo & Juliet, Reimagined",
+      "network": "Unknown",
+      "talent": "",
+      "announcement": "BuzzFeed Studios and MuVPix announce 100-title microdrama production pact starting with Romeo & Juliet reimagining.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/buzzfeed-studios-muvpix-microdrama-romeo-juliet-reimagined-1237000057/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-22T05:51:58.256Z"
+  "lastUpdated": "2026-07-22T16:21:46.342Z"
 }
