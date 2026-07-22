@@ -1,12 +1,12 @@
 {
   "date": "July 22, 2026",
-  "summary": "1 film announcement, 1 TV announcement across 3 trades.",
+  "summary": "2 film announcements, 1 TV announcement across 5 trades.",
   "film": [
     {
       "title": "13 Going on 30 Reboot",
       "studio": "Netflix",
       "talent": "Jennifer Garner, Judy Greer",
-      "announcement": "Jennifer Garner and Judy Greer will appear in Netflix's reboot of '13 Going on 30' in cameo roles.",
+      "announcement": "Jennifer Garner and Judy Greer are set to appear in Netflix's reboot of '13 Going on 30' in cameo roles.",
       "sources": [
         {
           "name": "Variety",
@@ -17,17 +17,17 @@
   ],
   "tv": [
     {
-      "title": "Euphoria",
-      "network": "HBO",
-      "talent": "Jacob Elordi",
-      "announcement": "Jacob Elordi discusses filming his character's death scene and returning for the final season of 'Euphoria.'",
+      "title": "The Legend of Karna",
+      "network": "Sony LIV",
+      "talent": "",
+      "announcement": "Sony LIV has acquired the animated series 'The Legend of Karna' from Graphic.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/jacob-elordi-filming-euphoria-death-scene-final-season-1236999828/"
+          "url": "https://deadline.com/2026/07/sony-liv-legend-of-karna-1236999298/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-22T02:44:36.729Z"
+  "lastUpdated": "2026-07-22T05:51:58.256Z"
 }
