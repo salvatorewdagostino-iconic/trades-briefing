@@ -1,12 +1,36 @@
 {
   "date": "July 23, 2026",
-  "summary": "8 film announcements, 9 TV announcements across 5 trades.",
+  "summary": "8 film announcements, 12 TV announcements across 5 trades.",
   "film": [
+    {
+      "title": "Shot in the Dark",
+      "studio": "Artists Equity, Hidden Content, Ultraboom Media, Icki Eneo Arlo",
+      "talent": "",
+      "announcement": "Documentary following the first U.S. Paralympic blind soccer team announced as a partnership between Artists Equity, Hidden Content, Ultraboom Media, and Icki Eneo Arlo.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/artists-equity-shot-in-the-dark-1237001576/"
+        }
+      ]
+    },
+    {
+      "title": "Atari Game Properties",
+      "studio": "Universal Pictures",
+      "talent": "Matt Reilly, Carl Hampe",
+      "announcement": "Universal Pictures secures deal with Atari to develop films based on 10 iconic game properties, with original script by Matt Reilly and Carl Hampe, and Entertainment 360 producing the first project.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/atari-universal-deal-10-game-ip-script-matt-reilly-carl-hampe-entertainment-360-1237001656/"
+        }
+      ]
+    },
     {
       "title": "The Joy of Sex",
       "studio": "Lionsgate, Wild Bunch",
-      "talent": "Director: Sharon Maguire; Cast: Colin Firth, Julianne Moore, Laura Linney, David Tennant",
-      "announcement": "Sharon Maguire directs this love triangle comedy which has pre-sold to Lionsgate, Wild Bunch and other distributors.",
+      "talent": "Sharon Maguire (director), Colin Firth, Julianne Moore, Laura Linney, David Tennant",
+      "announcement": "Love triangle comedy directed by Sharon Maguire starring Colin Firth, Julianne Moore, Laura Linney, and David Tennant pre-sells to Lionsgate, Wild Bunch and other distributors.",
       "sources": [
         {
           "name": "Deadline",
@@ -35,10 +59,34 @@
       ]
     },
     {
-      "title": "Katy Perry: The Lifetimes Tour – Live From Paris",
-      "studio": "Theatrical",
+      "title": "The Day Before",
+      "studio": "",
+      "talent": "Lilly Wachowski (executive producer), Alexandra Grey",
+      "announcement": "Lilly Wachowski boards Alexandra Grey's sci-fi short as executive producer.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/columns/lilly-wachowski-sci-fi-short-the-day-before-executive-producer-1236818835/"
+        }
+      ]
+    },
+    {
+      "title": "Hadestown",
+      "studio": "",
+      "talent": "",
+      "announcement": "Live capture film adaptation of the musical Hadestown set to hit theaters.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/hadestown-film-theaters-1236655094/"
+        }
+      ]
+    },
+    {
+      "title": "Katy Perry: The Lifetimes Tour - Live From Paris",
+      "studio": "",
       "talent": "Katy Perry",
-      "announcement": "Concert documentary film set for theatrical release in September 2026.",
+      "announcement": "Concert documentary from Katy Perry's Lifetimes Tour set for theatrical release in September.",
       "sources": [
         {
           "name": "TheWrap",
@@ -47,79 +95,51 @@
       ]
     },
     {
-      "title": "The Girl With the Leica",
-      "studio": "Fandango",
-      "talent": "",
-      "announcement": "Venice Horizons opener boarded by Fandango Sales for international distribution.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/the-girl-with-the-leica-venice-fandango-sales-1236819135/"
-        }
-      ]
-    },
-    {
-      "title": "Falling House",
-      "studio": "Paradise City Sales",
-      "talent": "Director: Mohsen Gharaei",
-      "announcement": "Iranian director's film boarded by Paradise City Sales ahead of Venice premiere.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/iran-mohsen-gharaeis-falling-house-paradise-city-sales-venice-1236819121/"
-        }
-      ]
-    },
-    {
       "title": "Armony",
       "studio": "Xenix",
-      "talent": "Director: Dario Albertini",
-      "announcement": "Set for world premiere in Locarno's Piazza Grande; secures Swiss distribution with Xenix.",
+      "talent": "Dario Albertini (director)",
+      "announcement": "Dario Albertini's film set for world premiere at Locarno Film Festival and secures Swiss distribution with Xenix.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/film/global/dario-albertini-locarno-armony-asia-argento-true-colours-1236811527/"
         }
       ]
-    },
-    {
-      "title": "Resident Evil",
-      "studio": "Unknown",
-      "talent": "Director: Zach Cregger; Cast: Austin Abrams",
-      "announcement": "Zach Cregger's adaptation of the iconic video game with new trailer released ahead of Comic-Con screening.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/resident-evil-trailer-zach-cregger-austin-abrams-1236876910/"
-        },
-        {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/news/trailers/resident-evil-trailer-zach-cregger-1235206853/"
-        }
-      ]
-    },
-    {
-      "title": "Coyote vs. Acme",
-      "studio": "Unknown",
-      "talent": "",
-      "announcement": "Final trailer released ahead of Comic-Con screening.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/coyote-vs-acme-final-trailer-action-packed-legal-fight-1237000971/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/coyote-vs-acme-first-trailer-1236654769/"
-        }
-      ]
     }
   ],
   "tv": [
     {
+      "title": "Percy Jackson and the Olympians",
+      "network": "Disney+",
+      "talent": "Walker Scobell",
+      "announcement": "Season 3 premiere date set for November, with first footage from 'The Titan's Curse' shown at Comic-Con.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/percy-jackson-season-3-release-date-first-footage-1237001650/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/percy-jackson-season-3-footage-comic-con-titans-curse-1236807036/"
+        }
+      ]
+    },
+    {
+      "title": "Cable Guy",
+      "network": "Hulu",
+      "talent": "Natasha Rothwell",
+      "announcement": "Natasha Rothwell joins Hulu's Cable Guy pilot.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/natasha-rothwell-cast-hulu-cable-guy-pilot-1237001665/"
+        }
+      ]
+    },
+    {
       "title": "Shōgun",
-      "network": "Unknown",
-      "talent": "Rick Kumazawa (recurring cast addition)",
+      "network": "FX/Hulu",
+      "talent": "Rick Kumazawa",
       "announcement": "Rick Kumazawa joins Season 2 as recurring cast member.",
       "sources": [
         {
@@ -129,10 +149,22 @@
       ]
     },
     {
+      "title": "Myron Bolitar",
+      "network": "",
+      "talent": "Melissa Benoist, Bebe Neuwirth, Jamie Hector, Quincy Isaiah",
+      "announcement": "Series adds 10 cast members including Melissa Benoist, Bebe Neuwirth, Jamie Hector, and Quincy Isaiah.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/myron-bolitar-series-cast-melissa-benoist-bebe-neuwirth-1236819436/"
+        }
+      ]
+    },
+    {
       "title": "The Morning Show",
       "network": "Apple TV+",
       "talent": "",
-      "announcement": "Series to end with Season 5 on Apple TV+.",
+      "announcement": "Series renewed for final season 5, confirming the show's ending.",
       "sources": [
         {
           "name": "Deadline",
@@ -157,10 +189,10 @@
       ]
     },
     {
-      "title": "The Run For A Million",
+      "title": "The Run For a Million",
       "network": "CBS",
-      "talent": "Creator: Taylor Sheridan",
-      "announcement": "Equine competition special from Taylor Sheridan set to air on CBS.",
+      "talent": "Taylor Sheridan",
+      "announcement": "Equine competition special by Taylor Sheridan ordered for CBS.",
       "sources": [
         {
           "name": "Deadline",
@@ -169,26 +201,22 @@
       ]
     },
     {
-      "title": "The Last Person On Earth",
-      "network": "Apple TV+",
-      "talent": "Host: Esther Perel",
-      "announcement": "Apple TV+ greenlights its first-ever dating series with Esther Perel as host.",
+      "title": "Saint-Pierre",
+      "network": "CBC",
+      "talent": "Assaad Bouab, Caroline Dhavernas",
+      "announcement": "Season 3 cast additions announced with first look footage revealed.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/apple-tv-dating-series-last-person-on-earth-esther-perel-1237000125/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/apple-tv-dating-show-the-last-person-on-earth/"
+          "url": "https://deadline.com/2026/07/saint-pierre-season-3-assaad-bouab-caroline-dhavernas-1237001031/"
         }
       ]
     },
     {
       "title": "Open Water",
       "network": "BBC",
-      "talent": "Cast: Toheeb Jimoh, Dujonna Gift",
-      "announcement": "BBC adaptation with Toheeb Jimoh and Dujonna Gift leading the cast.",
+      "talent": "Toheeb Jimoh, Dujonna Gift, Caleb Nelson",
+      "announcement": "BBC adaptation of Open Water cast with Toheeb Jimoh and Dujonna Gift in lead roles.",
       "sources": [
         {
           "name": "Deadline",
@@ -199,8 +227,8 @@
     {
       "title": "Law & Order",
       "network": "NBC",
-      "talent": "Reid Scott (departing); James Badge Dale (joining)",
-      "announcement": "Reid Scott leaves the series; James Badge Dale joins as replacement for Season 26.",
+      "talent": "Reid Scott (departing), James Badge Dale (joining)",
+      "announcement": "Reid Scott exits the series; James Badge Dale replaces him for Season 26.",
       "sources": [
         {
           "name": "Deadline",
@@ -213,22 +241,22 @@
       ]
     },
     {
-      "title": "Saint-Pierre",
-      "network": "CBC",
-      "talent": "Assaad Bouab, Caroline Dhavernas",
-      "announcement": "Assaad Bouab and Caroline Dhavernas join Season 3 with first look at the season released.",
+      "title": "Beauty in Black",
+      "network": "Netflix",
+      "talent": "Tyler Perry",
+      "announcement": "Tyler Perry series renewed for Season 4 at Netflix.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/saint-pierre-season-3-assaad-bouab-caroline-dhavernas-1237001031/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/tyler-perry-beauty-in-black-renewed-season-4-netflix-1236654787/"
         }
       ]
     },
     {
       "title": "Carrie",
-      "network": "Unknown",
-      "talent": "Creator: Mike Flanagan",
-      "announcement": "Mike Flanagan's Carrie series joins Toronto Film Festival 2026 Primetime program.",
+      "network": "MGM+",
+      "talent": "Mike Flanagan",
+      "announcement": "Mike Flanagan's Carrie TV series announced for Toronto Film Festival Primetime 2026 program.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -245,17 +273,17 @@
       ]
     },
     {
-      "title": "Beauty in Black",
-      "network": "Netflix",
-      "talent": "Creator: Tyler Perry",
-      "announcement": "Tyler Perry's series renewed for Season 4 at Netflix.",
+      "title": "The Last Person on Earth",
+      "network": "Apple TV+",
+      "talent": "",
+      "announcement": "Apple TV+ orders its first dating show with this title.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/tyler-perry-beauty-in-black-renewed-season-4-netflix-1236654787/"
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/apple-tv-dating-show-the-last-person-on-earth/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-23T16:40:12.573Z"
+  "lastUpdated": "2026-07-23T18:16:03.822Z"
 }
