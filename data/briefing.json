@@ -1,24 +1,36 @@
 {
   "date": "July 23, 2026",
-  "summary": "13 film announcements, 17 TV announcements across 5 trades.",
+  "summary": "8 film announcements, 15 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Fog City",
-      "studio": "Independent",
-      "talent": "Cooper Koch, Angus Imrie, Sarah Bolger, Miranda Otto, Carla Gugino; Director: Dan Pritzker",
-      "announcement": "San Francisco noir drama sets cast with five principal actors.",
+      "title": "Ebenezer",
+      "studio": "",
+      "talent": "Johnny Depp",
+      "announcement": "Johnny Depp surprised Comic-Con dressed as Ebenezer Scrooge to promote the film.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/fog-city-cast-cooper-koch-miranda-otto-carla-gugino-1237001462/"
+          "url": "https://deadline.com/2026/07/johnny-depp-comic-con-ebenezer-a-christmas-carol-1237001603/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/johnny-depp-comic-con-surprise-ebenezer-scrooge-1236819764/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/johnny-depp-surprises-comic-con-ebenezer-scrooge-1236654264/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/johnny-depp-san-diego-comic-con-appearance-ebenezer/"
         }
       ]
     },
     {
       "title": "Lizard Music",
-      "studio": "Independent",
-      "talent": "Alicia Silverstone, Tim Heidecker; Director: Benny Safdie",
-      "announcement": "Benny Safdie's film adds Alicia Silverstone and Tim Heidecker to cast.",
+      "studio": "",
+      "talent": "Alicia Silverstone, Tim Heidecker",
+      "announcement": "Alicia Silverstone and Tim Heidecker join Benny Safdie's film.",
       "sources": [
         {
           "name": "Deadline",
@@ -27,14 +39,14 @@
       ]
     },
     {
-      "title": "The Joy of Sex",
-      "studio": "Lionsgate, Wild Bunch",
-      "talent": "Colin Firth, Julianne Moore, Laura Linney, David Tennant; Director: Sharon Maguire",
-      "announcement": "Love triangle comedy directed by Sharon Maguire with major cast set; pre-sells to Lionsgate, Wild Bunch and other territories.",
+      "title": "Fog City",
+      "studio": "",
+      "talent": "Cooper Koch, Angus Imrie, Sarah Bolger, Miranda Otto, Carla Gugino",
+      "announcement": "Cast set for San Francisco noir drama from Dan Pritzker.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/sharon-maguire-directs-colin-firth-julianne-moore-joy-of-sex-1237001551/"
+          "url": "https://deadline.com/2026/07/fog-city-cast-cooper-koch-miranda-otto-carla-gugino-1237001462/"
         }
       ]
     },
@@ -42,7 +54,7 @@
       "title": "Ramayana",
       "studio": "Sony Pictures",
       "talent": "",
-      "announcement": "Indian epic with $500 million production budget acquires Sony Pictures for international distribution.",
+      "announcement": "Indian epic lands at Sony Pictures for international distribution.",
       "sources": [
         {
           "name": "Variety",
@@ -59,26 +71,10 @@
       ]
     },
     {
-      "title": "George Michael: The Faith Tour",
-      "studio": "Universal Pictures Content Group, Bleecker Street Crosswalk",
-      "talent": "",
-      "announcement": "Concert film acquired by Bleecker Street's Crosswalk and Universal Pictures Content Group.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/george-michael-the-faith-tour-concert-film-bleecker-street-1237001488/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/universal-pictures-content-group-crosswalk-acquire-george-michael-the-faith-tour/"
-        }
-      ]
-    },
-    {
-      "title": "Atari Game IP Films",
+      "title": "Atari Video Game Properties",
       "studio": "Universal",
-      "talent": "Writers: Matt Reilly, Carl Hampe; Producer: Entertainment 360",
-      "announcement": "Atari makes deal with Universal for 10 iconic game property films; first project is original script by Matt Reilly and Carl Hampe.",
+      "talent": "Matt Reilly, Carl Hampe (writers)",
+      "announcement": "Atari makes deal with Universal for 10 iconic game property films; first up is original script by Matt Reilly and Carl Hampe.",
       "sources": [
         {
           "name": "Deadline",
@@ -87,62 +83,10 @@
       ]
     },
     {
-      "title": "The Last Person on Earth",
-      "studio": "Apple TV+",
-      "talent": "",
-      "announcement": "Apple TV+ greenlights dating show that sends unlikely couples to the world's most remote locations.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/apple-dating-show-the-last-person-on-earth-1236655112/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/apple-tv-dating-show-the-last-person-on-earth/"
-        }
-      ]
-    },
-    {
-      "title": "Katy Perry: The Lifetimes Tour - Live From Paris",
-      "studio": "Theatrical",
-      "talent": "Katy Perry",
-      "announcement": "Katy Perry concert documentary to be released in theaters in September.",
-      "sources": [
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/music/katy-perry-lifetimes-tour-live-from-paris-movie-release-date/"
-        }
-      ]
-    },
-    {
-      "title": "The Dink",
-      "studio": "Apple TV+",
-      "talent": "Director: Josh Greenbaum",
-      "announcement": "Pickleball comedy film directed by Josh Greenbaum set for Apple TV+.",
-      "sources": [
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/the-dink-josh-greenbaum-interview-apple-tv/"
-        }
-      ]
-    },
-    {
-      "title": "Shot in the Dark",
-      "studio": "Independent",
-      "talent": "Producers: Artists Equity, Hidden Content, Ultraboom Media, Icki Eneo Arlo",
-      "announcement": "Documentary following first U.S. Paralympic blind soccer team; partnership announced among producers.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/artists-equity-shot-in-the-dark-1237001576/"
-        }
-      ]
-    },
-    {
       "title": "Hadestown",
-      "studio": "Theatrical",
+      "studio": "",
       "talent": "",
-      "announcement": "Live theater film adaptation set to hit theaters; aims to chart new course for live capture theatrical releases.",
+      "announcement": "Film adaptation of the musical Hadestown set to hit theaters.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -151,30 +95,26 @@
       ]
     },
     {
-      "title": "The Day Before",
-      "studio": "Independent",
-      "talent": "Director: Alexandra Grey; Executive Producer: Lilly Wachowski",
-      "announcement": "Sci-fi short film adds Lilly Wachowski as executive producer.",
+      "title": "Fred Astaire Biopic",
+      "studio": "",
+      "talent": "Tom Holland",
+      "announcement": "Tom Holland set to star and perform all the dancing in a Fred Astaire biopic.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/columns/lilly-wachowski-sci-fi-short-the-day-before-executive-producer-1236818835/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/tom-holland-fred-astaire-biopic-next-dancing-himself-1236655057/"
         }
       ]
     },
     {
-      "title": "You Must Remember This: The Bisexuals",
-      "studio": "Podcast",
-      "talent": "Host: Karina Longworth",
-      "announcement": "Karina Longworth's podcast sets new season focusing on bisexual Black Widow actress Libby Holman for September.",
+      "title": "Tony",
+      "studio": "A24",
+      "talent": "",
+      "announcement": "A24 plans free screenings of the Anthony Bourdain documentary for hospitality workers.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/karina-longworth-you-must-remember-this-bisexuals-1236819568/"
-        },
-        {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/news/general-news/you-must-remember-this-new-season-bisexual-libby-holman-1235206901/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/anthony-bourdain-movie-free-screenings-hospitality-workers-1236654013/"
         }
       ]
     }
@@ -184,7 +124,7 @@
       "title": "Avatar: Seven Havens",
       "network": "Paramount+",
       "talent": "",
-      "announcement": "New Avatar animated series sets October 2026 premiere date; teaser trailer released.",
+      "announcement": "New Avatar animated series sets premiere date for fall 2026 and releases apocalyptic teaser trailer.",
       "sources": [
         {
           "name": "Deadline",
@@ -207,8 +147,8 @@
     {
       "title": "Myron Bolitar",
       "network": "Netflix",
-      "talent": "Melissa Benoist, Bebe Neuwirth, Jamie Hector, Quincy Isaiah, and 6 additional cast members",
-      "announcement": "Netflix series adds 10 cast members including Melissa Benoist and Bebe Neuwirth.",
+      "talent": "Melissa Benoist, Bebe Neuwirth, Jamie Hector, Quincy Isaiah",
+      "announcement": "Netflix series adds 10 cast members including Melissa Benoist, Bebe Neuwirth, and others.",
       "sources": [
         {
           "name": "Deadline",
@@ -224,7 +164,7 @@
       "title": "Industry",
       "network": "HBO",
       "talent": "Zosia Mamet",
-      "announcement": "Zosia Mamet joins cast for Season 5.",
+      "announcement": "Zosia Mamet joins season 5 of HBO's drama series.",
       "sources": [
         {
           "name": "Deadline",
@@ -241,10 +181,22 @@
       ]
     },
     {
+      "title": "Chicago Fire",
+      "network": "NBC",
+      "talent": "Da'Vinchi",
+      "announcement": "BMF star Da'Vinchi joins Chicago Fire for season 15.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/davinchi-cast-chicago-fire-season-15-1237001742/"
+        }
+      ]
+    },
+    {
       "title": "Percy Jackson and the Olympians",
       "network": "Disney+",
       "talent": "Walker Scobell",
-      "announcement": "Season 3 sets November 2026 premiere date; first footage from 'The Titan's Curse' shown at Comic-Con.",
+      "announcement": "Season 3 premiere date revealed for November; first footage from 'The Titan's Curse' shown at Comic-Con.",
       "sources": [
         {
           "name": "Deadline",
@@ -261,14 +213,14 @@
       ]
     },
     {
-      "title": "Chicago Fire",
-      "network": "NBC",
-      "talent": "Da'Vinchi (from BMF)",
-      "announcement": "Da'Vinchi joins cast for Season 15.",
+      "title": "Cable Guy",
+      "network": "Hulu",
+      "talent": "Natasha Rothwell",
+      "announcement": "Natasha Rothwell joins Hulu's Cable Guy pilot.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/davinchi-cast-chicago-fire-season-15-1237001742/"
+          "url": "https://deadline.com/2026/07/natasha-rothwell-cast-hulu-cable-guy-pilot-1237001665/"
         }
       ]
     },
@@ -276,7 +228,7 @@
       "title": "Shōgun",
       "network": "FX/Hulu",
       "talent": "Rick Kumazawa",
-      "announcement": "Rick Kumazawa joins Season 2 as recurring cast member.",
+      "announcement": "Rick Kumazawa joins season 2 as recurring cast member.",
       "sources": [
         {
           "name": "Deadline",
@@ -288,7 +240,7 @@
       "title": "Saint-Pierre",
       "network": "CBC",
       "talent": "Assaad Bouab, Caroline Dhavernas",
-      "announcement": "Assaad Bouab and Caroline Dhavernas join Season 3; first look released.",
+      "announcement": "Assaad Bouab and Caroline Dhavernas join season 3 with first look released.",
       "sources": [
         {
           "name": "Deadline",
@@ -300,7 +252,7 @@
       "title": "Open Water",
       "network": "BBC",
       "talent": "Toheeb Jimoh, Dujonna Gift, Caleb Nelson",
-      "announcement": "BBC adaptation of Open Water sets lead cast with Toheeb Jimoh and Dujonna Gift.",
+      "announcement": "BBC adaptation leads Ted Lasso star Toheeb Jimoh and Snow White's Dujonna Gift.",
       "sources": [
         {
           "name": "Deadline",
@@ -311,8 +263,8 @@
     {
       "title": "Law & Order",
       "network": "NBC",
-      "talent": "James Badge Dale (replacing Reid Scott)",
-      "announcement": "Reid Scott leaves series; James Badge Dale replaces him in Season 26.",
+      "talent": "James Badge Dale",
+      "announcement": "James Badge Dale replaces Reid Scott for season 26 of NBC's Law & Order.",
       "sources": [
         {
           "name": "Deadline",
@@ -324,12 +276,8 @@
       "title": "The Morning Show",
       "network": "Apple TV+",
       "talent": "",
-      "announcement": "Series concludes with Season 5 in 2027.",
+      "announcement": "Series concludes with season 5 in 2027.",
       "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/morning-show-renewed-final-season-5-apple-tv-1236819289/"
-        },
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/the-morning-show-ends-season-5-1236654691/"
@@ -345,38 +293,18 @@
       ]
     },
     {
-      "title": "Cable Guy",
-      "network": "Hulu",
-      "talent": "Natasha Rothwell",
-      "announcement": "Natasha Rothwell joins pilot for Hulu comedy.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/natasha-rothwell-cast-hulu-cable-guy-pilot-1237001665/"
-        }
-      ]
-    },
-    {
-      "title": "Carrie",
-      "network": "MGM+ / Horror Series",
-      "talent": "Director: Mike Flanagan",
-      "announcement": "Mike Flanagan's Carrie series included in TIFF 2026 Primetime lineup.",
-      "sources": [
-        {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/news/festivals/tiff-2026-primetime-lineup-mike-flanagan-carrie-series-1235206679/"
-        }
-      ]
-    },
-    {
-      "title": "Crystal Lake",
-      "network": "A24 / Horror Series",
+      "title": "The Last Person on Earth",
+      "network": "Apple TV+",
       "talent": "",
-      "announcement": "A24's Friday the 13th prequel series included in TIFF 2026 Primetime lineup.",
+      "announcement": "Apple TV+ makes its first dating show, sending unlikely couples to remote locations worldwide.",
       "sources": [
         {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/news/festivals/tiff-2026-primetime-lineup-mike-flanagan-carrie-series-1235206679/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/apple-dating-show-the-last-person-on-earth-1236655112/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/apple-tv-dating-show-the-last-person-on-earth/"
         }
       ]
     },
@@ -393,17 +321,17 @@
       ]
     },
     {
-      "title": "Star Trek: Strange New Worlds",
-      "network": "Paramount+",
-      "talent": "",
-      "announcement": "Season 4 addresses prequel continuity issues with new narrative approach.",
+      "title": "Carrie",
+      "network": "MGM+",
+      "talent": "Mike Flanagan",
+      "announcement": "Mike Flanagan's Carrie series touts TV horror at TIFF Primetime 2026 lineup.",
       "sources": [
         {
           "name": "IndieWire",
-          "url": "https://www.indiewire.com/criticism/shows/star-trek-strange-new-worlds-season-4-review-prequel-problem-1235206620/"
+          "url": "https://www.indiewire.com/news/festivals/tiff-2026-primetime-lineup-mike-flanagan-carrie-series-1235206679/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-23T21:12:08.660Z"
+  "lastUpdated": "2026-07-23T22:32:15.776Z"
 }
