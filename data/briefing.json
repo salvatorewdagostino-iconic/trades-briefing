@@ -1,13 +1,206 @@
 {
   "date": "July 23, 2026",
-  "summary": "0 film announcements, 1 TV announcement across 5 trades.",
-  "film": [],
+  "summary": "8 film announcements, 9 TV announcements across 5 trades.",
+  "film": [
+    {
+      "title": "The Joy of Sex",
+      "studio": "Lionsgate, Wild Bunch",
+      "talent": "Director: Sharon Maguire; Cast: Colin Firth, Julianne Moore, Laura Linney, David Tennant",
+      "announcement": "Sharon Maguire directs this love triangle comedy which has pre-sold to Lionsgate, Wild Bunch and other distributors.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/sharon-maguire-directs-colin-firth-julianne-moore-joy-of-sex-1237001551/"
+        }
+      ]
+    },
+    {
+      "title": "George Michael: The Faith Tour",
+      "studio": "Bleecker Street, Universal Pictures Content Group",
+      "talent": "",
+      "announcement": "Concert film acquired by Bleecker Street's Crosswalk and Universal Pictures Content Group.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/george-michael-the-faith-tour-concert-film-bleecker-street-1237001488/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/george-michael-the-faith-tour-concert-film-bleecker-street-1236818602/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/universal-pictures-content-group-crosswalk-acquire-george-michael-the-faith-tour/"
+        }
+      ]
+    },
+    {
+      "title": "Katy Perry: The Lifetimes Tour – Live From Paris",
+      "studio": "Theatrical",
+      "talent": "Katy Perry",
+      "announcement": "Concert documentary film set for theatrical release in September 2026.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/music/katy-perry-lifetimes-tour-live-from-paris-movie-release-date/"
+        }
+      ]
+    },
+    {
+      "title": "The Girl With the Leica",
+      "studio": "Fandango",
+      "talent": "",
+      "announcement": "Venice Horizons opener boarded by Fandango Sales for international distribution.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/the-girl-with-the-leica-venice-fandango-sales-1236819135/"
+        }
+      ]
+    },
+    {
+      "title": "Falling House",
+      "studio": "Paradise City Sales",
+      "talent": "Director: Mohsen Gharaei",
+      "announcement": "Iranian director's film boarded by Paradise City Sales ahead of Venice premiere.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/iran-mohsen-gharaeis-falling-house-paradise-city-sales-venice-1236819121/"
+        }
+      ]
+    },
+    {
+      "title": "Armony",
+      "studio": "Xenix",
+      "talent": "Director: Dario Albertini",
+      "announcement": "Set for world premiere in Locarno's Piazza Grande; secures Swiss distribution with Xenix.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/dario-albertini-locarno-armony-asia-argento-true-colours-1236811527/"
+        }
+      ]
+    },
+    {
+      "title": "Resident Evil",
+      "studio": "Unknown",
+      "talent": "Director: Zach Cregger; Cast: Austin Abrams",
+      "announcement": "Zach Cregger's adaptation of the iconic video game with new trailer released ahead of Comic-Con screening.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/resident-evil-trailer-zach-cregger-austin-abrams-1236876910/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/trailers/resident-evil-trailer-zach-cregger-1235206853/"
+        }
+      ]
+    },
+    {
+      "title": "Coyote vs. Acme",
+      "studio": "Unknown",
+      "talent": "",
+      "announcement": "Final trailer released ahead of Comic-Con screening.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/coyote-vs-acme-final-trailer-action-packed-legal-fight-1237000971/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/coyote-vs-acme-first-trailer-1236654769/"
+        }
+      ]
+    }
+  ],
   "tv": [
+    {
+      "title": "Shōgun",
+      "network": "Unknown",
+      "talent": "Rick Kumazawa (recurring cast addition)",
+      "announcement": "Rick Kumazawa joins Season 2 as recurring cast member.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/shogun-season-2-cast-adds-rick-kumazawa-1237001268/"
+        }
+      ]
+    },
+    {
+      "title": "The Morning Show",
+      "network": "Apple TV+",
+      "talent": "",
+      "announcement": "Series to end with Season 5 on Apple TV+.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/apples-the-morning-show-ending-season-5-1237000891/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/morning-show-renewed-final-season-5-apple-tv-1236819289/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/the-morning-show-ends-season-5-1236654691/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/breaking-news/the-morning-show-to-end-season-5-2027-1235206680/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/the-morning-show-ending-season-5-apple/"
+        }
+      ]
+    },
+    {
+      "title": "The Run For A Million",
+      "network": "CBS",
+      "talent": "Creator: Taylor Sheridan",
+      "announcement": "Equine competition special from Taylor Sheridan set to air on CBS.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/cbs-taylor-sheridan-last-cowboy-the-run-for-a-million-1237001327/"
+        }
+      ]
+    },
+    {
+      "title": "The Last Person On Earth",
+      "network": "Apple TV+",
+      "talent": "Host: Esther Perel",
+      "announcement": "Apple TV+ greenlights its first-ever dating series with Esther Perel as host.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/apple-tv-dating-series-last-person-on-earth-esther-perel-1237000125/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/apple-tv-dating-show-the-last-person-on-earth/"
+        }
+      ]
+    },
+    {
+      "title": "Open Water",
+      "network": "BBC",
+      "talent": "Cast: Toheeb Jimoh, Dujonna Gift",
+      "announcement": "BBC adaptation with Toheeb Jimoh and Dujonna Gift leading the cast.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/bbc-open-water-cast-toheeb-jimoh-dujonna-gift-caleb-nelson-1237001086/"
+        }
+      ]
+    },
     {
       "title": "Law & Order",
       "network": "NBC",
-      "talent": "Reid Scott (exiting), James Badge Dale (joining)",
-      "announcement": "Reid Scott is leaving the series and James Badge Dale will succeed him in Season 26 of the NBC drama.",
+      "talent": "Reid Scott (departing); James Badge Dale (joining)",
+      "announcement": "Reid Scott leaves the series; James Badge Dale joins as replacement for Season 26.",
       "sources": [
         {
           "name": "Deadline",
@@ -18,7 +211,51 @@
           "url": "https://www.thewrap.com/creative-content/tv-shows/law-and-order-reid-scott-exits-james-badge-dale-joins-season-26/"
         }
       ]
+    },
+    {
+      "title": "Saint-Pierre",
+      "network": "CBC",
+      "talent": "Assaad Bouab, Caroline Dhavernas",
+      "announcement": "Assaad Bouab and Caroline Dhavernas join Season 3 with first look at the season released.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/saint-pierre-season-3-assaad-bouab-caroline-dhavernas-1237001031/"
+        }
+      ]
+    },
+    {
+      "title": "Carrie",
+      "network": "Unknown",
+      "talent": "Creator: Mike Flanagan",
+      "announcement": "Mike Flanagan's Carrie series joins Toronto Film Festival 2026 Primetime program.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/tiff-2026-tv-lineup-carrie-crystal-lake-1236654655/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/festivals/tiff-2026-primetime-lineup-mike-flanagan-carrie-series-1235206679/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/toronto-film-festival-embraces-horror-carrie-friday-the-13th/"
+        }
+      ]
+    },
+    {
+      "title": "Beauty in Black",
+      "network": "Netflix",
+      "talent": "Creator: Tyler Perry",
+      "announcement": "Tyler Perry's series renewed for Season 4 at Netflix.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/tyler-perry-beauty-in-black-renewed-season-4-netflix-1236654787/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-07-23T05:55:56.514Z"
+  "lastUpdated": "2026-07-23T16:40:12.573Z"
 }
