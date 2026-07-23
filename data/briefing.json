@@ -1,20 +1,24 @@
 {
   "date": "July 23, 2026",
-  "summary": "1 film announcement, 0 TV announcements across the provided trades.",
-  "film": [
+  "summary": "0 film announcements, 1 TV announcement across 5 trades.",
+  "film": [],
+  "tv": [
     {
-      "title": "The Odyssey",
-      "studio": "Unknown",
-      "talent": "Christopher Nolan (director), Travis Scott (actor)",
-      "announcement": "Travis Scott confirmed his acting role in Christopher Nolan's film 'The Odyssey,' discussing his nervousness about the project.",
+      "title": "Law & Order",
+      "network": "NBC",
+      "talent": "Reid Scott (exiting), James Badge Dale (joining)",
+      "announcement": "Reid Scott is leaving the series and James Badge Dale will succeed him in Season 26 of the NBC drama.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/travis-scott-christopher-nolan-the-odyssey-acting-nerves-1236654348/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/reid-scott-leaving-law-order-james-badge-dale-season-26-nbc-1237000929/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/law-and-order-reid-scott-exits-james-badge-dale-joins-season-26/"
         }
       ]
     }
   ],
-  "tv": [],
-  "lastUpdated": "2026-07-23T02:50:24.734Z"
+  "lastUpdated": "2026-07-23T05:55:56.514Z"
 }
