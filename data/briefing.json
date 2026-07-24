@@ -1,24 +1,40 @@
 {
   "date": "July 24, 2026",
-  "summary": "2 film announcements, 3 TV announcements across 5 trades.",
+  "summary": "3 film announcements, 2 TV announcements across 5 trades.",
   "film": [
+    {
+      "title": "Hope",
+      "studio": "",
+      "talent": "Hoyeon, Director: Na Hong-Jin",
+      "announcement": "Director Na Hong-Jin showcased new footage at Comic-Con and discussed casting Hoyeon as his 'best decision' for the project.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/na-hong-jin-comic-con-hope-footage-hoyeon-1236819530/"
+        }
+      ]
+    },
     {
       "title": "Weapons",
       "studio": "",
-      "talent": "Zach Cregger (director)",
-      "announcement": "Zach Cregger teased his 'Weapons' prequel and its approach to Gladys' origin story at Comic-Con.",
+      "talent": "Director: Zach Cregger",
+      "announcement": "Zach Cregger teased a prequel to Weapons focusing on Gladys' origin story with a 'crazy' approach, providing script updates at Comic-Con.",
       "sources": [
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/zach-cregger-weapons-prequel-gladys-origin-comic-con-1236655636/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/zach-cregger-weapons-prequel-gladys-script-update/"
         }
       ]
     },
     {
       "title": "Ebenezer",
       "studio": "Paramount",
-      "talent": "Johnny Depp (star), Ti West (director)",
-      "announcement": "First trailer released for Ti West's 'Ebenezer' starring Johnny Depp.",
+      "talent": "Johnny Depp, Director: Ti West",
+      "announcement": "First trailer released for Ti West's Ebenezer featuring Johnny Depp's return.",
       "sources": [
         {
           "name": "TheWrap",
@@ -31,8 +47,8 @@
     {
       "title": "Thunder Road",
       "network": "AMC",
-      "talent": "Devon Allman (cast)",
-      "announcement": "Devon Allman cast in his first major acting role in AMC's NASCAR drama series.",
+      "talent": "Devon Allman",
+      "announcement": "Devon Allman cast in his first major acting role in the NASCAR drama series.",
       "sources": [
         {
           "name": "Deadline",
@@ -44,26 +60,14 @@
       "title": "Stuart Fails to Save the Universe",
       "network": "",
       "talent": "",
-      "announcement": "Comic-Con panel teased a DC episode and the return of the original character OG as the Big Bang Theory franchise makes its Comic-Con return.",
+      "announcement": "Comic-Con panel teased a DC episode with original character OG returning to the Big Bang Theory franchise spinoff.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/07/stuart-fails-to-save-the-universe-comiccon-og-returns-dc-1237002141/"
         }
       ]
-    },
-    {
-      "title": "1906",
-      "network": "",
-      "talent": "Brad Bird (creator/director)",
-      "announcement": "Brad Bird expressed that '1906' would 'lend itself' to adaptation as a TV miniseries during a Comic-Con career panel.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/brad-bird-1906-tv-series-comic-con-career-panel-1237002229/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-24T02:46:05.016Z"
+  "lastUpdated": "2026-07-24T05:51:44.000Z"
 }
