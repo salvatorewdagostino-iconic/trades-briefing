@@ -1,24 +1,60 @@
 {
   "date": "July 24, 2026",
-  "summary": "3 film announcements, 2 TV announcements across 5 trades.",
+  "summary": "6 film announcements, 7 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Hope",
+      "title": "Tomorrow, and Tomorrow, and Tomorrow",
       "studio": "",
-      "talent": "Hoyeon, Director: Na Hong-Jin",
-      "announcement": "Director Na Hong-Jin showcased new footage at Comic-Con and discussed casting Hoyeon as his 'best decision' for the project.",
+      "talent": "Sky Yang, Sean Kaufman",
+      "announcement": "Sky Yang and Sean Kaufman cast in the film adaptation.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/news/na-hong-jin-comic-con-hope-footage-hoyeon-1236819530/"
+          "url": "https://variety.com/2026/film/news/tomorrow-and-tomorrow-and-tomorrow-movie-sky-yang-sean-kaufman-1236819131/"
+        }
+      ]
+    },
+    {
+      "title": "House of Hope",
+      "studio": "",
+      "talent": "",
+      "announcement": "Oscar documentary contender secures North American distribution.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/oscar-contender-house-of-hope-north-american-distribution-1237002408/"
+        }
+      ]
+    },
+    {
+      "title": "The Streets of Little Italy: 100 Years Of San Gennaro",
+      "studio": "",
+      "talent": "Armand Assante",
+      "announcement": "Armand Assante to narrate the documentary feature.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/armand-assante-the-streets-of-little-italy-san-gennaro-1237002361/"
+        }
+      ]
+    },
+    {
+      "title": "Lost Men",
+      "studio": "",
+      "talent": "Andrés Madrigal",
+      "announcement": "Personal documentary exploring Costa Rica's little-known queer history.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/andres-madrigal-costa-rica-queer-history-lost-men-1236819137/"
         }
       ]
     },
     {
       "title": "Weapons",
       "studio": "",
-      "talent": "Director: Zach Cregger",
-      "announcement": "Zach Cregger teased a prequel to Weapons focusing on Gladys' origin story with a 'crazy' approach, providing script updates at Comic-Con.",
+      "talent": "Zach Cregger",
+      "announcement": "Zach Cregger teases prequel with crazy approach to Gladys' origin story.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -33,8 +69,8 @@
     {
       "title": "Ebenezer",
       "studio": "Paramount",
-      "talent": "Johnny Depp, Director: Ti West",
-      "announcement": "First trailer released for Ti West's Ebenezer featuring Johnny Depp's return.",
+      "talent": "Johnny Depp",
+      "announcement": "First trailer released for Ti West's film starring Johnny Depp.",
       "sources": [
         {
           "name": "TheWrap",
@@ -45,10 +81,38 @@
   ],
   "tv": [
     {
+      "title": "Cross",
+      "network": "Prime Video",
+      "talent": "Robin Givens",
+      "announcement": "Robin Givens joins Season 3 as an intellectual conservative senator.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/robin-givens-cast-prime-video-cross-season-3-1237002223/"
+        }
+      ]
+    },
+    {
+      "title": "Kabul",
+      "network": "BBC",
+      "talent": "Eric Dane",
+      "announcement": "BBC buys war drama series about American withdrawal from Afghanistan starring the late Eric Dane.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/bbc-buys-kabul-drama-series-eric-dane-afghanistan-1237002372/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/bbc-war-drama-kabul-eric-dane-1236820165/"
+        }
+      ]
+    },
+    {
       "title": "Thunder Road",
       "network": "AMC",
       "talent": "Devon Allman",
-      "announcement": "Devon Allman cast in his first major acting role in the NASCAR drama series.",
+      "announcement": "Devon Allman cast in his first major acting role in NASCAR drama series.",
       "sources": [
         {
           "name": "Deadline",
@@ -57,17 +121,61 @@
       ]
     },
     {
+      "title": "Los Hilos del Miedo",
+      "network": "Prime Video Spain",
+      "talent": "",
+      "announcement": "Sony Pictures sets viral X-inspired short-form thriller at Prime Video Spain.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/sony-pictures-los-hilos-del-miedo-prime-video-spain-1236818849/"
+        }
+      ]
+    },
+    {
+      "title": "Spain's World Cup Docuseries",
+      "network": "Prime Video",
+      "talent": "",
+      "announcement": "Prime Video acquires docuseries about Spain's national team World Cup triumph.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/prime-video-docuseries-spanish-national-team-world-cup-1236820294/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/spain-world-cup-series-prime-video-documentary-tv-football-1236655793/"
+        }
+      ]
+    },
+    {
       "title": "Stuart Fails to Save the Universe",
       "network": "",
       "talent": "",
-      "announcement": "Comic-Con panel teased a DC episode with original character OG returning to the Big Bang Theory franchise spinoff.",
+      "announcement": "Series premiere features shocking original character death and new title sequence by Danny Elfman.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/stuart-fails-to-save-the-universe-comiccon-og-returns-dc-1237002141/"
+          "url": "https://deadline.com/2026/07/big-bang-theory-spinoff-stuart-creators-premiere-raj-death-1236979878/"
+        },
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/stuart-fails-to-save-the-universe-title-sequence-danny-elfman-1236979832/"
+        }
+      ]
+    },
+    {
+      "title": "Aang: The Last Airbender",
+      "network": "",
+      "talent": "",
+      "announcement": "Avatar sequel film/series revives the animated franchise.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/reviews/avatar-aang-the-last-airbender-review-sequel-film-1236818576/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-24T05:51:44.000Z"
+  "lastUpdated": "2026-07-24T16:45:33.552Z"
 }
