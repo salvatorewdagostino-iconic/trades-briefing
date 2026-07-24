@@ -1,12 +1,12 @@
 {
   "date": "July 24, 2026",
-  "summary": "7 film announcements, 8 TV announcements across 5 trades.",
+  "summary": "6 film announcements, 7 TV announcements across 5 trades.",
   "film": [
     {
       "title": "Happy Old Year",
       "studio": "Netflix",
-      "talent": "Marcelo Rubens Paiva (author/creator)",
-      "announcement": "Netflix is adapting 'Happy Old Year' from author Marcelo Rubens Paiva (known for 'I'm Still Here') as a series.",
+      "talent": "",
+      "announcement": "Netflix is adapting the film 'Happy Old Year' from author Marcelo Rubens Paiva into a series.",
       "sources": [
         {
           "name": "Deadline",
@@ -16,9 +16,9 @@
     },
     {
       "title": "Baton",
-      "studio": "Unknown",
+      "studio": "",
       "talent": "Danny Ramirez",
-      "announcement": "Major League Soccer has boarded Danny Ramirez's soccer drama 'Baton' as a key partner on the project.",
+      "announcement": "Major League Soccer has boarded the Danny Ramirez soccer drama 'Baton' as a key partner.",
       "sources": [
         {
           "name": "Deadline",
@@ -28,8 +28,8 @@
     },
     {
       "title": "Burger Night: Luli, Magda & Lore",
-      "studio": "Unknown",
-      "talent": "Eli Roth (executive producer), all-female cast",
+      "studio": "",
+      "talent": "Eli Roth (executive producer)",
       "announcement": "Eli Roth-executive produced 'Burger Night: Luli, Magda & Lore' gets an all-female cast.",
       "sources": [
         {
@@ -42,7 +42,7 @@
       "title": "Untitled Jacques Audiard Horror Film",
       "studio": "Netflix",
       "talent": "Jacques Audiard (director)",
-      "announcement": "Director Jacques Audiard reunites with Netflix for a new horror film.",
+      "announcement": "'Emilia Pérez' director Jacques Audiard reunites with Netflix for a horror film.",
       "sources": [
         {
           "name": "Variety",
@@ -51,10 +51,10 @@
       ]
     },
     {
-      "title": "Untitled Matt Damon/The Daniels Sci-Fi Film",
-      "studio": "Unknown",
-      "talent": "Matt Damon, The Daniels (directors)",
-      "announcement": "Matt Damon describes his role in The Daniels' new sci-fi movie as 'The Breakfast Club' meets 'Inception' meets anime meets John Oliver.",
+      "title": "Untitled The Daniels Sci-Fi Film",
+      "studio": "",
+      "talent": "Matt Damon",
+      "announcement": "Matt Damon stars in a new sci-fi film from The Daniels, described as 'The Breakfast Club' meets 'Inception' meets anime.",
       "sources": [
         {
           "name": "Variety",
@@ -69,38 +69,46 @@
     {
       "title": "Ebenezer",
       "studio": "Paramount",
-      "talent": "Johnny Depp, Ti West (director)",
-      "announcement": "First trailer released for Ti West's 'Ebenezer' starring Johnny Depp.",
+      "talent": "Johnny Depp",
+      "announcement": "Ti West's 'Ebenezer' starring Johnny Depp gets its first trailer.",
       "sources": [
         {
           "name": "TheWrap",
           "url": "https://www.thewrap.com/creative-content/movies/johnny-depp-ebenezer-trailer-ti-west-paramount/"
         }
       ]
-    },
-    {
-      "title": "Weapons Prequel",
-      "studio": "Unknown",
-      "talent": "Zach Cregger (director/writer)",
-      "announcement": "Zach Cregger teases a 'Weapons' prequel with a 'crazy' approach to Gladys' origin story.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/zach-cregger-weapons-prequel-gladys-origin-comic-con-1236655636/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/zach-cregger-weapons-prequel-gladys-script-update/"
-        }
-      ]
     }
   ],
   "tv": [
     {
+      "title": "The Lord of the Rings: The Rings of Power",
+      "network": "Amazon Prime Video",
+      "talent": "Simon Pegg",
+      "announcement": "Season 3 trailer revealed at Comic-Con with Simon Pegg joining the cast.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/the-rings-of-power-season-3-trailer-simon-pegg-1237002720/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/lord-of-the-rings-rings-of-power-season-3-trailer-1236625486/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/rings-of-power-season-3-trailer-premiere-date-1236655955/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/lord-of-the-rings-rings-of-power-season-3-trailer-comic-con/"
+        }
+      ]
+    },
+    {
       "title": "Blade Runner 2099",
       "network": "Amazon Prime Video",
       "talent": "Michelle Yeoh, Hunter Schafer",
-      "announcement": "Sequel series sets late fall Prime Video premiere with first trailer unveiled at Comic-Con.",
+      "announcement": "Sequel series sets late fall Prime Video premiere with first trailer revealed at Comic-Con.",
       "sources": [
         {
           "name": "Deadline",
@@ -115,20 +123,12 @@
           "url": "https://www.hollywoodreporter.com/tv/tv-news/blade-runner-2099-trailer-1236655934/"
         },
         {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/trailers/blade-runner-2099-teaser-michelle-yeoh-1235206668/"
+        },
+        {
           "name": "TheWrap",
           "url": "https://www.thewrap.com/creative-content/tv-shows/blade-runner-2099-trailer-hunter-schafer-michelle-yeoh/"
-        }
-      ]
-    },
-    {
-      "title": "Kabul",
-      "network": "BBC",
-      "talent": "Eric Dane (late actor)",
-      "announcement": "BBC buys 'Kabul' drama series about American withdrawal from Afghanistan starring the late Eric Dane.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/bbc-buys-kabul-drama-series-eric-dane-afghanistan-1237002372/"
         }
       ]
     },
@@ -136,7 +136,7 @@
       "title": "Cross",
       "network": "Amazon Prime Video",
       "talent": "Robin Givens",
-      "announcement": "Robin Givens joins Prime Video's 'Cross' as an intellectual conservative senator for Season 3.",
+      "announcement": "Robin Givens joins Season 3 as an intellectual conservative senator.",
       "sources": [
         {
           "name": "Deadline",
@@ -148,7 +148,7 @@
       "title": "Thunder Road",
       "network": "AMC",
       "talent": "Devon Allman",
-      "announcement": "Devon Allman lands his first major acting role in AMC's NASCAR drama 'Thunder Road'.",
+      "announcement": "Devon Allman lands his first major acting role in the NASCAR drama series.",
       "sources": [
         {
           "name": "Deadline",
@@ -160,12 +160,8 @@
       "title": "Spain World Cup Docuseries",
       "network": "Amazon Prime Video",
       "talent": "",
-      "announcement": "Prime Video secures a docuseries about Spain's World Cup triumph.",
+      "announcement": "Spain scores a World Cup docuseries at Prime Video.",
       "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/global/prime-video-docuseries-spanish-national-team-world-cup-1236820294/"
-        },
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/spain-world-cup-series-prime-video-documentary-tv-football-1236655793/"
@@ -173,41 +169,29 @@
       ]
     },
     {
-      "title": "The Secret Of Secrets",
-      "network": "Netflix",
-      "talent": "",
-      "announcement": "Carlton Cuse discusses his Netflix series 'The Secret Of Secrets' amid conversation about sports rights and residuals.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/carlton-cuse-sports-rights-scripted-secret-of-secrets-1236999147/"
-        }
-      ]
-    },
-    {
-      "title": "Monster: The Ed Gein Story",
-      "network": "Unknown",
-      "talent": "Ian Brennan (showrunner), Charlie Hunnam, Laurie Metcalf",
-      "announcement": "Ian Brennan showrunner discusses the series about Ed Gein with cast including Charlie Hunnam and Laurie Metcalf.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/monster-the-ed-gein-story-ian-brennan-charlie-hunnam-laurie-metcalf-1237001754/"
-        }
-      ]
-    },
-    {
-      "title": "Somebody Feed Phil Season 9",
+      "title": "Somebody Feed Phil",
       "network": "Max",
       "talent": "Phil Rosenthal",
-      "announcement": "Phil Rosenthal's 'Somebody Feed Phil' releases a special Max and Helen's episode on YouTube ahead of Season 9 premiere.",
+      "announcement": "Phil Rosenthal's 'Somebody Feed Phil' releases special Max and Helen's episode on YouTube ahead of Season 9 premiere.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/tv/news/phil-rosenthal-somebody-feed-phil-max-and-helens-episode-youtube-1236820476/"
         }
       ]
+    },
+    {
+      "title": "Star Wars: Detours",
+      "network": "",
+      "talent": "",
+      "announcement": "Star Wars animated series 'Detours' to finally screen at Lucas Museum Comic-Con panel.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/lucas-museum-comic-con-star-wars-animated-series-detours-1236655674/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-07-24T18:21:41.934Z"
+  "lastUpdated": "2026-07-24T19:56:45.456Z"
 }
