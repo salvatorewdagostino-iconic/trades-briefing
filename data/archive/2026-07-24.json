@@ -1,12 +1,24 @@
 {
   "date": "July 24, 2026",
-  "summary": "3 film announcements, 7 TV announcements across 5 trades.",
+  "summary": "5 film announcements, 9 TV announcements across 5 trades.",
   "film": [
     {
+      "title": "Happy Old Year",
+      "studio": "Netflix",
+      "talent": "Marcelo Rubens Paiva (author/adapting)",
+      "announcement": "Netflix is adapting the book by 'I'm Still Here' author Marcelo Rubens Paiva as a series.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/happy-old-year-marcelo-rubens-paiva-netflix-series-1237002651/"
+        }
+      ]
+    },
+    {
       "title": "Burger Night: Luli, Magda & Lore",
-      "studio": "Unknown",
-      "talent": "Eli Roth (executive producer)",
-      "announcement": "Eli Roth-executive produced film gets all-female cast.",
+      "studio": "",
+      "talent": "Eli Roth (executive producer); all-female cast",
+      "announcement": "Eli Roth-executive produced film secures an all-female cast.",
       "sources": [
         {
           "name": "Variety",
@@ -15,10 +27,22 @@
       ]
     },
     {
-      "title": "The Daniels Sci-Fi Movie (Untitled)",
-      "studio": "Unknown",
-      "talent": "Matt Damon",
-      "announcement": "Matt Damon describes his role in The Daniels' new sci-fi movie as 'The Breakfast Club' meets 'Inception' meets anime meets John Oliver.",
+      "title": "Her Private Hell",
+      "studio": "",
+      "talent": "Nicolas Winding Refn (director)",
+      "announcement": "Nicolas Winding Refn film discussed in interview about his creative process.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/her-private-hell-nicolas-winding-refn-interview/"
+        }
+      ]
+    },
+    {
+      "title": "The Daniels Sci-Fi Movie",
+      "studio": "",
+      "talent": "Matt Damon (star); The Daniels (directors)",
+      "announcement": "Matt Damon describes his role in The Daniels' untitled sci-fi film as a blend of 'The Breakfast Club,' 'Inception,' anime, and John Oliver.",
       "sources": [
         {
           "name": "Variety",
@@ -31,72 +55,40 @@
       ]
     },
     {
-      "title": "Weapons Prequel",
-      "studio": "Unknown",
-      "talent": "Zach Cregger",
-      "announcement": "Zach Cregger teases prequel to 'Weapons' with Gladys' origin story in development, describing 'mysteries and crazy things' ahead.",
+      "title": "Baton",
+      "studio": "",
+      "talent": "Danny Ramirez (star)",
+      "announcement": "Major League Soccer boards Danny Ramirez soccer drama 'Baton' as key partner.",
       "sources": [
         {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/zach-cregger-weapons-prequel-gladys-script-update/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/mls-danny-ramirez-baton-1237002561/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "Lanterns",
-      "network": "HBO/DC Studios",
-      "talent": "Unknown",
-      "announcement": "New trailer revealed at Comic-Con showing Sinestro in prison, Guy Gardner cameo, and a shape-shifting Manhunter threat.",
+      "title": "Crutch",
+      "network": "Paramount+",
+      "talent": "Tracy Morgan (star)",
+      "announcement": "Tracy Morgan comedy 'Crutch' canceled after one season amid Paramount+ programming shift.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/lanterns-trailer-sinestro-1237002917/"
+          "url": "https://deadline.com/2026/07/tracy-morgan-crutch-canceled-paramount-plus-1237002691/"
         },
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/lanterns-trailer-sinestro-guy-gardner-manhunter-1236818889/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/lanterns-trailer-reveals-sinestro-and-its-manhunter-1236656225/"
-        },
-        {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/news/trailers/lanterns-trailer-dc-hbo-show-1235206936/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/lanterns-trailer-comic-con-sinestro-manhunters/"
+          "url": "https://variety.com/2026/tv/news/crutch-canceled-paramount-plus-1236809888/"
         }
       ]
     },
     {
-      "title": "President Curtis",
-      "network": "Adult Swim",
-      "talent": "Unknown",
-      "announcement": "Rick and Morty spinoff renewed for Season 2 ahead of its series premiere.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/president-curtis-renewed-season-2-rick-and-morty-1237002876/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/president-curtis-rick-and-morty-renewed-season-2-adult-swim-1236656115/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/media-platforms/tv/rick-and-morty-spinoff-president-curtis-season-2-renewed/"
-        }
-      ]
-    },
-    {
-      "title": "Interview with the Vampire (Season 4: Queen of the Damned)",
+      "title": "Interview With the Vampire",
       "network": "AMC",
-      "talent": "Unknown",
-      "announcement": "AMC's Interview with the Vampire renewed for fourth season retitled 'Queen of the Damned' with new trailer revealed at Comic-Con.",
+      "talent": "",
+      "announcement": "Series renewed for season four, with the season retitled 'Queen of the Damned' and a new showrunner announced.",
       "sources": [
         {
           "name": "Deadline",
@@ -117,34 +109,54 @@
       ]
     },
     {
-      "title": "The Lord of the Rings: The Rings of Power (Season 3)",
-      "network": "Prime Video",
-      "talent": "Simon Pegg",
-      "announcement": "Season 3 trailer revealed at Comic-Con showing Simon Pegg joining cast as the Balrog, with connection to The Hobbit confirmed.",
+      "title": "President Curtis",
+      "network": "Adult Swim",
+      "talent": "",
+      "announcement": "'Rick and Morty' spinoff 'President Curtis' renewed for season 2 ahead of its series premiere.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/the-rings-of-power-season-3-trailer-simon-pegg-1237002720/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/lord-of-the-rings-rings-of-power-season-3-trailer-1236625486/"
+          "url": "https://deadline.com/2026/07/president-curtis-renewed-season-2-rick-and-morty-1237002876/"
         },
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/rings-of-power-season-3-trailer-premiere-date-1236655955/"
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/president-curtis-rick-and-morty-renewed-season-2-adult-swim-1236656115/"
         },
         {
           "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/lord-of-the-rings-rings-of-power-season-3-trailer-comic-con/"
+          "url": "https://www.thewrap.com/media-platforms/tv/rick-and-morty-spinoff-president-curtis-season-2-renewed/"
+        }
+      ]
+    },
+    {
+      "title": "Lanterns",
+      "network": "HBO",
+      "talent": "Aaron Pierre (star); Nathan Fillion (cameo)",
+      "announcement": "DC Studios series reveals new 'Lanterns' trailer at Comic-Con featuring Sinestro and shape-shifting Manhunter threat.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/lanterns-trailer-sinestro-1237002917/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/lanterns-trailer-sinestro-guy-gardner-manhunter-1236818889/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/lanterns-trailer-reveals-sinestro-and-its-manhunter-1236656225/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/lanterns-trailer-comic-con-sinestro-manhunters/"
         }
       ]
     },
     {
       "title": "Blade Runner 2099",
       "network": "Prime Video",
-      "talent": "Hunter Schafer, Michelle Yeoh",
-      "announcement": "Sci-fi sequel series sets late fall Prime Video premiere date with first trailer revealed at Comic-Con.",
+      "talent": "Hunter Schafer (star); Michelle Yeoh (star)",
+      "announcement": "Sequel series sets late fall Prime Video premiere with first trailer revealed at Comic-Con.",
       "sources": [
         {
           "name": "Deadline",
@@ -165,22 +177,62 @@
       ]
     },
     {
-      "title": "Happy Old Year",
-      "network": "Netflix",
-      "talent": "Marcelo Rubens Paiva (author)",
-      "announcement": "Netflix series adaptation announced based on Marcelo Rubens Paiva's book 'Happy Old Year' from author of 'I'm Still Here'.",
+      "title": "The Lord of the Rings: The Rings of Power",
+      "network": "Prime Video",
+      "talent": "Simon Pegg (cast addition)",
+      "announcement": "Season 3 trailer revealed at Comic-Con with Simon Pegg joining cast and new details about 'Die Hard' Christmas episode and more.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/happy-old-year-marcelo-rubens-paiva-netflix-series-1237002651/"
+          "url": "https://deadline.com/2026/07/ghosts-season-6-details-revealed-comic-con-cbs-1237002951/"
+        },
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/the-rings-of-power-season-3-trailer-simon-pegg-1237002720/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/my-little-pony-forever-friendship-youtube-2027-1236820643/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/rings-of-power-season-3-trailer-premiere-date-1236655955/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/lord-of-the-rings-rings-of-power-season-3-trailer-comic-con/"
+        }
+      ]
+    },
+    {
+      "title": "Cross",
+      "network": "Prime Video",
+      "talent": "Robin Givens (cast addition)",
+      "announcement": "Robin Givens joins season 3 as an intellectual conservative senator.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/robin-givens-cast-prime-video-cross-season-3-1237002223/"
+        }
+      ]
+    },
+    {
+      "title": "Thunder Road",
+      "network": "AMC",
+      "talent": "Devon Allman (cast addition)",
+      "announcement": "Devon Allman lands his first major acting role in AMC's NASCAR drama.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/devon-allman-cast-amc-nascar-drama-series-thunder-road-1237002131/"
         }
       ]
     },
     {
       "title": "My Little Pony: Forever Friendship",
       "network": "YouTube",
-      "talent": "Unknown",
-      "announcement": "New My Little Pony animated series greenlit for YouTube premiere in 2027.",
+      "talent": "",
+      "announcement": "New YouTube animated series to launch in 2027.",
       "sources": [
         {
           "name": "Variety",
@@ -193,5 +245,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-24T21:12:39.221Z"
+  "lastUpdated": "2026-07-24T22:35:43.292Z"
 }
