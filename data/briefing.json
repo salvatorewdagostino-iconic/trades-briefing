@@ -1,60 +1,88 @@
 {
   "date": "July 24, 2026",
-  "summary": "6 film announcements, 7 TV announcements across 5 trades.",
+  "summary": "7 film announcements, 8 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Tomorrow, and Tomorrow, and Tomorrow",
-      "studio": "",
-      "talent": "Sky Yang, Sean Kaufman",
-      "announcement": "Sky Yang and Sean Kaufman cast in the film adaptation.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/tomorrow-and-tomorrow-and-tomorrow-movie-sky-yang-sean-kaufman-1236819131/"
-        }
-      ]
-    },
-    {
-      "title": "House of Hope",
-      "studio": "",
-      "talent": "",
-      "announcement": "Oscar documentary contender secures North American distribution.",
+      "title": "Happy Old Year",
+      "studio": "Netflix",
+      "talent": "Marcelo Rubens Paiva (author/creator)",
+      "announcement": "Netflix is adapting 'Happy Old Year' from author Marcelo Rubens Paiva (known for 'I'm Still Here') as a series.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/oscar-contender-house-of-hope-north-american-distribution-1237002408/"
+          "url": "https://deadline.com/2026/07/happy-old-year-marcelo-rubens-paiva-netflix-series-1237002651/"
         }
       ]
     },
     {
-      "title": "The Streets of Little Italy: 100 Years Of San Gennaro",
-      "studio": "",
-      "talent": "Armand Assante",
-      "announcement": "Armand Assante to narrate the documentary feature.",
+      "title": "Baton",
+      "studio": "Unknown",
+      "talent": "Danny Ramirez",
+      "announcement": "Major League Soccer has boarded Danny Ramirez's soccer drama 'Baton' as a key partner on the project.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/armand-assante-the-streets-of-little-italy-san-gennaro-1237002361/"
+          "url": "https://deadline.com/2026/07/mls-danny-ramirez-baton-1237002561/"
         }
       ]
     },
     {
-      "title": "Lost Men",
-      "studio": "",
-      "talent": "Andrés Madrigal",
-      "announcement": "Personal documentary exploring Costa Rica's little-known queer history.",
+      "title": "Burger Night: Luli, Magda & Lore",
+      "studio": "Unknown",
+      "talent": "Eli Roth (executive producer), all-female cast",
+      "announcement": "Eli Roth-executive produced 'Burger Night: Luli, Magda & Lore' gets an all-female cast.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/global/andres-madrigal-costa-rica-queer-history-lost-men-1236819137/"
+          "url": "https://variety.com/2026/film/global/eli-roth-pablo-guisa-burger-night-luli-magda-lore-1236818730/"
         }
       ]
     },
     {
-      "title": "Weapons",
-      "studio": "",
-      "talent": "Zach Cregger",
-      "announcement": "Zach Cregger teases prequel with crazy approach to Gladys' origin story.",
+      "title": "Untitled Jacques Audiard Horror Film",
+      "studio": "Netflix",
+      "talent": "Jacques Audiard (director)",
+      "announcement": "Director Jacques Audiard reunites with Netflix for a new horror film.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/emilia-perez-jacques-audiard-horror-movie-netflix-1236820297/"
+        }
+      ]
+    },
+    {
+      "title": "Untitled Matt Damon/The Daniels Sci-Fi Film",
+      "studio": "Unknown",
+      "talent": "Matt Damon, The Daniels (directors)",
+      "announcement": "Matt Damon describes his role in The Daniels' new sci-fi movie as 'The Breakfast Club' meets 'Inception' meets anime meets John Oliver.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/matt-damon-daniels-sci-fi-movie-breakfast-club-inception-1236820464/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/matt-damon-the-daniels-movie-mystery-details/"
+        }
+      ]
+    },
+    {
+      "title": "Ebenezer",
+      "studio": "Paramount",
+      "talent": "Johnny Depp, Ti West (director)",
+      "announcement": "First trailer released for Ti West's 'Ebenezer' starring Johnny Depp.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/johnny-depp-ebenezer-trailer-ti-west-paramount/"
+        }
+      ]
+    },
+    {
+      "title": "Weapons Prequel",
+      "studio": "Unknown",
+      "talent": "Zach Cregger (director/writer)",
+      "announcement": "Zach Cregger teases a 'Weapons' prequel with a 'crazy' approach to Gladys' origin story.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -65,26 +93,50 @@
           "url": "https://www.thewrap.com/creative-content/movies/zach-cregger-weapons-prequel-gladys-script-update/"
         }
       ]
-    },
-    {
-      "title": "Ebenezer",
-      "studio": "Paramount",
-      "talent": "Johnny Depp",
-      "announcement": "First trailer released for Ti West's film starring Johnny Depp.",
-      "sources": [
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/johnny-depp-ebenezer-trailer-ti-west-paramount/"
-        }
-      ]
     }
   ],
   "tv": [
     {
+      "title": "Blade Runner 2099",
+      "network": "Amazon Prime Video",
+      "talent": "Michelle Yeoh, Hunter Schafer",
+      "announcement": "Sequel series sets late fall Prime Video premiere with first trailer unveiled at Comic-Con.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/blade-runner-2099-premiere-date-trailer-1237002595/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/blade-runner-2099-trailer-michelle-yeoh-hunter-schafer-1236806977/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/blade-runner-2099-trailer-1236655934/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/blade-runner-2099-trailer-hunter-schafer-michelle-yeoh/"
+        }
+      ]
+    },
+    {
+      "title": "Kabul",
+      "network": "BBC",
+      "talent": "Eric Dane (late actor)",
+      "announcement": "BBC buys 'Kabul' drama series about American withdrawal from Afghanistan starring the late Eric Dane.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/bbc-buys-kabul-drama-series-eric-dane-afghanistan-1237002372/"
+        }
+      ]
+    },
+    {
       "title": "Cross",
-      "network": "Prime Video",
+      "network": "Amazon Prime Video",
       "talent": "Robin Givens",
-      "announcement": "Robin Givens joins Season 3 as an intellectual conservative senator.",
+      "announcement": "Robin Givens joins Prime Video's 'Cross' as an intellectual conservative senator for Season 3.",
       "sources": [
         {
           "name": "Deadline",
@@ -93,26 +145,10 @@
       ]
     },
     {
-      "title": "Kabul",
-      "network": "BBC",
-      "talent": "Eric Dane",
-      "announcement": "BBC buys war drama series about American withdrawal from Afghanistan starring the late Eric Dane.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/bbc-buys-kabul-drama-series-eric-dane-afghanistan-1237002372/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/global/bbc-war-drama-kabul-eric-dane-1236820165/"
-        }
-      ]
-    },
-    {
       "title": "Thunder Road",
       "network": "AMC",
       "talent": "Devon Allman",
-      "announcement": "Devon Allman cast in his first major acting role in NASCAR drama series.",
+      "announcement": "Devon Allman lands his first major acting role in AMC's NASCAR drama 'Thunder Road'.",
       "sources": [
         {
           "name": "Deadline",
@@ -121,22 +157,10 @@
       ]
     },
     {
-      "title": "Los Hilos del Miedo",
-      "network": "Prime Video Spain",
+      "title": "Spain World Cup Docuseries",
+      "network": "Amazon Prime Video",
       "talent": "",
-      "announcement": "Sony Pictures sets viral X-inspired short-form thriller at Prime Video Spain.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/global/sony-pictures-los-hilos-del-miedo-prime-video-spain-1236818849/"
-        }
-      ]
-    },
-    {
-      "title": "Spain's World Cup Docuseries",
-      "network": "Prime Video",
-      "talent": "",
-      "announcement": "Prime Video acquires docuseries about Spain's national team World Cup triumph.",
+      "announcement": "Prime Video secures a docuseries about Spain's World Cup triumph.",
       "sources": [
         {
           "name": "Variety",
@@ -149,33 +173,41 @@
       ]
     },
     {
-      "title": "Stuart Fails to Save the Universe",
-      "network": "",
+      "title": "The Secret Of Secrets",
+      "network": "Netflix",
       "talent": "",
-      "announcement": "Series premiere features shocking original character death and new title sequence by Danny Elfman.",
+      "announcement": "Carlton Cuse discusses his Netflix series 'The Secret Of Secrets' amid conversation about sports rights and residuals.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/big-bang-theory-spinoff-stuart-creators-premiere-raj-death-1236979878/"
-        },
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/stuart-fails-to-save-the-universe-title-sequence-danny-elfman-1236979832/"
+          "url": "https://deadline.com/2026/07/carlton-cuse-sports-rights-scripted-secret-of-secrets-1236999147/"
         }
       ]
     },
     {
-      "title": "Aang: The Last Airbender",
-      "network": "",
-      "talent": "",
-      "announcement": "Avatar sequel film/series revives the animated franchise.",
+      "title": "Monster: The Ed Gein Story",
+      "network": "Unknown",
+      "talent": "Ian Brennan (showrunner), Charlie Hunnam, Laurie Metcalf",
+      "announcement": "Ian Brennan showrunner discusses the series about Ed Gein with cast including Charlie Hunnam and Laurie Metcalf.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/monster-the-ed-gein-story-ian-brennan-charlie-hunnam-laurie-metcalf-1237001754/"
+        }
+      ]
+    },
+    {
+      "title": "Somebody Feed Phil Season 9",
+      "network": "Max",
+      "talent": "Phil Rosenthal",
+      "announcement": "Phil Rosenthal's 'Somebody Feed Phil' releases a special Max and Helen's episode on YouTube ahead of Season 9 premiere.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/reviews/avatar-aang-the-last-airbender-review-sequel-film-1236818576/"
+          "url": "https://variety.com/2026/tv/news/phil-rosenthal-somebody-feed-phil-max-and-helens-episode-youtube-1236820476/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-24T16:45:33.552Z"
+  "lastUpdated": "2026-07-24T18:21:41.934Z"
 }
