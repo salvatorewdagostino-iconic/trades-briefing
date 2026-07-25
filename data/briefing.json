@@ -1,26 +1,62 @@
 {
   "date": "July 25, 2026",
-  "summary": "1 film announcement, 2 TV announcements across 5 trades.",
+  "summary": "2 film announcements, 5 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Haunting Adeline",
+      "title": "The Dink",
       "studio": "",
-      "talent": "",
-      "announcement": "Adult graphic novels in development based on H.D. Carlton's divisive dark romance novel amid film adaptation backlash.",
+      "talent": "Andy Roddick, Jake Johnson",
+      "announcement": "Andy Roddick lands his first major acting role in the film, with co-star Jake Johnson praising his comedic performance.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/news/haunting-adeline-graphic-novels-author-hd-carlton-1236820459/"
+          "url": "https://variety.com/2026/film/columns/andy-roddick-acting-debut-in-the-dink-1236820547/"
+        }
+      ]
+    },
+    {
+      "title": "The Exiles",
+      "studio": "",
+      "talent": "Sam Worthington, David Duchovny, Ke-Xi Wu",
+      "announcement": "Director Midi Z's film draws on Joseph Conrad's 'Heart of Darkness' and features the cast in an adaptation of the classic novel.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/midi-z-the-exiles-heart-of-darkness-sam-worthington-1236821005/"
         }
       ]
     }
   ],
   "tv": [
     {
+      "title": "Star Trek: Starfleet Academy",
+      "network": "Paramount+",
+      "talent": "Ruaridh Aldington",
+      "announcement": "Ruaridh Aldington added as series regular for Season 2, announced at Comic-Con.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/star-trek-starfleet-academy-ruaridh-aldington-cast-season-2-1237003502/"
+        }
+      ]
+    },
+    {
+      "title": "Star Trek Scouts",
+      "network": "YouTube",
+      "talent": "",
+      "announcement": "Second season premiere set for Star Trek Day on YouTube, announced at Comic-Con.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/star-trek-scouts-premiere-date-youtube-1237003543/"
+        }
+      ]
+    },
+    {
       "title": "Futurama",
       "network": "Hulu",
       "talent": "",
-      "announcement": "Hulu greenlights 3 extended special episodes ahead of Season 14, including a Christmas episode, starting next year.",
+      "announcement": "Hulu greenlights three extended special episodes ahead of Season 14, including a Christmas episode, with new trailer debuting at Comic-Con.",
       "sources": [
         {
           "name": "Deadline",
@@ -36,7 +72,7 @@
       "title": "Bob's Burgers",
       "network": "Hulu",
       "talent": "",
-      "announcement": "New holiday short titled 'On the Fort Day of Christmas' set to premiere on Hulu this year.",
+      "announcement": "New holiday short titled 'On the Fort Day of Christmas' set to premiere on Hulu.",
       "sources": [
         {
           "name": "Deadline",
@@ -47,7 +83,19 @@
           "url": "https://variety.com/2026/tv/news/bobs-burgers-short-on-the-fort-day-of-christmas-hulu-1236820701/"
         }
       ]
+    },
+    {
+      "title": "Little House on the Prairie",
+      "network": "",
+      "talent": "Luke Bracey",
+      "announcement": "Luke Bracey embraces his character Pa's flaws in the series, discussing the creative approach to the role in Season 1.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/little-house-on-the-prairie-luke-bracey-season-1-interview-1236656297/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-07-25T19:13:17.137Z"
+  "lastUpdated": "2026-07-25T20:27:39.230Z"
 }
