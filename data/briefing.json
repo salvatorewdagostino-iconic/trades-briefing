@@ -1,12 +1,12 @@
 {
   "date": "July 25, 2026",
-  "summary": "2 film announcements, 5 TV announcements across 5 trades.",
+  "summary": "3 film announcements, 7 TV announcements across 5 trades.",
   "film": [
     {
       "title": "The Dink",
       "studio": "",
       "talent": "Andy Roddick, Jake Johnson",
-      "announcement": "Andy Roddick lands his first major acting role in the film, with co-star Jake Johnson praising his comedic performance.",
+      "announcement": "Andy Roddick lands his first major acting role in the film, with Jake Johnson praising his performance.",
       "sources": [
         {
           "name": "Variety",
@@ -17,34 +17,82 @@
     {
       "title": "The Exiles",
       "studio": "",
-      "talent": "Sam Worthington, David Duchovny, Ke-Xi Wu",
-      "announcement": "Director Midi Z's film draws on Joseph Conrad's 'Heart of Darkness' and features the cast in an adaptation of the classic novel.",
+      "talent": "Sam Worthington, David Duchovny, Ke-Xi Wu; Director Midi Z",
+      "announcement": "Director Midi Z reveals the film draws inspiration from Joseph Conrad's 'Heart of Darkness'.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/film/news/midi-z-the-exiles-heart-of-darkness-sam-worthington-1236821005/"
         }
       ]
+    },
+    {
+      "title": "Haunting Adeline",
+      "studio": "",
+      "talent": "Author H.D. Carlton",
+      "announcement": "Adult graphic novel adaptations are in development based on H.D. Carlton's dark romance novel, amid backlash to the film adaptation.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/haunting-adeline-graphic-novels-author-hd-carlton-1236820459/"
+        }
+      ]
     }
   ],
   "tv": [
     {
-      "title": "Star Trek: Starfleet Academy",
-      "network": "Paramount+",
-      "talent": "Ruaridh Aldington",
-      "announcement": "Ruaridh Aldington added as series regular for Season 2, announced at Comic-Con.",
+      "title": "Yaga",
+      "network": "AMC/Crave",
+      "talent": "Hudson Williams, Carrie-Anne Moss",
+      "announcement": "Cast teases Hudson Williams playing a 'scary hot' character in the sexy and dark reimagining of a Slavic fairytale at Comic-Con.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/star-trek-starfleet-academy-ruaridh-aldington-cast-season-2-1237003502/"
+          "url": "https://deadline.com/2026/07/yaga-hudson-williams-carrie-ann-moss-comic-con-1237003616/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/hudson-williams-yaga-clip-trailer-san-diego-comic-con-1236821131/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/yaga-amc-crave-teaser-hudson-williams-carrie-anne-moss-1236656478/"
         }
       ]
     },
     {
-      "title": "Star Trek Scouts",
+      "title": "Star Trek: Starfleet Academy",
+      "network": "Paramount+",
+      "talent": "Ruaridh Aldington",
+      "announcement": "Season 2 adds newcomer Ruaridh Aldington as a series regular.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/star-trek-starfleet-academy-ruaridh-aldington-cast-season-2-1237003502/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/star-trek-starfleet-academy-season-2-casts-ruaridh-aldington-1236821134/"
+        }
+      ]
+    },
+    {
+      "title": "Star Trek: Strange New Worlds",
+      "network": "Paramount+",
+      "talent": "",
+      "announcement": "Season 4 sneak peek unveiled at Comic-Con.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/star-trek-strange-new-worlds-season-4-teaser-1237003561/"
+        }
+      ]
+    },
+    {
+      "title": "Star Trek: Scouts",
       "network": "YouTube",
       "talent": "",
-      "announcement": "Second season premiere set for Star Trek Day on YouTube, announced at Comic-Con.",
+      "announcement": "Second season premiere date set for Star Trek Day on YouTube.",
       "sources": [
         {
           "name": "Deadline",
@@ -56,7 +104,7 @@
       "title": "Futurama",
       "network": "Hulu",
       "talent": "",
-      "announcement": "Hulu greenlights three extended special episodes ahead of Season 14, including a Christmas episode, with new trailer debuting at Comic-Con.",
+      "announcement": "Hulu greenlights 3 extended special episodes ahead of Season 14, including a Christmas episode, starting next year.",
       "sources": [
         {
           "name": "Deadline",
@@ -72,7 +120,7 @@
       "title": "Bob's Burgers",
       "network": "Hulu",
       "talent": "",
-      "announcement": "New holiday short titled 'On the Fort Day of Christmas' set to premiere on Hulu.",
+      "announcement": "New holiday short 'On the Fort Day of Christmas' set for exclusive premiere on Hulu this year.",
       "sources": [
         {
           "name": "Deadline",
@@ -85,17 +133,17 @@
       ]
     },
     {
-      "title": "Little House on the Prairie",
-      "network": "",
-      "talent": "Luke Bracey",
-      "announcement": "Luke Bracey embraces his character Pa's flaws in the series, discussing the creative approach to the role in Season 1.",
+      "title": "Family Guy",
+      "network": "Hulu",
+      "talent": "Kieran Culkin",
+      "announcement": "Kieran Culkin cast to play the Devil in a new Halloween special for Hulu.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-features/little-house-on-the-prairie-luke-bracey-season-1-interview-1236656297/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/family-guy-kieran-culkin-devil-halloween-special-hulu-1236820678/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-25T20:27:39.230Z"
+  "lastUpdated": "2026-07-25T21:28:17.146Z"
 }
