@@ -1,12 +1,24 @@
 {
   "date": "July 25, 2026",
-  "summary": "1 film announcement, 0 TV announcements across 5 trades.",
+  "summary": "2 film announcements, 1 TV announcement across 5 trades.",
   "film": [
     {
+      "title": "The Dink",
+      "studio": "",
+      "talent": "Andy Roddick (acting debut), Jake Johnson",
+      "announcement": "Andy Roddick makes his acting debut in the film, with co-star Jake Johnson praising his comedic performance.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/columns/andy-roddick-acting-debut-in-the-dink-1236820547/"
+        }
+      ]
+    },
+    {
       "title": "Haunting Adeline",
-      "studio": "Unknown",
+      "studio": "",
       "talent": "",
-      "announcement": "Adult graphic novel adaptations are in development based on H.D. Carlton's divisive dark romance novel, amid backlash to the film adaptation.",
+      "announcement": "Adult graphic novel adaptations are in development based on H.D. Carlton's dark romance novels amid backlash over the film adaptation.",
       "sources": [
         {
           "name": "Variety",
@@ -15,6 +27,19 @@
       ]
     }
   ],
-  "tv": [],
-  "lastUpdated": "2026-07-25T16:06:43.943Z"
+  "tv": [
+    {
+      "title": "On Patrol: Live",
+      "network": "",
+      "talent": "Tom Morris Jr.",
+      "announcement": "Tom Morris Jr. from the original Live PD joins the revival series, reuniting the gang from the original law enforcement program.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/live-pd-reunion-tom-morris-jr-dan-abrams-on-patrol-live-1236656080/"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-07-25T17:31:46.354Z"
 }
