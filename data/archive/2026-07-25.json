@@ -1,20 +1,24 @@
 {
   "date": "July 25, 2026",
-  "summary": "0 film announcements, 1 TV announcement across the trades.",
-  "film": [],
-  "tv": [
+  "summary": "1 film announcement, 0 TV announcements across 5 trades.",
+  "film": [
     {
-      "title": "On Patrol: Live",
-      "network": "Not specified",
-      "talent": "Tom Morris Jr., Dan Abrams",
-      "announcement": "Tom Morris Jr. joins the show as part of a reunion of the 'Live PD' team with Dan Abrams.",
+      "title": "Spaceballs: The New One",
+      "studio": "Unknown",
+      "talent": "Rick Moranis",
+      "announcement": "Rick Moranis made his Comic-Con debut for the Spaceballs sequel, with footage shown at the event.",
       "sources": [
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/live-pd-reunion-tom-morris-jr-dan-abrams-on-patrol-live-1236656080/"
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/spaceballs-the-new-one-footage-1236656320/"
+        },
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/spaceballs-the-new-one-comic-con-marvel-1237003091/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-25T02:44:32.084Z"
+  "tv": [],
+  "lastUpdated": "2026-07-25T05:44:16.403Z"
 }
