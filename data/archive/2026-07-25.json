@@ -1,24 +1,12 @@
 {
   "date": "July 25, 2026",
-  "summary": "2 film announcements, 1 TV announcement across 5 trades.",
+  "summary": "1 film announcement, 2 TV announcements across 5 trades.",
   "film": [
-    {
-      "title": "The Dink",
-      "studio": "",
-      "talent": "Andy Roddick (acting debut), Jake Johnson",
-      "announcement": "Andy Roddick makes his acting debut in the film, with co-star Jake Johnson praising his comedic performance.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/columns/andy-roddick-acting-debut-in-the-dink-1236820547/"
-        }
-      ]
-    },
     {
       "title": "Haunting Adeline",
       "studio": "",
       "talent": "",
-      "announcement": "Adult graphic novel adaptations are in development based on H.D. Carlton's dark romance novels amid backlash over the film adaptation.",
+      "announcement": "Adult graphic novels in development based on H.D. Carlton's divisive dark romance novel amid film adaptation backlash.",
       "sources": [
         {
           "name": "Variety",
@@ -29,17 +17,37 @@
   ],
   "tv": [
     {
-      "title": "On Patrol: Live",
-      "network": "",
-      "talent": "Tom Morris Jr.",
-      "announcement": "Tom Morris Jr. from the original Live PD joins the revival series, reuniting the gang from the original law enforcement program.",
+      "title": "Futurama",
+      "network": "Hulu",
+      "talent": "",
+      "announcement": "Hulu greenlights 3 extended special episodes ahead of Season 14, including a Christmas episode, starting next year.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/live-pd-reunion-tom-morris-jr-dan-abrams-on-patrol-live-1236656080/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/futurama-new-extended-episodes-season-14-trailer-1237003526/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/futurama-three-new-supersized-specials-hulu-comic-con-1236821009/"
+        }
+      ]
+    },
+    {
+      "title": "Bob's Burgers",
+      "network": "Hulu",
+      "talent": "",
+      "announcement": "New holiday short titled 'On the Fort Day of Christmas' set to premiere on Hulu this year.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/bobs-burgers-holiday-short-hulu-1237003074/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/bobs-burgers-short-on-the-fort-day-of-christmas-hulu-1236820701/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-25T17:31:46.354Z"
+  "lastUpdated": "2026-07-25T19:13:17.137Z"
 }
