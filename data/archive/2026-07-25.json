@@ -3,22 +3,18 @@
   "summary": "1 film announcement, 0 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Spaceballs: The New One",
+      "title": "Haunting Adeline",
       "studio": "Unknown",
-      "talent": "Rick Moranis",
-      "announcement": "Rick Moranis made his Comic-Con debut for the Spaceballs sequel, with footage shown at the event.",
+      "talent": "",
+      "announcement": "Adult graphic novel adaptations are in development based on H.D. Carlton's divisive dark romance novel, amid backlash to the film adaptation.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/spaceballs-the-new-one-footage-1236656320/"
-        },
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/spaceballs-the-new-one-comic-con-marvel-1237003091/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/haunting-adeline-graphic-novels-author-hd-carlton-1236820459/"
         }
       ]
     }
   ],
   "tv": [],
-  "lastUpdated": "2026-07-25T05:44:16.403Z"
+  "lastUpdated": "2026-07-25T16:06:43.943Z"
 }
