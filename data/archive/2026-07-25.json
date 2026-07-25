@@ -1,62 +1,70 @@
 {
   "date": "July 25, 2026",
-  "summary": "3 film announcements, 7 TV announcements across 5 trades.",
+  "summary": "2 film announcements, 8 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "The Dink",
-      "studio": "",
-      "talent": "Andy Roddick, Jake Johnson",
-      "announcement": "Andy Roddick lands his first major acting role in the film, with Jake Johnson praising his performance.",
+      "title": "Matchbox",
+      "studio": "Apple TV",
+      "talent": "John Cena, Jessica Biel",
+      "announcement": "Trailer debuted at Comic-Con showing John Cena and Jessica Biel as CIA agents on the run in this Mattel adaptation of classic toy cars.",
       "sources": [
         {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/matchbox-the-movie-trailer-john-cena-mattel-sdcc-1237003657/"
+        },
+        {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/columns/andy-roddick-acting-debut-in-the-dink-1236820547/"
+          "url": "https://variety.com/2026/film/news/matchbox-trailer-john-cena-toy-cars-apple-1236645191/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/matchbox-trailer-john-cena-mattel-comic-con/"
         }
       ]
     },
     {
-      "title": "The Exiles",
+      "title": "Spaceballs: The New One",
       "studio": "",
-      "talent": "Sam Worthington, David Duchovny, Ke-Xi Wu; Director Midi Z",
-      "announcement": "Director Midi Z reveals the film draws inspiration from Joseph Conrad's 'Heart of Darkness'.",
+      "talent": "Rick Moranis",
+      "announcement": "Rick Moranis made his Comic-Con debut to present footage from the Spaceballs sequel.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/midi-z-the-exiles-heart-of-darkness-sam-worthington-1236821005/"
-        }
-      ]
-    },
-    {
-      "title": "Haunting Adeline",
-      "studio": "",
-      "talent": "Author H.D. Carlton",
-      "announcement": "Adult graphic novel adaptations are in development based on H.D. Carlton's dark romance novel, amid backlash to the film adaptation.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/haunting-adeline-graphic-novels-author-hd-carlton-1236820459/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/spaceballs-the-new-one-footage-1236656320/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "Yaga",
-      "network": "AMC/Crave",
-      "talent": "Hudson Williams, Carrie-Anne Moss",
-      "announcement": "Cast teases Hudson Williams playing a 'scary hot' character in the sexy and dark reimagining of a Slavic fairytale at Comic-Con.",
+      "title": "Neuromancer",
+      "network": "Apple TV",
+      "talent": "Callum Turner",
+      "announcement": "First look teaser presented at Comic-Con featuring Callum Turner as a cyberspace criminal in this adaptation of the cyberpunk sci-fi novel.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/yaga-hudson-williams-carrie-ann-moss-comic-con-1237003616/"
+          "url": "https://deadline.com/2026/07/neuromancer-teaser-callum-turner-apple-tv-sdcc-1237003665/"
         },
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/hudson-williams-yaga-clip-trailer-san-diego-comic-con-1236821131/"
+          "url": "https://variety.com/2026/tv/news/neuromancer-first-look-callum-turner-apple-tv-1236821177/"
+        }
+      ]
+    },
+    {
+      "title": "Futurama",
+      "network": "Hulu",
+      "talent": "",
+      "announcement": "Hulu greenlit 3 extended special episodes ahead of Season 14, including a Christmas episode, with new trailer debuting at Comic-Con.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/futurama-new-extended-episodes-season-14-trailer-1237003526/"
         },
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/yaga-amc-crave-teaser-hudson-williams-carrie-anne-moss-1236656478/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/futurama-three-new-supersized-specials-hulu-comic-con-1236821009/"
         }
       ]
     },
@@ -73,6 +81,54 @@
         {
           "name": "Variety",
           "url": "https://variety.com/2026/tv/news/star-trek-starfleet-academy-season-2-casts-ruaridh-aldington-1236821134/"
+        }
+      ]
+    },
+    {
+      "title": "Yaga",
+      "network": "AMC/Crave",
+      "talent": "Hudson Williams, Carrie-Anne Moss",
+      "announcement": "First clip unveiled at Comic-Con showcasing Hudson Williams and Carrie-Anne Moss in this sexy and dark reimagining of a Slavic fairytale.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/yaga-hudson-williams-carrie-ann-moss-comic-con-1237003616/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/hudson-williams-yaga-clip-trailer-san-diego-comic-con-1236821131/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/yaga-amc-crave-teaser-hudson-williams-carrie-anne-moss-1236656478/"
+        }
+      ]
+    },
+    {
+      "title": "Bob's Burgers",
+      "network": "Hulu",
+      "talent": "",
+      "announcement": "Hulu sets exclusive holiday short titled 'On the Fort Day of Christmas' to air this year.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/bobs-burgers-holiday-short-hulu-1237003074/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/bobs-burgers-short-on-the-fort-day-of-christmas-hulu-1236820701/"
+        }
+      ]
+    },
+    {
+      "title": "Family Guy",
+      "network": "Hulu",
+      "talent": "Kieran Culkin",
+      "announcement": "Kieran Culkin cast to play the Devil in a new Halloween special for Hulu.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/family-guy-kieran-culkin-devil-halloween-special-hulu-1236820678/"
         }
       ]
     },
@@ -99,51 +155,7 @@
           "url": "https://deadline.com/2026/07/star-trek-scouts-premiere-date-youtube-1237003543/"
         }
       ]
-    },
-    {
-      "title": "Futurama",
-      "network": "Hulu",
-      "talent": "",
-      "announcement": "Hulu greenlights 3 extended special episodes ahead of Season 14, including a Christmas episode, starting next year.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/futurama-new-extended-episodes-season-14-trailer-1237003526/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/futurama-three-new-supersized-specials-hulu-comic-con-1236821009/"
-        }
-      ]
-    },
-    {
-      "title": "Bob's Burgers",
-      "network": "Hulu",
-      "talent": "",
-      "announcement": "New holiday short 'On the Fort Day of Christmas' set for exclusive premiere on Hulu this year.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/bobs-burgers-holiday-short-hulu-1237003074/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/bobs-burgers-short-on-the-fort-day-of-christmas-hulu-1236820701/"
-        }
-      ]
-    },
-    {
-      "title": "Family Guy",
-      "network": "Hulu",
-      "talent": "Kieran Culkin",
-      "announcement": "Kieran Culkin cast to play the Devil in a new Halloween special for Hulu.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/family-guy-kieran-culkin-devil-halloween-special-hulu-1236820678/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-25T21:28:17.146Z"
+  "lastUpdated": "2026-07-25T22:30:18.674Z"
 }
