@@ -1,12 +1,12 @@
 {
   "date": "July 25, 2026",
-  "summary": "2 film announcements, 8 TV announcements across 5 trades.",
+  "summary": "3 film announcements, 9 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Matchbox",
+      "title": "Matchbox: The Movie",
       "studio": "Apple TV",
       "talent": "John Cena, Jessica Biel",
-      "announcement": "Trailer debuted at Comic-Con showing John Cena and Jessica Biel as CIA agents on the run in this Mattel adaptation of classic toy cars.",
+      "announcement": "Trailer debuted at San Diego Comic-Con featuring Cena and Biel running from the CIA in this Mattel adaptation of classic toy cars.",
       "sources": [
         {
           "name": "Deadline",
@@ -33,6 +33,22 @@
           "url": "https://www.hollywoodreporter.com/movies/movie-news/spaceballs-the-new-one-footage-1236656320/"
         }
       ]
+    },
+    {
+      "title": "Dungeons & Dragons: Honor Among Thieves 2",
+      "studio": "",
+      "talent": "",
+      "announcement": "The sequel script has been written but may never be filmed due to financial reasons.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/dungeons-and-dragons-sequel-written-never-filmed-financial-1236821132/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/dungeons-and-dragons-2-script-done-never-get-made/"
+        }
+      ]
     }
   ],
   "tv": [
@@ -40,7 +56,7 @@
       "title": "Neuromancer",
       "network": "Apple TV",
       "talent": "Callum Turner",
-      "announcement": "First look teaser presented at Comic-Con featuring Callum Turner as a cyberspace criminal in this adaptation of the cyberpunk sci-fi novel.",
+      "announcement": "First look teaser introduced at San Diego Comic-Con featuring Turner as a cyberspace criminal in this cyberpunk sci-fi series based on the novel.",
       "sources": [
         {
           "name": "Deadline",
@@ -49,22 +65,22 @@
         {
           "name": "Variety",
           "url": "https://variety.com/2026/tv/news/neuromancer-first-look-callum-turner-apple-tv-1236821177/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/neuromancer-trailer-callum-turner-apple-series/"
         }
       ]
     },
     {
-      "title": "Futurama",
-      "network": "Hulu",
+      "title": "Dark Matter",
+      "network": "Apple TV",
       "talent": "",
-      "announcement": "Hulu greenlit 3 extended special episodes ahead of Season 14, including a Christmas episode, with new trailer debuting at Comic-Con.",
+      "announcement": "Season 2 trailer debuted in Hall H at Comic-Con, teasing storylines involving The Box.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/futurama-new-extended-episodes-season-14-trailer-1237003526/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/futurama-three-new-supersized-specials-hulu-comic-con-1236821009/"
+          "url": "https://deadline.com/2026/07/dark-matter-season-2-trailer-apple-tv-1237003658/"
         }
       ]
     },
@@ -85,10 +101,66 @@
       ]
     },
     {
+      "title": "Star Trek: Strange New Worlds",
+      "network": "Paramount+",
+      "talent": "",
+      "announcement": "Season 4 sneak peek unveiled at San Diego Comic-Con.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/star-trek-strange-new-worlds-season-4-teaser-1237003561/"
+        }
+      ]
+    },
+    {
+      "title": "Star Trek: Scouts",
+      "network": "YouTube",
+      "talent": "",
+      "announcement": "Season 2 premiere date set for Star Trek Day on YouTube.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/star-trek-scouts-premiere-date-youtube-1237003543/"
+        }
+      ]
+    },
+    {
+      "title": "Futurama",
+      "network": "Hulu",
+      "talent": "",
+      "announcement": "Hulu greenlit 3 new extended special episodes ahead of Season 14, including a Christmas episode, with new trailer debuted at Comic-Con.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/futurama-new-extended-episodes-season-14-trailer-1237003526/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/futurama-three-new-supersized-specials-hulu-comic-con-1236821009/"
+        }
+      ]
+    },
+    {
+      "title": "Bob's Burgers",
+      "network": "Hulu",
+      "talent": "",
+      "announcement": "Hulu greenlit an exclusive holiday short titled 'On the Fort Day of Christmas' for release this year.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/bobs-burgers-holiday-short-hulu-1237003074/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/bobs-burgers-short-on-the-fort-day-of-christmas-hulu-1236820701/"
+        }
+      ]
+    },
+    {
       "title": "Yaga",
       "network": "AMC/Crave",
       "talent": "Hudson Williams, Carrie-Anne Moss",
-      "announcement": "First clip unveiled at Comic-Con showcasing Hudson Williams and Carrie-Anne Moss in this sexy and dark reimagining of a Slavic fairytale.",
+      "announcement": "First clip from the sexy and dark reimagining of a Slavic fairytale debuted at Comic-Con, featuring Hudson Williams.",
       "sources": [
         {
           "name": "Deadline",
@@ -105,22 +177,6 @@
       ]
     },
     {
-      "title": "Bob's Burgers",
-      "network": "Hulu",
-      "talent": "",
-      "announcement": "Hulu sets exclusive holiday short titled 'On the Fort Day of Christmas' to air this year.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/bobs-burgers-holiday-short-hulu-1237003074/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/bobs-burgers-short-on-the-fort-day-of-christmas-hulu-1236820701/"
-        }
-      ]
-    },
-    {
       "title": "Family Guy",
       "network": "Hulu",
       "talent": "Kieran Culkin",
@@ -131,31 +187,7 @@
           "url": "https://variety.com/2026/tv/news/family-guy-kieran-culkin-devil-halloween-special-hulu-1236820678/"
         }
       ]
-    },
-    {
-      "title": "Star Trek: Strange New Worlds",
-      "network": "Paramount+",
-      "talent": "",
-      "announcement": "Season 4 sneak peek unveiled at Comic-Con.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/star-trek-strange-new-worlds-season-4-teaser-1237003561/"
-        }
-      ]
-    },
-    {
-      "title": "Star Trek: Scouts",
-      "network": "YouTube",
-      "talent": "",
-      "announcement": "Second season premiere date set for Star Trek Day on YouTube.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/star-trek-scouts-premiere-date-youtube-1237003543/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-25T22:30:18.674Z"
+  "lastUpdated": "2026-07-25T23:36:06.392Z"
 }
