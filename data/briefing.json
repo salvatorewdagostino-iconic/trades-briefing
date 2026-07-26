@@ -5,8 +5,8 @@
     {
       "title": "Black Panther 3",
       "studio": "Marvel Studios",
-      "talent": "David Jonsson as T'Challa's son",
-      "announcement": "David Jonsson cast as T'Challa's grown son with December 2028 release date set.",
+      "talent": "David Jonsson as T'Challa's grown son",
+      "announcement": "David Jonsson cast as T'Challa's son with film set for December 2028 release. Announced at Comic-Con 2026.",
       "sources": [
         {
           "name": "Deadline",
@@ -29,8 +29,8 @@
     {
       "title": "Ghost Rider",
       "studio": "Marvel Studios",
-      "talent": "Ryan Gosling as Ghost Rider; Shawn Levy directing",
-      "announcement": "Ryan Gosling cast as Ghost Rider with director Shawn Levy attached.",
+      "talent": "Ryan Gosling as Ghost Rider, Director Shawn Levy",
+      "announcement": "Ryan Gosling cast as Ghost Rider in Marvel Cinematic Universe film directed by Shawn Levy. Announced at Comic-Con 2026.",
       "sources": [
         {
           "name": "Deadline",
@@ -54,11 +54,15 @@
       "title": "Avengers: Doomsday",
       "studio": "Marvel Studios",
       "talent": "",
-      "announcement": "New trailer revealed at Comic-Con depicting Doctor Doom raising an army of Sentinels to battle the Avengers, Fantastic Four, and X-Men.",
+      "announcement": "New trailer shown at Comic-Con depicting Doctor Doom raising an army of Sentinels to take down the Avengers, Fantastic Four, and X-Men.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/film/news/avengers-doomsday-new-trailer-comic-con-1236817677/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/marvel-studios-doomsday-comic-con-panel-recap-1236656358/"
         },
         {
           "name": "TheWrap",
@@ -67,14 +71,14 @@
       ]
     },
     {
-      "title": "Matchbox the Movie",
+      "title": "Coyote vs. Acme",
       "studio": "",
-      "talent": "John Cena",
-      "announcement": "Trailer released featuring John Cena racing to find a nuclear warhead.",
+      "talent": "Lana Condor",
+      "announcement": "Film shown publicly to fans at Comic-Con 2026 after previous release delays.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/john-cena-matchbox-the-movie-trailer-watch-1236656615/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/coyote-vs-acme-director-lana-condor-public-screening-fans-comic-con-1236821209/"
         }
       ]
     }
@@ -83,8 +87,8 @@
     {
       "title": "Carrie",
       "network": "Prime Video",
-      "talent": "Mike Flanagan",
-      "announcement": "Prime Video set October release date for Stephen King's Carrie series adaptation with new trailer depicting the cruelty of modern high school.",
+      "talent": "Mike Flanagan (creator/showrunner)",
+      "announcement": "Prime Video series adaptation of Stephen King's Carrie sets October 2026 release date with new trailer unveiled at Comic-Con depicting modern high school cruelty.",
       "sources": [
         {
           "name": "Deadline",
@@ -105,5 +109,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-26T02:53:14.193Z"
+  "lastUpdated": "2026-07-26T06:07:32.435Z"
 }
