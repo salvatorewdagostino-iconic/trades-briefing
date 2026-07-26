@@ -1,20 +1,20 @@
 {
   "date": "July 26, 2026",
-  "summary": "7 film announcements, 3 TV announcements across 5 trades.",
+  "summary": "6 film announcements, 2 TV announcements across 5 trades.",
   "film": [
     {
       "title": "Black Panther 3",
       "studio": "Marvel Studios",
-      "talent": "David Jonsson as T'Challa's son",
-      "announcement": "David Jonsson cast as T'Challa's grown son in Black Panther 3, with the film set for theatrical release in December 2028.",
+      "talent": "David Jonsson as T'Challa's son, Ryan Coogler director",
+      "announcement": "David Jonsson cast as T'Challa's son in the sequel, set for December 2028 release. Kevin Feige revealed Coogler met with Jonsson in a secret meeting six months prior.",
       "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/black-panther-3-release-date-david-jonsson-marvel-comic-con-1237003635/"
-        },
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/black-panther-3-marvel-ryan-coogler-comic-con-1236656570/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/kevin-feige-ryan-coogler-david-jonsson-black-panther-3-1236821563/"
         },
         {
           "name": "TheWrap",
@@ -25,8 +25,8 @@
     {
       "title": "Ghost Rider",
       "studio": "Marvel Studios",
-      "talent": "Ryan Gosling as Ghost Rider, director Shawn Levy",
-      "announcement": "Ryan Gosling unveiled as Ghost Rider in a new Marvel Studios project with director Shawn Levy attached.",
+      "talent": "Ryan Gosling as Ghost Rider, Shawn Levy director",
+      "announcement": "Ryan Gosling unveiled as Ghost Rider in a Marvel Studios film with director Shawn Levy attached.",
       "sources": [
         {
           "name": "Deadline",
@@ -43,39 +43,11 @@
       ]
     },
     {
-      "title": "Transformers: The Movie",
-      "studio": "Hasbro and Fathom",
-      "talent": "",
-      "announcement": "The original Transformers: The Movie is getting a fall theatrical re-release from Hasbro and Fathom Events.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/transformers-the-movie-re-release-trailer-date-1237004056/"
-        }
-      ]
-    },
-    {
-      "title": "Matchbox the Movie",
-      "studio": "",
-      "talent": "John Cena",
-      "announcement": "Trailer released for Matchbox the Movie featuring John Cena racing to find a nuclear warhead.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/john-cena-matchbox-the-movie-trailer-watch-1236656615/"
-        }
-      ]
-    },
-    {
       "title": "Avengers: Doomsday",
       "studio": "Marvel Studios",
-      "talent": "",
-      "announcement": "Marvel Studios announced Avengers: Doomsday at Comic-Con with Hall H sneak peek showing Reed Richards confronting Doctor Doom.",
+      "talent": "Reed Richards (casting details not specified)",
+      "announcement": "Marvel Studios announced 'Avengers: Doomsday' with a Hall H sneak peek showing Reed Richards confronting Doctor Doom.",
       "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/marvel-comic-con-doomsday-ghost-rider-black-panther-1236821335/"
-        },
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/marvel-studios-doomsday-comic-con-panel-recap-1236656358/"
@@ -87,14 +59,26 @@
       ]
     },
     {
-      "title": "Drive Thru Magic",
+      "title": "Matchbox",
       "studio": "",
-      "talent": "Daniel J. Kim, Danielle Kennedy",
-      "announcement": "Gay romance podcast Drive Thru Magic casts Daniel J. Kim and Danielle Kennedy with a September release date set.",
+      "talent": "John Cena",
+      "announcement": "John Cena stars in 'Matchbox the Movie,' a film in which his character races to find a nuclear warhead.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/digital/columns/gay-romance-podcast-drive-thru-magic-daniel-j-kim-1236821490/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/john-cena-matchbox-the-movie-trailer-watch-1236656615/"
+        }
+      ]
+    },
+    {
+      "title": "Transformers: The Movie",
+      "studio": "Hasbro/Fathom",
+      "talent": "",
+      "announcement": "Hasbro and Fathom announced a fall theatrical re-release of 'Transformers: The Movie' with a new trailer and release date.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/transformers-the-movie-re-release-trailer-date-1237004056/"
         }
       ]
     },
@@ -102,7 +86,7 @@
       "title": "Colony",
       "studio": "",
       "talent": "Director Yeon Sang-ho, Gianna Jun",
-      "announcement": "Train to Busan director Yeon Sang-ho's new zombie film Colony with actress Gianna Jun discussed at Comic-Con.",
+      "announcement": "Director Yeon Sang-ho ('Train to Busan') and Gianna Jun discussed their new zombie movie 'Colony,' offering a fresh take on the genre.",
       "sources": [
         {
           "name": "Variety",
@@ -115,8 +99,8 @@
     {
       "title": "Carrie",
       "network": "Prime Video",
-      "talent": "Mike Flanagan (creator/writer/director)",
-      "announcement": "Stephen King's Carrie series sets October release date on Prime Video with new trailer depicting modern high school cruelty.",
+      "talent": "Mike Flanagan showrunner/director",
+      "announcement": "Prime Video's Stephen King 'Carrie' series set for October release with new trailer depicting 'cruelty' of modern high school; Mike Flanagan teased a 'big surprise.'",
       "sources": [
         {
           "name": "Deadline",
@@ -137,22 +121,10 @@
       ]
     },
     {
-      "title": "The Rookie",
-      "network": "ABC",
-      "talent": "Melissa O'Neil",
-      "announcement": "The Rookie creator reveals Season 9 premiere will be supersized following the shocking Season 8 finale cliffhanger.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/the-rookie-season-9-premiere-season-8-finale-cliffhanger-1237003758/"
-        }
-      ]
-    },
-    {
       "title": "President Curtis",
       "network": "Adult Swim",
-      "talent": "",
-      "announcement": "Rick and Morty spinoff President Curtis plays it safe while keeping the sci-fi franchise moving forward.",
+      "talent": "Dan Harmon, James Siciliano",
+      "announcement": "'Rick and Morty' spinoff 'President Curtis' plays it safe while keeping the sci-fi franchise moving forward, with creators noting it offers a refreshing change of pace.",
       "sources": [
         {
           "name": "Variety",
@@ -165,5 +137,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-26T21:31:01.724Z"
+  "lastUpdated": "2026-07-26T23:02:10.535Z"
 }
