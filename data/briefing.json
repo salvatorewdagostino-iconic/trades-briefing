@@ -1,12 +1,12 @@
 {
   "date": "July 26, 2026",
-  "summary": "5 film announcements, 2 TV announcements across 5 trades.",
+  "summary": "6 film announcements, 2 TV announcements across 5 trades.",
   "film": [
     {
       "title": "Black Panther 3",
       "studio": "Marvel Studios",
       "talent": "David Jonsson as T'Challa's son",
-      "announcement": "David Jonsson cast as T'Challa's grown son in Black Panther 3, with the film set for December 2028 release.",
+      "announcement": "David Jonsson cast as T'Challa's grown son in Black Panther 3, with the film set to hit theaters in December 2028.",
       "sources": [
         {
           "name": "Deadline",
@@ -26,7 +26,7 @@
       "title": "Ghost Rider",
       "studio": "Marvel Studios",
       "talent": "Ryan Gosling as Ghost Rider, director Shawn Levy",
-      "announcement": "Ryan Gosling unveiled as the star of Ghost Rider for Marvel Studios with Shawn Levy directing.",
+      "announcement": "Ryan Gosling unveiled as Ghost Rider for Marvel Studios with director Shawn Levy attached to the project.",
       "sources": [
         {
           "name": "Deadline",
@@ -43,22 +43,14 @@
       ]
     },
     {
-      "title": "Avengers: Doomsday",
-      "studio": "Marvel Studios",
+      "title": "Transformers: The Movie",
+      "studio": "Hasbro & Fathom",
       "talent": "",
-      "announcement": "Marvel Studios showcased Avengers: Doomsday at Comic-Con 2026, including a Hall H sneak peek with Reed Richards confronting Doctor Doom.",
+      "announcement": "Transformers: The Movie is getting a fall theatrical re-release from Hasbro and Fathom.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/marvel-comic-con-doomsday-ghost-rider-black-panther-1236821335/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/marvel-studios-doomsday-comic-con-panel-recap-1236656358/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/industry-news/business/avengers-doomsday-reed-richards-confronts-doctor-doom-in-hall-h-sneak-peek/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/transformers-the-movie-re-release-trailer-date-1237004056/"
         }
       ]
     },
@@ -66,7 +58,7 @@
       "title": "Matchbox the Movie",
       "studio": "",
       "talent": "John Cena",
-      "announcement": "Trailer released for Matchbox the Movie starring John Cena in a race to find a nuclear warhead.",
+      "announcement": "Trailer released for Matchbox the Movie featuring John Cena racing to find a nuclear warhead.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -75,10 +67,22 @@
       ]
     },
     {
+      "title": "Avengers: Doomsday",
+      "studio": "Marvel Studios",
+      "talent": "",
+      "announcement": "Marvel Studios presented Hall H sneak peek showing Reed Richards confronting Doctor Doom in Avengers: Doomsday.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/industry-news/business/avengers-doomsday-reed-richards-confronts-doctor-doom-in-hall-h-sneak-peek/"
+        }
+      ]
+    },
+    {
       "title": "Colony",
       "studio": "",
       "talent": "Director Yeon Sang-ho, Gianna Jun",
-      "announcement": "Zombie film from Train to Busan director Yeon Sang-ho featuring actress Gianna Jun announced.",
+      "announcement": "Film details revealed for Colony, a new zombie movie from Train to Busan director Yeon Sang-ho and actress Gianna Jun.",
       "sources": [
         {
           "name": "Variety",
@@ -91,8 +95,8 @@
     {
       "title": "Carrie",
       "network": "Prime Video",
-      "talent": "Creator/showrunner Mike Flanagan",
-      "announcement": "Prime Video set October release date for Stephen King's Carrie series, with Mike Flanagan revealing a big surprise in the adaptation.",
+      "talent": "Mike Flanagan (creator/producer)",
+      "announcement": "Prime Video's Carrie series sets October release date with new trailer depicting the cruelty of modern high school.",
       "sources": [
         {
           "name": "Deadline",
@@ -116,7 +120,7 @@
       "title": "The Rookie",
       "network": "ABC",
       "talent": "Melissa O'Neil",
-      "announcement": "Season 9 premiere announced as supersized following the shocking Season 8 finale cliffhanger.",
+      "announcement": "The Rookie Season 9 premiere revealed as supersized in response to Season 8 finale cliffhanger.",
       "sources": [
         {
           "name": "Deadline",
@@ -125,5 +129,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-26T17:34:17.820Z"
+  "lastUpdated": "2026-07-26T19:17:19.950Z"
 }
