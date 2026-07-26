@@ -1,20 +1,16 @@
 {
   "date": "July 26, 2026",
-  "summary": "6 film announcements, 2 TV announcements across 5 trades.",
+  "summary": "5 film announcements, 2 TV announcements across 5 trades.",
   "film": [
     {
       "title": "Black Panther 3",
       "studio": "Marvel Studios",
       "talent": "David Jonsson as T'Challa's son",
-      "announcement": "David Jonsson cast to play T'Challa's grown son in Black Panther 3, with the film set for December 2028 release.",
+      "announcement": "David Jonsson cast as T'Challa's grown son in Black Panther 3, with the film set for December 2028 release.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/07/black-panther-3-release-date-david-jonsson-marvel-comic-con-1237003635/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/black-panther-3-december-2028-release-david-jonsson-1236083370/"
         },
         {
           "name": "Hollywood Reporter",
@@ -29,16 +25,12 @@
     {
       "title": "Ghost Rider",
       "studio": "Marvel Studios",
-      "talent": "Ryan Gosling as Ghost Rider; Director Shawn Levy",
-      "announcement": "Ryan Gosling unveiled as the star of Marvel's Ghost Rider movie with Shawn Levy directing.",
+      "talent": "Ryan Gosling as Ghost Rider, director Shawn Levy",
+      "announcement": "Ryan Gosling unveiled as the star of Ghost Rider for Marvel Studios with Shawn Levy directing.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/07/ryan-gosling-ghost-rider-marvel-comic-con-1237003726/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/ryan-gosling-ghost-rider-marvel-movie-1236821206/"
         },
         {
           "name": "Hollywood Reporter",
@@ -54,11 +46,11 @@
       "title": "Avengers: Doomsday",
       "studio": "Marvel Studios",
       "talent": "",
-      "announcement": "New trailer revealed at Comic-Con showing Doctor Doom raising an army of Sentinels to take down the Avengers, Fantastic Four, and X-Men.",
+      "announcement": "Marvel Studios showcased Avengers: Doomsday at Comic-Con 2026, including a Hall H sneak peek with Reed Richards confronting Doctor Doom.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/news/avengers-doomsday-new-trailer-comic-con-1236817677/"
+          "url": "https://variety.com/2026/film/news/marvel-comic-con-doomsday-ghost-rider-black-panther-1236821335/"
         },
         {
           "name": "Hollywood Reporter",
@@ -71,38 +63,26 @@
       ]
     },
     {
-      "title": "Coyote vs. Acme",
-      "studio": "Warner Bros.",
-      "talent": "Lana Condor",
-      "announcement": "Film held public screening for fans at Comic-Con, with director and star Lana Condor discussing the release.",
+      "title": "Matchbox the Movie",
+      "studio": "",
+      "talent": "John Cena",
+      "announcement": "Trailer released for Matchbox the Movie starring John Cena in a race to find a nuclear warhead.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/coyote-vs-acme-director-lana-condor-public-screening-fans-comic-con-1236821209/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/john-cena-matchbox-the-movie-trailer-watch-1236656615/"
         }
       ]
     },
     {
       "title": "Colony",
       "studio": "",
-      "talent": "Director Yeon Sang-ho; Gianna Jun",
-      "announcement": "Zombie movie from Train to Busan director Yeon Sang-ho and star Gianna Jun discussed at Comic-Con.",
+      "talent": "Director Yeon Sang-ho, Gianna Jun",
+      "announcement": "Zombie film from Train to Busan director Yeon Sang-ho featuring actress Gianna Jun announced.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/film/news/colony-south-korea-yeon-sang-ho-gianna-jun-ji-hyun-zombie-movie-train-to-busan-1236821333/"
-        }
-      ]
-    },
-    {
-      "title": "Matchbox the Movie",
-      "studio": "",
-      "talent": "John Cena",
-      "announcement": "Trailer released featuring John Cena racing to find a nuclear warhead.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/john-cena-matchbox-the-movie-trailer-watch-1236656615/"
         }
       ]
     }
@@ -111,8 +91,8 @@
     {
       "title": "Carrie",
       "network": "Prime Video",
-      "talent": "Creator/Director Mike Flanagan",
-      "announcement": "Stephen King's Carrie series sets October release date and drops new trailer depicting the cruelty of modern high school.",
+      "talent": "Creator/showrunner Mike Flanagan",
+      "announcement": "Prime Video set October release date for Stephen King's Carrie series, with Mike Flanagan revealing a big surprise in the adaptation.",
       "sources": [
         {
           "name": "Deadline",
@@ -145,5 +125,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-26T16:04:20.110Z"
+  "lastUpdated": "2026-07-26T17:34:17.820Z"
 }
