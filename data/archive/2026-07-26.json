@@ -6,7 +6,7 @@
       "title": "Black Panther 3",
       "studio": "Marvel Studios",
       "talent": "David Jonsson as T'Challa's son",
-      "announcement": "David Jonsson cast to play T'Challa's grown son in Black Panther 3, set for December 2028 theatrical release.",
+      "announcement": "David Jonsson cast as T'Challa's grown son in Black Panther 3, with the film set for theatrical release in December 2028.",
       "sources": [
         {
           "name": "Deadline",
@@ -26,7 +26,7 @@
       "title": "Ghost Rider",
       "studio": "Marvel Studios",
       "talent": "Ryan Gosling as Ghost Rider, director Shawn Levy",
-      "announcement": "Ryan Gosling unveiled as Ghost Rider in new Marvel Studios film directed by Shawn Levy.",
+      "announcement": "Ryan Gosling unveiled as Ghost Rider in a new Marvel Studios project with director Shawn Levy attached.",
       "sources": [
         {
           "name": "Deadline",
@@ -43,10 +43,34 @@
       ]
     },
     {
+      "title": "Transformers: The Movie",
+      "studio": "Hasbro and Fathom",
+      "talent": "",
+      "announcement": "The original Transformers: The Movie is getting a fall theatrical re-release from Hasbro and Fathom Events.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/transformers-the-movie-re-release-trailer-date-1237004056/"
+        }
+      ]
+    },
+    {
+      "title": "Matchbox the Movie",
+      "studio": "",
+      "talent": "John Cena",
+      "announcement": "Trailer released for Matchbox the Movie featuring John Cena racing to find a nuclear warhead.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/john-cena-matchbox-the-movie-trailer-watch-1236656615/"
+        }
+      ]
+    },
+    {
       "title": "Avengers: Doomsday",
       "studio": "Marvel Studios",
       "talent": "",
-      "announcement": "Marvel Studios unveiled Avengers: Doomsday at Comic-Con with Hall H sneak peek showing Reed Richards confronting Doctor Doom.",
+      "announcement": "Marvel Studios announced Avengers: Doomsday at Comic-Con with Hall H sneak peek showing Reed Richards confronting Doctor Doom.",
       "sources": [
         {
           "name": "Variety",
@@ -63,26 +87,14 @@
       ]
     },
     {
-      "title": "Transformers: The Movie",
-      "studio": "Hasbro & Fathom",
-      "talent": "",
-      "announcement": "Hasbro and Fathom announced a fall theatrical re-release of the original Transformers: The Movie.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/transformers-the-movie-re-release-trailer-date-1237004056/"
-        }
-      ]
-    },
-    {
-      "title": "Matchbox the Movie",
+      "title": "Drive Thru Magic",
       "studio": "",
-      "talent": "John Cena",
-      "announcement": "Trailer released for Matchbox the Movie starring John Cena racing to find a nuclear warhead.",
+      "talent": "Daniel J. Kim, Danielle Kennedy",
+      "announcement": "Gay romance podcast Drive Thru Magic casts Daniel J. Kim and Danielle Kennedy with a September release date set.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/john-cena-matchbox-the-movie-trailer-watch-1236656615/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/digital/columns/gay-romance-podcast-drive-thru-magic-daniel-j-kim-1236821490/"
         }
       ]
     },
@@ -90,23 +102,11 @@
       "title": "Colony",
       "studio": "",
       "talent": "Director Yeon Sang-ho, Gianna Jun",
-      "announcement": "Zombie film directed by Train to Busan's Yeon Sang-ho and starring Gianna Jun unveiled.",
+      "announcement": "Train to Busan director Yeon Sang-ho's new zombie film Colony with actress Gianna Jun discussed at Comic-Con.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/film/news/colony-south-korea-yeon-sang-ho-gianna-jun-ji-hyun-zombie-movie-train-to-busan-1236821333/"
-        }
-      ]
-    },
-    {
-      "title": "Drive Thru Magic",
-      "studio": "",
-      "talent": "Daniel J. Kim, Danielle Kennedy",
-      "announcement": "Gay romance podcast casts Daniel J. Kim and Danielle Kennedy, sets September release date.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/digital/columns/gay-romance-podcast-drive-thru-magic-daniel-j-kim-1236821490/"
         }
       ]
     }
@@ -115,8 +115,8 @@
     {
       "title": "Carrie",
       "network": "Prime Video",
-      "talent": "Creator Mike Flanagan",
-      "announcement": "Mike Flanagan's Carrie series set for October release on Prime Video with new trailer depicting the cruelty of modern high school.",
+      "talent": "Mike Flanagan (creator/writer/director)",
+      "announcement": "Stephen King's Carrie series sets October release date on Prime Video with new trailer depicting modern high school cruelty.",
       "sources": [
         {
           "name": "Deadline",
@@ -137,10 +137,10 @@
       ]
     },
     {
-      "title": "The Rookie Season 9",
+      "title": "The Rookie",
       "network": "ABC",
-      "talent": "Creator John Nolls, Melissa O'Neil",
-      "announcement": "The Rookie creator reveals supersized Season 9 premiere as the show addresses Season 8 finale cliffhanger.",
+      "talent": "Melissa O'Neil",
+      "announcement": "The Rookie creator reveals Season 9 premiere will be supersized following the shocking Season 8 finale cliffhanger.",
       "sources": [
         {
           "name": "Deadline",
@@ -151,7 +151,7 @@
     {
       "title": "President Curtis",
       "network": "Adult Swim",
-      "talent": "Creators Dan Harmon, James Siciliano",
+      "talent": "",
       "announcement": "Rick and Morty spinoff President Curtis plays it safe while keeping the sci-fi franchise moving forward.",
       "sources": [
         {
@@ -165,5 +165,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-26T20:30:03.992Z"
+  "lastUpdated": "2026-07-26T21:31:01.724Z"
 }
