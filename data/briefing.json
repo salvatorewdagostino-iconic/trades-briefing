@@ -1,12 +1,12 @@
 {
   "date": "July 26, 2026",
-  "summary": "6 film announcements, 2 TV announcements across 5 trades.",
+  "summary": "7 film announcements, 3 TV announcements across 5 trades.",
   "film": [
     {
       "title": "Black Panther 3",
       "studio": "Marvel Studios",
       "talent": "David Jonsson as T'Challa's son",
-      "announcement": "David Jonsson cast as T'Challa's grown son in Black Panther 3, with the film set to hit theaters in December 2028.",
+      "announcement": "David Jonsson cast to play T'Challa's grown son in Black Panther 3, set for December 2028 theatrical release.",
       "sources": [
         {
           "name": "Deadline",
@@ -26,7 +26,7 @@
       "title": "Ghost Rider",
       "studio": "Marvel Studios",
       "talent": "Ryan Gosling as Ghost Rider, director Shawn Levy",
-      "announcement": "Ryan Gosling unveiled as Ghost Rider for Marvel Studios with director Shawn Levy attached to the project.",
+      "announcement": "Ryan Gosling unveiled as Ghost Rider in new Marvel Studios film directed by Shawn Levy.",
       "sources": [
         {
           "name": "Deadline",
@@ -43,10 +43,30 @@
       ]
     },
     {
+      "title": "Avengers: Doomsday",
+      "studio": "Marvel Studios",
+      "talent": "",
+      "announcement": "Marvel Studios unveiled Avengers: Doomsday at Comic-Con with Hall H sneak peek showing Reed Richards confronting Doctor Doom.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/marvel-comic-con-doomsday-ghost-rider-black-panther-1236821335/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/marvel-studios-doomsday-comic-con-panel-recap-1236656358/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/industry-news/business/avengers-doomsday-reed-richards-confronts-doctor-doom-in-hall-h-sneak-peek/"
+        }
+      ]
+    },
+    {
       "title": "Transformers: The Movie",
       "studio": "Hasbro & Fathom",
       "talent": "",
-      "announcement": "Transformers: The Movie is getting a fall theatrical re-release from Hasbro and Fathom.",
+      "announcement": "Hasbro and Fathom announced a fall theatrical re-release of the original Transformers: The Movie.",
       "sources": [
         {
           "name": "Deadline",
@@ -58,7 +78,7 @@
       "title": "Matchbox the Movie",
       "studio": "",
       "talent": "John Cena",
-      "announcement": "Trailer released for Matchbox the Movie featuring John Cena racing to find a nuclear warhead.",
+      "announcement": "Trailer released for Matchbox the Movie starring John Cena racing to find a nuclear warhead.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -67,26 +87,26 @@
       ]
     },
     {
-      "title": "Avengers: Doomsday",
-      "studio": "Marvel Studios",
-      "talent": "",
-      "announcement": "Marvel Studios presented Hall H sneak peek showing Reed Richards confronting Doctor Doom in Avengers: Doomsday.",
-      "sources": [
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/industry-news/business/avengers-doomsday-reed-richards-confronts-doctor-doom-in-hall-h-sneak-peek/"
-        }
-      ]
-    },
-    {
       "title": "Colony",
       "studio": "",
       "talent": "Director Yeon Sang-ho, Gianna Jun",
-      "announcement": "Film details revealed for Colony, a new zombie movie from Train to Busan director Yeon Sang-ho and actress Gianna Jun.",
+      "announcement": "Zombie film directed by Train to Busan's Yeon Sang-ho and starring Gianna Jun unveiled.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/film/news/colony-south-korea-yeon-sang-ho-gianna-jun-ji-hyun-zombie-movie-train-to-busan-1236821333/"
+        }
+      ]
+    },
+    {
+      "title": "Drive Thru Magic",
+      "studio": "",
+      "talent": "Daniel J. Kim, Danielle Kennedy",
+      "announcement": "Gay romance podcast casts Daniel J. Kim and Danielle Kennedy, sets September release date.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/digital/columns/gay-romance-podcast-drive-thru-magic-daniel-j-kim-1236821490/"
         }
       ]
     }
@@ -95,8 +115,8 @@
     {
       "title": "Carrie",
       "network": "Prime Video",
-      "talent": "Mike Flanagan (creator/producer)",
-      "announcement": "Prime Video's Carrie series sets October release date with new trailer depicting the cruelty of modern high school.",
+      "talent": "Creator Mike Flanagan",
+      "announcement": "Mike Flanagan's Carrie series set for October release on Prime Video with new trailer depicting the cruelty of modern high school.",
       "sources": [
         {
           "name": "Deadline",
@@ -117,17 +137,33 @@
       ]
     },
     {
-      "title": "The Rookie",
+      "title": "The Rookie Season 9",
       "network": "ABC",
-      "talent": "Melissa O'Neil",
-      "announcement": "The Rookie Season 9 premiere revealed as supersized in response to Season 8 finale cliffhanger.",
+      "talent": "Creator John Nolls, Melissa O'Neil",
+      "announcement": "The Rookie creator reveals supersized Season 9 premiere as the show addresses Season 8 finale cliffhanger.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/07/the-rookie-season-9-premiere-season-8-finale-cliffhanger-1237003758/"
         }
       ]
+    },
+    {
+      "title": "President Curtis",
+      "network": "Adult Swim",
+      "talent": "Creators Dan Harmon, James Siciliano",
+      "announcement": "Rick and Morty spinoff President Curtis plays it safe while keeping the sci-fi franchise moving forward.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/reviews/president-curtis-review-rick-and-morty-spinoff-1236817266/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/president-curtis-interview-dan-harmon-james-siciliano-adult-swim/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-07-26T19:17:19.950Z"
+  "lastUpdated": "2026-07-26T20:30:03.992Z"
 }
