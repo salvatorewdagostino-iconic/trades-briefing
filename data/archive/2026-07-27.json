@@ -1,20 +1,189 @@
 {
   "date": "July 27, 2026",
-  "summary": "0 film announcements, 1 TV announcement across 5 trades.",
-  "film": [],
-  "tv": [
+  "summary": "6 film announcements, 8 TV announcements across 5 trades.",
+  "film": [
     {
-      "title": "The Traitors India",
-      "network": "Prime Video",
-      "talent": "",
-      "announcement": "Season 2 set to premiere in August on Prime Video.",
+      "title": "The Road Home",
+      "studio": "Unknown",
+      "talent": "Thabo Rametsi as Hugh Masekela, Bill Condon (director)",
+      "announcement": "First-look image unveiled of Thabo Rametsi as apartheid-era music legend Hugh Masekela in Bill Condon's biographical film.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/thabo-rametsi-first-look-as-hugh-masekela-condon-road-home-1237004272/"
+        }
+      ]
+    },
+    {
+      "title": "Mazel Tough",
+      "studio": "Unknown",
+      "talent": "Cast set (names not specified)",
+      "announcement": "Rom-com about pressures of Jewish dating scene sets cast.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/rom-com-mazel-tough-jewish-dating-cast-1237004252/"
+        }
+      ]
+    },
+    {
+      "title": "Paul & Greg & Amelia",
+      "studio": "Unknown",
+      "talent": "Quinn Jackson, Christopher Ryan, Matt Hardy, Terra Layne",
+      "announcement": "Michael Pomeroy's film wraps production ahead of TIFF sales push.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/michael-pomeroy-paul-greg-amelia-quinn-jackson-tiff-sales-1237004402/"
+        }
+      ]
+    },
+    {
+      "title": "From Me to You",
+      "studio": "Unknown",
+      "talent": "Brendan Brady (producer)",
+      "announcement": "Yukon-set rom-com backed by 'Heated Rivalry' producer Brendan Brady.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/heated-rivalry-producer-brendan-brady-from-me-to-you-1236657139/"
+        }
+      ]
+    },
+    {
+      "title": "Summer Days",
+      "studio": "Unknown",
+      "talent": "Unknown",
+      "announcement": "Deep Com Roots sells international rights to 'Summer Days' to half the world.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/traitors-india-season-2-august-prime-video-1236821385/"
+          "url": "https://variety.com/2026/film/global/isii-group-deep-com-roots-taz-skylar-belen-rueda-1236821688/"
+        }
+      ]
+    },
+    {
+      "title": "Amor de Dios",
+      "studio": "Unknown",
+      "talent": "Belén Rueda",
+      "announcement": "ISII Group moves forward with 'Amor de Dios' starring Belén Rueda.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/isii-group-deep-com-roots-taz-skylar-belen-rueda-1236821688/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-27T06:49:15.434Z"
+  "tv": [
+    {
+      "title": "The Secret of Secrets",
+      "network": "Netflix",
+      "talent": "Morgan Spector as Robert Langdon",
+      "announcement": "Morgan Spector confirmed to play Robert Langdon in Netflix series based on Dan Brown's 'The Secret of Secrets.'",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/morgan-spector-robert-langdon-secret-of-secrets-dan-brown-1237004353/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/morgan-spector-robert-langdon-netflix-1236657137/"
+        }
+      ]
+    },
+    {
+      "title": "Rose Hill",
+      "network": "Prime Video",
+      "talent": "Jake Weary, Sean O'Pry, Hannah Galway, Sadie Dickerson",
+      "announcement": "Jake Weary, Sean O'Pry, Hannah Galway and Sadie Dickerson cast to lead Prime Video series 'Rose Hill.'",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/jake-weary-sean-opry-hannah-galway-rose-hill-1237004433/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/rose-hill-series-jake-weary-opry-hannah-galway-dickerson-1236821899/"
+        }
+      ]
+    },
+    {
+      "title": "King of Drag",
+      "network": "Unknown",
+      "talent": "New host and judges panel (details not specified)",
+      "announcement": "Season 2 sets new host, judges panel and September premiere date.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/king-of-drag-season-2-new-host-judges-september-premiere-1236821480/"
+        }
+      ]
+    },
+    {
+      "title": "Uncle Stav",
+      "network": "Netflix",
+      "talent": "Stavros Halkias",
+      "announcement": "Stavros Halkias unveils premiere date for second Netflix stand-up special 'Uncle Stav.'",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/stavros-halkias-netflix-special-premiere-date-uncle-stav-1237004378/"
+        }
+      ]
+    },
+    {
+      "title": "Vadhandhi",
+      "network": "Prime Video",
+      "talent": "Sasikumar",
+      "announcement": "Season 2 sets August premiere date on Prime Video.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/sasikumar-vadhandhi-season-2-august-premiere-prime-video-1236821391/"
+        }
+      ]
+    },
+    {
+      "title": "The Legend of Kitchen Soldier",
+      "network": "Prime Video",
+      "talent": "Unknown",
+      "announcement": "Leads Prime Video India's slate of 100-plus new CJ ENM Korean titles in multi-year deal.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/prime-video-india-cj-enm-korean-titles-deal-1236821665/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/prime-video-korean-dramas-cj-enm-india-deal-1236657047/"
+        }
+      ]
+    },
+    {
+      "title": "Yumi's Cells",
+      "network": "Prime Video",
+      "talent": "Unknown",
+      "announcement": "Included in Prime Video India's slate of 100-plus new CJ ENM Korean titles.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/prime-video-india-cj-enm-korean-titles-deal-1236821665/"
+        }
+      ]
+    },
+    {
+      "title": "The Chosen",
+      "network": "Unknown",
+      "talent": "Unknown",
+      "announcement": "Season 6 teaser trailer released showing Jesus heading to his crucifixion.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/the-chosen-season-6-trailer-jesus-christ-crucifixion-1236657123/"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-07-27T17:01:30.643Z"
 }
