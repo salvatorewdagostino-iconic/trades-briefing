@@ -1,12 +1,56 @@
 {
   "date": "July 27, 2026",
-  "summary": "8 film announcements, 11 TV announcements across 5 trades.",
+  "summary": "11 film announcements, 10 TV announcements across 5 trades.",
   "film": [
     {
+      "title": "The Mummy",
+      "studio": "Universal Pictures",
+      "talent": "Michael Johnston in talks, Brendan Fraser, Rachel Weisz",
+      "announcement": "Michael Johnston from 'Obsession' in early talks to join the next Mummy film as part of the returning cast.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/the-mummy-michael-johnston-in-talks-to-join-cast-1237005057/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/mummy-4-michael-johnston-obsession-brendan-fraser-1236822219/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/obsession-star-michael-johnston-mummy-1236657591/"
+        }
+      ]
+    },
+    {
+      "title": "Jealous People Are Ugly People",
+      "studio": "New Line Cinema",
+      "talent": "Theo James Krekis (director)",
+      "announcement": "New Line Cinema wins heated bidding war for horror package directed by Theo James Krekis.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/jealous-people-are-ugly-people-new-line-theo-james-krekis-1237005009/"
+        }
+      ]
+    },
+    {
+      "title": "Little Five",
+      "studio": "Unknown",
+      "talent": "David Oyelowo, Anne Hathaway (producer)",
+      "announcement": "David Oyelowo joins the Anne Hathaway-produced film 'Little Five'.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/david-oyelowo-cast-anne-hathaway-produced-film-little-five-1237000546/"
+        }
+      ]
+    },
+    {
       "title": "Lizard Music",
-      "studio": "United Artists and Amazon MGM Studios",
+      "studio": "United Artists / Amazon MGM Studios",
       "talent": "Dwayne Johnson, Regina Hall",
-      "announcement": "Regina Hall joins Dwayne Johnson in Benny Safdie's Lizard Music movie from United Artists and Amazon MGM Studios.",
+      "announcement": "Regina Hall joins Dwayne Johnson in Benny Safdie's film from United Artists and Amazon MGM Studios.",
       "sources": [
         {
           "name": "Deadline",
@@ -17,8 +61,8 @@
     {
       "title": "Mad Hatter",
       "studio": "Amazon MGM Studios",
-      "talent": "Scott Mosier (producer/director)",
-      "announcement": "Amazon MGM Studios has an animated Mad Hatter movie in works from Aniventure and Scott Mosier, director of The Grinch.",
+      "talent": "Scott Mosier (producer/director, The Grinch)",
+      "announcement": "Amazon MGM Studios has an animated 'Mad Hatter' movie in works from Aniventure and Scott Mosier.",
       "sources": [
         {
           "name": "Deadline",
@@ -30,7 +74,7 @@
       "title": "Ugly Cry",
       "studio": "Obscured Releasing",
       "talent": "Emily Robinson",
-      "announcement": "Obscured Releasing takes North American rights to Emily Robinson's SXSW horror film Ugly Cry.",
+      "announcement": "Obscured Releasing acquires North American distribution rights to SXSW horror film 'Ugly Cry'.",
       "sources": [
         {
           "name": "Deadline",
@@ -42,7 +86,7 @@
       "title": "Women Like Us",
       "studio": "Netflix",
       "talent": "Whoopi Goldberg, Jenifer Lewis, Vanessa Williams, Vivica A. Fox",
-      "announcement": "Whoopi Goldberg, Jenifer Lewis, Vanessa Williams and Vivica A. Fox set to star in Netflix comedy Women Like Us.",
+      "announcement": "Netflix comedy 'Women Like Us' stars Whoopi Goldberg, Jenifer Lewis, Vanessa Williams, and Vivica A. Fox.",
       "sources": [
         {
           "name": "Deadline",
@@ -59,38 +103,10 @@
       ]
     },
     {
-      "title": "Michael",
-      "studio": "Starz",
-      "talent": "",
-      "announcement": "Michael sets August streaming date on Starz following its billion-dollar box office run.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/michael-streaming-date-1237004628/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/michael-streaming-release-date-michael-jackson-starz-1236757504/"
-        }
-      ]
-    },
-    {
-      "title": "Mazel Tough",
-      "studio": "",
-      "talent": "",
-      "announcement": "Rom-com Mazel Tough about pressures of Jewish dating scene sets cast.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/rom-com-mazel-tough-jewish-dating-cast-1237004252/"
-        }
-      ]
-    },
-    {
       "title": "From Me to You",
-      "studio": "",
+      "studio": "Unknown",
       "talent": "Brendan Brady (producer)",
-      "announcement": "Heated Rivalry producer Brendan Brady backs Yukon-set rom-com From Me to You.",
+      "announcement": "Producer Brendan Brady backs Yukon-set rom-com 'From Me to You'.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -99,14 +115,14 @@
       ]
     },
     {
-      "title": "Jay and Silent Bob Marijuana Farming Game",
-      "studio": "",
-      "talent": "",
-      "announcement": "Jay and Silent Bob marijuana farming game in the works.",
+      "title": "Mazel Tough",
+      "studio": "Unknown",
+      "talent": "Unknown",
+      "announcement": "Rom-com 'Mazel Tough' about pressures of Jewish dating scene sets cast.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/jay-and-silent-bob-weed-farming-video-game-in-the-works-1236657425/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/rom-com-mazel-tough-jewish-dating-cast-1237004252/"
         }
       ]
     }
@@ -116,7 +132,7 @@
       "title": "Newlyweds",
       "network": "NBC",
       "talent": "Emma Meisel, Ignacio Diaz-Silverio, Bill O'Neill",
-      "announcement": "NBC comedy Newlyweds adds Emma Meisel, Ignacio Diaz-Silverio and Bill O'Neill to series regular cast.",
+      "announcement": "NBC comedy adds Emma Meisel, Ignacio Diaz-Silverio, and Bill O'Neill to series regular cast.",
       "sources": [
         {
           "name": "Deadline",
@@ -132,7 +148,7 @@
       "title": "Queenstown",
       "network": "Netflix",
       "talent": "Anna Baryshnikov, BeBe Orleans",
-      "announcement": "Netflix ski drama Queenstown rounds out series-regular cast with Anna Baryshnikov and BeBe Orleans among five additions.",
+      "announcement": "Netflix ski drama rounds out series-regular cast with Anna Baryshnikov and BeBe Orleans among 5 additions.",
       "sources": [
         {
           "name": "Deadline",
@@ -144,7 +160,7 @@
       "title": "Cable Guy",
       "network": "Hulu",
       "talent": "Crystal Fox",
-      "announcement": "Crystal Fox joins cast of Hulu's Cable Guy pilot.",
+      "announcement": "Crystal Fox joins the cast of Hulu's Cable Guy pilot.",
       "sources": [
         {
           "name": "Deadline",
@@ -154,9 +170,9 @@
     },
     {
       "title": "Wildwood",
-      "network": "FX/20th TV",
-      "talent": "Lisa McGee (creator)",
-      "announcement": "Lisa McGee, creator of Derry Girls, brings FX & 20th TV comedy Wildwood set in New Jersey.",
+      "network": "FX / 20th TV Land",
+      "talent": "Lisa McGee (creator, Derry Girls)",
+      "announcement": "FX and 20th TV Land order comedy 'Wildwood' from 'Derry Girls' creator Lisa McGee set in New Jersey.",
       "sources": [
         {
           "name": "Deadline",
@@ -168,7 +184,7 @@
       "title": "Rose Hill",
       "network": "Prime Video",
       "talent": "Jake Weary, Sean O'Pry, Hannah Galway, Sadie Dickerson",
-      "announcement": "Jake Weary, Sean O'Pry, Hannah Galway and Sadie Dickerson to lead Prime Video's Rose Hill.",
+      "announcement": "Prime Video romance drama 'Rose Hill' casts Jake Weary, Sean O'Pry, Hannah Galway, and Sadie Dickerson in lead roles.",
       "sources": [
         {
           "name": "Deadline",
@@ -186,9 +202,9 @@
     },
     {
       "title": "Pass the Salt",
-      "network": "",
+      "network": "Unknown",
       "talent": "Panta Mosleh (creator)",
-      "announcement": "Panta Mosleh's queer interfaith comedy Pass the Salt adds to cast.",
+      "announcement": "Panta Mosleh's queer interfaith comedy 'Pass the Salt' adds to cast.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -198,9 +214,9 @@
     },
     {
       "title": "King of Drag",
-      "network": "",
-      "talent": "",
-      "announcement": "King of Drag season 2 sets new host, judges panel and September premiere date.",
+      "network": "Unknown",
+      "talent": "Unknown",
+      "announcement": "Season 2 of 'King of Drag' sets new host, judges panel and September premiere date.",
       "sources": [
         {
           "name": "Variety",
@@ -209,57 +225,29 @@
       ]
     },
     {
-      "title": "Robert Langdon",
-      "network": "Netflix",
-      "talent": "Morgan Spector",
-      "announcement": "Morgan Spector to topline Netflix's Robert Langdon series.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/morgan-spector-robert-langdon-netflix-1236657137/"
-        }
-      ]
-    },
-    {
-      "title": "Power",
-      "network": "Netflix",
-      "talent": "",
-      "announcement": "Netflix licenses first four series of Starz Power franchise from Lionsgate Television internationally.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/power-deal-netflix-first-4-series-of-starz-franchise-from-lionsgate-television-1237004158/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/power-netflix-international-deal/"
-        }
-      ]
-    },
-    {
-      "title": "Game Day Murders",
-      "network": "ID Channel",
-      "talent": "Shaq (executive producer/presenter)",
-      "announcement": "Shaq debuts first true crime docuseries Game Day Murders, a six-part series.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-game-day-murders-id-channel-streaming-free-1236657368/"
-        }
-      ]
-    },
-    {
       "title": "Dungeon Crawler Carl",
-      "network": "",
-      "talent": "Jeff Hays (narrator), Matt Dinniman (author)",
-      "announcement": "Dungeon Crawler Carl adaptation casts audiobook narrator Jeff Hays as Princess Donut.",
+      "network": "Unknown",
+      "talent": "Jeff Hays (audiobook narrator)",
+      "announcement": "Author Matt Dinniman explains casting audiobook narrator Jeff Hays as Princess Donut in the adaptation.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/tv/news/dungeon-crawler-carl-matt-dinniman-jeff-hays-donut-show-1236818902/"
         }
       ]
+    },
+    {
+      "title": "Furious",
+      "network": "Hulu",
+      "talent": "Emmy Rossum",
+      "announcement": "Hulu thriller 'Furious' features Emmy Rossum in cat-and-mouse series.",
+      "sources": [
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/criticism/shows/furious-review-emmy-rossum-hulu-series-1235206884/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-07-27T21:41:47.331Z"
+  "lastUpdated": "2026-07-27T23:06:35.171Z"
 }
