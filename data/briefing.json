@@ -1,12 +1,24 @@
 {
   "date": "July 27, 2026",
-  "summary": "4 film announcements, 11 TV announcements across 5 trades.",
+  "summary": "8 film announcements, 11 TV announcements across 5 trades.",
   "film": [
+    {
+      "title": "Lizard Music",
+      "studio": "United Artists and Amazon MGM Studios",
+      "talent": "Dwayne Johnson, Regina Hall",
+      "announcement": "Regina Hall joins Dwayne Johnson in Benny Safdie's Lizard Music movie from United Artists and Amazon MGM Studios.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/regina-hall-dwayne-johnson-benny-safdies-lizard-music-1237004690/"
+        }
+      ]
+    },
     {
       "title": "Mad Hatter",
       "studio": "Amazon MGM Studios",
-      "talent": "Scott Mosier (director)",
-      "announcement": "Amazon MGM Studios has an animated movie adaptation of Mad Hatter in works from Aniventure and Scott Mosier, known for The Grinch.",
+      "talent": "Scott Mosier (producer/director)",
+      "announcement": "Amazon MGM Studios has an animated Mad Hatter movie in works from Aniventure and Scott Mosier, director of The Grinch.",
       "sources": [
         {
           "name": "Deadline",
@@ -15,14 +27,14 @@
       ]
     },
     {
-      "title": "A Place In Hell",
-      "studio": "Neon",
-      "talent": "Michelle Williams, Daisy Edgar-Jones",
-      "announcement": "Neon's thriller starring Michelle Williams and Daisy Edgar-Jones is set to release in spring 2027.",
+      "title": "Ugly Cry",
+      "studio": "Obscured Releasing",
+      "talent": "Emily Robinson",
+      "announcement": "Obscured Releasing takes North American rights to Emily Robinson's SXSW horror film Ugly Cry.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/a-place-in-hell-release-date-michelle-williams-daisy-edgar-jones-1237004664/"
+          "url": "https://deadline.com/2026/07/sxsw-ugly-cry-obscured-releasing-1237004748/"
         }
       ]
     },
@@ -30,7 +42,7 @@
       "title": "Women Like Us",
       "studio": "Netflix",
       "talent": "Whoopi Goldberg, Jenifer Lewis, Vanessa Williams, Vivica A. Fox",
-      "announcement": "Netflix comedy film starring Whoopi Goldberg, Jenifer Lewis, Vanessa Williams, and Vivica A. Fox has been announced.",
+      "announcement": "Whoopi Goldberg, Jenifer Lewis, Vanessa Williams and Vivica A. Fox set to star in Netflix comedy Women Like Us.",
       "sources": [
         {
           "name": "Deadline",
@@ -50,7 +62,7 @@
       "title": "Michael",
       "studio": "Starz",
       "talent": "",
-      "announcement": "The Michael Jackson biopic sets an August streaming release date on Starz after its billion-dollar box office run.",
+      "announcement": "Michael sets August streaming date on Starz following its billion-dollar box office run.",
       "sources": [
         {
           "name": "Deadline",
@@ -61,14 +73,66 @@
           "url": "https://variety.com/2026/film/news/michael-streaming-release-date-michael-jackson-starz-1236757504/"
         }
       ]
+    },
+    {
+      "title": "Mazel Tough",
+      "studio": "",
+      "talent": "",
+      "announcement": "Rom-com Mazel Tough about pressures of Jewish dating scene sets cast.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/rom-com-mazel-tough-jewish-dating-cast-1237004252/"
+        }
+      ]
+    },
+    {
+      "title": "From Me to You",
+      "studio": "",
+      "talent": "Brendan Brady (producer)",
+      "announcement": "Heated Rivalry producer Brendan Brady backs Yukon-set rom-com From Me to You.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/heated-rivalry-producer-brendan-brady-from-me-to-you-1236657139/"
+        }
+      ]
+    },
+    {
+      "title": "Jay and Silent Bob Marijuana Farming Game",
+      "studio": "",
+      "talent": "",
+      "announcement": "Jay and Silent Bob marijuana farming game in the works.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/jay-and-silent-bob-weed-farming-video-game-in-the-works-1236657425/"
+        }
+      ]
     }
   ],
   "tv": [
     {
+      "title": "Newlyweds",
+      "network": "NBC",
+      "talent": "Emma Meisel, Ignacio Diaz-Silverio, Bill O'Neill",
+      "announcement": "NBC comedy Newlyweds adds Emma Meisel, Ignacio Diaz-Silverio and Bill O'Neill to series regular cast.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/nbc-newlyweds-emma-meisel-ignacio-diaz-silverio-bill-oneill-1237004861/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/nbc-newlyweds-emma-meisel-ignacio-diaz-silverio-bill-oneill-1236822131/"
+        }
+      ]
+    },
+    {
       "title": "Queenstown",
       "network": "Netflix",
       "talent": "Anna Baryshnikov, BeBe Orleans",
-      "announcement": "Netflix ski drama Queenstown rounds out its series regular cast with Anna Baryshnikov and BeBe Orleans among five additional cast members.",
+      "announcement": "Netflix ski drama Queenstown rounds out series-regular cast with Anna Baryshnikov and BeBe Orleans among five additions.",
       "sources": [
         {
           "name": "Deadline",
@@ -77,26 +141,10 @@
       ]
     },
     {
-      "title": "The Chosen",
-      "network": "The Chosen",
-      "talent": "",
-      "announcement": "Season 6 trailer released showing Jesus' final hours before crucifixion.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/the-chosen-season-6-trailer-jesus-final-hours-1237004640/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/the-chosen-season-6-trailer-jesus-christ-crucifixion-1236657123/"
-        }
-      ]
-    },
-    {
       "title": "Cable Guy",
       "network": "Hulu",
       "talent": "Crystal Fox",
-      "announcement": "Crystal Fox joins the cast of Hulu's Cable Guy pilot.",
+      "announcement": "Crystal Fox joins cast of Hulu's Cable Guy pilot.",
       "sources": [
         {
           "name": "Deadline",
@@ -105,26 +153,10 @@
       ]
     },
     {
-      "title": "Power",
-      "network": "Netflix",
-      "talent": "",
-      "announcement": "Netflix licenses first four series of the Starz Power franchise from Lionsgate Television for international distribution, with Starz retaining US rights.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/power-deal-netflix-first-4-series-of-starz-franchise-from-lionsgate-television-1237004158/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/power-netflix-international-deal/"
-        }
-      ]
-    },
-    {
       "title": "Wildwood",
-      "network": "FX",
+      "network": "FX/20th TV",
       "talent": "Lisa McGee (creator)",
-      "announcement": "FX and 20th TV comedy from Derry Girls creator Lisa McGee set in New Jersey is in development.",
+      "announcement": "Lisa McGee, creator of Derry Girls, brings FX & 20th TV comedy Wildwood set in New Jersey.",
       "sources": [
         {
           "name": "Deadline",
@@ -136,7 +168,7 @@
       "title": "Rose Hill",
       "network": "Prime Video",
       "talent": "Jake Weary, Sean O'Pry, Hannah Galway, Sadie Dickerson",
-      "announcement": "Prime Video romance drama Rose Hill casts Jake Weary, Sean O'Pry, Hannah Galway, and Sadie Dickerson in lead roles.",
+      "announcement": "Jake Weary, Sean O'Pry, Hannah Galway and Sadie Dickerson to lead Prime Video's Rose Hill.",
       "sources": [
         {
           "name": "Deadline",
@@ -153,22 +185,10 @@
       ]
     },
     {
-      "title": "Robert Langdon",
-      "network": "Netflix",
-      "talent": "Morgan Spector",
-      "announcement": "Morgan Spector is set to topline Netflix's Robert Langdon series.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/morgan-spector-robert-langdon-netflix-1236657137/"
-        }
-      ]
-    },
-    {
       "title": "Pass the Salt",
       "network": "",
       "talent": "Panta Mosleh (creator)",
-      "announcement": "Panta Mosleh's queer interfaith comedy Pass the Salt adds to its cast.",
+      "announcement": "Panta Mosleh's queer interfaith comedy Pass the Salt adds to cast.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -178,9 +198,9 @@
     },
     {
       "title": "King of Drag",
-      "network": "MTV",
+      "network": "",
       "talent": "",
-      "announcement": "Season 2 sets new host, judges panel, and September premiere date.",
+      "announcement": "King of Drag season 2 sets new host, judges panel and September premiere date.",
       "sources": [
         {
           "name": "Variety",
@@ -189,29 +209,57 @@
       ]
     },
     {
+      "title": "Robert Langdon",
+      "network": "Netflix",
+      "talent": "Morgan Spector",
+      "announcement": "Morgan Spector to topline Netflix's Robert Langdon series.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/morgan-spector-robert-langdon-netflix-1236657137/"
+        }
+      ]
+    },
+    {
+      "title": "Power",
+      "network": "Netflix",
+      "talent": "",
+      "announcement": "Netflix licenses first four series of Starz Power franchise from Lionsgate Television internationally.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/power-deal-netflix-first-4-series-of-starz-franchise-from-lionsgate-television-1237004158/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/power-netflix-international-deal/"
+        }
+      ]
+    },
+    {
+      "title": "Game Day Murders",
+      "network": "ID Channel",
+      "talent": "Shaq (executive producer/presenter)",
+      "announcement": "Shaq debuts first true crime docuseries Game Day Murders, a six-part series.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-game-day-murders-id-channel-streaming-free-1236657368/"
+        }
+      ]
+    },
+    {
       "title": "Dungeon Crawler Carl",
       "network": "",
       "talent": "Jeff Hays (narrator), Matt Dinniman (author)",
-      "announcement": "Author Matt Dinniman explains casting audiobook narrator Jeff Hays as Princess Donut in the adaptation.",
+      "announcement": "Dungeon Crawler Carl adaptation casts audiobook narrator Jeff Hays as Princess Donut.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/tv/news/dungeon-crawler-carl-matt-dinniman-jeff-hays-donut-show-1236818902/"
         }
       ]
-    },
-    {
-      "title": "Furious",
-      "network": "Hulu",
-      "talent": "Emmy Rossum",
-      "announcement": "Hulu's riveting cat-and-mouse thriller Furious stars Emmy Rossum.",
-      "sources": [
-        {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/criticism/shows/furious-review-emmy-rossum-hulu-series-1235206884/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-27T20:26:25.611Z"
+  "lastUpdated": "2026-07-27T21:41:47.331Z"
 }
