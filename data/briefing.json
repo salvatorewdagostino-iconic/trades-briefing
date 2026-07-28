@@ -1,7 +1,44 @@
 {
   "date": "July 28, 2026",
-  "summary": "0 film announcements, 0 TV announcements across 5 trades.",
-  "film": [],
+  "summary": "3 film announcements, 0 TV announcements across 5 trades.",
+  "film": [
+    {
+      "title": "Possible Love",
+      "studio": "Netflix",
+      "talent": "",
+      "announcement": "Netflix sets launch date for Lee Chang-dong's awards hopeful film.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/netflix-lee-chang-dong-possible-love-release-date-1236657709/"
+        }
+      ]
+    },
+    {
+      "title": "Untitled Marilyn Monroe Short Film",
+      "studio": "",
+      "talent": "Dakota Johnson, Ellen Burstyn",
+      "announcement": "Dakota Johnson and Ellen Burstyn play versions of Marilyn Monroe in a short film directed by Maggie Gyllenhaal.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/marilyn-monroe-film-maggie-gyllenhaal-dakota-johnson-venice-1236657658/"
+        }
+      ]
+    },
+    {
+      "title": "Avengers: Doomsday",
+      "studio": "Marvel Studios",
+      "talent": "Robert Downey Jr.",
+      "announcement": "Robert Downey Jr.'s Doctor Doom voice work for the film gave directors chills during production.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/robert-downey-jr-doctor-doom-voice-russo-brothers-chills-1236657698/"
+        }
+      ]
+    }
+  ],
   "tv": [],
-  "lastUpdated": "2026-07-28T02:36:58.673Z"
+  "lastUpdated": "2026-07-28T05:47:36.794Z"
 }
