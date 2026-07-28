@@ -1,12 +1,12 @@
 {
   "date": "July 28, 2026",
-  "summary": "10 film announcements, 11 TV announcements across 5 trades.",
+  "summary": "11 film announcements, 10 TV announcements across 5 trades.",
   "film": [
     {
       "title": "Naughty",
       "studio": "Universal Pictures",
-      "talent": "Jennifer Aniston, Peter Dinklage; Director: Olivia Wilde",
-      "announcement": "Jennifer Aniston and Peter Dinklage set to star in Olivia Wilde's Santa Claus comedy with a 2027 release date from Universal and LuckyChap Entertainment.",
+      "talent": "Jennifer Aniston, Peter Dinklage",
+      "announcement": "Olivia Wilde to direct Santa Claus comedy starring Jennifer Aniston and Peter Dinklage, with a 2027 release date set.",
       "sources": [
         {
           "name": "Deadline",
@@ -30,7 +30,7 @@
       "title": "Elsinore",
       "studio": "Focus Features",
       "talent": "Andrew Scott, Olivia Colman",
-      "announcement": "Focus Features acquires the film Elsinore starring Andrew Scott and Olivia Colman, set for a November fall release.",
+      "announcement": "Focus Features acquires Shakespeare adaptation starring Andrew Scott, with a fall 2026 release date set.",
       "sources": [
         {
           "name": "Deadline",
@@ -45,8 +45,8 @@
     {
       "title": "Behemoth!",
       "studio": "Independent",
-      "talent": "Pedro Pascal; Director: Tony Gilroy",
-      "announcement": "Tony Gilroy's Behemoth! starring Pedro Pascal set to world premiere as the New York Film Festival Centerpiece selection.",
+      "talent": "Pedro Pascal",
+      "announcement": "Tony Gilroy's film starring Pedro Pascal set to world premiere as New York Film Festival Centerpiece selection.",
       "sources": [
         {
           "name": "Deadline",
@@ -71,10 +71,22 @@
       ]
     },
     {
+      "title": "Mooch",
+      "studio": "Freestyle Digital Media",
+      "talent": "",
+      "announcement": "Byron Allen's Freestyle Digital Media picks up Jeff Ryan's golf crime comedy for distribution.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/film-news-in-brief-july-27-2026-1236821755/"
+        }
+      ]
+    },
+    {
       "title": "American Fever Dream",
       "studio": "Independent",
       "talent": "Alexandra Daddario, Christopher Convery, Julian Morris, Spenser Granese",
-      "announcement": "Alexandra Daddario toplines indie drama American Fever Dream alongside Christopher Convery, Julian Morris, and Spenser Granese.",
+      "announcement": "Alexandra Daddario to topline indie drama with Christopher Convery, Julian Morris, and Spenser Granese also attached.",
       "sources": [
         {
           "name": "Deadline",
@@ -86,7 +98,7 @@
       "title": "Unrequited",
       "studio": "Independent",
       "talent": "Shabana Azeez",
-      "announcement": "Shabana Azeez from The Pitt set for queer romance film Unrequited.",
+      "announcement": "Shabana Azeez from 'The Pitt' set to star in queer romance film.",
       "sources": [
         {
           "name": "Deadline",
@@ -95,10 +107,10 @@
       ]
     },
     {
-      "title": "Limbo, U.S.A",
+      "title": "Limbo, U.S.A.",
       "studio": "Independent",
       "talent": "Reed Birney, Sercan Badur",
-      "announcement": "Reed Birney joins Turkish star Sercan Badur in New York-set LGBT romantic drama Limbo, U.S.A.",
+      "announcement": "Reed Birney joins Turkish star Sercan Badur in New York-set LGBT romantic drama.",
       "sources": [
         {
           "name": "Deadline",
@@ -107,10 +119,22 @@
       ]
     },
     {
+      "title": "NDA",
+      "studio": "Independent",
+      "talent": "Rachel Zegler, Carson Rowland",
+      "announcement": "Carson Rowland from 'Sweet Magnolias' joins Rachel Zegler in thriller film.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/sweet-magnolias-alum-carson-rowland-joins-rachel-zegler-in-nda-exclusive-1236655958/"
+        }
+      ]
+    },
+    {
       "title": "Disconnecting Peter",
       "studio": "Independent",
       "talent": "Chad Michael Murray, Lena Hall",
-      "announcement": "Lena Hall from Your Friends & Neighbors joins Chad Michael Murray in film Disconnecting Peter.",
+      "announcement": "Lena Hall from 'Your Friends & Neighbors' joins Chad Michael Murray in film.",
       "sources": [
         {
           "name": "Variety",
@@ -122,7 +146,7 @@
       "title": "Children of Blood and Bone",
       "studio": "Paramount Pictures",
       "talent": "",
-      "announcement": "Trailer released for film adaptation of Tomi Adeyemi's bestselling novel Children of Blood and Bone featuring an all-star cast.",
+      "announcement": "Film adaptation of Tomi Adeyemi's bestseller with all-star cast revealed in first trailer.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -135,26 +159,14 @@
       ]
     },
     {
-      "title": "Nosotros",
-      "studio": "Independent",
-      "talent": "",
-      "announcement": "FiGa Films snags worldwide rights to Guatemalan drama Nosotros ahead of its Toronto International Film Festival premiere.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/figa-films-guatemala-nosotros-toronto-premiere-1236822128/"
-        }
-      ]
-    },
-    {
-      "title": "NDA",
-      "studio": "Independent",
-      "talent": "Rachel Zegler, Carson Rowland",
-      "announcement": "Carson Rowland from Sweet Magnolias joins Rachel Zegler in film NDA.",
+      "title": "The Last Sunrise",
+      "studio": "Prime Video",
+      "talent": "Maia Reficco, Fernando Lindez",
+      "announcement": "Prime Video romance film starring Maia Reficco and Fernando Lindez with trailer released.",
       "sources": [
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/sweet-magnolias-alum-carson-rowland-joins-rachel-zegler-in-nda-exclusive-1236655958/"
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/the-last-sunrise-trailer-maia-reficco-fernando-lindez-1236658116/"
         }
       ]
     }
@@ -163,8 +175,8 @@
     {
       "title": "Warhammer 40,000",
       "network": "Amazon MGM Studios",
-      "talent": "Henry Cavill; Executive Producer: Mike Flanagan",
-      "announcement": "Mike Flanagan in talks to executive produce Amazon MGM Studios' Warhammer 40,000 TV series starring Henry Cavill.",
+      "talent": "Henry Cavill, Mike Flanagan (EP)",
+      "announcement": "Mike Flanagan in talks to executive produce Henry Cavill's Warhammer 40,000 series for Amazon MGM.",
       "sources": [
         {
           "name": "Deadline",
@@ -179,7 +191,7 @@
     {
       "title": "Untitled Marriage Comedy",
       "network": "Amazon",
-      "talent": "Creator: Atsuko Okatsuka, Josh Rabinowitz; Executive Producers: Hiro Murai, Ramy Youssef",
+      "talent": "Atsuko Okatsuka, Josh Rabinowitz (creators), Hiro Murai, Ramy Youssef (EPs)",
       "announcement": "Amazon developing half-hour marriage comedy from Atsuko Okatsuka and Josh Rabinowitz with Hiro Murai and Ramy Youssef among executive producers.",
       "sources": [
         {
@@ -191,8 +203,8 @@
     {
       "title": "Beauty in Black",
       "network": "OWN",
-      "talent": "Created by Tyler Perry",
-      "announcement": "Tyler Perry's Beauty in Black sets Season 3 premiere date and releases first-look photos.",
+      "talent": "Tyler Perry",
+      "announcement": "Tyler Perry's 'Beauty in Black' sets Season 3 premiere date and releases first-look photos.",
       "sources": [
         {
           "name": "Deadline",
@@ -207,8 +219,8 @@
     {
       "title": "Detective Agent Derek",
       "network": "Hulu",
-      "talent": "Creator: Nick Kreiss; Production: Big Grey Mass",
-      "announcement": "Hulu buys animated TV comedy pitch Detective Agent Derek from Nick Kreiss and Trio Big Grey Mass.",
+      "talent": "Nick Kreiss (creator), Big Grey Mass",
+      "announcement": "Hulu buys animated comedy pitch 'Detective Agent Derek' from Nick Kreiss and production company Trio Big Grey Mass.",
       "sources": [
         {
           "name": "Deadline",
@@ -217,34 +229,10 @@
       ]
     },
     {
-      "title": "Memory of a Killer",
-      "network": "Netflix",
-      "talent": "Meta Golding, Patrick Dempsey",
-      "announcement": "Meta Golding joins Memory of a Killer as Season 2 series regular, playing someone from Angelo's past.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/meta-golding-memory-of-a-killer-season-2-patrick-dempsey-1237005056/"
-        }
-      ]
-    },
-    {
-      "title": "The Line",
-      "network": "Food Network",
-      "talent": "Bobby Flay",
-      "announcement": "Food Network sets new Bobby Flay restaurant-dining competition series The Line for fall debut.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/bobby-flay-the-line-release-date-food-network-1236822534/"
-        }
-      ]
-    },
-    {
       "title": "Biological War",
       "network": "Universal Global Television",
-      "talent": "Production: Patrick Macmanus' Littleton Road Productions",
-      "announcement": "TV adaptation of Biological War in development at Universal Global Television and Patrick Macmanus' Littleton Road Productions.",
+      "talent": "Patrick Macmanus (producer)",
+      "announcement": "TV adaptation of 'Biological War' in development at Universal Global Television and Patrick Macmanus' Littleton Road Productions.",
       "sources": [
         {
           "name": "Variety",
@@ -253,10 +241,50 @@
       ]
     },
     {
+      "title": "Below",
+      "network": "Netflix",
+      "talent": "Josh Hartnett, Charlie Heaton",
+      "announcement": "Netflix thriller series 'Below' releases first teaser with Josh Hartnett battling a mysterious sea creature.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/below-trailer-netflix-josh-hartnett-charlie-heaton-1237004620/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/josh-hartnett-netflix-series-below-teaser-1236822698/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/josh-hartnett-netflix-below-teaser-1236657324/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/josh-hartnett-netflix-below-teaser/"
+        }
+      ]
+    },
+    {
+      "title": "Dexter: Resurrection",
+      "network": "Showtime",
+      "talent": "Michael C. Hall",
+      "announcement": "Season 2 of 'Dexter: Resurrection' releases first-look photos showing another arch enemy meeting his match.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/dexter-resurrection-season-2-first-look-photos-1237004978/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/dexter-resurrection-season-2-first-look-1236658308/"
+        }
+      ]
+    },
+    {
       "title": "Art Detectives",
       "network": "Acorn TV",
       "talent": "Stephen Moyer",
-      "announcement": "Art Detectives starring Stephen Moyer renewed for Season 2 at Acorn TV.",
+      "announcement": "'Art Detectives' starring Stephen Moyer renewed for Season 2 at Acorn TV.",
       "sources": [
         {
           "name": "Deadline",
@@ -269,41 +297,29 @@
       ]
     },
     {
+      "title": "Memory of a Killer",
+      "network": "Netflix",
+      "talent": "Meta Golding, Patrick Dempsey",
+      "announcement": "Meta Golding joins 'Memory of a Killer' as Season 2 series regular, playing someone from Angelo's past.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/meta-golding-memory-of-a-killer-season-2-patrick-dempsey-1237005056/"
+        }
+      ]
+    },
+    {
       "title": "This Is a Game Show",
       "network": "Tubi",
-      "talent": "Mitsy Sanderson; Production: Adam Wescott's Home Game Studios",
-      "announcement": "Mitsy Sanderson sets Tubi series This Is a Game Show from Adam Wescott's newly launched Home Game Studios.",
+      "talent": "Mitsy Sanderson, Adam Wescott (creator/producer)",
+      "announcement": "Mitsy Sanderson sets Tubi series from Adam Wescott's newly launched Home Game Studios.",
       "sources": [
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/mitsy-sanderson-this-is-a-game-show-adam-wescott-1236658129/"
         }
       ]
-    },
-    {
-      "title": "Babylon Berlin",
-      "network": "Independent",
-      "talent": "",
-      "announcement": "Babylon Berlin sets finale date and unveils video game, documentary, and audio spinoffs.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/babylon-berlin-sets-finale-date-video-game-audio-spinoffs-1236658034/"
-        }
-      ]
-    },
-    {
-      "title": "Gallus",
-      "network": "Gorilla Comedy+",
-      "talent": "Connor Burns",
-      "announcement": "Scottish stand-up Connor Burns sets Gorilla Comedy+ launch for new special Gallus.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/connor-burns-special-premiere-date-gallus-1237005763/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-07-28T20:02:54.439Z"
+  "lastUpdated": "2026-07-28T21:40:50.801Z"
 }
