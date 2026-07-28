@@ -1,44 +1,297 @@
 {
   "date": "July 28, 2026",
-  "summary": "3 film announcements, 0 TV announcements across 5 trades.",
+  "summary": "9 film announcements, 10 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Possible Love",
-      "studio": "Netflix",
-      "talent": "",
-      "announcement": "Netflix sets launch date for Lee Chang-dong's awards hopeful film.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/netflix-lee-chang-dong-possible-love-release-date-1236657709/"
-        }
-      ]
-    },
-    {
-      "title": "Untitled Marilyn Monroe Short Film",
+      "title": "Memory of a Killer",
       "studio": "",
-      "talent": "Dakota Johnson, Ellen Burstyn",
-      "announcement": "Dakota Johnson and Ellen Burstyn play versions of Marilyn Monroe in a short film directed by Maggie Gyllenhaal.",
+      "talent": "Meta Golding, Patrick Dempsey",
+      "announcement": "Meta Golding joins Season 2 as a series regular, playing someone from Angelo's past.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/marilyn-monroe-film-maggie-gyllenhaal-dakota-johnson-venice-1236657658/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/meta-golding-memory-of-a-killer-season-2-patrick-dempsey-1237005056/"
         }
       ]
     },
     {
-      "title": "Avengers: Doomsday",
-      "studio": "Marvel Studios",
-      "talent": "Robert Downey Jr.",
-      "announcement": "Robert Downey Jr.'s Doctor Doom voice work for the film gave directors chills during production.",
+      "title": "American Fever Dream",
+      "studio": "",
+      "talent": "Alexandra Daddario, Christopher Convery, Julian Morris, Spenser Granese",
+      "announcement": "Alexandra Daddario to topline indie drama with Christopher Convery, Julian Morris, and Spenser Granese also set.",
       "sources": [
         {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/alexandra-daddario-joins-american-fever-dream-1237005742/"
+        }
+      ]
+    },
+    {
+      "title": "Unrequited",
+      "studio": "",
+      "talent": "Shabana Azeez",
+      "announcement": "Shabana Azeez set to star in queer romance film.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/the-pitt-shabana-azeez-to-star-unrequited-romance-1237005043/"
+        }
+      ]
+    },
+    {
+      "title": "Elsinore",
+      "studio": "Focus Features",
+      "talent": "Andrew Scott",
+      "announcement": "Focus Features acquires film starring Andrew Scott with fall release set.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/focus-features-elsinore-andrew-scott-1237005650/"
+        }
+      ]
+    },
+    {
+      "title": "Limbo, U.S.A",
+      "studio": "",
+      "talent": "Reed Birney, Sercan Badur",
+      "announcement": "Reed Birney joins Turkish star Sercan Badur in New York-set LGBT romantic drama.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/reed-birney-turkish-star-sercan-badur-new-york-limbo-usa-1237005605/"
+        }
+      ]
+    },
+    {
+      "title": "Behemoth!",
+      "studio": "",
+      "talent": "Pedro Pascal, Tony Gilroy (director)",
+      "announcement": "Tony Gilroy's film starring Pedro Pascal set to world premiere as New York Film Festival Centerpiece Selection.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/nyff-behemoth-world-premiere-tony-gilroy-pedro-pascal-1237005609/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/markets-festivals/tony-gilroy-pedro-pascal-behemoth-nyff-centerpiece-1236822730/"
+        },
+        {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/robert-downey-jr-doctor-doom-voice-russo-brothers-chills-1236657698/"
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/tony-gilroy-pedro-pascal-behemoth-ny-film-fest-premiere-1236658091/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/festivals/behemoth-nyff-centerpiece-screening-2026-1235207191/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/industry-news/awards/tony-gilroy-pedro-pascal-behemoth-world-premiere-2026-new-york-film-festival/"
+        }
+      ]
+    },
+    {
+      "title": "Children of Blood and Bone",
+      "studio": "Paramount",
+      "talent": "Thuso Mbedu, Damson Idris, Cynthia Erivo, Viola Davis, Gina Prince-Bythewood (director)",
+      "announcement": "Trailer released for film adaptation of Tomi Adeyemi's bestseller featuring all-star cast.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/children-of-blood-and-bone-trailer-gina-prince-bythewood-1237005417/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/children-of-blood-and-bone-trailer-book-1236812576/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/children-of-blood-and-bone-trailer-tomi-adeyemi-1236658012/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/children-of-blood-and-bone-trailer-paramount/"
+        }
+      ]
+    },
+    {
+      "title": "Disconnecting Peter",
+      "studio": "",
+      "talent": "Lena Hall, Chad Michael Murray",
+      "announcement": "Lena Hall joins Chad Michael Murray in this project.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/lena-hall-chad-michael-murray-disconnecting-peter-1236822722/"
+        }
+      ]
+    },
+    {
+      "title": "Nosotros",
+      "studio": "",
+      "talent": "",
+      "announcement": "FiGa Films snags worldwide rights to Guatemalan drama ahead of TIFF premiere.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/figa-films-guatemala-nosotros-toronto-premiere-1236822128/"
         }
       ]
     }
   ],
-  "tv": [],
-  "lastUpdated": "2026-07-28T05:47:36.794Z"
+  "tv": [
+    {
+      "title": "Gallus",
+      "network": "Gorilla Comedy+",
+      "talent": "Connor Burns",
+      "announcement": "Scottish stand-up Connor Burns sets comedy special launch on Gorilla Comedy+.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/connor-burns-special-premiere-date-gallus-1237005763/"
+        }
+      ]
+    },
+    {
+      "title": "Below",
+      "network": "Netflix",
+      "talent": "Josh Hartnett, Charlie Heaton",
+      "announcement": "Trailer released for Netflix drama series featuring Josh Hartnett protecting his town from a mysterious sea creature.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/below-trailer-netflix-josh-hartnett-charlie-heaton-1237004620/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/josh-hartnett-netflix-series-below-teaser-1236822698/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/josh-hartnett-netflix-below-teaser-1236657324/"
+        }
+      ]
+    },
+    {
+      "title": "Dexter: Resurrection",
+      "network": "",
+      "talent": "",
+      "announcement": "First-look photos for Season 2 released showing another arch enemy.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/dexter-resurrection-season-2-first-look-photos-1237004978/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/dexter-resurrection-season-2-first-look-photos-1236822593/"
+        }
+      ]
+    },
+    {
+      "title": "Art Detectives",
+      "network": "Acorn TV",
+      "talent": "Stephen Moyer",
+      "announcement": "Series renewed for Season 2 at Acorn TV.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/art-detectives-stephen-moyer-renewed-season-2-acorn-tv-1237004954/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/art-detectives-renewed-season-2-acorn-tv-stephen-moyer-1236658076/"
+        }
+      ]
+    },
+    {
+      "title": "Embassy",
+      "network": "MGM+",
+      "talent": "Anna Kendrick",
+      "announcement": "Anna Kendrick thriller series lands at MGM+ in the U.S.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/anna-kendrick-embassy-series-mgm-1237005373/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/anna-kendrick-embassy-show-mgm-america-1236822402/"
+        }
+      ]
+    },
+    {
+      "title": "Ted Lasso",
+      "network": "Apple TV+",
+      "talent": "Jason Sudeikis",
+      "announcement": "Full trailer released for Season 4 with Jason Sudeikis returning to Richmond for biggest challenge yet.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/ted-lasso-season-4-trailer-jason-sudeikis-returns-richmond-1237005536/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/ted-lasso-season-4-trailer-jason-sudeikis-womens-soccer-1236597835/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/ted-lasso-season-4-trailer-release-date-1236658043/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/ted-lasso-season-4-trailer-apple-tv/"
+        }
+      ]
+    },
+    {
+      "title": "The Line",
+      "network": "Food Network",
+      "talent": "Bobby Flay",
+      "announcement": "Food Network sets new Bobby Flay restaurant-dining competition series for fall debut.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/bobby-flay-the-line-release-date-food-network-1236822534/"
+        }
+      ]
+    },
+    {
+      "title": "Kill Jackie",
+      "network": "HBO Max",
+      "talent": "Catherine Zeta-Jones",
+      "announcement": "Series starring Catherine Zeta-Jones acquired by Warner Bros. Discovery for HBO Max.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/catherine-zeta-jones-warner-bros-discovery-hbo-max-1236822368/"
+        }
+      ]
+    },
+    {
+      "title": "Babylon Berlin",
+      "network": "",
+      "talent": "",
+      "announcement": "Series sets finale date and unveils video game, documentary, and audio spinoffs.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/babylon-berlin-sets-finale-date-video-game-audio-spinoffs-1236658034/"
+        }
+      ]
+    },
+    {
+      "title": "The Last Sunrise",
+      "network": "Prime Video",
+      "talent": "Maia Reficco, Fernando Lindez",
+      "announcement": "Trailer released for Prime Video romance film.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/the-last-sunrise-trailer-maia-reficco-fernando-lindez-1236658116/"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-07-28T16:43:46.355Z"
 }
