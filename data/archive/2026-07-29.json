@@ -1,44 +1,32 @@
 {
   "date": "July 29, 2026",
-  "summary": "11 film announcements, 9 TV announcements across 5 trades.",
+  "summary": "8 film announcements, 13 TV announcements across 5 trades.",
   "film": [
     {
       "title": "The Final Girl Support Group",
       "studio": "Paramount",
-      "talent": "Christopher Landon (director/adapter)",
-      "announcement": "Paramount acquired the feature film rights with Christopher Landon set to direct and adapt. Aperture Entertainment and the Muschietti brothers' Double Dream are producing.",
+      "talent": "Christopher Landon (director/adapter); Barbara Muschietti, Andy Muschietti (producers)",
+      "announcement": "Paramount has greenlit the adaptation of the novel with Christopher Landon directing and adapting the screenplay, with Aperture and the Muschiettis' Double Dream producing.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/07/christopher-landon-final-girl-support-group-paramount-1237012670/"
-        }
-      ]
-    },
-    {
-      "title": "Children of Blood and Bone",
-      "studio": "Unknown",
-      "talent": "Gina Prince-Bythewood (director)",
-      "announcement": "Film adaptation in development with director Gina Prince-Bythewood attached, though author Tomi Adeyemi recently expressed serious dissatisfaction with the project.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/feature/children-of-blood-and-bone-movie-news-updates-adaptation-1237012631/"
         },
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/children-blood-bone-tomi-adeyemi-film-set-sobbing-1236823734/"
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/the-final-girl-support-group-movie-christopher-landon-paramount/"
         }
       ]
     },
     {
-      "title": "Live 2 Die",
-      "studio": "Unknown",
-      "talent": "Josh Bowman, Ron Perlman, Esai Morales",
-      "announcement": "Josh Bowman, Ron Perlman, and Esai Morales cast in the film.",
+      "title": "Richard Pryor",
+      "studio": "Latigo Films, Inaugural Entertainment",
+      "talent": "",
+      "announcement": "Biopic based on Elizabeth Stordeur Pryor's memoir 'Something We Said' is in development from Latigo Films and Inaugural Entertainment.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/josh-bowman-ron-perlman-esai-morales-live-2-die-1237012351/"
+          "url": "https://deadline.com/2026/07/richard-pryor-movie-elizabeth-stordeur-pryor-in-works-1237012540/"
         }
       ]
     },
@@ -46,7 +34,7 @@
       "title": "Tormented Souls",
       "studio": "ZQ Entertainment, Prime Universe, Longevity Pictures",
       "talent": "",
-      "announcement": "ZQ Entertainment, Prime Universe, and Longevity Pictures acquired film and TV rights to the horror video game for adaptation.",
+      "announcement": "ZQ Entertainment, Prime Universe, and Longevity Pictures have acquired film and TV rights to the horror video game for adaptation.",
       "sources": [
         {
           "name": "Deadline",
@@ -56,9 +44,9 @@
     },
     {
       "title": "Thud",
-      "studio": "Unknown",
-      "talent": "Sarah Michelle Gellar, Rudy Pankow",
-      "announcement": "Grim reaper-devil romance film starring Sarah Michelle Gellar and Rudy Pankow adds seven cast members including Steve Agee and Karan Soni.",
+      "studio": "",
+      "talent": "Sarah Michelle Gellar, Rudy Pankow; Steve Agee, Karan Soni, and five others added to cast",
+      "announcement": "Grim Reaper-Devil romance film starring Sarah Michelle Gellar and Rudy Pankow adds seven cast members including Steve Agee and Karan Soni.",
       "sources": [
         {
           "name": "Deadline",
@@ -67,22 +55,10 @@
       ]
     },
     {
-      "title": "Richard Pryor [Untitled]",
-      "studio": "Latigo Films, Inaugural Entertainment",
-      "talent": "",
-      "announcement": "Biographical film based on Richard Pryor's daughter Elizabeth Stordeur Pryor's memoir 'Something We Said' in development from Latigo Films and Inaugural Entertainment.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/richard-pryor-movie-elizabeth-stordeur-pryor-in-works-1237012540/"
-        }
-      ]
-    },
-    {
       "title": "Show of Hands",
-      "studio": "Unknown",
-      "talent": "Frank Grillo, P.J. Pesce (director)",
-      "announcement": "Frank Grillo to lead political kidnapping comedy from director P.J. Pesce.",
+      "studio": "",
+      "talent": "Frank Grillo (lead); P.J. Pesce (director)",
+      "announcement": "Frank Grillo to lead the political kidnapping comedy directed by P.J. Pesce.",
       "sources": [
         {
           "name": "Deadline",
@@ -91,10 +67,22 @@
       ]
     },
     {
+      "title": "Live 2 Die",
+      "studio": "",
+      "talent": "Ron Perlman, Esai Morales, Josh Bowman",
+      "announcement": "Josh Bowman joins Ron Perlman and Esai Morales in the action film.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/josh-bowman-ron-perlman-esai-morales-live-2-die-1237012351/"
+        }
+      ]
+    },
+    {
       "title": "American Summer",
-      "studio": "Unknown",
+      "studio": "",
       "talent": "Steve Guttenberg, Christie Brinkley",
-      "announcement": "Family comedy starring Steve Guttenberg and Christie Brinkley lands theatrical release.",
+      "announcement": "Family comedy starring Steve Guttenberg and Christie Brinkley receives a release date.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -103,38 +91,14 @@
       ]
     },
     {
-      "title": "Two Untitled Scripts",
-      "studio": "101 Studios",
-      "talent": "Taylor Sheridan (picking up scripts), Andrew Lauren (producer of 'Brutalist')",
-      "announcement": "Taylor Sheridan and 101 Studios picked up two movie scripts from 'Brutalist' producer Andrew Lauren.",
+      "title": "Possession",
+      "studio": "Paramount",
+      "talent": "Madeline Brewer, Emory Cohen, Nicholas Alexander Chavez",
+      "announcement": "Madeline Brewer, Emory Cohen, and Nicholas Alexander Chavez join the cast of Paramount's 'Possession'.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/taylor-sheridan-picks-up-two-scripts-1236659463/"
-        }
-      ]
-    },
-    {
-      "title": "The Conjuring: First Communion",
-      "studio": "Unknown",
-      "talent": "Charles Parnell, Marta Kessler, Caleb Dolden",
-      "announcement": "The Conjuring film rounds out its cast with Charles Parnell, Marta Kessler, and Caleb Dolden.",
-      "sources": [
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/charles-parnell-marta-kessler-caleb-dolden-the-conjuring-first-communion/"
-        }
-      ]
-    },
-    {
-      "title": "The Thomas Crown Affair",
-      "studio": "Unknown",
-      "talent": "Michael B. Jordan (director/star)",
-      "announcement": "Remake of 'The Thomas Crown Affair' with Michael B. Jordan directing and starring as a thief; teaser released.",
-      "sources": [
-        {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/news/trailers/the-thomas-crown-affair-teaser-michael-b-jordan-remake-1235207247/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/madeline-brewer-nicholas-alexander-chavez-possession-1237012513/"
         }
       ]
     }
@@ -153,22 +117,10 @@
       ]
     },
     {
-      "title": "Possession",
-      "network": "Paramount",
-      "talent": "Madeline Brewer, Emory Cohen, Nicholas Alexander Chavez",
-      "announcement": "Madeline Brewer, Emory Cohen, and Nicholas Alexander Chavez join Paramount's 'Possession'.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/madeline-brewer-nicholas-alexander-chavez-possession-1237012513/"
-        }
-      ]
-    },
-    {
       "title": "Chad Powers",
       "network": "Hulu",
       "talent": "Glen Powell",
-      "announcement": "Season 2 of Glen Powell's comedy series sets fall release date with first look photos released.",
+      "announcement": "Season 2 of 'Chad Powers' sets fall release date with first look photos; Glen Powell aims to lead South Georgia Catfish to college football playoffs.",
       "sources": [
         {
           "name": "Deadline",
@@ -181,14 +133,18 @@
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/chad-powers-season-2-premiere-date-first-look-photos-1236659346/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/comcast-xfinity-best-in-class-katie-feeney/"
         }
       ]
     },
     {
       "title": "Reacher",
-      "network": "Prime Video",
-      "talent": "Jay Baruchel, Kevin Durand, Amanda Ip, Ciara Bravo",
-      "announcement": "Jay Baruchel, Kevin Durand, Amanda Ip, and Ciara Bravo join Alan Ritchson for Season 5.",
+      "network": "Amazon Prime Video",
+      "talent": "Jay Baruchel, Kevin Durand, Amanda Ip, Ciara Bravo, Alan Ritchson",
+      "announcement": "Jay Baruchel, Kevin Durand, Amanda Ip, and Ciara Bravo join 'Reacher' for Season 5 opposite Alan Ritchson.",
       "sources": [
         {
           "name": "Deadline",
@@ -202,9 +158,9 @@
     },
     {
       "title": "Young Sherlock",
-      "network": "Unknown",
+      "network": "",
       "talent": "Sophie Skelton, Indira Varma, Olivia Williams, Aidan Gillen",
-      "announcement": "Season 2 adds Sophie Skelton, Indira Varma, Olivia Williams, and Aidan Gillen to cast with returning cast members confirmed.",
+      "announcement": "Season 2 adds Sophie Skelton, Indira Varma, Olivia Williams, and Aidan Gillen to cast; returning cast and departures announced.",
       "sources": [
         {
           "name": "Deadline",
@@ -214,9 +170,9 @@
     },
     {
       "title": "Robin Hood",
-      "network": "Unknown",
+      "network": "",
       "talent": "Graeme Thomas King",
-      "announcement": "Graeme Thomas King upped to series regular for Season 2 as Prince John.",
+      "announcement": "Graeme Thomas King upped to series regular for Season 2, playing Prince John.",
       "sources": [
         {
           "name": "Deadline",
@@ -225,10 +181,54 @@
       ]
     },
     {
+      "title": "The Earliest Show",
+      "network": "",
+      "talent": "Chris Pratt, Lamorne Morris, Sarah Silverman",
+      "announcement": "Chris Pratt, Lamorne Morris, Sarah Silverman, and 11 other guest stars announced for the series.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/earliest-show-chris-pratt-lamorne-morris-guest-stars-1237005399/"
+        }
+      ]
+    },
+    {
+      "title": "Chicago Fire",
+      "network": "NBC",
+      "talent": "Joe Miñoso",
+      "announcement": "Original cast member Joe Miñoso announced to be leaving the series after Season 15.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/chicago-fire-joe-minoso-leaving-season-15-1237012291/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/chicago-fire-joe-minoso-leaving-season-15-1236823672/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/chicago-fire-joe-minoso-leaving-season-15/"
+        }
+      ]
+    },
+    {
+      "title": "American Idol",
+      "network": "ABC",
+      "talent": "",
+      "announcement": "'American Idol' renewed for Season 10 on ABC, marking its 25th overall season.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/american-idol-renewed-season-10-abc-1236659099/"
+        }
+      ]
+    },
+    {
       "title": "Thunder Road",
       "network": "AMC",
       "talent": "Shane McRae",
-      "announcement": "AMC's NASCAR series 'Thunder Road' casts 'Silo' star Shane McRae.",
+      "announcement": "'Silo' star Shane McRae cast in AMC's NASCAR series 'Thunder Road'.",
       "sources": [
         {
           "name": "Variety",
@@ -237,14 +237,26 @@
       ]
     },
     {
-      "title": "American Idol",
-      "network": "ABC",
+      "title": "The Daily Show",
+      "network": "",
+      "talent": "News Team",
+      "announcement": "'The Daily Show' sets 30th Anniversary Podcast hosted by the news team.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/the-daily-show-new-podcast-30th-anniversary-1236822848/"
+        }
+      ]
+    },
+    {
+      "title": "Myron Bolitar",
+      "network": "Netflix",
       "talent": "",
-      "announcement": "American Idol renewed for Season 10 on ABC, marking the show's 25th season overall.",
+      "announcement": "Harlan Coben discusses bringing 'Myron Bolitar' to Netflix, currently in filming.",
       "sources": [
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/american-idol-renewed-season-10-abc-1236659099/"
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/harlan-coben-myron-bolitar-netflix-filming-1236659315/"
         }
       ]
     },
@@ -261,5 +273,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-29T22:04:35.853Z"
+  "lastUpdated": "2026-07-29T23:32:21.134Z"
 }
