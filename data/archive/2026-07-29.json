@@ -1,13 +1,38 @@
 {
   "date": "July 29, 2026",
-  "summary": "0 film announcements, 1 TV announcement across 3 trades.",
-  "film": [],
+  "summary": "1 film announcement, 1 TV announcement across 5 trades.",
+  "film": [
+    {
+      "title": "Jumanji: Open World",
+      "studio": "Sony Pictures",
+      "talent": "Dwayne Johnson, Kevin Hart, Jack Black",
+      "announcement": "Trailer released for the third and final Jumanji film, featuring the core cast returning as their video game avatars unleashed in real life.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/jumanji-3-open-world-trailer-dwayne-johnson-jack-black-1237006351/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/jumanji-3-trailer-dwayne-johnson-kevin-hart-open-world-1236706410/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/jumanji-open-world-trailer-dwayne-johnson-jack-black-hart-1236658662/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/industry-news/business/jumanji-open-world-the-virtual-becomes-reality-in-new-trailer/"
+        }
+      ]
+    }
+  ],
   "tv": [
     {
       "title": "American Horror Story",
       "network": "FX",
-      "talent": "Ryan Murphy (creator/executive producer)",
-      "announcement": "Season 13 announced to bring together all previous seasons of the anthology series in a crossover event described as 'like the Avengers.'",
+      "talent": "Ryan Murphy (creator)",
+      "announcement": "Season 13 announced to bring together all previous seasons in a crossover event styled as \"the Avengers\" of the anthology series.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -16,5 +41,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-29T00:58:44.590Z"
+  "lastUpdated": "2026-07-29T02:44:03.356Z"
 }
