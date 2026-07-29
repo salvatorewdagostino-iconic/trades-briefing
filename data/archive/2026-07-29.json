@@ -1,12 +1,60 @@
 {
   "date": "July 29, 2026",
-  "summary": "7 film announcements, 8 TV announcements across 5 trades.",
+  "summary": "11 film announcements, 9 TV announcements across 5 trades.",
   "film": [
+    {
+      "title": "Live 2 Die",
+      "studio": "",
+      "talent": "Josh Bowman, Ron Perlman, Esai Morales",
+      "announcement": "Josh Bowman, Ron Perlman, and Esai Morales cast to star in the film.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/josh-bowman-ron-perlman-esai-morales-live-2-die-1237012351/"
+        }
+      ]
+    },
+    {
+      "title": "Possession",
+      "studio": "Paramount",
+      "talent": "Madeline Brewer, Emory Cohen, Nicholas Alexander Chavez",
+      "announcement": "Madeline Brewer, Emory Cohen, and Nicholas Alexander Chavez join the Paramount film.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/madeline-brewer-nicholas-alexander-chavez-possession-1237012513/"
+        }
+      ]
+    },
+    {
+      "title": "Something We Said",
+      "studio": "Latigo Films, Inaugural Entertainment",
+      "talent": "",
+      "announcement": "Richard Pryor biopic based on daughter Elizabeth Stordeur Pryor's memoir in development.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/richard-pryor-movie-elizabeth-stordeur-pryor-in-works-1237012540/"
+        }
+      ]
+    },
+    {
+      "title": "Tormented Souls",
+      "studio": "ZQ Entertainment, Prime Universe, Longevity Pictures",
+      "talent": "",
+      "announcement": "ZQ Entertainment, Prime Universe, and Longevity Pictures acquire film and TV rights to horror video game.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/tormented-souls-film-tv-rights-1237012405/"
+        }
+      ]
+    },
     {
       "title": "Thud",
       "studio": "",
-      "talent": "Sarah Michelle Gellar, Rudy Pankow, Steve Agee, Karan Soni, and seven additional cast members",
-      "announcement": "Grim Reaper-Devil romance film adds seven actors to cast alongside Gellar and Pankow.",
+      "talent": "Sarah Michelle Gellar, Rudy Pankow, Steve Agee, Karan Soni",
+      "announcement": "Grim Reaper-Devil romance film starring Sarah Michelle Gellar and Rudy Pankow adds seven cast members including Steve Agee and Karan Soni.",
       "sources": [
         {
           "name": "Deadline",
@@ -30,27 +78,11 @@
       "title": "Milliseconds",
       "studio": "",
       "talent": "Billy Zane, John Billingsley, Scottie Thompson, Bonnie Root, Philippe Caland (director)",
-      "announcement": "Neo-noir thriller directed by Philippe Caland adds Billy Zane, John Billingsley, Scottie Thompson, and Bonnie Root to cast.",
+      "announcement": "Billy Zane, John Billingsley, Scottie Thompson, and Bonnie Root set for neo-noir thriller directed by Philippe Caland.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/07/billy-zane-philippe-caland-neonoir-thriller-milliseconds-1237012265/"
-        }
-      ]
-    },
-    {
-      "title": "The Thomas Crown Affair",
-      "studio": "",
-      "talent": "Michael B. Jordan",
-      "announcement": "First trailer released for Michael B. Jordan's reimagining of The Thomas Crown Affair, in which he also directs himself.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/thomas-crown-affair-trailer-michael-b-jordan-1237006350/"
-        },
-        {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/news/trailers/the-thomas-crown-affair-teaser-michael-b-jordan-remake-1235207247/"
         }
       ]
     },
@@ -67,10 +99,22 @@
       ]
     },
     {
+      "title": "The Thomas Crown Affair",
+      "studio": "",
+      "talent": "Michael B. Jordan (director and star)",
+      "announcement": "Michael B. Jordan directs and stars in remake teaser as cinema's coolest thief.",
+      "sources": [
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/trailers/the-thomas-crown-affair-teaser-michael-b-jordan-remake-1235207247/"
+        }
+      ]
+    },
+    {
       "title": "The Conjuring: First Communion",
       "studio": "",
       "talent": "Charles Parnell, Marta Kessler, Caleb Dolden",
-      "announcement": "The Conjuring: First Communion rounds out cast with Charles Parnell, Marta Kessler, and Caleb Dolden.",
+      "announcement": "Charles Parnell, Marta Kessler, and Caleb Dolden round out cast for The Conjuring film.",
       "sources": [
         {
           "name": "TheWrap",
@@ -82,7 +126,7 @@
       "title": "Jumanji: Open World",
       "studio": "",
       "talent": "",
-      "announcement": "New trailer released for Jumanji: Open World showing the virtual world becoming reality.",
+      "announcement": "New trailer released for Jumanji film where the virtual becomes reality.",
       "sources": [
         {
           "name": "TheWrap",
@@ -93,22 +137,38 @@
   ],
   "tv": [
     {
+      "title": "Task",
+      "network": "HBO",
+      "talent": "Martha Plimpton, Silvia Dionicio",
+      "announcement": "Martha Plimpton and Silvia Dionicio return for Season 2.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/martha-plimpton-silvia-dionicio-season-2-task-hbo-return-1237012323/"
+        }
+      ]
+    },
+    {
       "title": "Chad Powers",
       "network": "Hulu",
       "talent": "Glen Powell",
-      "announcement": "Season 2 gets fall release date with first look photos showing Glen Powell leading South Georgia Catfish to college football playoffs.",
+      "announcement": "Season 2 gets fall release date with first-look photos; Glen Powell leads South Georgia Catfish to college football playoffs.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/07/chad-powers-season-2-release-date-photos-glen-powell-hulu-1237012387/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/chad-powers-season-2-premiere-date-first-look-photos-1236659346/"
         }
       ]
     },
     {
       "title": "Reacher",
-      "network": "",
+      "network": "Amazon Prime Video",
       "talent": "Jay Baruchel, Kevin Durand, Amanda Ip, Ciara Bravo",
-      "announcement": "Season 5 casting announced with Jay Baruchel, Kevin Durand, Amanda Ip, and Ciara Bravo joining the cast.",
+      "announcement": "Jay Baruchel, Kevin Durand, Amanda Ip, and Ciara Bravo join Season 5.",
       "sources": [
         {
           "name": "Deadline",
@@ -120,7 +180,7 @@
       "title": "Young Sherlock",
       "network": "",
       "talent": "Sophie Skelton, Indira Varma, Olivia Williams, Aidan Gillen",
-      "announcement": "Season 2 adds Sophie Skelton, Indira Varma, Olivia Williams, and Aidan Gillen to cast; some returning cast members not coming back.",
+      "announcement": "Sophie Skelton, Indira Varma, Olivia Williams, and Aidan Gillen added for Season 2 with returning cast details announced.",
       "sources": [
         {
           "name": "Deadline",
@@ -132,7 +192,7 @@
       "title": "Robin Hood",
       "network": "",
       "talent": "Graeme Thomas King",
-      "announcement": "Graeme Thomas King upped to series regular for Season 2, playing Prince John.",
+      "announcement": "Graeme Thomas King upped to series regular for Season 2 as Prince John.",
       "sources": [
         {
           "name": "Deadline",
@@ -141,26 +201,10 @@
       ]
     },
     {
-      "title": "American Idol",
-      "network": "ABC",
-      "talent": "",
-      "announcement": "Renewed for Season 25 with auditions kicking off in August.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/american-idol-season-25-how-to-audition-1236823072/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/american-idol-renewed-season-10-abc-1236659099/"
-        }
-      ]
-    },
-    {
       "title": "Thunder Road",
       "network": "AMC",
       "talent": "Shane McRae",
-      "announcement": "AMC NASCAR series casts Silo star Shane McRae.",
+      "announcement": "AMC NASCAR series casts Shane McRae from Silo.",
       "sources": [
         {
           "name": "Variety",
@@ -169,20 +213,20 @@
       ]
     },
     {
-      "title": "Pinotphile",
-      "network": "Netflix",
-      "talent": "Joanne McNally",
-      "announcement": "Irish comedian Joanne McNally inks Netflix deal for debut hour special Pinotphile.",
+      "title": "American Idol",
+      "network": "ABC",
+      "talent": "",
+      "announcement": "Renewed for Season 10 on ABC, 25th season overall.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/joanne-mcnally-netflix-special-premiere-date-pinotphile-1237011871/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/american-idol-renewed-season-10-abc-1236659099/"
         }
       ]
     },
     {
       "title": "Best in Class",
-      "network": "Xfinity",
+      "network": "Comcast Xfinity",
       "talent": "Katie Feeney",
       "announcement": "Comcast's Xfinity launches creator reality series hosted by Katie Feeney.",
       "sources": [
@@ -191,7 +235,19 @@
           "url": "https://www.thewrap.com/creative-content/tv-shows/comcast-xfinity-best-in-class-katie-feeney/"
         }
       ]
+    },
+    {
+      "title": "American Horror Story: Season 13",
+      "network": "",
+      "talent": "Ryan Murphy",
+      "announcement": "Ryan Murphy reveals Season 13 brings together all previous seasons in an Avengers-style crossover.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/ryan-murphy-american-horror-story-season-13-details-1236658599/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-07-29T17:49:29.983Z"
+  "lastUpdated": "2026-07-29T19:22:50.452Z"
 }
