@@ -1,38 +1,42 @@
 {
   "date": "July 29, 2026",
-  "summary": "1 film announcement, 1 TV announcement across 5 trades.",
+  "summary": "1 film announcement, 2 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Jumanji: Open World",
-      "studio": "Sony Pictures",
-      "talent": "Dwayne Johnson, Kevin Hart, Jack Black",
-      "announcement": "Trailer released for the third and final Jumanji film, featuring the core cast returning as their video game avatars unleashed in real life.",
+      "title": "Naughty",
+      "studio": "",
+      "talent": "Olivia Wilde (director)",
+      "announcement": "Olivia Wilde teased her next directorial project, describing it as 'way bigger than anything I've ever taken on.'",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/jumanji-3-open-world-trailer-dwayne-johnson-jack-black-1237006351/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/jumanji-3-trailer-dwayne-johnson-kevin-hart-open-world-1236706410/"
-        },
-        {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/jumanji-open-world-trailer-dwayne-johnson-jack-black-hart-1236658662/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/industry-news/business/jumanji-open-world-the-virtual-becomes-reality-in-new-trailer/"
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/olivia-wilde-teases-next-directing-project-naughty-1236658726/"
         }
       ]
     }
   ],
   "tv": [
     {
+      "title": "Glee",
+      "network": "",
+      "talent": "Ryan Murphy (co-creator)",
+      "announcement": "Ryan Murphy indicated he would consider rebooting 'Glee,' saying 'Maybe we should revisit that show' as 'it's come back around.'",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/glee-ryan-murphy-possible-reboot-series-1237006359/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/ryan-murphy-considers-glee-reboot/"
+        }
+      ]
+    },
+    {
       "title": "American Horror Story",
       "network": "FX",
       "talent": "Ryan Murphy (creator)",
-      "announcement": "Season 13 announced to bring together all previous seasons in a crossover event styled as \"the Avengers\" of the anthology series.",
+      "announcement": "Ryan Murphy revealed that 'American Horror Story' Season 13 will bring together all previous seasons, comparing it to 'the Avengers.'",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -41,5 +45,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-29T02:44:03.356Z"
+  "lastUpdated": "2026-07-29T05:53:44.309Z"
 }
