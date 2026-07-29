@@ -1,49 +1,129 @@
 {
   "date": "July 29, 2026",
-  "summary": "1 film announcement, 2 TV announcements across 5 trades.",
+  "summary": "3 film announcements, 6 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Naughty",
-      "studio": "",
-      "talent": "Olivia Wilde (director)",
-      "announcement": "Olivia Wilde teased her next directorial project, describing it as 'way bigger than anything I've ever taken on.'",
+      "title": "The Thomas Crown Affair",
+      "studio": "Unknown",
+      "talent": "Michael B. Jordan (director and star)",
+      "announcement": "First trailer released for Michael B. Jordan's reimagining of the classic heist film, with Jordan both directing and starring as the lead.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/olivia-wilde-teases-next-directing-project-naughty-1236658726/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/thomas-crown-affair-trailer-michael-b-jordan-1237006350/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/trailers/the-thomas-crown-affair-teaser-michael-b-jordan-remake-1235207247/"
+        }
+      ]
+    },
+    {
+      "title": "Fruit Fly",
+      "studio": "A24",
+      "talent": "Josh Silver (author)",
+      "announcement": "A24 has optioned Josh Silver's debut adult novel 'Fruit Fly' for television adaptation.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/a24-options-josh-silver-fruit-fly-tv-happyhead-1237005729/"
+        }
+      ]
+    },
+    {
+      "title": "The Master and Margarita",
+      "studio": "Unknown",
+      "talent": "",
+      "announcement": "The long-awaited U.S. theatrical release for the adaptation has been secured following a legal battle.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/the-master-and-margarita-adaptation-american-release-1236823504/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "Glee",
-      "network": "",
-      "talent": "Ryan Murphy (co-creator)",
-      "announcement": "Ryan Murphy indicated he would consider rebooting 'Glee,' saying 'Maybe we should revisit that show' as 'it's come back around.'",
+      "title": "Young Sherlock",
+      "network": "Unknown",
+      "talent": "Sophie Skelton, Indira Varma, Olivia Williams, Aidan Gillen (new cast additions)",
+      "announcement": "Season 2 casting announced with Sophie Skelton, Indira Varma, Olivia Williams and Aidan Gillen joining the cast, with returning cast details also revealed.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/glee-ryan-murphy-possible-reboot-series-1237006359/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/ryan-murphy-considers-glee-reboot/"
+          "url": "https://deadline.com/2026/07/young-sherlock-season-2-cast-sophie-skelton-indira-varma-1237006177/"
         }
       ]
     },
     {
-      "title": "American Horror Story",
-      "network": "FX",
-      "talent": "Ryan Murphy (creator)",
-      "announcement": "Ryan Murphy revealed that 'American Horror Story' Season 13 will bring together all previous seasons, comparing it to 'the Avengers.'",
+      "title": "American Idol",
+      "network": "ABC",
+      "talent": "",
+      "announcement": "American Idol renewed for Season 25 at ABC with auditions set to kick off in August.",
       "sources": [
         {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/american-idol-renewed-season-25-abc-1237006151/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/american-idol-season-25-how-to-audition-1236823072/"
+        },
+        {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/ryan-murphy-american-horror-story-season-13-details-1236658599/"
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/american-idol-renewed-season-10-abc-1236659099/"
+        }
+      ]
+    },
+    {
+      "title": "Robin Hood",
+      "network": "Unknown",
+      "talent": "Graeme Thomas King (series regular)",
+      "announcement": "Graeme Thomas King has been upped to series regular for Season 2, playing Prince John.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/robin-hood-graeme-thomas-king-series-regular-s2-prince-john-1237006221/"
+        }
+      ]
+    },
+    {
+      "title": "Thunder Road",
+      "network": "AMC",
+      "talent": "Shane McRae (cast)",
+      "announcement": "AMC's NASCAR series casts 'Silo' star Shane McRae in a key role.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/amc-nascar-series-thunder-road-silo-shane-mcrae-1236823513/"
+        }
+      ]
+    },
+    {
+      "title": "Pinotphile",
+      "network": "Netflix",
+      "talent": "Joanne McNally (performer)",
+      "announcement": "Irish comedian Joanne McNally has inked a Netflix deal for her debut hour special 'Pinotphile'.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/joanne-mcnally-netflix-special-premiere-date-pinotphile-1237011871/"
+        }
+      ]
+    },
+    {
+      "title": "Best in Class",
+      "network": "Comcast/Xfinity",
+      "talent": "Katie Feeney (host)",
+      "announcement": "Comcast's Xfinity is launching a creator reality series 'Best in Class' hosted by Katie Feeney targeting creators and influencers.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/comcast-xfinity-best-in-class-katie-feeney/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-29T05:53:44.309Z"
+  "lastUpdated": "2026-07-29T16:25:00.658Z"
 }
