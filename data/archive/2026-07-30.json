@@ -1,12 +1,12 @@
 {
   "date": "July 30, 2026",
-  "summary": "12 film announcements, 8 TV announcements across 5 trades.",
+  "summary": "9 film announcements, 8 TV announcements across 5 trades.",
   "film": [
     {
       "title": "Fake Skating",
-      "studio": "Sony",
+      "studio": "Sony Pictures",
       "talent": "Josh Boone (director)",
-      "announcement": "Sony and Olive Bridge Entertainment are adapting Lynn Painter's novel with The Fault in Our Stars director Josh Boone helming the project.",
+      "announcement": "Sony dates adaptation of Lynn Painter novel with 'The Fault In Our Stars' director Josh Boone attached to helm, set for July 2027 release.",
       "sources": [
         {
           "name": "Deadline",
@@ -22,7 +22,7 @@
       "title": "Ernest Shackleton",
       "studio": "Netflix",
       "talent": "Phil Barantini (director), Mark L. Smith (writer)",
-      "announcement": "Netflix is developing an epic survival story about Ernest Shackleton from Adolescence director Phil Barantini and The Revenant writer Mark L. Smith.",
+      "announcement": "Netflix plans epic survival story of Ernest Shackleton from 'Adolescence' director Phil Barantini and 'The Revenant' screenwriter Mark L. Smith.",
       "sources": [
         {
           "name": "Deadline",
@@ -32,9 +32,9 @@
     },
     {
       "title": "The Let Go",
-      "studio": "Indie",
+      "studio": "Independent",
       "talent": "Samira Wiley, Mileiah Vega, Sophia Bush, Midori Francis, Brandon Flynn, Tovah Feldshuh",
-      "announcement": "Samira Wiley and Mileiah Vega will topline the indie film from director Kristen Wolf, with Sophia Bush, Midori Francis, Brandon Flynn and Tovah Feldshuh also cast.",
+      "announcement": "Indie film from writer-director Kristen Wolf with Samira Wiley and Mileiah Vega in lead roles, ensemble cast also attached.",
       "sources": [
         {
           "name": "Deadline",
@@ -45,12 +45,12 @@
     {
       "title": "Diamond",
       "studio": "Sony Pictures Classics",
-      "talent": "Andy Garcia (star)",
-      "announcement": "Sony Pictures Classics acquired the rights to Andy Garcia's noir film Diamond at Cannes 2026.",
+      "talent": "Andy Garcia",
+      "announcement": "Sony Pictures Classics acquires Andy Garcia's L.A. noir film 'Diamond' following Cannes Film Festival.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/fault-in-our-stars-josh-boone-fake-skating-1237013530/"
+          "url": "https://deadline.com/2026/07/andy-garcia-noir-diamond-sony-pictures-classics-1236659815/"
         },
         {
           "name": "Hollywood Reporter",
@@ -68,9 +68,9 @@
     },
     {
       "title": "The Road Home",
-      "studio": "Unknown",
-      "talent": "John Legend (Harry Belafonte), Bill Condon (director)",
-      "announcement": "John Legend will play Harry Belafonte in Bill Condon's apartheid struggle biopic The Road Home about Hugh Masekela.",
+      "studio": "Universal",
+      "talent": "John Legend (as Harry Belafonte), Bill Condon (director)",
+      "announcement": "John Legend cast to play Harry Belafonte in Bill Condon's apartheid struggle biopic 'The Road Home' about Hugh Masekela.",
       "sources": [
         {
           "name": "Deadline",
@@ -87,38 +87,14 @@
       ]
     },
     {
-      "title": "You Are Here",
-      "studio": "BBC/Starz",
-      "talent": "Claire Foy, Matthew Macfadyen",
-      "announcement": "Claire Foy and Matthew Macfadyen will lead the adaptation of David Nicholls' novel for BBC and Starz.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/claire-foy-matthew-macfadyen-you-are-here-bbc-starz-1237012969/"
-        }
-      ]
-    },
-    {
-      "title": "Dinosaurs of the Wild West",
-      "studio": "Unknown",
-      "talent": "George Kittle (acting debut), Martin Kove, Jesse Kove, Rachel Pizzolatto",
-      "announcement": "NFL star George Kittle will make his acting debut in Dinosaurs of the Wild West, with Primitive War director attached and Martin Kove, Jesse Kove and Rachel Pizzolatto also cast.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/george-kittle-acting-debut-dinosaurs-wild-west-martin-kove-1237013412/"
-        }
-      ]
-    },
-    {
       "title": "Avedon",
       "studio": "Netflix",
-      "talent": "Ron Howard (director/producer)",
-      "announcement": "Netflix acquired Ron Howard's Avedon documentary for 2026 release with an awards push.",
+      "talent": "Ron Howard (director)",
+      "announcement": "Netflix acquires Ron Howard's documentary 'Avedon' for 2026 release with awards season push.",
       "sources": [
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/netflix-ron-howard-avedon-documentary-2026-release-awards-push-1236655416/"
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/netflix-ron-howard-avedon-documentary-2026-awards-push-1236655416/"
         }
       ]
     },
@@ -126,7 +102,7 @@
       "title": "A Very Merry Breakup",
       "studio": "Tribeca Films",
       "talent": "",
-      "announcement": "Tribeca Films acquired the rom-com A Very Merry Breakup along with films starring Rachel Dratch and Miriam Shor.",
+      "announcement": "Tribeca Films acquires rom-com 'A Very Merry Breakup' for distribution.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -135,53 +111,81 @@
       ]
     },
     {
-      "title": "Camp Miasma",
-      "studio": "Unknown",
-      "talent": "Hannah Einbinder, Gillian Anderson",
-      "announcement": "Hannah Einbinder stars in Camp Miasma, exploring a complicated cross-generational relationship with Gillian Anderson.",
+      "title": "Rachel Dratch & Miriam Shor Films",
+      "studio": "Tribeca Films",
+      "talent": "Rachel Dratch, Miriam Shor",
+      "announcement": "Tribeca Films acquires films starring Rachel Dratch and Miriam Shor.",
       "sources": [
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/camp-miasma-hannah-einbinder-relationship-gillian-anderson-1236660337/"
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/tribeca-films-acquires-rachel-dratch-miriam-shor-movies-1236660022/"
         }
       ]
     },
     {
       "title": "The End of Tom Six",
-      "studio": "Unknown",
-      "talent": "Tom Six (director/creator)",
-      "announcement": "Human Centipede creator Tom Six reveals his last movie The End of Tom Six, which he filmed for six years while living in isolation with Multiple Sclerosis.",
+      "studio": "Independent",
+      "talent": "Tom Six (director)",
+      "announcement": "'Human Centipede' creator Tom Six reveals his last movie 'The End of Tom Six,' which he filmed over six years while living in isolation.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/film/news/human-centipede-director-tom-six-ms-diagnosis-new-movie-1236824461/"
         }
       ]
-    },
-    {
-      "title": "The Days Off",
-      "studio": "Inwave Films",
-      "talent": "Lucila Mariani (director)",
-      "announcement": "Inwave Films boarded Lucila Mariani's dreamlike Argentine debut The Days Off, a Locarno player.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/locarno-the-days-off-lucila-mariani-inwave-maravillacine-1236823137/"
-        }
-      ]
     }
   ],
   "tv": [
     {
-      "title": "Wonder Man",
-      "network": "Disney+",
-      "talent": "",
-      "announcement": "Wonder Man is canceled at Disney+ and will not return for Season 2 despite having been renewed.",
+      "title": "Trial of Louise Woodward",
+      "network": "HBO",
+      "talent": "Meghann Fahy (star), Matthew Barry (creator), Susanne Bier (director)",
+      "announcement": "HBO orders limited series with Meghann Fahy starring, from creator Matthew Barry and director Susanne Bier.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/wonder-man-canceled-disney-plus-1237013618/"
+          "url": "https://deadline.com/2026/07/trial-of-louise-woodward-meghann-fahy-hbo-series-order-1237013944/"
         },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/meghann-fahy-hbo-limited-series-trial-of-louise-woodward-1236660550/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/meghann-fahy-hbo-limited-series-the-trial-of-louise-woodward/"
+        }
+      ]
+    },
+    {
+      "title": "Memory of a Killer",
+      "network": "Unknown",
+      "talent": "Natalie Zea (heavily recurring role)",
+      "announcement": "'Fire Country' actress Natalie Zea joins season 2 in a heavily recurring role.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/fire-country-natalie-zea-cast-memory-of-a-killer-season-2-1237013473/"
+        }
+      ]
+    },
+    {
+      "title": "You Are Here",
+      "network": "BBC/Starz",
+      "talent": "Claire Foy, Matthew Macfadyen",
+      "announcement": "Claire Foy and Matthew Macfadyen to lead adaptation of David Nicholls novel for BBC and Starz.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/claire-foy-matthew-macfadyen-you-are-here-bbc-starz-1237012969/"
+        }
+      ]
+    },
+    {
+      "title": "Wonder Man",
+      "network": "Disney+",
+      "talent": "Yahya Abdul-Mateen II",
+      "announcement": "Marvel series 'Wonder Man' canceled at Disney+ despite previous season 2 renewal.",
+      "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/tv/news/wonder-man-canceled-disney-season-2-renewal-1236824259/"
@@ -197,62 +201,10 @@
       ]
     },
     {
-      "title": "East of Eden",
-      "network": "Netflix",
-      "talent": "",
-      "announcement": "Netflix is developing a series adaptation of East of Eden with ongoing development updates available.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/feature/east-of-eden-netflix-series-news-updates-everything-we-know-1237013616/"
-        }
-      ]
-    },
-    {
-      "title": "Alan Opts Out",
-      "network": "HBO",
-      "talent": "Emily Kapnek, Bill Lawrence (creators)",
-      "announcement": "HBO has picked up the comedy series Alan Opts Out from Emily Kapnek and Bill Lawrence.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/hbo-comedy-alan-opts-out-emily-kapnek-bill-lawrence-1237013424/"
-        }
-      ]
-    },
-    {
-      "title": "Memory of a Killer Season 2",
-      "network": "Unknown",
-      "talent": "Natalie Zea (recurring)",
-      "announcement": "Fire Country's Natalie Zea has joined Memory of a Killer Season 2 in a heavily recurring role.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/fire-country-natalie-zea-cast-memory-of-a-killer-season-2-1237013473/"
-        }
-      ]
-    },
-    {
-      "title": "Clueless",
-      "network": "Paramount+",
-      "talent": "Alicia Silverstone",
-      "announcement": "A Clueless sequel series with Alicia Silverstone has been ordered at Paramount+.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/clueless-sequel-series-alicia-silverstone-paramount-plus-1236824275/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/industry-news/business/alicia-silverstone-clueless-tv-series-picked-up-paramount-plus/"
-        }
-      ]
-    },
-    {
-      "title": "American Experience: The FBI",
+      "title": "American Experience: FBI History",
       "network": "PBS",
       "talent": "",
-      "announcement": "American Experience will release a four-part docuseries on the history of the FBI in 2027.",
+      "announcement": "'American Experience' to release four-part docuseries on the history of the FBI in 2027.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -261,29 +213,41 @@
       ]
     },
     {
-      "title": "The American Revolution",
-      "network": "Unknown",
-      "talent": "Ken Burns (director)",
-      "announcement": "Ken Burns is helming the docuseries The American Revolution, reopening America's founding wounds.",
+      "title": "Clueless",
+      "network": "Paramount+",
+      "talent": "Alicia Silverstone",
+      "announcement": "Alicia Silverstone's 'Clueless' TV series picked up at Paramount+.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-features/ken-burns-american-revolution-docuseries-1236659622/"
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/industry-news/business/alicia-silverstone-clueless-tv-series-picked-up-paramount-plus/"
         }
       ]
     },
     {
-      "title": "Mike Darnell Overall Deal",
-      "network": "Netflix",
-      "talent": "Mike Darnell",
-      "announcement": "Reality TV executive Mike Darnell has signed an overall deal with Netflix.",
+      "title": "Top Chef VIP",
+      "network": "Telemundo",
+      "talent": "Multiple celebrities (cast announced)",
+      "announcement": "Season 5 of culinary competition series featuring celebrity competitors, cast photos and details released.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-mike-darnell-overall-deal-reality-tv-1236660238/"
+          "name": "Deadline",
+          "url": "https://deadline.com/gallery/top-chef-vip-season-5-cast-photos-telemundo/"
+        }
+      ]
+    },
+    {
+      "title": "NBC News Now Christine Romans Show",
+      "network": "NBC News Now",
+      "talent": "Christine Romans",
+      "announcement": "NBC News Now expands live daytime lineup with new 2-hour Christine Romans show.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/streaming/nbc-news-now-christine-romans-current-streaming/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-30T21:45:01.328Z"
+  "lastUpdated": "2026-07-30T23:11:49.410Z"
 }
