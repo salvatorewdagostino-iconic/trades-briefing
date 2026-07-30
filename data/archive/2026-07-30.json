@@ -1,14 +1,18 @@
 {
   "date": "July 30, 2026",
-  "summary": "0 film announcements, 1 TV announcement across 3 trades.",
+  "summary": "0 film announcements, 1 TV announcement across 5 trades.",
   "film": [],
   "tv": [
     {
       "title": "House of Fates",
       "network": "Disney+",
       "talent": "",
-      "announcement": "Disney+ greenlighted 'House of Fates,' a supernatural reality competition Korean series spinoff of the hit fortune-telling series 'Battle of Fates.'",
+      "announcement": "Disney+ has greenlit 'House of Fates,' a supernatural reality competition series from Korea, as a spinoff of the hit series 'Battle of Fates.'",
       "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/disney-plus-korea-battle-of-fates-spin-off-house-of-fates-1237006528/"
+        },
         {
           "name": "Variety",
           "url": "https://variety.com/2026/tv/news/supernatural-reality-competition-korean-series-house-of-fates-disney-1236823264/"
@@ -20,5 +24,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-30T02:29:44.262Z"
+  "lastUpdated": "2026-07-30T05:24:54.798Z"
 }
