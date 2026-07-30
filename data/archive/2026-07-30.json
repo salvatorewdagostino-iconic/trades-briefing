@@ -1,28 +1,293 @@
 {
   "date": "July 30, 2026",
-  "summary": "0 film announcements, 1 TV announcement across 5 trades.",
-  "film": [],
+  "summary": "9 film announcements, 8 TV announcements across 5 trades.",
+  "film": [
+    {
+      "title": "Diamond",
+      "studio": "Sony Pictures Classics",
+      "talent": "Andy Garcia",
+      "announcement": "Sony Pictures Classics acquired the crime drama that premiered at Cannes 2026.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/andy-garcia-diamond-sony-pictures-classics-1237012968/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/andy-garcia-diamond-sony-pictures-classics-1236823606/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/andy-garcia-noir-diamond-sony-pictures-classics-1236659815/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/festivals/cannes-2026-movies-sold-so-far-paper-tiger-minotaur-1235191174/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/sony-pictures-classics-acquires-andy-garcia-diamond-cannes/"
+        }
+      ]
+    },
+    {
+      "title": "Stages",
+      "studio": "A24",
+      "talent": "Sonoya Mizuno, Julie Delpy, Takehiro Hira, Kathryn Hunter, Kate Dickie, Emma D'Arcy",
+      "announcement": "Julie Delpy, Takehiro Hira, Kathryn Hunter, Kate Dickie and Emma D'Arcy joined Sonoya Mizuno's directorial debut with Focus Features handling international distribution.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/sonoya-mizuno-stages-focus-features-julie-delpy-emma-darcy-1237013187/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/julie-delpy-emma-darcy-takehiro-hira-sonoya-mizuno-stages-1236824239/"
+        }
+      ]
+    },
+    {
+      "title": "Hit Me Hard and Soft",
+      "studio": "Paramount+",
+      "talent": "Billie Eilish",
+      "announcement": "Billie Eilish's concert film received a Paramount+ streaming release date.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/billie-eilish-hit-me-hard-soft-streaming-date-paramount-1237013199/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/billie-eilish-hit-me-hard-soft-streaming-paramount-1236823667/"
+        }
+      ]
+    },
+    {
+      "title": "The Road Home",
+      "studio": "Unknown",
+      "talent": "John Legend (Harry Belafonte), Bill Condon (director)",
+      "announcement": "John Legend cast to play Harry Belafonte in Bill Condon's apartheid-era drama about Hugh Masekela.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/john-legend-harry-belafonte-apartheid-the-road-home-1237013144/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/john-legend-harry-belafonte-the-road-home-1236823716/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/john-legend-harry-belafonte-bill-condon-the-road-home-1236659795/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/john-legend-harry-belafonte-road-home/"
+        }
+      ]
+    },
+    {
+      "title": "Gentle Monster",
+      "studio": "Netflix",
+      "talent": "Léa Seydoux",
+      "announcement": "Netflix set a fall 2026 release date for the Cannes breakout film starring Léa Seydoux.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/awards/netflix-gentle-monster-release-date-lea-seydoux-1236822986/"
+        }
+      ]
+    },
+    {
+      "title": "In All My Journeys I Am Returning",
+      "studio": "Lights On",
+      "talent": "",
+      "announcement": "Italy-based Lights On acquired the Colombian film ahead of its Locarno premiere.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/lights-on-colombia-all-my-journeys-i-am-returning-locarno-1236823773/"
+        }
+      ]
+    },
+    {
+      "title": "Avedon",
+      "studio": "Netflix",
+      "talent": "Ron Howard (director/producer)",
+      "announcement": "Netflix acquired Ron Howard's Avedon documentary for 2026 release with awards consideration.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/netflix-ron-howard-avedon-documentary-2026-awards-push-1236655416/"
+        }
+      ]
+    },
+    {
+      "title": "A Very Merry Breakup",
+      "studio": "Tribeca Films",
+      "talent": "",
+      "announcement": "Tribeca Films acquired the rom-com film.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/tribeca-films-acquires-rachel-dratch-miriam-shor-movies-1236660022/"
+        }
+      ]
+    },
+    {
+      "title": "Untitled Rachel Dratch/Miriam Shor Film",
+      "studio": "Tribeca Films",
+      "talent": "Rachel Dratch, Miriam Shor",
+      "announcement": "Tribeca Films acquired a film starring Rachel Dratch and Miriam Shor.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/tribeca-films-acquires-rachel-dratch-miriam-shor-movies-1236660022/"
+        }
+      ]
+    }
+  ],
   "tv": [
+    {
+      "title": "Clueless",
+      "network": "Paramount+",
+      "talent": "Alicia Silverstone",
+      "announcement": "Paramount+ ordered a limited series sequel to the 1995 film, starring Alicia Silverstone.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/clueless-sequel-series-alicia-silverstone-paramount-plus-1237012934/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/clueless-sequel-series-alicia-silverstone-paramount-plus-1236824275/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/clueless-sequel-series-paramount-1236659500/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/industry-news/business/alicia-silverstone-clueless-tv-series-picked-up-paramount-plus/"
+        }
+      ]
+    },
+    {
+      "title": "Earle Meets World",
+      "network": "Netflix",
+      "talent": "Alix Earle",
+      "announcement": "Netflix released a teaser for the unscripted series following influencer Alix Earle's life.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/earle-meets-world-release-date-trailer-alix-earle-netflix-1237012797/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/alix-earle-netflix-reality-show-earle-meets-world-1236659878/"
+        }
+      ]
+    },
+    {
+      "title": "You Are Here",
+      "network": "BBC / Starz",
+      "talent": "Claire Foy, Matthew Macfadyen",
+      "announcement": "Claire Foy and Matthew Macfadyen were cast to lead the adaptation of David Nicholls' novel for BBC and Starz.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/claire-foy-matthew-macfadyen-you-are-here-bbc-starz-1237012969/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/matthew-macfadyen-claire-foy-you-are-here-1236824257/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/matthew-macfadyen-claire-foy-nicholls-you-are-here-tv-show-1236659899/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/tv/claire-foy-matthew-macfadyen-you-are-here-series-starz-bbc/"
+        }
+      ]
+    },
+    {
+      "title": "This Is Birmingham",
+      "network": "Prime Video",
+      "talent": "",
+      "announcement": "A TV series adaptation is in development based on the Prime Video UK hit.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/this-is-birmingham-tv-series-adaptation-prime-video-uk-1237012985/"
+        }
+      ]
+    },
+    {
+      "title": "Current",
+      "network": "NBC News Now",
+      "talent": "Christine Romans",
+      "announcement": "Christine Romans' news show set its debut date for August 3 on NBC News Now.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/christine-romans-nbc-news-now-debut-1237013256/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/christine-romans-current-nbc-news-now-launch-1236824257/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/streaming/nbc-news-now-christine-romans-current-streaming/"
+        }
+      ]
+    },
+    {
+      "title": "The Walking Dead",
+      "network": "Netflix / AMC Global Media",
+      "talent": "",
+      "announcement": "Netflix and AMC Global Media inked a 5-year, $500 million co-exclusive streaming deal for The Walking Dead franchise.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/the-walking-dead-renewed-netflix-amc-global-media-1237013114/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-walking-dead-streaming-deal-amc-global-media-1236659933/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/the-walking-dead-netflix-amc-exclusive-deal/"
+        }
+      ]
+    },
     {
       "title": "House of Fates",
       "network": "Disney+",
       "talent": "",
-      "announcement": "Disney+ has greenlit 'House of Fates,' a supernatural reality competition series from Korea, as a spinoff of the hit series 'Battle of Fates.'",
+      "announcement": "Disney+ greenlit a spinoff series of the hit Korean fortune-telling series Battle of Fates.",
       "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/disney-plus-korea-battle-of-fates-spin-off-house-of-fates-1237006528/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/supernatural-reality-competition-korean-series-house-of-fates-disney-1236823264/"
-        },
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/disney-greenlights-house-of-fates-spinoff-korean-battle-of-fates-1236659761/"
         }
       ]
+    },
+    {
+      "title": "Sterling Point",
+      "network": "Unknown",
+      "talent": "Ella Rubin, Amélie Hoeferle",
+      "announcement": "Ella Rubin and Amélie Hoeferle appear in a new clip from the series.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/ella-rubin-amelie-hoeferle-sterling-point-exclusive-clip-1236659810/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-07-30T05:24:54.798Z"
+  "lastUpdated": "2026-07-30T16:38:51.024Z"
 }
