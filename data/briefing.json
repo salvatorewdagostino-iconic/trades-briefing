@@ -1,12 +1,64 @@
 {
   "date": "July 30, 2026",
-  "summary": "11 film announcements, 7 TV announcements across 5 trades.",
+  "summary": "13 film announcements, 10 TV announcements across 5 trades.",
   "film": [
     {
+      "title": "East of Eden",
+      "studio": "Netflix",
+      "talent": "",
+      "announcement": "Netflix series adaptation of John Steinbeck's classic novel in development.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/feature/east-of-eden-netflix-series-news-updates-everything-we-know-1237013616/"
+        }
+      ]
+    },
+    {
+      "title": "The Let Go",
+      "studio": "Indie",
+      "talent": "Samira Wiley, Mileiah Vega, Sophia Bush, Midori Francis, Brandon Flynn, Tovah Feldshuh",
+      "announcement": "Independent film starring Samira Wiley and Mileiah Vega from director Kristen Wolf with ensemble cast attached.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/samira-wiley-to-star-the-let-go-sophia-bush-1237013621/"
+        }
+      ]
+    },
+    {
+      "title": "Fake Skating",
+      "studio": "Sony",
+      "talent": "Josh Boone (director)",
+      "announcement": "Director Josh Boone boards adaptation of Lynn Painter novel from Sony and Olive Bridge Entertainment.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/fault-in-our-stars-josh-boone-fake-skating-1237013530/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/sony-fake-skating-josh-boone/"
+        }
+      ]
+    },
+    {
+      "title": "Ernest Shackleton",
+      "studio": "Netflix",
+      "talent": "Phil Barantini (director), Mark L. Smith (writer)",
+      "announcement": "Netflix plans epic survival story of Ernest Shackleton from 'Adolescence' director Phil Barantini and 'The Revenant' scribe Mark L. Smith.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/ernest-shackleton-movie-netflix-adolescence-director-1237013437/"
+        }
+      ]
+    },
+    {
       "title": "Dinosaurs of the Wild West",
-      "studio": "Unknown",
-      "talent": "George Kittle (acting debut), Martin Kove, Jesse Kove, Rachael Pizzolatto",
-      "announcement": "NFL star George Kittle makes his acting debut in the film from the director of 'Primitive War.'",
+      "studio": "",
+      "talent": "George Kittle (acting debut), Martin Kove, Jesse Kove, Rachel Pizzolatto",
+      "announcement": "NFL star George Kittle makes acting debut in this film from 'Primitive War' director with Martin and Jesse Kove and Rachel Pizzolatto also attached.",
       "sources": [
         {
           "name": "Deadline",
@@ -15,10 +67,10 @@
       ]
     },
     {
-      "title": "John Leguizamo/Matt Damon Daniels Project",
+      "title": "Odyssey",
       "studio": "Universal",
-      "talent": "John Leguizamo, Matt Damon, Daniels (directors)",
-      "announcement": "John Leguizamo is eyeing a reunion with Matt Damon on a secret Daniels project at Universal.",
+      "talent": "Matt Damon, John Leguizamo, the Daniels (directors)",
+      "announcement": "John Leguizamo eyes reunion with Matt Damon on secret Daniels project at Universal.",
       "sources": [
         {
           "name": "Deadline",
@@ -27,78 +79,10 @@
       ]
     },
     {
-      "title": "Diamond",
-      "studio": "Sony Pictures Classics",
-      "talent": "Andy Garcia",
-      "announcement": "Sony Pictures Classics acquires the Andy Garcia crime drama that premiered at Cannes.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/andy-garcia-diamond-sony-pictures-classics-1237012968/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/andy-garcia-diamond-sony-pictures-classics-1236823606/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/andy-garcia-noir-diamond-sony-pictures-classics-1236659815/"
-        },
-        {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/news/festivals/cannes-2026-movies-sold-so-far-paper-tiger-minotaur-1235191174/"
-        }
-      ]
-    },
-    {
-      "title": "Stages",
-      "studio": "A24 (US), Focus Features (International)",
-      "talent": "Sonoya Mizuno (directorial debut), Julie Delpy, Emma D'Arcy, Takehiro Hira, Kathryn Hunter, Kate Dickie",
-      "announcement": "Multiple acclaimed actors join Sonoya Mizuno's feature directorial debut for A24, with Focus Features handling international distribution.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/sonoya-mizuno-stages-focus-features-julie-delpy-emma-darcy-1237013187/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/julie-delpy-emma-darcy-takehiro-hira-sonoya-mizuno-stages-1236824239/"
-        }
-      ]
-    },
-    {
-      "title": "Hit Me Hard and Soft",
-      "studio": "Paramount+",
-      "talent": "Billie Eilish",
-      "announcement": "Billie Eilish concert film receives a Paramount+ streaming release date.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/billie-eilish-hit-me-hard-soft-streaming-date-paramount-1237013199/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/billie-eilish-hit-me-hard-soft-streaming-paramount-1236823667/"
-        }
-      ]
-    },
-    {
-      "title": "Gentle Monster",
-      "studio": "Netflix",
-      "talent": "Léa Seydoux",
-      "announcement": "Netflix sets fall release date for the Cannes breakout film starring Léa Seydoux.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/awards/netflix-gentle-monster-release-date-lea-seydoux-1236822986/"
-        }
-      ]
-    },
-    {
       "title": "The Road Home",
-      "studio": "Unknown",
-      "talent": "John Legend (as Harry Belafonte), Bill Condon (director)",
-      "announcement": "John Legend cast to play Harry Belafonte in Bill Condon's apartheid struggle biopic about musician Hugh Masekela.",
+      "studio": "",
+      "talent": "John Legend (Harry Belafonte), Bill Condon (director)",
+      "announcement": "John Legend to play Harry Belafonte in apartheid struggle biopic 'The Road Home' directed by Bill Condon.",
       "sources": [
         {
           "name": "Deadline",
@@ -115,10 +99,58 @@
       ]
     },
     {
+      "title": "Gentle Monster",
+      "studio": "Netflix",
+      "talent": "Léa Seydoux",
+      "announcement": "Netflix sets fall 2026 release for Cannes breakout 'Gentle Monster' starring Léa Seydoux.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/awards/netflix-gentle-monster-release-date-lea-seydoux-1236822986/"
+        }
+      ]
+    },
+    {
+      "title": "Diamond",
+      "studio": "Sony Pictures Classics",
+      "talent": "Andy Garcia",
+      "announcement": "Andy Garcia's crime drama 'Diamond' lands at Sony Pictures Classics for distribution.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/andy-garcia-diamond-sony-pictures-classics-1236823606/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/andy-garcia-noir-diamond-sony-pictures-classics-1236659815/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/festivals/cannes-2026-movies-sold-so-far-paper-tiger-minotaur-1235191174/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/sony-pictures-classics-acquires-andy-garcia-diamond-cannes/"
+        }
+      ]
+    },
+    {
+      "title": "A Very Merry Breakup",
+      "studio": "Tribeca Films",
+      "talent": "",
+      "announcement": "Tribeca Films acquires rom-com 'A Very Merry Breakup' for distribution.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/tribeca-films-acquires-rachel-dratch-miriam-shor-movies-1236660022/"
+        }
+      ]
+    },
+    {
       "title": "Avedon",
       "studio": "Netflix",
-      "talent": "Ron Howard (director/producer)",
-      "announcement": "Netflix acquires Ron Howard's documentary for 2026 release with awards push.",
+      "talent": "Ron Howard (director)",
+      "announcement": "Netflix acquires Ron Howard's documentary 'Avedon' for 2026 release with awards season push.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -127,48 +159,72 @@
       ]
     },
     {
-      "title": "A Very Merry Breakup",
-      "studio": "Tribeca Films",
-      "talent": "Unknown",
-      "announcement": "Tribeca Films acquires the rom-com as part of a slate acquisition.",
+      "title": "The Days Off",
+      "studio": "Inwave Films",
+      "talent": "Lucila Mariani (director)",
+      "announcement": "Locarno player 'The Days Off,' Lucila Mariani's dreamlike Argentine debut, boarded by Inwave Films.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/tribeca-films-acquires-rachel-dratch-miriam-shor-movies-1236660022/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/locarno-the-days-off-lucila-mariani-inwave-maravillacine-1237823137/"
         }
       ]
     },
     {
-      "title": "Rachel Dratch Film",
-      "studio": "Tribeca Films",
-      "talent": "Rachel Dratch",
-      "announcement": "Tribeca Films acquires film starring Rachel Dratch.",
+      "title": "The End of Tom Six",
+      "studio": "",
+      "talent": "Tom Six (director)",
+      "announcement": "'Human Centipede' creator Tom Six reveals his final film 'The End of Tom Six,' filmed over six years while living in isolation with Multiple Sclerosis.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/tribeca-films-acquires-rachel-dratch-miriam-shor-movies-1236660022/"
-        }
-      ]
-    },
-    {
-      "title": "Miriam Shor Film",
-      "studio": "Tribeca Films",
-      "talent": "Miriam Shor",
-      "announcement": "Tribeca Films acquires film starring Miriam Shor.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/tribeca-films-acquires-rachel-dratch-miriam-shor-movies-1236660022/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/human-centipede-director-tom-six-ms-diagnosis-new-movie-1236824461/"
         }
       ]
     }
   ],
   "tv": [
     {
+      "title": "Wonder Man",
+      "network": "Disney+",
+      "talent": "",
+      "announcement": "Marvel series canceled after 1 season at Disney+ despite previous season 2 renewal.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/wonder-man-canceled-disney-plus-1237013618/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/wonder-man-canceled-disney-season-2-renewal-1236824259/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/wonder-man-canceled-disney-plus-no-season-2-1236660321/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/wonder-man-canceled-despite-season-2-renewal/"
+        }
+      ]
+    },
+    {
+      "title": "Alan Opts Out",
+      "network": "HBO",
+      "talent": "Emily Kapnek, Bill Lawrence (creators)",
+      "announcement": "HBO nabs comedy series 'Alan Opts Out' from creators Emily Kapnek and Bill Lawrence.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/hbo-comedy-alan-opts-out-emily-kapnek-bill-lawrence-1237013424/"
+        }
+      ]
+    },
+    {
       "title": "Memory of a Killer",
-      "network": "Unknown",
-      "talent": "Natalie Zea (Season 2, heavily recurring)",
-      "announcement": "Natalie Zea from 'Fire Country' joins Season 2 in a heavily recurring role.",
+      "network": "",
+      "talent": "Natalie Zea",
+      "announcement": "'Fire Country' star Natalie Zea joins 'Memory of a Killer' season 2 in heavily recurring role.",
       "sources": [
         {
           "name": "Deadline",
@@ -180,7 +236,7 @@
       "title": "Clueless",
       "network": "Paramount+",
       "talent": "Alicia Silverstone",
-      "announcement": "Limited series order announced for 'Clueless' sequel with original star Alicia Silverstone.",
+      "announcement": "'Clueless' sequel series starring Alicia Silverstone ordered as limited series by Paramount+.",
       "sources": [
         {
           "name": "Deadline",
@@ -201,10 +257,26 @@
       ]
     },
     {
+      "title": "Earle Meets World",
+      "network": "Netflix",
+      "talent": "Alix Earle",
+      "announcement": "Netflix unscripted series 'Earle Meets World' featuring influencer Alix Earle set for release with teaser announced.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/earle-meets-world-release-date-trailer-alix-earle-netflix-1237012797/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/alix-earle-netflix-reality-show-earle-meets-world-1236659878/"
+        }
+      ]
+    },
+    {
       "title": "You Are Here",
-      "network": "BBC and Starz",
+      "network": "BBC/Starz",
       "talent": "Claire Foy, Matthew Macfadyen",
-      "announcement": "Claire Foy and Matthew Macfadyen to lead adaptation of David Nicholls' romance novel for BBC and Starz.",
+      "announcement": "Claire Foy and Matthew Macfadyen to lead TV adaptation of David Nicholls romance novel 'You Are Here' for BBC and Starz.",
       "sources": [
         {
           "name": "Deadline",
@@ -222,9 +294,9 @@
     },
     {
       "title": "The Walking Dead",
-      "network": "Netflix (co-exclusive with AMC)",
+      "network": "Netflix/AMC",
       "talent": "",
-      "announcement": "Netflix and AMC Global Media ink $500 million co-exclusive streaming deal for 'The Walking Dead' universe.",
+      "announcement": "Netflix and AMC Global Media ink $500 million co-exclusive streaming deal for 'The Walking Dead' universe content.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -237,49 +309,41 @@
       ]
     },
     {
-      "title": "Earle Meets World",
-      "network": "Netflix",
-      "talent": "Alix Earle",
-      "announcement": "Netflix unscripted series following influencer Alix Earle's life receives teaser and release announcement.",
+      "title": "Vespucci's Book Club",
+      "network": "",
+      "talent": "Rob Delaney, Tim Blake Nelson, John Douglas Thompson",
+      "announcement": "Rob Delaney, Tim Blake Nelson and John Douglas Thompson explore the greats in Vespucci's book club video podcast series.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/07/earle-meets-world-release-date-trailer-alix-earle-netflix-1237012797/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/alix-earle-netflix-reality-show-earle-meets-world-1236659878/"
-        }
-      ]
-    },
-    {
-      "title": "Current",
-      "network": "NBC News Now",
-      "talent": "Christine Romans",
-      "announcement": "Christine Romans' news program 'Current' set to debut August 3 on NBC News Now.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/christine-romans-current-nbc-news-now-launch-1236824257/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/media-platforms/streaming/nbc-news-now-christine-romans-current-streaming/"
+          "url": "https://deadline.com/2026/07/rob-delaney-tim-blake-nelson-exploring-the-greats-podcast-1237013518/"
         }
       ]
     },
     {
       "title": "Sterling Point",
-      "network": "Unknown",
+      "network": "",
       "talent": "Ella Rubin, Amélie Hoeferle",
-      "announcement": "Series features Ella Rubin and Amélie Hoeferle in new footage with exclusive clip released.",
+      "announcement": "Ella Rubin and Amélie Hoeferle debate the importance of being messy in new 'Sterling Point' clip.",
       "sources": [
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/ella-rubin-amelie-hoeferle-sterling-point-exclusive-clip-1236659810/"
         }
       ]
+    },
+    {
+      "title": "Dead Matters",
+      "network": "",
+      "talent": "Josh Berman (creator)",
+      "announcement": "'Drop Dead Diva' creator Josh Berman taps 'CSI' star for his 'Dead Matters' debut novel audiobook.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/tv/josh-berman-dead-matters-debut-novel-audiobook/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-07-30T18:19:30.823Z"
+  "lastUpdated": "2026-07-30T20:04:10.609Z"
 }
