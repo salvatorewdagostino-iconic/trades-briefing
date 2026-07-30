@@ -1,12 +1,36 @@
 {
   "date": "July 30, 2026",
-  "summary": "9 film announcements, 8 TV announcements across 5 trades.",
+  "summary": "11 film announcements, 7 TV announcements across 5 trades.",
   "film": [
+    {
+      "title": "Dinosaurs of the Wild West",
+      "studio": "Unknown",
+      "talent": "George Kittle (acting debut), Martin Kove, Jesse Kove, Rachael Pizzolatto",
+      "announcement": "NFL star George Kittle makes his acting debut in the film from the director of 'Primitive War.'",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/george-kittle-acting-debut-dinosaurs-wild-west-martin-kove-1237013412/"
+        }
+      ]
+    },
+    {
+      "title": "John Leguizamo/Matt Damon Daniels Project",
+      "studio": "Universal",
+      "talent": "John Leguizamo, Matt Damon, Daniels (directors)",
+      "announcement": "John Leguizamo is eyeing a reunion with Matt Damon on a secret Daniels project at Universal.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/john-leguizamo-daniels-movie-matt-damon-odyssey-reunion-1237012847/"
+        }
+      ]
+    },
     {
       "title": "Diamond",
       "studio": "Sony Pictures Classics",
       "talent": "Andy Garcia",
-      "announcement": "Sony Pictures Classics acquired the crime drama that premiered at Cannes 2026.",
+      "announcement": "Sony Pictures Classics acquires the Andy Garcia crime drama that premiered at Cannes.",
       "sources": [
         {
           "name": "Deadline",
@@ -23,18 +47,14 @@
         {
           "name": "IndieWire",
           "url": "https://www.indiewire.com/news/festivals/cannes-2026-movies-sold-so-far-paper-tiger-minotaur-1235191174/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/sony-pictures-classics-acquires-andy-garcia-diamond-cannes/"
         }
       ]
     },
     {
       "title": "Stages",
-      "studio": "A24",
-      "talent": "Sonoya Mizuno, Julie Delpy, Takehiro Hira, Kathryn Hunter, Kate Dickie, Emma D'Arcy",
-      "announcement": "Julie Delpy, Takehiro Hira, Kathryn Hunter, Kate Dickie and Emma D'Arcy joined Sonoya Mizuno's directorial debut with Focus Features handling international distribution.",
+      "studio": "A24 (US), Focus Features (International)",
+      "talent": "Sonoya Mizuno (directorial debut), Julie Delpy, Emma D'Arcy, Takehiro Hira, Kathryn Hunter, Kate Dickie",
+      "announcement": "Multiple acclaimed actors join Sonoya Mizuno's feature directorial debut for A24, with Focus Features handling international distribution.",
       "sources": [
         {
           "name": "Deadline",
@@ -50,7 +70,7 @@
       "title": "Hit Me Hard and Soft",
       "studio": "Paramount+",
       "talent": "Billie Eilish",
-      "announcement": "Billie Eilish's concert film received a Paramount+ streaming release date.",
+      "announcement": "Billie Eilish concert film receives a Paramount+ streaming release date.",
       "sources": [
         {
           "name": "Deadline",
@@ -63,18 +83,26 @@
       ]
     },
     {
+      "title": "Gentle Monster",
+      "studio": "Netflix",
+      "talent": "Léa Seydoux",
+      "announcement": "Netflix sets fall release date for the Cannes breakout film starring Léa Seydoux.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/awards/netflix-gentle-monster-release-date-lea-seydoux-1236822986/"
+        }
+      ]
+    },
+    {
       "title": "The Road Home",
       "studio": "Unknown",
-      "talent": "John Legend (Harry Belafonte), Bill Condon (director)",
-      "announcement": "John Legend cast to play Harry Belafonte in Bill Condon's apartheid-era drama about Hugh Masekela.",
+      "talent": "John Legend (as Harry Belafonte), Bill Condon (director)",
+      "announcement": "John Legend cast to play Harry Belafonte in Bill Condon's apartheid struggle biopic about musician Hugh Masekela.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/07/john-legend-harry-belafonte-apartheid-the-road-home-1237013144/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/john-legend-harry-belafonte-the-road-home-1236823716/"
         },
         {
           "name": "Hollywood Reporter",
@@ -87,34 +115,10 @@
       ]
     },
     {
-      "title": "Gentle Monster",
-      "studio": "Netflix",
-      "talent": "Léa Seydoux",
-      "announcement": "Netflix set a fall 2026 release date for the Cannes breakout film starring Léa Seydoux.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/awards/netflix-gentle-monster-release-date-lea-seydoux-1236822986/"
-        }
-      ]
-    },
-    {
-      "title": "In All My Journeys I Am Returning",
-      "studio": "Lights On",
-      "talent": "",
-      "announcement": "Italy-based Lights On acquired the Colombian film ahead of its Locarno premiere.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/lights-on-colombia-all-my-journeys-i-am-returning-locarno-1236823773/"
-        }
-      ]
-    },
-    {
       "title": "Avedon",
       "studio": "Netflix",
       "talent": "Ron Howard (director/producer)",
-      "announcement": "Netflix acquired Ron Howard's Avedon documentary for 2026 release with awards consideration.",
+      "announcement": "Netflix acquires Ron Howard's documentary for 2026 release with awards push.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -125,8 +129,8 @@
     {
       "title": "A Very Merry Breakup",
       "studio": "Tribeca Films",
-      "talent": "",
-      "announcement": "Tribeca Films acquired the rom-com film.",
+      "talent": "Unknown",
+      "announcement": "Tribeca Films acquires the rom-com as part of a slate acquisition.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -135,10 +139,22 @@
       ]
     },
     {
-      "title": "Untitled Rachel Dratch/Miriam Shor Film",
+      "title": "Rachel Dratch Film",
       "studio": "Tribeca Films",
-      "talent": "Rachel Dratch, Miriam Shor",
-      "announcement": "Tribeca Films acquired a film starring Rachel Dratch and Miriam Shor.",
+      "talent": "Rachel Dratch",
+      "announcement": "Tribeca Films acquires film starring Rachel Dratch.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/tribeca-films-acquires-rachel-dratch-miriam-shor-movies-1236660022/"
+        }
+      ]
+    },
+    {
+      "title": "Miriam Shor Film",
+      "studio": "Tribeca Films",
+      "talent": "Miriam Shor",
+      "announcement": "Tribeca Films acquires film starring Miriam Shor.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -149,10 +165,22 @@
   ],
   "tv": [
     {
+      "title": "Memory of a Killer",
+      "network": "Unknown",
+      "talent": "Natalie Zea (Season 2, heavily recurring)",
+      "announcement": "Natalie Zea from 'Fire Country' joins Season 2 in a heavily recurring role.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/fire-country-natalie-zea-cast-memory-of-a-killer-season-2-1237013473/"
+        }
+      ]
+    },
+    {
       "title": "Clueless",
       "network": "Paramount+",
       "talent": "Alicia Silverstone",
-      "announcement": "Paramount+ ordered a limited series sequel to the 1995 film, starring Alicia Silverstone.",
+      "announcement": "Limited series order announced for 'Clueless' sequel with original star Alicia Silverstone.",
       "sources": [
         {
           "name": "Deadline",
@@ -173,34 +201,14 @@
       ]
     },
     {
-      "title": "Earle Meets World",
-      "network": "Netflix",
-      "talent": "Alix Earle",
-      "announcement": "Netflix released a teaser for the unscripted series following influencer Alix Earle's life.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/earle-meets-world-release-date-trailer-alix-earle-netflix-1237012797/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/alix-earle-netflix-reality-show-earle-meets-world-1236659878/"
-        }
-      ]
-    },
-    {
       "title": "You Are Here",
-      "network": "BBC / Starz",
+      "network": "BBC and Starz",
       "talent": "Claire Foy, Matthew Macfadyen",
-      "announcement": "Claire Foy and Matthew Macfadyen were cast to lead the adaptation of David Nicholls' novel for BBC and Starz.",
+      "announcement": "Claire Foy and Matthew Macfadyen to lead adaptation of David Nicholls' romance novel for BBC and Starz.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/07/claire-foy-matthew-macfadyen-you-are-here-bbc-starz-1237012969/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/matthew-macfadyen-claire-foy-you-are-here-1236824257/"
         },
         {
           "name": "Hollywood Reporter",
@@ -213,47 +221,11 @@
       ]
     },
     {
-      "title": "This Is Birmingham",
-      "network": "Prime Video",
-      "talent": "",
-      "announcement": "A TV series adaptation is in development based on the Prime Video UK hit.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/this-is-birmingham-tv-series-adaptation-prime-video-uk-1237012985/"
-        }
-      ]
-    },
-    {
-      "title": "Current",
-      "network": "NBC News Now",
-      "talent": "Christine Romans",
-      "announcement": "Christine Romans' news show set its debut date for August 3 on NBC News Now.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/christine-romans-nbc-news-now-debut-1237013256/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/christine-romans-current-nbc-news-now-launch-1236824257/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/media-platforms/streaming/nbc-news-now-christine-romans-current-streaming/"
-        }
-      ]
-    },
-    {
       "title": "The Walking Dead",
-      "network": "Netflix / AMC Global Media",
+      "network": "Netflix (co-exclusive with AMC)",
       "talent": "",
-      "announcement": "Netflix and AMC Global Media inked a 5-year, $500 million co-exclusive streaming deal for The Walking Dead franchise.",
+      "announcement": "Netflix and AMC Global Media ink $500 million co-exclusive streaming deal for 'The Walking Dead' universe.",
       "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/the-walking-dead-renewed-netflix-amc-global-media-1237013114/"
-        },
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-walking-dead-streaming-deal-amc-global-media-1236659933/"
@@ -265,14 +237,34 @@
       ]
     },
     {
-      "title": "House of Fates",
-      "network": "Disney+",
-      "talent": "",
-      "announcement": "Disney+ greenlit a spinoff series of the hit Korean fortune-telling series Battle of Fates.",
+      "title": "Earle Meets World",
+      "network": "Netflix",
+      "talent": "Alix Earle",
+      "announcement": "Netflix unscripted series following influencer Alix Earle's life receives teaser and release announcement.",
       "sources": [
         {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/earle-meets-world-release-date-trailer-alix-earle-netflix-1237012797/"
+        },
+        {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/disney-greenlights-house-of-fates-spinoff-korean-battle-of-fates-1236659761/"
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/alix-earle-netflix-reality-show-earle-meets-world-1236659878/"
+        }
+      ]
+    },
+    {
+      "title": "Current",
+      "network": "NBC News Now",
+      "talent": "Christine Romans",
+      "announcement": "Christine Romans' news program 'Current' set to debut August 3 on NBC News Now.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/christine-romans-current-nbc-news-now-launch-1236824257/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/streaming/nbc-news-now-christine-romans-current-streaming/"
         }
       ]
     },
@@ -280,7 +272,7 @@
       "title": "Sterling Point",
       "network": "Unknown",
       "talent": "Ella Rubin, Amélie Hoeferle",
-      "announcement": "Ella Rubin and Amélie Hoeferle appear in a new clip from the series.",
+      "announcement": "Series features Ella Rubin and Amélie Hoeferle in new footage with exclusive clip released.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -289,5 +281,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-30T16:38:51.024Z"
+  "lastUpdated": "2026-07-30T18:19:30.823Z"
 }
