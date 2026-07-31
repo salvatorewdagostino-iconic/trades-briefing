@@ -1,20 +1,7 @@
 {
   "date": "July 31, 2026",
-  "summary": "1 film announcement, 0 TV announcements across the trades.",
-  "film": [
-    {
-      "title": "Spider-Man: Brand New Day",
-      "studio": "Marvel",
-      "talent": "Sadie Sink",
-      "announcement": "Sadie Sink cast in the film, with her role setting up Marvel's next reboot.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/sadie-sink-jean-grey-spider-man-brand-new-day-x-men-1236816949/"
-        }
-      ]
-    }
-  ],
+  "summary": "0 film announcements, 0 TV announcements across 5 trades.",
+  "film": [],
   "tv": [],
-  "lastUpdated": "2026-07-31T02:54:26.533Z"
+  "lastUpdated": "2026-07-31T06:15:15.870Z"
 }
