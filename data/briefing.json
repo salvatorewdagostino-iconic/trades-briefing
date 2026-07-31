@@ -1,12 +1,24 @@
 {
   "date": "July 31, 2026",
-  "summary": "8 film announcements, 7 TV announcements across 5 trades.",
+  "summary": "12 film announcements, 8 TV announcements across 5 trades.",
   "film": [
+    {
+      "title": "Practical Magic 2",
+      "studio": "Warner Bros.",
+      "talent": "Joey King, Maisie Williams",
+      "announcement": "Joey King and Maisie Williams join the sequel, with both actresses discussing the 'massive responsibility' of joining the franchise.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/joey-king-maisie-williams-responsibility-practical-magic-2-1237014908/"
+        }
+      ]
+    },
     {
       "title": "The Catch",
       "studio": "Universal",
       "talent": "Chris Fleming, Irina Shayk",
-      "announcement": "Chris Fleming and Irina Shayk join the Universal rom-com in starring roles.",
+      "announcement": "Chris Fleming and Irina Shayk join the universal rom-com.",
       "sources": [
         {
           "name": "Deadline",
@@ -17,8 +29,8 @@
     {
       "title": "Sweet Spot",
       "studio": "Paramount Primal",
-      "talent": "Nic Curcio, Kirby Gladstein (writers)",
-      "announcement": "Paramount Primal acquires the high-concept thriller spec script written by Nic Curcio and Kirby Gladstein.",
+      "talent": "",
+      "announcement": "Paramount Primal acquires the high-concept erotic thriller spec script written by Nic Curcio and Kirby Gladstein.",
       "sources": [
         {
           "name": "Deadline",
@@ -34,7 +46,7 @@
       "title": "X-Men",
       "studio": "Marvel Studios",
       "talent": "Samara Weaving (Emma Frost)",
-      "announcement": "Samara Weaving lands the role of Emma Frost in the upcoming Marvel Studios X-Men film.",
+      "announcement": "Samara Weaving lands the role of Emma Frost in the upcoming Marvel Studios X-Men reboot.",
       "sources": [
         {
           "name": "Deadline",
@@ -51,22 +63,10 @@
       ]
     },
     {
-      "title": "Learning to Fly",
-      "studio": "",
-      "talent": "Chris Hemsworth (Wild State), Max Lowe (director)",
-      "announcement": "Chris Hemsworth's Wild State production company boards the ultra marathon-themed documentary directed by award-winning filmmaker Max Lowe.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/learning-to-fly-documentary-wild-state-1237014393/"
-        }
-      ]
-    },
-    {
       "title": "Lizard Music",
       "studio": "",
-      "talent": "Dwayne Johnson, Arya Parvathi, Benny Safdie (director)",
-      "announcement": "Newcomer Arya Parvathi is cast in the Benny Safdie-directed film starring Dwayne Johnson.",
+      "talent": "Dwayne Johnson, Arya Parvathi",
+      "announcement": "Newcomer Arya Parvathi joins Dwayne Johnson in Benny Safdie's Lizard Music.",
       "sources": [
         {
           "name": "Variety",
@@ -77,12 +77,16 @@
     {
       "title": "Desperation",
       "studio": "",
-      "talent": "Sam Raimi (director), Final Destination writers",
-      "announcement": "A Stephen King movie adaptation of 'Desperation' is in the works from Sam Raimi and the Final Destination writing duo.",
+      "talent": "",
+      "announcement": "A Stephen King adaptation of Desperation is in development from Final Destination directors and producer Sam Raimi.",
       "sources": [
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/stephen-king-movie-desperation-in-the-works-sam-raimi-1236495430/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/stephen-kings-desperation-movie-in-the-works-from-final-destination-directors-producer-sam-raimi/"
         }
       ]
     },
@@ -90,7 +94,7 @@
       "title": "Lockjaw",
       "studio": "Magenta Light Studios",
       "talent": "",
-      "announcement": "Bob Yari's Magenta Light Studios acquires the dark comedy 'Lockjaw'.",
+      "announcement": "Bob Yari's Magenta Light Studios acquires the dark comedy Lockjaw.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -99,14 +103,50 @@
       ]
     },
     {
-      "title": "Beach Read",
+      "title": "Action Man",
+      "studio": "Hasbro, Working Title",
+      "talent": "",
+      "announcement": "Hasbro and Working Title are developing a movie adaptation of the iconic British toy Action Man.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/action-man-movie-in-the-works-from-hasbro-working-title-1236660406/"
+        }
+      ]
+    },
+    {
+      "title": "Learning to Fly",
       "studio": "",
       "talent": "",
-      "announcement": "Film adaptation of Emily Henry's novel 'Beach Read' is in development.",
+      "announcement": "Chris Hemsworth's Wild State production company boards the ultra marathon-themed documentary from director Max Lowe.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/feature/beach-read-movie-news-updates-emily-henry-adaptation-1236860578/"
+          "url": "https://deadline.com/2026/07/learning-to-fly-documentary-wild-state-1237014393/"
+        }
+      ]
+    },
+    {
+      "title": "I Want Your Sex",
+      "studio": "",
+      "talent": "Olivia Wilde, Cooper Hoffman",
+      "announcement": "Specialty film opens in competition with Spider-Man: Brand New Day; stars discuss preparation techniques for intimate scenes.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/indie-films-opening-i-want-your-sex-olivia-wilde-cooper-hoffman-1237014707/"
+        }
+      ]
+    },
+    {
+      "title": "Spider-Man: Brand New Day",
+      "studio": "Sony/Marvel",
+      "talent": "Tom Holland, Jon Bernthal, Sadie Sink",
+      "announcement": "Film achieves record first-day box office performance and features Sadie Sink as Jean Grey in X-Men crossover elements.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/box-office-spider-man-brand-new-day-1237014268/"
         }
       ]
     }
@@ -115,8 +155,8 @@
     {
       "title": "Booster Gold",
       "network": "HBO/DC",
-      "talent": "David Jenkins (writer)",
-      "announcement": "The DC and HBO series 'Booster Gold' won't be moving forward, according to writer David Jenkins.",
+      "talent": "",
+      "announcement": "DC and HBO's Booster Gold series will not be moving forward, according to writer David Jenkins; the project is being revamped with a new creative team.",
       "sources": [
         {
           "name": "Deadline",
@@ -129,14 +169,42 @@
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/dc-booster-gold-canceled-hbo-1236660991/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/booster-gold-series-not-moving-forward-at-dc/"
         }
       ]
     },
     {
-      "title": "Better Than The Movies",
+      "title": "Last Week Tonight",
+      "network": "HBO",
+      "talent": "John Oliver",
+      "announcement": "John Oliver renews his HBO deal for one year, extending Last Week Tonight through 2027.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/john-oliver-renews-hbo-deal-one-year-1237014868/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/john-oliver-hbo-contract-last-week-tonight-through-2027-1236825361/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/john-oliver-staying-at-last-week-tonight-through-2027-1236660879/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/john-oliver-extends-hbo-deal-2027/"
+        }
+      ]
+    },
+    {
+      "title": "Better Than the Movies",
       "network": "Netflix",
-      "talent": "Beatrice Kitsos, David Iacono (leads)",
-      "announcement": "Beatrice Kitsos and David Iacono land lead roles in Netflix's YA rom-com 'Better Than The Movies'.",
+      "talent": "Beatrice Kitsos, David Iacono",
+      "announcement": "Beatrice Kitsos and David Iacono land lead roles in Netflix's YA rom-com adaptation.",
       "sources": [
         {
           "name": "Deadline",
@@ -148,7 +216,7 @@
       "title": "The Secret of Secrets",
       "network": "Netflix",
       "talent": "Rebecca Hall",
-      "announcement": "Rebecca Hall officially joins the Netflix series based on Dan Brown novel 'The Secret of Secrets'.",
+      "announcement": "Rebecca Hall officially joins the Netflix series based on Dan Brown novel The Secret of Secrets.",
       "sources": [
         {
           "name": "Deadline",
@@ -159,8 +227,8 @@
     {
       "title": "The Leftovers",
       "network": "Netflix",
-      "talent": "SallyAnn Salsano (creator/producer)",
-      "announcement": "SallyAnn Salsano returns to New Jersey with reality series 'The Leftovers' for Netflix.",
+      "talent": "",
+      "announcement": "SallyAnn Salsano returns to New Jersey with the reality series The Leftovers for Netflix.",
       "sources": [
         {
           "name": "Deadline",
@@ -171,8 +239,8 @@
     {
       "title": "Harlem Trilogy",
       "network": "Apple TV+",
-      "talent": "Colson Whitehead (author)",
-      "announcement": "Colson Whitehead's 'Harlem' Trilogy is being adapted into a TV series in development at Apple TV+.",
+      "talent": "",
+      "announcement": "Colson Whitehead's Harlem trilogy is being adapted into a TV series in development at Apple.",
       "sources": [
         {
           "name": "Variety",
@@ -187,8 +255,8 @@
     {
       "title": "Trial of Louise Woodward",
       "network": "HBO",
-      "talent": "Meghann Fahy (lead), Matthew Barry (writer), Susanne Bier (director)",
-      "announcement": "Meghann Fahy to lead HBO limited series 'Trial of Louise Woodward' from Matthew Barry and Susanne Bier.",
+      "talent": "Meghann Fahy",
+      "announcement": "Meghann Fahy to lead HBO limited series Trial of Louise Woodward from Matthew Barry and director Susanne Bier.",
       "sources": [
         {
           "name": "Variety",
@@ -200,7 +268,7 @@
       "title": "Chicago Fire",
       "network": "NBC",
       "talent": "Dermot Mulroney",
-      "announcement": "Dermot Mulroney to exit 'Chicago Fire' early in Season 15.",
+      "announcement": "Dermot Mulroney exits Chicago Fire early in season 15.",
       "sources": [
         {
           "name": "Deadline",
@@ -217,5 +285,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-31T20:03:30.680Z"
+  "lastUpdated": "2026-07-31T21:40:15.732Z"
 }
