@@ -1,7 +1,105 @@
 {
   "date": "July 31, 2026",
-  "summary": "0 film announcements, 0 TV announcements across 5 trades.",
-  "film": [],
-  "tv": [],
-  "lastUpdated": "2026-07-31T06:15:15.870Z"
+  "summary": "3 film announcements, 5 TV announcements across 5 trades.",
+  "film": [
+    {
+      "title": "X-Men",
+      "studio": "Marvel Studios",
+      "talent": "Samara Weaving (Emma Frost), Jake Schreier (director)",
+      "announcement": "Samara Weaving lands the role of Emma Frost in the upcoming Marvel Studios X-Men film directed by Jake Schreier.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/x-men-samara-weaving-emma-frost-marvel-studios-1237013568/"
+        }
+      ]
+    },
+    {
+      "title": "Learning to Fly",
+      "studio": "Wild State",
+      "talent": "Chris Hemsworth (producer), Max Lowe (director)",
+      "announcement": "Chris Hemsworth's Wild State production company boards the ultra marathon-themed documentary from award-winning director Max Lowe.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/learning-to-fly-documentary-wild-state-1237014393/"
+        }
+      ]
+    },
+    {
+      "title": "Lockjaw",
+      "studio": "Magenta Light Studios",
+      "talent": "",
+      "announcement": "Bob Yari's Magenta Light Studios acquires the dark comedy film Lockjaw.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/bob-yaris-magenta-light-studios-lockjaw-comedy-1236660791/"
+        }
+      ]
+    }
+  ],
+  "tv": [
+    {
+      "title": "Better Than The Movies",
+      "network": "Netflix",
+      "talent": "Beatrice Kitsos, David Iacono (leads)",
+      "announcement": "Beatrice Kitsos and David Iacono land the lead roles in Netflix's YA rom-com adaptation of Better Than The Movies.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/better-than-the-movies-cast-beatrice-kitsos-david-iacono-1237014125/"
+        }
+      ]
+    },
+    {
+      "title": "The Secret of Secrets",
+      "network": "Netflix",
+      "talent": "Rebecca Hall",
+      "announcement": "Rebecca Hall officially joins the Netflix series based on Dan Brown's novel The Secret of Secrets.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/rebecca-hall-cast-netflix-dan-brown-the-secret-of-secrets-1237014293/"
+        }
+      ]
+    },
+    {
+      "title": "Trial of Louise Woodward",
+      "network": "HBO",
+      "talent": "Meghann Fahy (lead), Matthew Barry (creator), Susanne Bier (director)",
+      "announcement": "Meghann Fahy is set to lead the HBO limited series Trial of Louise Woodward from creator Matthew Barry and director Susanne Bier.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/meghann-fahy-hbo-trial-of-louise-woodward-1236825146/"
+        }
+      ]
+    },
+    {
+      "title": "Crystal Lake",
+      "network": "HBO Max",
+      "talent": "",
+      "announcement": "HBO Max picks up the Friday the 13th prequel series Crystal Lake for distribution across Europe.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/hbo-max-takes-horror-series-crystal-lake-for-europe-1236660755/"
+        }
+      ]
+    },
+    {
+      "title": "The Leftovers",
+      "network": "Netflix",
+      "talent": "SallyAnn Salsano (creator/producer)",
+      "announcement": "SallyAnn Salsano returns to New Jersey with the reality series The Leftovers for Netflix.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/sallyann-salsano-new-jersey-the-leftovers-netflix-1237014265/"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-07-31T16:48:04.574Z"
 }
