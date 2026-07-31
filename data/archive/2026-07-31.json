@@ -1,28 +1,36 @@
 {
   "date": "July 31, 2026",
-  "summary": "3 film announcements, 5 TV announcements across 5 trades.",
+  "summary": "4 film announcements, 5 TV announcements across 5 trades.",
   "film": [
     {
       "title": "X-Men",
       "studio": "Marvel Studios",
-      "talent": "Samara Weaving (Emma Frost), Jake Schreier (director)",
-      "announcement": "Samara Weaving lands the role of Emma Frost in the upcoming Marvel Studios X-Men film directed by Jake Schreier.",
+      "talent": "Samara Weaving as Emma Frost",
+      "announcement": "Samara Weaving cast as Emma Frost in Marvel Studios' upcoming X-Men reboot.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/07/x-men-samara-weaving-emma-frost-marvel-studios-1237013568/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/samara-weaving-emma-frost-x-men-reboot-marvel-1236825209/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/samara-weaving-x-men-reboot-emma-frost/"
         }
       ]
     },
     {
-      "title": "Learning to Fly",
-      "studio": "Wild State",
-      "talent": "Chris Hemsworth (producer), Max Lowe (director)",
-      "announcement": "Chris Hemsworth's Wild State production company boards the ultra marathon-themed documentary from award-winning director Max Lowe.",
+      "title": "Lizard Music",
+      "studio": "",
+      "talent": "Dwayne Johnson, Arya Parvathi",
+      "announcement": "Newcomer Arya Parvathi joins Dwayne Johnson in Benny Safdie's Lizard Music.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/07/learning-to-fly-documentary-wild-state-1237014393/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/benny-safdie-lizard-music-casts-arya-parvathi-1236825121/"
         }
       ]
     },
@@ -30,11 +38,23 @@
       "title": "Lockjaw",
       "studio": "Magenta Light Studios",
       "talent": "",
-      "announcement": "Bob Yari's Magenta Light Studios acquires the dark comedy film Lockjaw.",
+      "announcement": "Bob Yari's Magenta Light Studios boards the dark comedy Lockjaw.",
       "sources": [
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/bob-yaris-magenta-light-studios-lockjaw-comedy-1236660791/"
+        }
+      ]
+    },
+    {
+      "title": "Learning to Fly",
+      "studio": "",
+      "talent": "",
+      "announcement": "Chris Hemsworth's Wild State boards the ultra marathon-themed documentary from director Max Lowe.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/07/learning-to-fly-documentary-wild-state-1237014393/"
         }
       ]
     }
@@ -43,8 +63,8 @@
     {
       "title": "Better Than The Movies",
       "network": "Netflix",
-      "talent": "Beatrice Kitsos, David Iacono (leads)",
-      "announcement": "Beatrice Kitsos and David Iacono land the lead roles in Netflix's YA rom-com adaptation of Better Than The Movies.",
+      "talent": "Beatrice Kitsos, David Iacono",
+      "announcement": "Beatrice Kitsos and David Iacono land lead roles in Netflix's YA rom-com Better Than The Movies.",
       "sources": [
         {
           "name": "Deadline",
@@ -56,7 +76,7 @@
       "title": "The Secret of Secrets",
       "network": "Netflix",
       "talent": "Rebecca Hall",
-      "announcement": "Rebecca Hall officially joins the Netflix series based on Dan Brown's novel The Secret of Secrets.",
+      "announcement": "Rebecca Hall officially joins Netflix series based on Dan Brown novel The Secret of Secrets.",
       "sources": [
         {
           "name": "Deadline",
@@ -65,41 +85,41 @@
       ]
     },
     {
-      "title": "Trial of Louise Woodward",
-      "network": "HBO",
-      "talent": "Meghann Fahy (lead), Matthew Barry (creator), Susanne Bier (director)",
-      "announcement": "Meghann Fahy is set to lead the HBO limited series Trial of Louise Woodward from creator Matthew Barry and director Susanne Bier.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/meghann-fahy-hbo-trial-of-louise-woodward-1236825146/"
-        }
-      ]
-    },
-    {
-      "title": "Crystal Lake",
-      "network": "HBO Max",
-      "talent": "",
-      "announcement": "HBO Max picks up the Friday the 13th prequel series Crystal Lake for distribution across Europe.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/hbo-max-takes-horror-series-crystal-lake-for-europe-1236660755/"
-        }
-      ]
-    },
-    {
       "title": "The Leftovers",
       "network": "Netflix",
-      "talent": "SallyAnn Salsano (creator/producer)",
-      "announcement": "SallyAnn Salsano returns to New Jersey with the reality series The Leftovers for Netflix.",
+      "talent": "SallyAnn Salsano",
+      "announcement": "SallyAnn Salsano returns to New Jersey with reality series The Leftovers for Netflix.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/07/sallyann-salsano-new-jersey-the-leftovers-netflix-1237014265/"
         }
       ]
+    },
+    {
+      "title": "Harlem",
+      "network": "Apple TV+",
+      "talent": "Colson Whitehead",
+      "announcement": "Colson Whitehead's Harlem trilogy TV show in development at Apple.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/colson-whitehead-harlem-trilogy-tv-show-apple-1236824605/"
+        }
+      ]
+    },
+    {
+      "title": "Trial of Louise Woodward",
+      "network": "HBO",
+      "talent": "Meghann Fahy",
+      "announcement": "Meghann Fahy to lead HBO limited series Trial of Louise Woodward from Matthew Barry and Susanne Bier.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/meghann-fahy-hbo-trial-of-louise-woodward-1236825146/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-07-31T16:48:04.574Z"
+  "lastUpdated": "2026-07-31T18:23:04.006Z"
 }
