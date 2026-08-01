@@ -1,6 +1,6 @@
 {
   "date": "August 1, 2026",
-  "summary": "3 film announcements, 2 TV announcements across 5 trades.",
+  "summary": "2 film announcements, 2 TV announcements across 5 trades.",
   "film": [
     {
       "title": "The Inbetweeners Reunion Movie",
@@ -18,23 +18,11 @@
       "title": "VJ Frames Launch Title",
       "studio": "VJ Frames",
       "talent": "Tiger Shroff, Abhishek Banerjee, Elvish Yadav; Director: Remo D'Souza",
-      "announcement": "Tiger Shroff to star in Viccky Jain's VJ Frames launch title directed by Remo D'Souza with Abhishek Banerjee and Elvish Yadav also set.",
+      "announcement": "Tiger Shroff is set to star in VJ Frames' launch title directed by Remo D'Souza, with Abhishek Banerjee and Elvish Yadav also attached.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/film/news/tiger-shroff-viccky-jain-vj-frames-1236825325/"
-        }
-      ]
-    },
-    {
-      "title": "Barbie Sequel",
-      "studio": "Warner Bros.",
-      "talent": "Margot Robbie, Ryan Gosling; Director: Greta Gerwig",
-      "announcement": "Barbie sequel stalled as Warner Bros. attempts to reach deals with director Greta Gerwig, Margot Robbie, and Ryan Gosling.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/barbie-sequel-stalls-margot-robbie-ryan-gosling-warner-bros-1236661307/"
         }
       ]
     }
@@ -44,7 +32,7 @@
       "title": "Lioness",
       "network": "Paramount+",
       "talent": "Taylor Sheridan",
-      "announcement": "Taylor Sheridan is returning for an on-camera role in Lioness Season 3.",
+      "announcement": "Taylor Sheridan is returning for an on-camera role in Season 3.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -53,10 +41,10 @@
       ]
     },
     {
-      "title": "New Girl Revival",
-      "network": "",
+      "title": "New Girl",
+      "network": "TBA",
       "talent": "Max Greenfield",
-      "announcement": "Max Greenfield reveals he has seen scripts for a New Girl revival and states that as far as he knows, it's happening.",
+      "announcement": "Max Greenfield reveals he has seen scripts for a revival and states that as far as he knows, it is happening.",
       "sources": [
         {
           "name": "TheWrap",
@@ -65,5 +53,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-01T16:03:48.649Z"
+  "lastUpdated": "2026-08-01T17:32:20.338Z"
 }
