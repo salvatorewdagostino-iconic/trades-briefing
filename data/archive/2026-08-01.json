@@ -1,17 +1,30 @@
 {
   "date": "August 1, 2026",
-  "summary": "0 film announcements, 2 TV announcements across 4 trades.",
-  "film": [],
+  "summary": "1 film announcement, 2 TV announcements across 5 trades.",
+  "film": [
+    {
+      "title": "VJ Frames Launch Title",
+      "studio": "VJ Frames",
+      "talent": "Tiger Shroff, Abhishek Banerjee, Elvish Yadav; Directed by Remo D'Souza",
+      "announcement": "Tiger Shroff to star in Viccky Jain's VJ Frames production launch title directed by Remo D'Souza, with Abhishek Banerjee and Elvish Yadav also set.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/tiger-shroff-viccky-jain-vj-frames-1236825325/"
+        }
+      ]
+    }
+  ],
   "tv": [
     {
       "title": "Lioness",
       "network": "Paramount+",
-      "talent": "Taylor Sheridan (on-camera role)",
-      "announcement": "Taylor Sheridan is returning for an on-camera role in Season 3 of the series.",
+      "talent": "Taylor Sheridan",
+      "announcement": "Taylor Sheridan returning for an on-camera role in Season 3.",
       "sources": [
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/taylor-sheridan-on-camera-role-lioness-season-3-1236661181"
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/taylor-sheridan-on-camera-role-lioness-season-3-1236661181/"
         }
       ]
     },
@@ -19,7 +32,7 @@
       "title": "New Girl",
       "network": "Unknown",
       "talent": "Max Greenfield",
-      "announcement": "Star Max Greenfield confirms he has seen scripts for a revival and states the project is happening.",
+      "announcement": "Max Greenfield indicates revival is in development with scripts being circulated.",
       "sources": [
         {
           "name": "TheWrap",
@@ -28,5 +41,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-01T02:53:37.672Z"
+  "lastUpdated": "2026-08-01T05:56:19.378Z"
 }
