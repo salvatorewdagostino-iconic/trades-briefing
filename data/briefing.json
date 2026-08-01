@@ -1,12 +1,12 @@
 {
   "date": "August 1, 2026",
-  "summary": "2 film announcements, 2 TV announcements across 5 trades.",
+  "summary": "3 film announcements, 2 TV announcements across 5 trades.",
   "film": [
     {
       "title": "The Inbetweeners Reunion Movie",
       "studio": "Netflix",
-      "talent": "Original lead cast",
-      "announcement": "Netflix is developing a reunion movie with the original cast returning.",
+      "talent": "Original lead cast to return",
+      "announcement": "Netflix is developing a reunion movie for The Inbetweeners with the original lead cast set to return.",
       "sources": [
         {
           "name": "Variety",
@@ -15,7 +15,7 @@
       ]
     },
     {
-      "title": "VJ Frames Launch Title",
+      "title": "Untitled Tiger Shroff Project",
       "studio": "VJ Frames",
       "talent": "Tiger Shroff, Abhishek Banerjee, Elvish Yadav; directed by Remo D'Souza",
       "announcement": "Tiger Shroff to star in Viccky Jain's VJ Frames launch title directed by Remo D'Souza, with Abhishek Banerjee and Elvish Yadav also set.",
@@ -25,12 +25,28 @@
           "url": "https://variety.com/2026/film/news/tiger-shroff-viccky-jain-vj-frames-1236825325/"
         }
       ]
+    },
+    {
+      "title": "Barbie 2",
+      "studio": "Warner Bros.",
+      "talent": "Margot Robbie, Ryan Gosling; director Greta Gerwig",
+      "announcement": "The Barbie sequel has stalled as Warner Bros. CEO David Zaslav attempts to reach deals with director Greta Gerwig and stars Margot Robbie and Ryan Gosling over compensation.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/barbie-2-margot-robbie-ryan-gosling-david-zaslav-1236825405/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/barbie-sequel-stalls-margot-robbie-ryan-gosling-warner-bros-1236661307/"
+        }
+      ]
     }
   ],
   "tv": [
     {
       "title": "Lioness",
-      "network": "Paramount",
+      "network": "Paramount+",
       "talent": "Taylor Sheridan",
       "announcement": "Taylor Sheridan is returning for an on-camera role in Lioness Season 3.",
       "sources": [
@@ -42,9 +58,9 @@
     },
     {
       "title": "New Girl",
-      "network": "TBD",
-      "talent": "Max Greenfield",
-      "announcement": "Max Greenfield confirms he has seen scripts for a New Girl revival and states it is happening.",
+      "network": "To be determined",
+      "talent": "Max Greenfield and cast",
+      "announcement": "Max Greenfield reveals he has seen scripts for a New Girl revival and states that as far as he knows, it is happening.",
       "sources": [
         {
           "name": "TheWrap",
@@ -53,5 +69,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-01T20:27:07.892Z"
+  "lastUpdated": "2026-08-01T21:27:18.922Z"
 }
