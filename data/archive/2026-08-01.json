@@ -1,12 +1,12 @@
 {
   "date": "August 1, 2026",
-  "summary": "3 film announcements, 2 TV announcements across 5 trades.",
+  "summary": "3 film announcements, 3 TV announcements across 5 trades.",
   "film": [
     {
       "title": "The Inbetweeners Reunion Movie",
       "studio": "Netflix",
-      "talent": "Original lead cast to return",
-      "announcement": "Netflix is developing a reunion movie for The Inbetweeners with the original lead cast set to return.",
+      "talent": "Original lead cast",
+      "announcement": "Netflix is developing a reunion movie with the original cast set to return.",
       "sources": [
         {
           "name": "Variety",
@@ -15,10 +15,10 @@
       ]
     },
     {
-      "title": "Untitled Tiger Shroff Project",
+      "title": "Untitled VJ Frames Launch Title",
       "studio": "VJ Frames",
-      "talent": "Tiger Shroff, Abhishek Banerjee, Elvish Yadav; directed by Remo D'Souza",
-      "announcement": "Tiger Shroff to star in Viccky Jain's VJ Frames launch title directed by Remo D'Souza, with Abhishek Banerjee and Elvish Yadav also set.",
+      "talent": "Tiger Shroff, Abhishek Banerjee, Elvish Yadav; Director: Remo D'Souza",
+      "announcement": "Tiger Shroff set to star in Viccky Jain's VJ Frames launch title directed by Remo D'Souza.",
       "sources": [
         {
           "name": "Variety",
@@ -27,10 +27,10 @@
       ]
     },
     {
-      "title": "Barbie 2",
+      "title": "Barbie Sequel",
       "studio": "Warner Bros.",
-      "talent": "Margot Robbie, Ryan Gosling; director Greta Gerwig",
-      "announcement": "The Barbie sequel has stalled as Warner Bros. CEO David Zaslav attempts to reach deals with director Greta Gerwig and stars Margot Robbie and Ryan Gosling over compensation.",
+      "talent": "Margot Robbie, Ryan Gosling, Greta Gerwig",
+      "announcement": "Sequel stalled as Warner Bros. negotiates salary deals with Greta Gerwig, Margot Robbie, and Ryan Gosling.",
       "sources": [
         {
           "name": "Variety",
@@ -45,10 +45,22 @@
   ],
   "tv": [
     {
-      "title": "Lioness",
+      "title": "It: Welcome to Derry - Season 2",
+      "network": "HBO/Max",
+      "talent": "",
+      "announcement": "Creator confirms Season 2 will tackle the 'horrible' cultural themes of the 1930s as the heart of the story.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/it-welcome-to-derry-season-2-update-cultural-themes-1930s-1236825738/"
+        }
+      ]
+    },
+    {
+      "title": "Lioness - Season 3",
       "network": "Paramount+",
       "talent": "Taylor Sheridan",
-      "announcement": "Taylor Sheridan is returning for an on-camera role in Lioness Season 3.",
+      "announcement": "Taylor Sheridan to return for an on-camera role in Season 3.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -57,10 +69,10 @@
       ]
     },
     {
-      "title": "New Girl",
-      "network": "To be determined",
-      "talent": "Max Greenfield and cast",
-      "announcement": "Max Greenfield reveals he has seen scripts for a New Girl revival and states that as far as he knows, it is happening.",
+      "title": "New Girl Revival",
+      "network": "TBA",
+      "talent": "Max Greenfield",
+      "announcement": "Max Greenfield says he has seen scripts for a revival and believes it is happening.",
       "sources": [
         {
           "name": "TheWrap",
@@ -69,5 +81,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-01T21:27:18.922Z"
+  "lastUpdated": "2026-08-01T22:29:48.618Z"
 }
