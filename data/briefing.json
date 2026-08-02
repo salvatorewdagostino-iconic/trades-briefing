@@ -1,13 +1,13 @@
 {
   "date": "August 2, 2026",
-  "summary": "0 film announcements, 1 TV announcement across 3 trades.",
+  "summary": "0 film announcements, 1 TV announcement across 5 trades.",
   "film": [],
   "tv": [
     {
       "title": "Wonder Man",
       "network": "Marvel/Disney+",
       "talent": "Yahya Abdul-Mateen II",
-      "announcement": "Marvel series has been cancelled. Star Yahya Abdul-Mateen II reacted to the cancellation on social media.",
+      "announcement": "Marvel series has been cancelled.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -16,5 +16,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-02T02:52:25.624Z"
+  "lastUpdated": "2026-08-02T06:02:22.969Z"
 }
