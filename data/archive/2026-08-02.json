@@ -1,7 +1,20 @@
 {
   "date": "August 2, 2026",
-  "summary": "0 film announcements, 0 TV announcements across 5 trades.",
+  "summary": "0 film announcements, 1 TV announcement across 5 trades.",
   "film": [],
-  "tv": [],
-  "lastUpdated": "2026-08-02T16:02:50.842Z"
+  "tv": [
+    {
+      "title": "Gabby Dollhouse",
+      "network": "Netflix",
+      "talent": "Doozie cast as Gabby's Little Sister",
+      "announcement": "Netflix series Gabby Dollhouse casts Doozie in the role of Gabby's little sister.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/gabby-dollhouse-casts-gabby-sister-doozie-netflix-1236661729/"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-08-02T17:33:32.985Z"
 }
