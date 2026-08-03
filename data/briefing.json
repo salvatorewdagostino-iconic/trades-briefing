@@ -1,20 +1,281 @@
 {
   "date": "August 3, 2026",
-  "summary": "1 film announcement, 0 TV announcements across trades.",
+  "summary": "10 film announcements, 9 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Bobby Beauty Parlour",
+      "title": "Runaway Wedding",
+      "studio": "Working Title",
+      "talent": "Stephanie Laing (director)",
+      "announcement": "Stephanie Laing to direct rom-com for Working Title Films.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/runaway-wedding-working-title-rom-com-stephanie-laing-1237015930/"
+        }
+      ]
+    },
+    {
+      "title": "Bulldogs",
       "studio": "",
-      "talent": "Imtiaz Ali, Anurag Kashyap",
-      "announcement": "Directors Imtiaz Ali and Anurag Kashyap team to present coming-of-age film Bobby Beauty Parlour.",
+      "talent": "Josh Henderson",
+      "announcement": "Cold case thriller begins filming in Los Angeles with Josh Henderson in lead role.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/first-look-josh-henderson-bulldogs-filming-la-1237015693/"
+        }
+      ]
+    },
+    {
+      "title": "Supermax",
+      "studio": "",
+      "talent": "Will Smith, Jaafar Jackson",
+      "announcement": "Jaafar Jackson joins Will Smith in action thriller Supermax.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/jaafar-jackson-joins-supermax-will-smith-1237014489/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/jaafar-jackson-action-thriller-supermax-1236663127/"
+        }
+      ]
+    },
+    {
+      "title": "Trust The Man",
+      "studio": "",
+      "talent": "Kate Mara, Finn Wittrock, Justice Smith, Victor Garber",
+      "announcement": "Vietnam War thriller adds final cast members including Kate Mara, Finn Wittrock, Justice Smith, and Victor Garber.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/trust-the-man-movie-cast-kate-mara-finn-wittrock-1237015866/"
+        }
+      ]
+    },
+    {
+      "title": "Pathetic Fallacy",
+      "studio": "",
+      "talent": "Kid Cudi, Jessica Rothe, Travis Fimmel, Natasha Lyonne; Adam Egypt Mortimer (director)",
+      "announcement": "Supernatural thriller wraps production with ensemble cast including Kid Cudi and Natasha Lyonne.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/kid-cudi-natasha-lyonne-to-star-pathetic-fallacy-1237015826/"
+        }
+      ]
+    },
+    {
+      "title": "The Caged",
+      "studio": "Saban Films",
+      "talent": "Tamzin Merchant, Edmund Kingsley, Raffiella Chapman",
+      "announcement": "Saban Films acquires North America distribution for UK haunted house horror starring Tamzin Merchant.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/saban-north-america-for-uk-haunted-house-horror-the-caged-1237015669/"
+        }
+      ]
+    },
+    {
+      "title": "It Happened One Summer",
+      "studio": "",
+      "talent": "Nina Dobrev, Gavin Leatherwood",
+      "announcement": "Film adaptation of BookTok hit begins filming in New York with Nina Dobrev and Gavin Leatherwood.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/gavin-leatherwood-cast-happened-summer-filming-new-york-1237015761/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/gavin-leatherwood-nina-dobrev-rom-com-happened-one-summer-1236826343/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/gavin-leatherwood-nina-dobrev-it-happened-one-summer-film-1236663112/"
+        }
+      ]
+    },
+    {
+      "title": "V/H/S/MIXTAPE",
+      "studio": "Shudder",
+      "talent": "RZA, Ernest Dickerson, Flying Lotus",
+      "announcement": "Ninth chapter of horror anthology set at Shudder with RZA, Ernest Dickerson, and Flying Lotus involved.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/news/imtiaz-ali-anurag-kashyap-bobby-beauty-parlour-1236825106/"
+          "url": "https://variety.com/2026/film/news/v-h-s-mixtape-anthology-rza-flying-lotus-1236826154/"
+        }
+      ]
+    },
+    {
+      "title": "Action Man",
+      "studio": "Working Title, Hasbro",
+      "talent": "",
+      "announcement": "Action Man movie based on iconic British toy in development with Working Title Films and Hasbro.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/action-man-movie-toy-working-title-hasbro-1236825801/"
+        }
+      ]
+    },
+    {
+      "title": "Blanco",
+      "studio": "Netflix, Universal, RTVE (Spain)",
+      "talent": "Félix Viscarret (director)",
+      "announcement": "ETA drama from director Félix Viscarret joins Netflix and Universal with Spanish broadcaster RTVE.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/markets-festivals/rtve-netflix-universal-felix-viscarret-blanco-1236826445/"
         }
       ]
     }
   ],
-  "tv": [],
-  "lastUpdated": "2026-08-03T06:24:44.730Z"
+  "tv": [
+    {
+      "title": "Task",
+      "network": "",
+      "talent": "Tim Blake Nelson, Jharrel Jerome, Bethlehem Million",
+      "announcement": "Season 2 adds Tim Blake Nelson, Jharrel Jerome, and Bethlehem Million among six new cast members.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/task-cast-tim-blake-nelson-jharrel-jerome-season-2-1237015838/"
+        }
+      ]
+    },
+    {
+      "title": "Scrabble",
+      "network": "The CW",
+      "talent": "",
+      "announcement": "The CW renews game show for additional seasons.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/scrabble-trivial-pursuit-police-24-7-renewed-the-cw-1237015820/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/the-cw-more-scrabble-trivial-pursuit-police-24-7-1236826440/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/cw-renews-scrabble-trivial-pursuit-police-24-7-1236663078/"
+        }
+      ]
+    },
+    {
+      "title": "Trivial Pursuit",
+      "network": "The CW",
+      "talent": "",
+      "announcement": "The CW renews game show for additional seasons.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/scrabble-trivial-pursuit-police-24-7-renewed-the-cw-1237015820/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/the-cw-more-scrabble-trivial-pursuit-police-24-7-1236826440/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/cw-renews-scrabble-trivial-pursuit-police-24-7-1236663078/"
+        }
+      ]
+    },
+    {
+      "title": "Police 24/7",
+      "network": "The CW",
+      "talent": "",
+      "announcement": "The CW renews reality show for additional seasons.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/scrabble-trivial-pursuit-police-24-7-renewed-the-cw-1237015820/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/the-cw-more-scrabble-trivial-pursuit-police-24-7-1236826440/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/cw-renews-scrabble-trivial-pursuit-police-24-7-1236663078/"
+        }
+      ]
+    },
+    {
+      "title": "Warhammer 40,000",
+      "network": "Amazon",
+      "talent": "Henry Cavill (executive producer)",
+      "announcement": "Animated series in development at Amazon with Henry Cavill to executive produce.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/warhammer-40000-animated-series-secret-level-spinoff-amazon-1237015741/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/warhammer-40000-animated-series-amazon-henry-cavill-1236825210/"
+        }
+      ]
+    },
+    {
+      "title": "Job Trafficking",
+      "network": "Prime Video",
+      "talent": "Nimrat Kaur, Roshan Mathew, Pavan Malhotra",
+      "announcement": "Prime Video series about industrialized online scams stars Nimrat Kaur, Roshan Mathew, and Pavan Malhotra.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/prime-videi-job-trafficking-nimrat-kaur-roshan-mathew-1237015184/"
+        }
+      ]
+    },
+    {
+      "title": "True-Crime Series",
+      "network": "Freeform",
+      "talent": "Kara Robinson Chamberlain (host)",
+      "announcement": "Freeform orders true-crime series hosted by Kara Robinson Chamberlain from Ample.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/kara-robinson-chamberlain-true-crime-series-freeform-1237014689/"
+        }
+      ]
+    },
+    {
+      "title": "State of Play",
+      "network": "MS NOW",
+      "talent": "Peter Alexander",
+      "announcement": "Peter Alexander's weekday news show debuts on MS NOW on August 10.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/peter-alexander-ms-now-debut-1237015697/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/peter-alexander-ms-now-state-of-play-launch-1236826277/"
+        }
+      ]
+    },
+    {
+      "title": "Wizards Beyond Waverly Place",
+      "network": "Disney Channel",
+      "talent": "Selena Gomez (director)",
+      "announcement": "Selena Gomez makes her directorial debut on the series finale.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/selena-gomez-directorial-debut-wizards-beyond-waverly-place-finale/"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-08-03T17:11:34.793Z"
 }
