@@ -1,12 +1,24 @@
 {
   "date": "August 3, 2026",
-  "summary": "11 film announcements, 9 TV announcements across 5 trades.",
+  "summary": "12 film announcements, 11 TV announcements across 5 trades.",
   "film": [
+    {
+      "title": "F.A.S.T.",
+      "studio": "Warner Bros.",
+      "talent": "Taylor Sheridan (writer)",
+      "announcement": "Warner Bros. action film written by Taylor Sheridan set for Summer 2027 release.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/f-a-s-t-release-date-warner-bros-1237016487/"
+        }
+      ]
+    },
     {
       "title": "Castle",
       "studio": "Sony Pictures",
       "talent": "Jill Blankenship (writer), Chris Bremner (idea)",
-      "announcement": "Sony Pictures taps Jill Blankenship to pen medieval actioner Castle from an idea by Chris Bremner.",
+      "announcement": "Sony Pictures taps Jill Blankenship to write medieval actioner 'Castle' from an idea by Chris Bremner.",
       "sources": [
         {
           "name": "Deadline",
@@ -18,7 +30,7 @@
       "title": "MotoGP Heist Thriller",
       "studio": "Netflix",
       "talent": "Alan Ritchson (star), Chris Morgan (writer)",
-      "announcement": "Alan Ritchson and Fast & Furious scribe Chris Morgan team on MotoGP heist thriller at Netflix with Ritchson setting a film deal at the streamer.",
+      "announcement": "Alan Ritchson stars in a MotoGP heist thriller at Netflix with Fast & Furious writer Chris Morgan as part of Ritchson's film deal with the streamer.",
       "sources": [
         {
           "name": "Deadline",
@@ -29,8 +41,8 @@
     {
       "title": "Howl",
       "studio": "Orion Pictures",
-      "talent": "Kumail Nanjiani (director, debut)",
-      "announcement": "Kumail Nanjiani's directing debut horror comedy Howl lands at Orion Pictures.",
+      "talent": "Kumail Nanjiani (director, directing debut)",
+      "announcement": "Kumail Nanjiani's directorial debut 'Howl' lands at Orion Pictures.",
       "sources": [
         {
           "name": "Deadline",
@@ -46,7 +58,7 @@
       "title": "Runaway Wedding",
       "studio": "Working Title",
       "talent": "Stephanie Laing (director)",
-      "announcement": "Stephanie Laing to direct rom-com Runaway Wedding for Working Title.",
+      "announcement": "Stephanie Laing to direct romantic comedy 'Runaway Wedding' for Working Title.",
       "sources": [
         {
           "name": "Deadline",
@@ -58,7 +70,7 @@
       "title": "Supermax",
       "studio": "",
       "talent": "Will Smith (star), Jaafar Jackson (cast)",
-      "announcement": "Jaafar Jackson joins Will Smith in action thriller Supermax.",
+      "announcement": "Jaafar Jackson joins Will Smith in action thriller 'Supermax'.",
       "sources": [
         {
           "name": "Deadline",
@@ -74,7 +86,7 @@
       "title": "Trust The Man",
       "studio": "",
       "talent": "Kate Mara, Finn Wittrock, Justice Smith, Victor Garber (cast)",
-      "announcement": "Kate Mara, Finn Wittrock, Justice Smith and Victor Garber among final additions to Vietnam War thriller Trust The Man.",
+      "announcement": "Kate Mara, Finn Wittrock, Justice Smith and Victor Garber join Vietnam War thriller 'Trust The Man'.",
       "sources": [
         {
           "name": "Deadline",
@@ -83,30 +95,10 @@
       ]
     },
     {
-      "title": "It Happened One Summer",
-      "studio": "",
-      "talent": "Nina Dobrev (star), Gavin Leatherwood (cast)",
-      "announcement": "Gavin Leatherwood joins Nina Dobrev in film adaptation of BookTok hit It Happened One Summer.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/gavin-leatherwood-cast-happened-summer-filming-new-york-1237015761/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/gavin-leatherwood-nina-dobrev-rom-com-happened-one-summer-1236826343/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/gavin-leatherwood-nina-dobrev-it-happened-one-summer-film-1236663112/"
-        }
-      ]
-    },
-    {
       "title": "Pathetic Fallacy",
       "studio": "",
-      "talent": "Scott Mescudi/Kid Cudi, Jessica Rothe, Travis Fimmel, Natasha Lyonne (cast), Adam Egypt Mortimer (director)",
-      "announcement": "Scott Mescudi, Jessica Rothe, Travis Fimmel and Natasha Lyonne wrap on supernatural thriller Pathetic Fallacy from Adam Egypt Mortimer.",
+      "talent": "Kid Cudi, Jessica Rothe, Travis Fimmel, Natasha Lyonne (cast), Adam Egypt Mortimer (director)",
+      "announcement": "Scott 'Kid Cudi' Mescudi, Jessica Rothe, Travis Fimmel and Natasha Lyonne wrap supernatural thriller 'Pathetic Fallacy' directed by Adam Egypt Mortimer.",
       "sources": [
         {
           "name": "Deadline",
@@ -115,14 +107,18 @@
       ]
     },
     {
-      "title": "The Caged",
-      "studio": "Saban Films",
-      "talent": "Tamzin Merchant, Edmund Kingsley, Raffiella Chapman (cast)",
-      "announcement": "Saban Films takes North America for UK haunted house horror The Caged starring Tamzin Merchant, Edmund Kingsley and Raffiella Chapman.",
+      "title": "It Happened One Summer",
+      "studio": "",
+      "talent": "Nina Dobrev (star), Gavin Leatherwood (cast)",
+      "announcement": "Gavin Leatherwood joins Nina Dobrev in film adaptation of BookTok hit 'It Happened One Summer' with filming underway in New York.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/08/saban-north-america-for-uk-haunted-house-horror-the-caged-1237015669/"
+          "url": "https://deadline.com/2026/08/gavin-leatherwood-cast-happened-summer-filming-new-york-1237015761/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/gavin-leatherwood-nina-dobrev-it-happened-one-summer-film-1236663112/"
         }
       ]
     },
@@ -130,7 +126,7 @@
       "title": "Miss Navajo",
       "studio": "",
       "talent": "Billy Luther (director), Raye Zaragoza (singer-songwriter)",
-      "announcement": "Musical Miss Navajo in the works from director Billy Luther and singer-songwriter Raye Zaragoza.",
+      "announcement": "Musical 'Miss Navajo' in the works from director Billy Luther and singer-songwriter Raye Zaragoza.",
       "sources": [
         {
           "name": "Variety",
@@ -139,14 +135,26 @@
       ]
     },
     {
-      "title": "V/H/S/MIXTAPE",
-      "studio": "Shudder",
-      "talent": "RZA, Ernest Dickerson, Flying Lotus (among contributors)",
-      "announcement": "V/H/S/MIXTAPE set at Shudder as the ninth chapter of the horror anthology featuring RZA, Ernest Dickerson, Flying Lotus and more.",
+      "title": "Blanco",
+      "studio": "Netflix, Universal",
+      "talent": "Félix Viscarret (director)",
+      "announcement": "Spain's RTVE joins Netflix and Universal on ETA drama 'Blanco' directed by Félix Viscarret.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/news/v-h-s-mixtape-anthology-rza-flying-lotus-1236826154/"
+          "url": "https://variety.com/2026/film/markets-festivals/rtve-netflix-universal-felix-viscarret-blanco-1236826445/"
+        }
+      ]
+    },
+    {
+      "title": "Bad Lieutenant: Tokyo",
+      "studio": "",
+      "talent": "Takashi Miike (director)",
+      "announcement": "Takashi Miike returns with Japanese neo-noir saga 'Bad Lieutenant: Tokyo' with first look images revealed.",
+      "sources": [
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/general-news/bad-lieutenant-tokyo-first-look-images-takashi-miike-1235208040/"
         }
       ]
     }
@@ -155,8 +163,8 @@
     {
       "title": "God of War",
       "network": "Amazon",
-      "talent": "Dave Bautista (Kratos)",
-      "announcement": "Dave Bautista in talks to play Kratos in God of War, replacing Ryan Hurst in Amazon series.",
+      "talent": "Dave Bautista (in talks for Kratos role), Ryan Hurst (exiting)",
+      "announcement": "Dave Bautista in talks to play Kratos in Amazon's 'God of War' series, replacing Ryan Hurst.",
       "sources": [
         {
           "name": "Deadline",
@@ -165,14 +173,22 @@
         {
           "name": "Variety",
           "url": "https://variety.com/2026/tv/news/god-of-war-dave-bautista-kratos-amazon-series-ryan-hurst-1236826600/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/dave-bautista-god-of-war-kratos-1236663324/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/god-of-war-dave-bautista-in-talks-kratos/"
         }
       ]
     },
     {
       "title": "DINKS",
-      "network": "Amazon",
+      "network": "Amazon Prime Video",
       "talent": "June Diane Raphael, Paul Scheer (stars), Marta Kauffman (creator)",
-      "announcement": "Amazon orders improvised multi-cam comedy DINKS starring June Diane Raphael and Paul Scheer from Marta Kauffman.",
+      "announcement": "Amazon orders improvised sitcom 'DINKS' starring June Diane Raphael and Paul Scheer from Marta Kauffman.",
       "sources": [
         {
           "name": "Deadline",
@@ -180,7 +196,7 @@
         },
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/amazon-improvised-sitcom-dinks-paul-scheer-1236826405/"
+          "url": "https://variety.com/2026/tv/news/amazon-improvised-sitcom-marta-kauffman-paul-scheer-1236826405/"
         },
         {
           "name": "Hollywood Reporter",
@@ -196,7 +212,7 @@
       "title": "The Poison Daughter",
       "network": "Hulu",
       "talent": "Sheila Masterson (author, EP)",
-      "announcement": "The Poison Daughter romantasy novel getting Hulu series adaptation with author Sheila Masterson to EP.",
+      "announcement": "Romantasy novel 'The Poison Daughter' getting Hulu series adaptation with author Sheila Masterson executive producing.",
       "sources": [
         {
           "name": "Deadline",
@@ -208,7 +224,7 @@
       "title": "Warhammer 40,000",
       "network": "Amazon",
       "talent": "Henry Cavill (executive producer)",
-      "announcement": "Warhammer 40,000 animated series in works at Amazon with Henry Cavill to executive produce.",
+      "announcement": "Animated series 'Warhammer 40,000' in works at Amazon with Henry Cavill attached as executive producer.",
       "sources": [
         {
           "name": "Deadline",
@@ -217,22 +233,10 @@
       ]
     },
     {
-      "title": "Job Trafficking",
-      "network": "Prime Video",
-      "talent": "Nimrat Kaur, Roshan Mathew, Pavan Malhotra (cast)",
-      "announcement": "Nimrat Kaur, Roshan Mathew and Pavan Malhotra star in Job Trafficking, Prime Video series about industrialized online scams.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/prime-videi-job-trafficking-nimrat-kaur-roshan-mathew-1237015184/"
-        }
-      ]
-    },
-    {
       "title": "Task",
       "network": "",
-      "talent": "Tim Blake Nelson, Jharrel Jerome, Bethlehem Million (season 2 cast additions)",
-      "announcement": "Task adds Tim Blake Nelson, Jharrel Jerome and Bethlehem Million among 6 cast additions for season 2.",
+      "talent": "Tim Blake Nelson, Jharrel Jerome, Bethlehem Million (cast additions)",
+      "announcement": "'Task' adds Tim Blake Nelson, Jharrel Jerome and Bethlehem Million among 6 new cast members for Season 2.",
       "sources": [
         {
           "name": "Deadline",
@@ -244,15 +248,11 @@
       "title": "Scrabble",
       "network": "The CW",
       "talent": "",
-      "announcement": "Scrabble renewed by The CW for additional seasons.",
+      "announcement": "'Scrabble' renewed by The CW.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/08/scrabble-trivial-pursuit-police-24-7-renewed-the-cw-1237015820/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/the-cw-more-scrabble-trivial-pursuit-police-24-7-1236826440/"
         },
         {
           "name": "Hollywood Reporter",
@@ -264,15 +264,11 @@
       "title": "Trivial Pursuit",
       "network": "The CW",
       "talent": "",
-      "announcement": "Trivial Pursuit renewed by The CW for additional seasons.",
+      "announcement": "'Trivial Pursuit' renewed by The CW.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/08/scrabble-trivial-pursuit-police-24-7-renewed-the-cw-1237015820/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/the-cw-more-scrabble-trivial-pursuit-police-24-7-1236826440/"
         },
         {
           "name": "Hollywood Reporter",
@@ -284,22 +280,42 @@
       "title": "Police 24/7",
       "network": "The CW",
       "talent": "",
-      "announcement": "Police 24/7 renewed by The CW for additional seasons.",
+      "announcement": "'Police 24/7' renewed by The CW.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/08/scrabble-trivial-pursuit-police-24-7-renewed-the-cw-1237015820/"
         },
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/the-cw-more-scrabble-trivial-pursuit-police-24-7-1236826440/"
-        },
-        {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/cw-renews-scrabble-trivial-pursuit-police-24-7-1236663078/"
         }
       ]
+    },
+    {
+      "title": "The Right Side",
+      "network": "",
+      "talent": "Elizabeth Gillies (cast)",
+      "announcement": "Elizabeth Gillies joins indie political comedy series 'The Right Side'.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/elizabeth-gillies-indie-comedy-series-the-right-side-1236826111/"
+        }
+      ]
+    },
+    {
+      "title": "Job Trafficking",
+      "network": "Prime Video",
+      "talent": "Nimrat Kaur, Roshan Mathew, Pavan Malhotra (cast)",
+      "announcement": "Nimrat Kaur, Roshan Mathew and Pavan Malhotra star in Prime Video series 'Job Trafficking' about industrialized online scams.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/prime-videi-job-trafficking-nimrat-kaur-roshan-mathew-1237015184/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-08-03T20:44:39.683Z"
+  "lastUpdated": "2026-08-03T22:11:37.110Z"
 }
