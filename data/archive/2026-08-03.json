@@ -1,28 +1,20 @@
 {
   "date": "August 3, 2026",
-  "summary": "10 film announcements, 9 TV announcements across 5 trades.",
+  "summary": "8 film announcements, 12 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Runaway Wedding",
-      "studio": "Working Title",
-      "talent": "Stephanie Laing (director)",
-      "announcement": "Stephanie Laing to direct rom-com for Working Title Films.",
+      "title": "Howl",
+      "studio": "Orion Pictures",
+      "talent": "Kumail Nanjiani (director)",
+      "announcement": "Kumail Nanjiani makes his directorial debut with horror comedy landing at Orion Pictures.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/08/runaway-wedding-working-title-rom-com-stephanie-laing-1237015930/"
-        }
-      ]
-    },
-    {
-      "title": "Bulldogs",
-      "studio": "",
-      "talent": "Josh Henderson",
-      "announcement": "Cold case thriller begins filming in Los Angeles with Josh Henderson in lead role.",
-      "sources": [
+          "url": "https://deadline.com/2026/08/kumail-nanjiani-howl-movie-orion-pictures-1237015474/"
+        },
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/first-look-josh-henderson-bulldogs-filming-la-1237015693/"
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/kumail-nanjiani-orion-horror-comedy-howl/"
         }
       ]
     },
@@ -46,7 +38,7 @@
       "title": "Trust The Man",
       "studio": "",
       "talent": "Kate Mara, Finn Wittrock, Justice Smith, Victor Garber",
-      "announcement": "Vietnam War thriller adds final cast members including Kate Mara, Finn Wittrock, Justice Smith, and Victor Garber.",
+      "announcement": "Kate Mara, Finn Wittrock, Justice Smith and Victor Garber join Vietnam War thriller as final cast additions.",
       "sources": [
         {
           "name": "Deadline",
@@ -55,10 +47,46 @@
       ]
     },
     {
+      "title": "MotoGP Heist Thriller",
+      "studio": "Netflix",
+      "talent": "Alan Ritchson, Chris Morgan (writer)",
+      "announcement": "Alan Ritchson and Fast & Furious scribe Chris Morgan team on MotoGP heist thriller at Netflix with Ritchson setting film deal at streamer.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/alan-ritchson-motogp-movie-netflix-1237015614/"
+        }
+      ]
+    },
+    {
+      "title": "Runaway Wedding",
+      "studio": "Working Title",
+      "talent": "Stephanie Laing (director)",
+      "announcement": "Stephanie Laing to direct rom-com Runaway Wedding for Working Title.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/runaway-wedding-working-title-rom-com-stephanie-laing-1237015930/"
+        }
+      ]
+    },
+    {
+      "title": "Bulldogs",
+      "studio": "",
+      "talent": "Josh Henderson",
+      "announcement": "Cold case thriller Bulldogs begins filming in L.A. with Josh Henderson starring.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/first-look-josh-henderson-bulldogs-filming-la-1237015693/"
+        }
+      ]
+    },
+    {
       "title": "Pathetic Fallacy",
       "studio": "",
       "talent": "Kid Cudi, Jessica Rothe, Travis Fimmel, Natasha Lyonne; Adam Egypt Mortimer (director)",
-      "announcement": "Supernatural thriller wraps production with ensemble cast including Kid Cudi and Natasha Lyonne.",
+      "announcement": "Supernatural thriller Pathetic Fallacy wraps production with Kid Cudi, Natasha Lyonne and ensemble cast.",
       "sources": [
         {
           "name": "Deadline",
@@ -68,21 +96,71 @@
     },
     {
       "title": "The Caged",
-      "studio": "Saban Films",
+      "studio": "Saban (North America distribution)",
       "talent": "Tamzin Merchant, Edmund Kingsley, Raffiella Chapman",
-      "announcement": "Saban Films acquires North America distribution for UK haunted house horror starring Tamzin Merchant.",
+      "announcement": "Saban acquires North American distribution rights to UK haunted house horror The Caged.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/08/saban-north-america-for-uk-haunted-house-horror-the-caged-1237015669/"
         }
       ]
+    }
+  ],
+  "tv": [
+    {
+      "title": "DINKS",
+      "network": "Amazon/Prime Video",
+      "talent": "June Diane Raphael, Paul Scheer; Marta Kauffman (creator)",
+      "announcement": "Amazon orders improvised multi-cam comedy DINKS starring June Diane Raphael and Paul Scheer from creator Marta Kauffman.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/amazon-dinks-june-diane-raphael-paul-scheer-marta-kauffman-1237016334/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/amazon-improvised-sitcom-marta-kauffman-paul-scheer-1236826405/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/amazon-dinks-comedy-marta-kauffman-1236663226/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/tv/amazon-multi-cam-sitcom-dinks-june-diane-raphael-paul-scheer/"
+        }
+      ]
+    },
+    {
+      "title": "The Poison Daughter",
+      "network": "Hulu",
+      "talent": "Sheila Masterson (author, EP)",
+      "announcement": "Romantasy novel The Poison Daughter getting Hulu series adaptation with author Sheila Masterson as executive producer.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/the-poison-daughter-romantasy-novel-hulu-series-adaptation-1237014781/"
+        }
+      ]
+    },
+    {
+      "title": "Warhammer 40,000",
+      "network": "Amazon",
+      "talent": "Henry Cavill (executive producer)",
+      "announcement": "Animated series Warhammer 40,000 in works at Amazon with Henry Cavill attached as executive producer.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/warhammer-40000-animated-series-secret-level-spinoff-amazon-1237015741/"
+        }
+      ]
     },
     {
       "title": "It Happened One Summer",
-      "studio": "",
+      "network": "",
       "talent": "Nina Dobrev, Gavin Leatherwood",
-      "announcement": "Film adaptation of BookTok hit begins filming in New York with Nina Dobrev and Gavin Leatherwood.",
+      "announcement": "Gavin Leatherwood joins Nina Dobrev in rom-com film adaptation of BookTok hit It Happened One Summer as filming gets underway in New York.",
       "sources": [
         {
           "name": "Deadline",
@@ -99,48 +177,10 @@
       ]
     },
     {
-      "title": "V/H/S/MIXTAPE",
-      "studio": "Shudder",
-      "talent": "RZA, Ernest Dickerson, Flying Lotus",
-      "announcement": "Ninth chapter of horror anthology set at Shudder with RZA, Ernest Dickerson, and Flying Lotus involved.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/v-h-s-mixtape-anthology-rza-flying-lotus-1236826154/"
-        }
-      ]
-    },
-    {
-      "title": "Action Man",
-      "studio": "Working Title, Hasbro",
-      "talent": "",
-      "announcement": "Action Man movie based on iconic British toy in development with Working Title Films and Hasbro.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/action-man-movie-toy-working-title-hasbro-1236825801/"
-        }
-      ]
-    },
-    {
-      "title": "Blanco",
-      "studio": "Netflix, Universal, RTVE (Spain)",
-      "talent": "Félix Viscarret (director)",
-      "announcement": "ETA drama from director Félix Viscarret joins Netflix and Universal with Spanish broadcaster RTVE.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/markets-festivals/rtve-netflix-universal-felix-viscarret-blanco-1236826445/"
-        }
-      ]
-    }
-  ],
-  "tv": [
-    {
       "title": "Task",
       "network": "",
       "talent": "Tim Blake Nelson, Jharrel Jerome, Bethlehem Million",
-      "announcement": "Season 2 adds Tim Blake Nelson, Jharrel Jerome, and Bethlehem Million among six new cast members.",
+      "announcement": "Task adds Tim Blake Nelson, Jharrel Jerome and Bethlehem Million among six cast members for Season 2.",
       "sources": [
         {
           "name": "Deadline",
@@ -152,7 +192,7 @@
       "title": "Scrabble",
       "network": "The CW",
       "talent": "",
-      "announcement": "The CW renews game show for additional seasons.",
+      "announcement": "The CW renews Scrabble for additional seasons.",
       "sources": [
         {
           "name": "Deadline",
@@ -172,7 +212,7 @@
       "title": "Trivial Pursuit",
       "network": "The CW",
       "talent": "",
-      "announcement": "The CW renews game show for additional seasons.",
+      "announcement": "The CW renews Trivial Pursuit for additional seasons.",
       "sources": [
         {
           "name": "Deadline",
@@ -192,7 +232,7 @@
       "title": "Police 24/7",
       "network": "The CW",
       "talent": "",
-      "announcement": "The CW renews reality show for additional seasons.",
+      "announcement": "The CW renews Police 24/7 for additional seasons.",
       "sources": [
         {
           "name": "Deadline",
@@ -209,18 +249,26 @@
       ]
     },
     {
-      "title": "Warhammer 40,000",
-      "network": "Amazon",
-      "talent": "Henry Cavill (executive producer)",
-      "announcement": "Animated series in development at Amazon with Henry Cavill to executive produce.",
+      "title": "The Right Side",
+      "network": "",
+      "talent": "Elizabeth Gillies",
+      "announcement": "Elizabeth Gillies joins indie political comedy series The Right Side.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/warhammer-40000-animated-series-secret-level-spinoff-amazon-1237015741/"
-        },
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/elizabeth-gillies-indie-comedy-series-the-right-side-1236826111/"
+        }
+      ]
+    },
+    {
+      "title": "V/H/S/MIXTAPE",
+      "network": "Shudder",
+      "talent": "RZA, Ernest Dickerson, Flying Lotus",
+      "announcement": "Shudder sets V/H/S/MIXTAPE, the ninth chapter of horror anthology featuring RZA, Ernest Dickerson, Flying Lotus and more.",
+      "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/warhammer-40000-animated-series-amazon-henry-cavill-1236825210/"
+          "url": "https://variety.com/2026/film/news/v-h-s-mixtape-anthology-rza-flying-lotus-1236826154/"
         }
       ]
     },
@@ -228,7 +276,7 @@
       "title": "Job Trafficking",
       "network": "Prime Video",
       "talent": "Nimrat Kaur, Roshan Mathew, Pavan Malhotra",
-      "announcement": "Prime Video series about industrialized online scams stars Nimrat Kaur, Roshan Mathew, and Pavan Malhotra.",
+      "announcement": "Prime Video series Job Trafficking about industrialized online scams stars Nimrat Kaur, Roshan Mathew and Pavan Malhotra.",
       "sources": [
         {
           "name": "Deadline",
@@ -240,42 +288,14 @@
       "title": "True-Crime Series",
       "network": "Freeform",
       "talent": "Kara Robinson Chamberlain (host)",
-      "announcement": "Freeform orders true-crime series hosted by Kara Robinson Chamberlain from Ample.",
+      "announcement": "Kara Robinson Chamberlain to host true-crime series for Freeform from Ample.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/08/kara-robinson-chamberlain-true-crime-series-freeform-1237014689/"
         }
       ]
-    },
-    {
-      "title": "State of Play",
-      "network": "MS NOW",
-      "talent": "Peter Alexander",
-      "announcement": "Peter Alexander's weekday news show debuts on MS NOW on August 10.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/peter-alexander-ms-now-debut-1237015697/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/peter-alexander-ms-now-state-of-play-launch-1236826277/"
-        }
-      ]
-    },
-    {
-      "title": "Wizards Beyond Waverly Place",
-      "network": "Disney Channel",
-      "talent": "Selena Gomez (director)",
-      "announcement": "Selena Gomez makes her directorial debut on the series finale.",
-      "sources": [
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/selena-gomez-directorial-debut-wizards-beyond-waverly-place-finale/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-03T17:11:34.793Z"
+  "lastUpdated": "2026-08-03T19:07:20.066Z"
 }
