@@ -1,12 +1,76 @@
 {
   "date": "August 4, 2026",
-  "summary": "6 film announcements, 8 TV announcements across 5 trades.",
+  "summary": "10 film announcements, 11 TV announcements across 5 trades.",
   "film": [
+    {
+      "title": "Godstar",
+      "studio": "",
+      "talent": "Olivia Taylor Dudley, François Arnaud",
+      "announcement": "Olivia Taylor Dudley and François Arnaud cast to topline dark dramedy from director Oren Shai.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/olivia-taylor-dudley-francois-arnaud-to-star-godstar-1237017356/"
+        }
+      ]
+    },
+    {
+      "title": "Romy and Michele 2",
+      "studio": "20th Century Studios",
+      "talent": "Anna Baryshnikov, Sofia Wylie",
+      "announcement": "Anna Baryshnikov and Sofia Wylie round out cast of the sequel.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/romy-and-michele-2-cast-adds-anna-baryshnikov-sofia-wylie-1237017339/"
+        }
+      ]
+    },
+    {
+      "title": "Deadlocked",
+      "studio": "Amazon MGM",
+      "talent": "Jamie Foxx",
+      "announcement": "Jamie Foxx cast to lead hostage actioner for Amazon MGM.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/jamie-foxx-to-star-deadlocked-amazon-mgm-1237017119/"
+        }
+      ]
+    },
+    {
+      "title": "The Mummy",
+      "studio": "Universal",
+      "talent": "Numan Acar, Kevin J. O'Connor, Oded Fehr",
+      "announcement": "Numan Acar joins the cast while Kevin J. O'Connor and Oded Fehr return to the Universal reboot.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/the-mummy-cast-numan-acar-kevin-j-oconnor-oded-fehr-1237017224/"
+        }
+      ]
+    },
+    {
+      "title": "Monster: The Lizzie Borden Story",
+      "studio": "Netflix",
+      "talent": "",
+      "announcement": "Netflix release date set with first-look photos unveiled.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/monster-the-lizzie-borden-story-release-date-photos-netflix-1237017206/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/monster-lizzie-borden-photos-release-date-netflix-1236663852/"
+        }
+      ]
+    },
     {
       "title": "The Housemaid's Secret",
       "studio": "Lionsgate",
-      "talent": "Sydney Sweeney, Brittany Snow",
-      "announcement": "Brittany Snow joins Sydney Sweeney in the Lionsgate sequel.",
+      "talent": "Brittany Snow, Sydney Sweeney",
+      "announcement": "Brittany Snow joins Sydney Sweeney in the sequel.",
       "sources": [
         {
           "name": "Deadline",
@@ -29,7 +93,7 @@
     {
       "title": "Poetic License",
       "studio": "Sony Pictures Classics",
-      "talent": "Maude Apatow (director)",
+      "talent": "Maude Apatow",
       "announcement": "Maude Apatow's directorial debut lands at Sony Pictures Classics after Row K debacle.",
       "sources": [
         {
@@ -43,6 +107,10 @@
         {
           "name": "IndieWire",
           "url": "https://www.indiewire.com/news/breaking-news/maude-apatow-poetic-license-release-1235208511/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/industry-news/business/sony-pictures-classics-poetic-license/"
         }
       ]
     },
@@ -50,7 +118,7 @@
       "title": "La Bola Negra",
       "studio": "Netflix",
       "talent": "",
-      "announcement": "Netflix extends theatrical window for Oscar hopeful to 47 days, moving release to October.",
+      "announcement": "Netflix extends theatrical window for awards hopeful to 47 days, moving release to October.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -67,31 +135,11 @@
       ]
     },
     {
-      "title": "Monster: The Lizzie Borden Story",
-      "studio": "Netflix",
-      "talent": "",
-      "announcement": "Netflix sets release date and unveils first-look photos for the limited series.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/monster-the-lizzie-borden-story-release-date-photos-netflix-1237017206/"
-        }
-      ]
-    },
-    {
       "title": "Godzilla Minus Zero",
       "studio": "",
       "talent": "",
-      "announcement": "Japanese film to world premiere at the New York Film Festival.",
+      "announcement": "Film set to world premiere at the New York Film Festival.",
       "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/godzilla-minus-zero-new-york-film-festival-world-premiere-1237016303/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/markets-festivals/godzilla-minus-zero-world-premiere-new-york-film-festival-1236827540/"
-        },
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-world-premiere-2026-nyff-1236663763/"
@@ -99,18 +147,14 @@
         {
           "name": "IndieWire",
           "url": "https://www.indiewire.com/news/festivals/godzilla-minus-zero-world-premiere-new-york-film-festival-1235208254/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/godzilla-minus-zero-world-premiere-new-york-film-festival/"
         }
       ]
     },
     {
-      "title": "The Secret Lives Of Baba Segi's Wives",
+      "title": "The Secret Lives of Baba Segi's Wives",
       "studio": "EbonyLife Films",
       "talent": "",
-      "announcement": "Feature from Mo Abudu's EbonyLife Films with first trailer released; TIFF-bound.",
+      "announcement": "Feature from Mo Abudu's EbonyLife Films bound for TIFF with first trailer released.",
       "sources": [
         {
           "name": "Deadline",
@@ -121,10 +165,54 @@
   ],
   "tv": [
     {
+      "title": "Cable Guy",
+      "network": "Hulu",
+      "talent": "Rebecca Rittenhouse",
+      "announcement": "Rebecca Rittenhouse cast in Hulu pilot.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/rebecca-rittenhouse-cast-hulu-cable-guy-pilot-1237017125/"
+        }
+      ]
+    },
+    {
+      "title": "Colin from Accounts",
+      "network": "",
+      "talent": "",
+      "announcement": "Season 3 premiere date set for third and final season.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/colin-from-accounts-premiere-date-season-three-1237017289/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/tv-news-roundup-week-of-august-3-1236827611/"
+        }
+      ]
+    },
+    {
+      "title": "LOL: Last One Laughing",
+      "network": "Amazon",
+      "talent": "",
+      "announcement": "Amazon orders U.S. version of the comedy competition series.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/lol-last-one-laughing-us-version-amazon-1237016580/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/tv/lol-last-one-laughing-us-version-amazon/"
+        }
+      ]
+    },
+    {
       "title": "Ascent",
       "network": "Paramount+",
-      "talent": "Viola Davis (star), John Logan (creator)",
-      "announcement": "Paramount+ orders thriller series about a corporate fixer with Viola Davis starring and executive producing.",
+      "talent": "Viola Davis",
+      "announcement": "Viola Davis stars in thriller series ordered from John Logan.",
       "sources": [
         {
           "name": "Deadline",
@@ -145,36 +233,8 @@
       ]
     },
     {
-      "title": "Cable Guy",
-      "network": "Hulu",
-      "talent": "Rebecca Rittenhouse",
-      "announcement": "Rebecca Rittenhouse cast in Hulu's Cable Guy pilot.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/rebecca-rittenhouse-cast-hulu-cable-guy-pilot-1237017125/"
-        }
-      ]
-    },
-    {
-      "title": "LOL: Last One Laughing",
-      "network": "Amazon",
-      "talent": "",
-      "announcement": "Amazon orders U.S. version of the international comedy competition series.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/lol-last-one-laughing-us-version-amazon-1237016580/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/media-platforms/tv/lol-last-one-laughing-us-version-amazon/"
-        }
-      ]
-    },
-    {
       "title": "The Artful Dodger",
-      "network": "Hulu/Disney+",
+      "network": "Hulu / Disney+",
       "talent": "",
       "announcement": "Series renewed for final season at Hulu and Disney+.",
       "sources": [
@@ -186,9 +246,9 @@
     },
     {
       "title": "Hercule",
-      "network": "BritBox/BBC",
+      "network": "BritBox / BBC",
       "talent": "Jack Gleeson, James Nesbitt, Edward Bluemel",
-      "announcement": "Young Poirot origin series reveals cast including Jack Gleeson, James Nesbitt, and Edward Bluemel.",
+      "announcement": "Cast revealed for Poirot origin series including Gleeson, Nesbitt and Bluemel.",
       "sources": [
         {
           "name": "Deadline",
@@ -204,7 +264,7 @@
       "title": "This Summer Will Be Different",
       "network": "Netflix",
       "talent": "",
-      "announcement": "Netflix series adds 6 cast members as production begins.",
+      "announcement": "Netflix series adds 6 to cast as production begins.",
       "sources": [
         {
           "name": "Variety",
@@ -213,29 +273,41 @@
       ]
     },
     {
-      "title": "Jimmy Olsen",
-      "network": "DC/Warner Bros.",
-      "talent": "Mary Holland",
-      "announcement": "Mary Holland joins DC's Jimmy Olsen Superman spinoff series.",
+      "title": "Mystery Science Theater 3000: The RiffTrax Experiments",
+      "network": "",
+      "talent": "",
+      "announcement": "Online release schedule set.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/mary-holland-cast-dc-jimmy-olsen-superman-spinoff-series-1237016747/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/mystery-science-theater-3000-rifftrax-release-date-1236826527/"
         }
       ]
     },
     {
-      "title": "Made in Korea",
-      "network": "Disney+",
+      "title": "Read the Room",
+      "network": "",
+      "talent": "Josh Richards",
+      "announcement": "Josh Richards' sketch show returns for season 2 this month.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/josh-richards-read-the-room-season-2-premiere-date/"
+        }
+      ]
+    },
+    {
+      "title": "Baywatch",
+      "network": "Amazon Prime",
       "talent": "",
-      "announcement": "Disney+ sets release date for season 2 of the hit thriller series.",
+      "announcement": "Amazon picks up reboot internationally.",
       "sources": [
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/disney-release-date-made-in-korea-1236663432/"
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/amazon-prime-picks-up-baywatch-reboot-internationally-1236663589/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-08-04T16:55:55.791Z"
+  "lastUpdated": "2026-08-04T18:41:13.156Z"
 }
