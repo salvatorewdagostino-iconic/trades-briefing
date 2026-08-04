@@ -1,12 +1,24 @@
 {
   "date": "August 4, 2026",
-  "summary": "10 film announcements, 11 TV announcements across 5 trades.",
+  "summary": "11 film announcements, 10 TV announcements across 5 trades.",
   "film": [
+    {
+      "title": "Last Train To Fortune",
+      "studio": "TriCoast Worldwide & Vitagraph",
+      "talent": "Malcolm McDowell, James Paxton",
+      "announcement": "Western film set for fall release.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/malcolm-mcdowell-last-train-to-fortune-release-date-1237017455/"
+        }
+      ]
+    },
     {
       "title": "Godstar",
       "studio": "",
       "talent": "Olivia Taylor Dudley, François Arnaud",
-      "announcement": "Olivia Taylor Dudley and François Arnaud cast to topline dark dramedy from director Oren Shai.",
+      "announcement": "Dark dramedy with Olivia Taylor Dudley and François Arnaud attached to lead.",
       "sources": [
         {
           "name": "Deadline",
@@ -18,7 +30,7 @@
       "title": "Romy and Michele 2",
       "studio": "20th Century Studios",
       "talent": "Anna Baryshnikov, Sofia Wylie",
-      "announcement": "Anna Baryshnikov and Sofia Wylie round out cast of the sequel.",
+      "announcement": "Sequel adds Anna Baryshnikov and Sofia Wylie to cast.",
       "sources": [
         {
           "name": "Deadline",
@@ -30,7 +42,7 @@
       "title": "Deadlocked",
       "studio": "Amazon MGM",
       "talent": "Jamie Foxx",
-      "announcement": "Jamie Foxx cast to lead hostage actioner for Amazon MGM.",
+      "announcement": "Jamie Foxx to lead hostage actioner for Amazon MGM.",
       "sources": [
         {
           "name": "Deadline",
@@ -42,7 +54,7 @@
       "title": "The Mummy",
       "studio": "Universal",
       "talent": "Numan Acar, Kevin J. O'Connor, Oded Fehr",
-      "announcement": "Numan Acar joins the cast while Kevin J. O'Connor and Oded Fehr return to the Universal reboot.",
+      "announcement": "Numan Acar joins cast; Kevin J. O'Connor and Oded Fehr return to the franchise.",
       "sources": [
         {
           "name": "Deadline",
@@ -51,25 +63,9 @@
       ]
     },
     {
-      "title": "Monster: The Lizzie Borden Story",
-      "studio": "Netflix",
-      "talent": "",
-      "announcement": "Netflix release date set with first-look photos unveiled.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/monster-the-lizzie-borden-story-release-date-photos-netflix-1237017206/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/monster-lizzie-borden-photos-release-date-netflix-1236663852/"
-        }
-      ]
-    },
-    {
       "title": "The Housemaid's Secret",
       "studio": "Lionsgate",
-      "talent": "Brittany Snow, Sydney Sweeney",
+      "talent": "Sydney Sweeney, Brittany Snow",
       "announcement": "Brittany Snow joins Sydney Sweeney in the sequel.",
       "sources": [
         {
@@ -93,7 +89,7 @@
     {
       "title": "Poetic License",
       "studio": "Sony Pictures Classics",
-      "talent": "Maude Apatow",
+      "talent": "Maude Apatow (director)",
       "announcement": "Maude Apatow's directorial debut lands at Sony Pictures Classics after Row K debacle.",
       "sources": [
         {
@@ -115,22 +111,14 @@
       ]
     },
     {
-      "title": "La Bola Negra",
-      "studio": "Netflix",
+      "title": "Love Is the Monster",
+      "studio": "",
       "talent": "",
-      "announcement": "Netflix extends theatrical window for awards hopeful to 47 days, moving release to October.",
+      "announcement": "Bendita Film Sales seizes worldwide sales rights to TIFF-bound film.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/la-bola-negra-receive-netflix-longest-release-theaters-1236663419/"
-        },
-        {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/news/general-news/la-bola-negra-netflix-awards-season-release-date-1235201936/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/netflix-commits-to-longest-ever-theatrical-window-la-bola-negra/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/bendita-film-sales-toronto-festival-love-is-the-monster-1236826961/"
         }
       ]
     },
@@ -138,7 +126,7 @@
       "title": "Godzilla Minus Zero",
       "studio": "",
       "talent": "",
-      "announcement": "Film set to world premiere at the New York Film Festival.",
+      "announcement": "World premiere set for New York Film Festival 2026.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -151,10 +139,26 @@
       ]
     },
     {
+      "title": "La Bola Negra",
+      "studio": "Netflix",
+      "talent": "",
+      "announcement": "Netflix Oscar hopeful receives company's longest theatrical window before streaming, moving to October.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/la-bola-negra-receive-netflix-longest-release-theaters-1236663419/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/general-news/la-bola-negra-netflix-awards-season-release-date-1235201936/"
+        }
+      ]
+    },
+    {
       "title": "The Secret Lives of Baba Segi's Wives",
       "studio": "EbonyLife Films",
       "talent": "",
-      "announcement": "Feature from Mo Abudu's EbonyLife Films bound for TIFF with first trailer released.",
+      "announcement": "First trailer released for TIFF-bound feature from Mo Abudu's EbonyLife Films.",
       "sources": [
         {
           "name": "Deadline",
@@ -164,6 +168,46 @@
     }
   ],
   "tv": [
+    {
+      "title": "The Voice: Celebrity Edition",
+      "network": "NBC",
+      "talent": "Keke Palmer (host), Joe Jonas, Queen Latifah, Riley Green (coaches)",
+      "announcement": "Celebrity edition set for 2027 on NBC with Keke Palmer as host and Joe Jonas joining coach roster.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/the-voice-celebrity-edition-nbc-joe-jonas-keke-palmer-1237017383/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/the-voice-celebrity-nbc-2027-host-keke-palmer-joe-jonas-1236827720/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/the-voice-celebrity-version-nbc-1236664023/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/the-voice-celebrity-season-keke-palmer-joe-jonas-nbc/"
+        }
+      ]
+    },
+    {
+      "title": "Monster: The Lizzie Borden Story",
+      "network": "Netflix",
+      "talent": "",
+      "announcement": "Netflix release date set with first-look photos unveiled.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/monster-the-lizzie-borden-story-release-date-photos-netflix-1237017206/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/monster-lizzie-borden-photos-release-date-netflix-1236663852/"
+        }
+      ]
+    },
     {
       "title": "Cable Guy",
       "network": "Hulu",
@@ -177,7 +221,7 @@
       ]
     },
     {
-      "title": "Colin from Accounts",
+      "title": "Colin From Accounts",
       "network": "",
       "talent": "",
       "announcement": "Season 3 premiere date set for third and final season.",
@@ -193,62 +237,26 @@
       ]
     },
     {
-      "title": "LOL: Last One Laughing",
-      "network": "Amazon",
-      "talent": "",
-      "announcement": "Amazon orders U.S. version of the comedy competition series.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/lol-last-one-laughing-us-version-amazon-1237016580/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/media-platforms/tv/lol-last-one-laughing-us-version-amazon/"
-        }
-      ]
-    },
-    {
       "title": "Ascent",
       "network": "Paramount+",
       "talent": "Viola Davis",
-      "announcement": "Viola Davis stars in thriller series ordered from John Logan.",
+      "announcement": "Viola Davis stars in corporate fixer thriller series ordered by Paramount+ from John Logan.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/08/viola-davis-ascent-series-paramount-plus-john-logan-1237016749/"
         },
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/viola-davis-paramount-thriller-series-ascent-1236827578/"
-        },
-        {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/paramount-viola-davis-thriller-ascent-1236663719/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/viola-davis-new-tv-show-ascent-paramount-plus/"
-        }
-      ]
-    },
-    {
-      "title": "The Artful Dodger",
-      "network": "Hulu / Disney+",
-      "talent": "",
-      "announcement": "Series renewed for final season at Hulu and Disney+.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/the-artful-dodger-renewed-final-season-hulu-disney-1237015657/"
         }
       ]
     },
     {
       "title": "Hercule",
-      "network": "BritBox / BBC",
+      "network": "BritBox/BBC",
       "talent": "Jack Gleeson, James Nesbitt, Edward Bluemel",
-      "announcement": "Cast revealed for Poirot origin series including Gleeson, Nesbitt and Bluemel.",
+      "announcement": "Young Poirot series reveals cast including Jack Gleeson, James Nesbitt, and Edward Bluemel.",
       "sources": [
         {
           "name": "Deadline",
@@ -261,26 +269,18 @@
       ]
     },
     {
-      "title": "This Summer Will Be Different",
-      "network": "Netflix",
+      "title": "LOL: Last One Laughing",
+      "network": "Amazon",
       "talent": "",
-      "announcement": "Netflix series adds 6 to cast as production begins.",
+      "announcement": "U.S. version of comedy competition series ordered at Amazon.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/this-summer-will-be-different-production-begins-1236827554/"
-        }
-      ]
-    },
-    {
-      "title": "Mystery Science Theater 3000: The RiffTrax Experiments",
-      "network": "",
-      "talent": "",
-      "announcement": "Online release schedule set.",
-      "sources": [
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/lol-last-one-laughing-us-version-amazon-1237016580/"
+        },
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/mystery-science-theater-3000-rifftrax-release-date-1236826527/"
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/tv/lol-last-one-laughing-us-version-amazon/"
         }
       ]
     },
@@ -288,7 +288,7 @@
       "title": "Read the Room",
       "network": "",
       "talent": "Josh Richards",
-      "announcement": "Josh Richards' sketch show returns for season 2 this month.",
+      "announcement": "Josh Richards' sketch show returns for season 2 premiere this month.",
       "sources": [
         {
           "name": "TheWrap",
@@ -297,17 +297,33 @@
       ]
     },
     {
-      "title": "Baywatch",
-      "network": "Amazon Prime",
+      "title": "Ransom Canyon",
+      "network": "Netflix",
       "talent": "",
-      "announcement": "Amazon picks up reboot internationally.",
+      "announcement": "Season 2 off to slow start per Netflix viewership data.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/amazon-prime-picks-up-baywatch-reboot-internationally-1236663589/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/idaho-murders-doc-ransom-canyon-season-2-ratings-netflix-1237017454/"
+        }
+      ]
+    },
+    {
+      "title": "The Idaho Murders",
+      "network": "Netflix",
+      "talent": "",
+      "announcement": "Documentary series scores over 18 million views on Netflix.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/idaho-murders-doc-ransom-canyon-season-2-ratings-netflix-1237017454/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/netflix-the-idaho-murders-ratings-viewership/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-08-04T18:41:13.156Z"
+  "lastUpdated": "2026-08-04T20:27:46.646Z"
 }
