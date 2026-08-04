@@ -1,12 +1,12 @@
 {
   "date": "August 4, 2026",
-  "summary": "11 film announcements, 11 TV announcements across 5 trades.",
+  "summary": "13 film announcements, 11 TV announcements across 5 trades.",
   "film": [
     {
       "title": "Last Train To Fortune",
       "studio": "TriCoast Worldwide & Vitagraph",
       "talent": "Malcolm McDowell, James Paxton",
-      "announcement": "Western film set for fall release.",
+      "announcement": "Western film with Malcolm McDowell and James Paxton set for fall release.",
       "sources": [
         {
           "name": "Deadline",
@@ -15,10 +15,22 @@
       ]
     },
     {
+      "title": "Godstar",
+      "studio": "",
+      "talent": "Olivia Taylor Dudley, François Arnaud",
+      "announcement": "Dark dramedy toplined by Olivia Taylor Dudley and François Arnaud from director Oren Shai.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/olivia-taylor-dudley-francois-arnaud-to-star-godstar-1237017356/"
+        }
+      ]
+    },
+    {
       "title": "Romy and Michele 2",
       "studio": "20th Century Studios",
       "talent": "Anna Baryshnikov, Sofia Wylie",
-      "announcement": "Casting additions announced for the sequel.",
+      "announcement": "Sequel to Romy and Michele adds Anna Baryshnikov and Sofia Wylie to cast.",
       "sources": [
         {
           "name": "Deadline",
@@ -30,7 +42,7 @@
       "title": "Deadlocked",
       "studio": "Amazon MGM",
       "talent": "Jamie Foxx",
-      "announcement": "Jamie Foxx cast to lead hostage action thriller.",
+      "announcement": "Jamie Foxx to lead hostage action thriller for Amazon MGM.",
       "sources": [
         {
           "name": "Deadline",
@@ -42,7 +54,7 @@
       "title": "The Mummy",
       "studio": "Universal",
       "talent": "Numan Acar, Kevin J. O'Connor, Oded Fehr",
-      "announcement": "Numan Acar joins cast; Kevin J. O'Connor and Oded Fehr return.",
+      "announcement": "Numan Acar joins Universal's The Mummy with Kevin J. O'Connor and Oded Fehr returning.",
       "sources": [
         {
           "name": "Deadline",
@@ -54,7 +66,7 @@
       "title": "The Housemaid's Secret",
       "studio": "Lionsgate",
       "talent": "Sydney Sweeney, Brittany Snow",
-      "announcement": "Brittany Snow joins Sydney Sweeney in sequel.",
+      "announcement": "Brittany Snow joins Lionsgate's The Housemaid's Secret sequel alongside Sydney Sweeney.",
       "sources": [
         {
           "name": "Deadline",
@@ -71,22 +83,10 @@
       ]
     },
     {
-      "title": "Godstar",
-      "studio": "",
-      "talent": "Olivia Taylor Dudley, François Arnaud",
-      "announcement": "Olivia Taylor Dudley and François Arnaud cast to topline dark dramedy from Oren Shai.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/olivia-taylor-dudley-francois-arnaud-to-star-godstar-1237017356/"
-        }
-      ]
-    },
-    {
       "title": "Poetic License",
-      "studio": "Sony Pictures Classics",
-      "talent": "Maude Apatow (director)",
-      "announcement": "Maude Apatow's directorial debut acquired by Sony Classics after Row K collapse.",
+      "studio": "Sony Classics",
+      "talent": "Maude Apatow (Director)",
+      "announcement": "Maude Apatow's directorial debut lands at Sony Classics after Row K collapse.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -106,7 +106,7 @@
       "title": "Godzilla Minus Zero",
       "studio": "",
       "talent": "",
-      "announcement": "Film set for world premiere at New York Film Festival 2026.",
+      "announcement": "Will world premiere at the 2026 New York Film Festival.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -122,23 +122,23 @@
       "title": "La Bola Negra",
       "studio": "Netflix",
       "talent": "",
-      "announcement": "Netflix extended theatrical window to 47 days (moving to October) for Oscar hopeful.",
+      "announcement": "Netflix Oscar hopeful receives extended theatrical window of 47 days before streaming, moving to October.",
       "sources": [
-        {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/news/general-news/la-bola-negra-netflix-awards-season-release-date-1235201936/"
-        },
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/la-bola-negra-receive-netflix-longest-release-theaters-1236663419/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/general-news/la-bola-negra-netflix-awards-season-release-date-1235201936/"
         }
       ]
     },
     {
       "title": "Love Is the Monster",
-      "studio": "Bendita Film Sales (worldwide sales)",
+      "studio": "",
       "talent": "",
-      "announcement": "Bendita Film Sales seized worldwide sales rights to TIFF-bound film.",
+      "announcement": "Bendita Film Sales seizes worldwide sales rights to TIFF-bound film.",
       "sources": [
         {
           "name": "Variety",
@@ -147,14 +147,38 @@
       ]
     },
     {
-      "title": "The Secret Lives of Baba Segi's Wives",
+      "title": "Ice Cream Man",
+      "studio": "",
+      "talent": "Eli Roth (Director)",
+      "announcement": "Eli Roth to direct and produce independently after growing frustrated with studio notes and shrinking residuals.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/eli-roth-studio-notes-shrinking-residuals-ice-cream-man-borderlands-1236827569/"
+        }
+      ]
+    },
+    {
+      "title": "The Secret Lives Of Baba Segi's Wives",
       "studio": "EbonyLife Films",
       "talent": "",
-      "announcement": "First trailer released for TIFF-bound feature from Mo Abudu's EbonyLife Films.",
+      "announcement": "Feature film from Mo Abudu's EbonyLife Films with first trailer released, heading to TIFF.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/video/the-secret-lives-of-baba-segos-wives-trailer-tiff-mo-abudu/"
+        }
+      ]
+    },
+    {
+      "title": "The Oldest Person In The World",
+      "studio": "",
+      "talent": "Sam Green (Director)",
+      "announcement": "Award-winning filmmaker Sam Green's latest documentary project announced.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/the-oldest-person-in-the-world-trailer-exclusive-1237016812/"
         }
       ]
     }
@@ -163,8 +187,8 @@
     {
       "title": "The Voice: Celebrity Edition",
       "network": "NBC",
-      "talent": "Keke Palmer (host), Joe Jonas, Queen Latifah, Riley Green (coaches)",
-      "announcement": "Celebrity edition ordered for 2027 with new host and coach lineup.",
+      "talent": "Host: Keke Palmer; Judges: Joe Jonas, Queen Latifah, Riley Green",
+      "announcement": "Celebrity edition of The Voice set for 2027 on NBC with Keke Palmer as host and Joe Jonas joining as coach.",
       "sources": [
         {
           "name": "Deadline",
@@ -185,26 +209,10 @@
       ]
     },
     {
-      "title": "Monster: The Lizzie Borden Story",
-      "network": "Netflix",
-      "talent": "",
-      "announcement": "Release date set with first-look photos unveiled.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/monster-the-lizzie-borden-story-release-date-photos-netflix-1237017206/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/monster-lizzie-borden-photos-release-date-netflix-1236663852/"
-        }
-      ]
-    },
-    {
       "title": "Ascent",
       "network": "Paramount+",
-      "talent": "Viola Davis",
-      "announcement": "Viola Davis thriller series ordered from John Logan.",
+      "talent": "Viola Davis; Creator: John Logan",
+      "announcement": "Paramount+ orders corporate fixer thriller series starring Viola Davis from creator John Logan.",
       "sources": [
         {
           "name": "Deadline",
@@ -217,10 +225,10 @@
       ]
     },
     {
-      "title": "Colin From Accounts",
+      "title": "Colin from Accounts",
       "network": "",
       "talent": "",
-      "announcement": "Premiere date set for third and final season.",
+      "announcement": "Sets premiere date for third and final season.",
       "sources": [
         {
           "name": "Deadline",
@@ -229,10 +237,50 @@
       ]
     },
     {
+      "title": "Monster: The Lizzie Borden Story",
+      "network": "Netflix",
+      "talent": "",
+      "announcement": "Limited series sets Netflix release date and unveils first-look photos.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/monster-the-lizzie-borden-story-release-date-photos-netflix-1237017206/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/monster-lizzie-borden-photos-release-date-netflix-1236663852/"
+        }
+      ]
+    },
+    {
+      "title": "Cable Guy",
+      "network": "Hulu",
+      "talent": "Rebecca Rittenhouse",
+      "announcement": "Rebecca Rittenhouse cast in Hulu's Cable Guy pilot.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/rebecca-rittenhouse-cast-hulu-cable-guy-pilot-1237017125/"
+        }
+      ]
+    },
+    {
+      "title": "The Girls",
+      "network": "Hulu",
+      "talent": "Khloé Kardashian",
+      "announcement": "Khloé Kardashian's The Girls gets trailer and premiere date announcement at Hulu.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/gallery/khloe-kardashian-the-girls-trailer-premiere-date-hulu/"
+        }
+      ]
+    },
+    {
       "title": "Hercule",
       "network": "BritBox & BBC",
-      "talent": "Edward Bluemel, Jack Gleeson, James Nesbitt",
-      "announcement": "Young Poirot origin series cast revealed.",
+      "talent": "Jack Gleeson, James Nesbitt, Edward Bluemel",
+      "announcement": "Young Poirot origin series reveals cast including Jack Gleeson, James Nesbitt and Edward Bluemel.",
       "sources": [
         {
           "name": "Deadline",
@@ -245,15 +293,11 @@
       ]
     },
     {
-      "title": "LOL: Last One Laughing",
+      "title": "LOL: Last One Laughing (US Version)",
       "network": "Amazon",
       "talent": "",
-      "announcement": "U.S. version of international comedy competition series ordered.",
+      "announcement": "Amazon orders US version of the international comedy competition series.",
       "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/lol-last-one-laughing-us-version-amazon-1237016580/"
-        },
         {
           "name": "TheWrap",
           "url": "https://www.thewrap.com/media-platforms/tv/lol-last-one-laughing-us-version-amazon/"
@@ -261,42 +305,14 @@
       ]
     },
     {
-      "title": "Cable Guy",
-      "network": "Hulu",
-      "talent": "Rebecca Rittenhouse",
-      "announcement": "Rebecca Rittenhouse cast in pilot.",
+      "title": "Camp Rock 3",
+      "network": "Disney",
+      "talent": "Malachi Barton",
+      "announcement": "Malachi Barton stars in Disney's upcoming Camp Rock 3.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/rebecca-rittenhouse-cast-hulu-cable-guy-pilot-1237017125/"
-        }
-      ]
-    },
-    {
-      "title": "Read the Room",
-      "network": "",
-      "talent": "Josh Richards",
-      "announcement": "Josh Richards' sketch show returns for season 2 this month.",
-      "sources": [
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/josh-richards-read-the-room-season-2-premiere-date/"
-        }
-      ]
-    },
-    {
-      "title": "The Idaho Murders",
-      "network": "Netflix",
-      "talent": "",
-      "announcement": "Documentary series scores over 18 million views.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/idaho-murders-doc-ransom-canyon-season-2-ratings-netflix-1237017454/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/netflix-the-idaho-murders-ratings-viewership/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/features/malachi-barton-camp-rock-3-disney-faith-god-1236826142/"
         }
       ]
     },
@@ -304,11 +320,11 @@
       "title": "Heated Rivalry",
       "network": "",
       "talent": "",
-      "announcement": "Season 2 production update with fan access restrictions announced.",
+      "announcement": "Sets hard line with fans while filming Season 2, requesting space for cast and crew.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/heated-rivalry-crowds-locations-1237017170/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/heated-rivalry-season-2-filming-set-warning-fans-1236663773/"
         },
         {
           "name": "TheWrap",
@@ -317,17 +333,17 @@
       ]
     },
     {
-      "title": "Camp Rock 3",
-      "network": "Disney",
-      "talent": "Malachi Barton",
-      "announcement": "Malachi Barton discusses upcoming third installment in feature.",
+      "title": "The Idaho Murders",
+      "network": "Netflix",
+      "talent": "",
+      "announcement": "Documentary series scores over 18 million views as Netflix's latest docuseries obsession.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/features/malachi-barton-camp-rock-3-disney-faith-god-1236826142/"
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/netflix-the-idaho-murders-ratings-viewership/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-08-04T21:51:13.092Z"
+  "lastUpdated": "2026-08-04T23:06:35.345Z"
 }
