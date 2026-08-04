@@ -1,11 +1,11 @@
 {
   "date": "August 4, 2026",
-  "summary": "1 film announcement, 1 TV announcement across the trades.",
+  "summary": "1 film announcement, 1 TV announcement across 3 trades.",
   "film": [
     {
       "title": "Spider-Man: Brand New Day",
       "studio": "Sony Pictures",
-      "talent": "Director: Destin Daniel Cretton; Producer: Amy Pascal",
+      "talent": "Destin Daniel Cretton (director), Amy Pascal (producer)",
       "announcement": "Producer Amy Pascal discusses director Destin Daniel Cretton's vision and its impact on the film, along with updates on the franchise's future.",
       "sources": [
         {
@@ -17,10 +17,22 @@
   ],
   "tv": [
     {
-      "title": "Superman Spinoff: Jimmy Olsen",
-      "network": "DC/Warner Bros.",
+      "title": "Made in Korea",
+      "network": "Disney+",
+      "talent": "",
+      "announcement": "Disney+ sets release date for Season 2 of the hit thriller series.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/disney-release-date-made-in-korea-1236663432/"
+        }
+      ]
+    },
+    {
+      "title": "Superman (Jimmy Olsen Spinoff)",
+      "network": "DC",
       "talent": "Mary Holland (cast)",
-      "announcement": "Mary Holland joins the DC Jimmy Olsen Superman spinoff series.",
+      "announcement": "Mary Holland joins DC's Jimmy Olsen 'Superman' spinoff series.",
       "sources": [
         {
           "name": "Deadline",
@@ -29,5 +41,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-04T02:37:41.632Z"
+  "lastUpdated": "2026-08-04T05:48:13.913Z"
 }
