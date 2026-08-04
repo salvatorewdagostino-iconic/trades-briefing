@@ -1,45 +1,241 @@
 {
   "date": "August 4, 2026",
-  "summary": "1 film announcement, 1 TV announcement across 3 trades.",
+  "summary": "6 film announcements, 8 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Spider-Man: Brand New Day",
-      "studio": "Sony Pictures",
-      "talent": "Destin Daniel Cretton (director), Amy Pascal (producer)",
-      "announcement": "Producer Amy Pascal discusses director Destin Daniel Cretton's vision and its impact on the film, along with updates on the franchise's future.",
+      "title": "The Housemaid's Secret",
+      "studio": "Lionsgate",
+      "talent": "Sydney Sweeney, Brittany Snow",
+      "announcement": "Brittany Snow joins Sydney Sweeney in the Lionsgate sequel.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/08/spider-man-brand-new-day-amy-pascal-interview-1237016593/"
+          "url": "https://deadline.com/2026/08/housemaids-secret-brittany-snow-1237017186/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/brittany-snow-the-housemaids-secret-sydney-sweeney-1236826813/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/brittany-snow-joins-sydney-sweeney-the-housemaid-sequel-1236663842/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/brittany-snow-joins-sydney-sweeney-the-housemaids-secret/"
+        }
+      ]
+    },
+    {
+      "title": "Poetic License",
+      "studio": "Sony Pictures Classics",
+      "talent": "Maude Apatow (director)",
+      "announcement": "Maude Apatow's directorial debut lands at Sony Pictures Classics after Row K debacle.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/maude-apatow-poetic-license-sony-pictures-classics-row-k-1236827137/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/poetic-license-maude-apatow-sony-classics-1236607104/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/breaking-news/maude-apatow-poetic-license-release-1235208511/"
+        }
+      ]
+    },
+    {
+      "title": "La Bola Negra",
+      "studio": "Netflix",
+      "talent": "",
+      "announcement": "Netflix extends theatrical window for Oscar hopeful to 47 days, moving release to October.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/la-bola-negra-receive-netflix-longest-release-theaters-1236663419/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/general-news/la-bola-negra-netflix-awards-season-release-date-1235201936/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/netflix-commits-to-longest-ever-theatrical-window-la-bola-negra/"
+        }
+      ]
+    },
+    {
+      "title": "Monster: The Lizzie Borden Story",
+      "studio": "Netflix",
+      "talent": "",
+      "announcement": "Netflix sets release date and unveils first-look photos for the limited series.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/monster-the-lizzie-borden-story-release-date-photos-netflix-1237017206/"
+        }
+      ]
+    },
+    {
+      "title": "Godzilla Minus Zero",
+      "studio": "",
+      "talent": "",
+      "announcement": "Japanese film to world premiere at the New York Film Festival.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/godzilla-minus-zero-new-york-film-festival-world-premiere-1237016303/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/markets-festivals/godzilla-minus-zero-world-premiere-new-york-film-festival-1236827540/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-world-premiere-2026-nyff-1236663763/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/festivals/godzilla-minus-zero-world-premiere-new-york-film-festival-1235208254/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/godzilla-minus-zero-world-premiere-new-york-film-festival/"
+        }
+      ]
+    },
+    {
+      "title": "The Secret Lives Of Baba Segi's Wives",
+      "studio": "EbonyLife Films",
+      "talent": "",
+      "announcement": "Feature from Mo Abudu's EbonyLife Films with first trailer released; TIFF-bound.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/video/the-secret-lives-of-baba-segos-wives-trailer-tiff-mo-abudu/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "Made in Korea",
-      "network": "Disney+",
-      "talent": "",
-      "announcement": "Disney+ sets release date for Season 2 of the hit thriller series.",
+      "title": "Ascent",
+      "network": "Paramount+",
+      "talent": "Viola Davis (star), John Logan (creator)",
+      "announcement": "Paramount+ orders thriller series about a corporate fixer with Viola Davis starring and executive producing.",
       "sources": [
         {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/viola-davis-ascent-series-paramount-plus-john-logan-1237016749/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/viola-davis-paramount-thriller-series-ascent-1236827578/"
+        },
+        {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/disney-release-date-made-in-korea-1236663432/"
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/paramount-viola-davis-thriller-ascent-1236663719/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/viola-davis-new-tv-show-ascent-paramount-plus/"
         }
       ]
     },
     {
-      "title": "Superman (Jimmy Olsen Spinoff)",
-      "network": "DC",
-      "talent": "Mary Holland (cast)",
-      "announcement": "Mary Holland joins DC's Jimmy Olsen 'Superman' spinoff series.",
+      "title": "Cable Guy",
+      "network": "Hulu",
+      "talent": "Rebecca Rittenhouse",
+      "announcement": "Rebecca Rittenhouse cast in Hulu's Cable Guy pilot.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/rebecca-rittenhouse-cast-hulu-cable-guy-pilot-1237017125/"
+        }
+      ]
+    },
+    {
+      "title": "LOL: Last One Laughing",
+      "network": "Amazon",
+      "talent": "",
+      "announcement": "Amazon orders U.S. version of the international comedy competition series.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/lol-last-one-laughing-us-version-amazon-1237016580/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/tv/lol-last-one-laughing-us-version-amazon/"
+        }
+      ]
+    },
+    {
+      "title": "The Artful Dodger",
+      "network": "Hulu/Disney+",
+      "talent": "",
+      "announcement": "Series renewed for final season at Hulu and Disney+.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/the-artful-dodger-renewed-final-season-hulu-disney-1237015657/"
+        }
+      ]
+    },
+    {
+      "title": "Hercule",
+      "network": "BritBox/BBC",
+      "talent": "Jack Gleeson, James Nesbitt, Edward Bluemel",
+      "announcement": "Young Poirot origin series reveals cast including Jack Gleeson, James Nesbitt, and Edward Bluemel.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/britbox-bbc-hercule-poirot-cast-reveal-1237017054/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/jack-gleeson-james-nesbitt-hercule-poirot-cast-britbox-show-1236663772/"
+        }
+      ]
+    },
+    {
+      "title": "This Summer Will Be Different",
+      "network": "Netflix",
+      "talent": "",
+      "announcement": "Netflix series adds 6 cast members as production begins.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/this-summer-will-be-different-production-begins-1236827554/"
+        }
+      ]
+    },
+    {
+      "title": "Jimmy Olsen",
+      "network": "DC/Warner Bros.",
+      "talent": "Mary Holland",
+      "announcement": "Mary Holland joins DC's Jimmy Olsen Superman spinoff series.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/08/mary-holland-cast-dc-jimmy-olsen-superman-spinoff-series-1237016747/"
         }
       ]
+    },
+    {
+      "title": "Made in Korea",
+      "network": "Disney+",
+      "talent": "",
+      "announcement": "Disney+ sets release date for season 2 of the hit thriller series.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/disney-release-date-made-in-korea-1236663432/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-08-04T05:48:13.913Z"
+  "lastUpdated": "2026-08-04T16:55:55.791Z"
 }
