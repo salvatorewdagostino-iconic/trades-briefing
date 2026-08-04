@@ -1,6 +1,6 @@
 {
   "date": "August 4, 2026",
-  "summary": "11 film announcements, 10 TV announcements across 5 trades.",
+  "summary": "11 film announcements, 11 TV announcements across 5 trades.",
   "film": [
     {
       "title": "Last Train To Fortune",
@@ -15,22 +15,10 @@
       ]
     },
     {
-      "title": "Godstar",
-      "studio": "",
-      "talent": "Olivia Taylor Dudley, François Arnaud",
-      "announcement": "Dark dramedy with Olivia Taylor Dudley and François Arnaud attached to lead.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/olivia-taylor-dudley-francois-arnaud-to-star-godstar-1237017356/"
-        }
-      ]
-    },
-    {
       "title": "Romy and Michele 2",
       "studio": "20th Century Studios",
       "talent": "Anna Baryshnikov, Sofia Wylie",
-      "announcement": "Sequel adds Anna Baryshnikov and Sofia Wylie to cast.",
+      "announcement": "Casting additions announced for the sequel.",
       "sources": [
         {
           "name": "Deadline",
@@ -42,7 +30,7 @@
       "title": "Deadlocked",
       "studio": "Amazon MGM",
       "talent": "Jamie Foxx",
-      "announcement": "Jamie Foxx to lead hostage actioner for Amazon MGM.",
+      "announcement": "Jamie Foxx cast to lead hostage action thriller.",
       "sources": [
         {
           "name": "Deadline",
@@ -54,7 +42,7 @@
       "title": "The Mummy",
       "studio": "Universal",
       "talent": "Numan Acar, Kevin J. O'Connor, Oded Fehr",
-      "announcement": "Numan Acar joins cast; Kevin J. O'Connor and Oded Fehr return to the franchise.",
+      "announcement": "Numan Acar joins cast; Kevin J. O'Connor and Oded Fehr return.",
       "sources": [
         {
           "name": "Deadline",
@@ -66,15 +54,11 @@
       "title": "The Housemaid's Secret",
       "studio": "Lionsgate",
       "talent": "Sydney Sweeney, Brittany Snow",
-      "announcement": "Brittany Snow joins Sydney Sweeney in the sequel.",
+      "announcement": "Brittany Snow joins Sydney Sweeney in sequel.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/08/housemaids-secret-brittany-snow-1237017186/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/brittany-snow-the-housemaids-secret-sydney-sweeney-1236826813/"
         },
         {
           "name": "Hollywood Reporter",
@@ -87,15 +71,23 @@
       ]
     },
     {
+      "title": "Godstar",
+      "studio": "",
+      "talent": "Olivia Taylor Dudley, François Arnaud",
+      "announcement": "Olivia Taylor Dudley and François Arnaud cast to topline dark dramedy from Oren Shai.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/olivia-taylor-dudley-francois-arnaud-to-star-godstar-1237017356/"
+        }
+      ]
+    },
+    {
       "title": "Poetic License",
       "studio": "Sony Pictures Classics",
       "talent": "Maude Apatow (director)",
-      "announcement": "Maude Apatow's directorial debut lands at Sony Pictures Classics after Row K debacle.",
+      "announcement": "Maude Apatow's directorial debut acquired by Sony Classics after Row K collapse.",
       "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/maude-apatow-poetic-license-sony-pictures-classics-row-k-1236827137/"
-        },
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/poetic-license-maude-apatow-sony-classics-1236607104/"
@@ -111,22 +103,10 @@
       ]
     },
     {
-      "title": "Love Is the Monster",
-      "studio": "",
-      "talent": "",
-      "announcement": "Bendita Film Sales seizes worldwide sales rights to TIFF-bound film.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/bendita-film-sales-toronto-festival-love-is-the-monster-1236826961/"
-        }
-      ]
-    },
-    {
       "title": "Godzilla Minus Zero",
       "studio": "",
       "talent": "",
-      "announcement": "World premiere set for New York Film Festival 2026.",
+      "announcement": "Film set for world premiere at New York Film Festival 2026.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -142,15 +122,27 @@
       "title": "La Bola Negra",
       "studio": "Netflix",
       "talent": "",
-      "announcement": "Netflix Oscar hopeful receives company's longest theatrical window before streaming, moving to October.",
+      "announcement": "Netflix extended theatrical window to 47 days (moving to October) for Oscar hopeful.",
       "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/la-bola-negra-receive-netflix-longest-release-theaters-1236663419/"
-        },
         {
           "name": "IndieWire",
           "url": "https://www.indiewire.com/news/general-news/la-bola-negra-netflix-awards-season-release-date-1235201936/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/la-bola-negra-receive-netflix-longest-release-theaters-1236663419/"
+        }
+      ]
+    },
+    {
+      "title": "Love Is the Monster",
+      "studio": "Bendita Film Sales (worldwide sales)",
+      "talent": "",
+      "announcement": "Bendita Film Sales seized worldwide sales rights to TIFF-bound film.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/bendita-film-sales-toronto-festival-love-is-the-monster-1236826961/"
         }
       ]
     },
@@ -172,7 +164,7 @@
       "title": "The Voice: Celebrity Edition",
       "network": "NBC",
       "talent": "Keke Palmer (host), Joe Jonas, Queen Latifah, Riley Green (coaches)",
-      "announcement": "Celebrity edition set for 2027 on NBC with Keke Palmer as host and Joe Jonas joining coach roster.",
+      "announcement": "Celebrity edition ordered for 2027 with new host and coach lineup.",
       "sources": [
         {
           "name": "Deadline",
@@ -196,7 +188,7 @@
       "title": "Monster: The Lizzie Borden Story",
       "network": "Netflix",
       "talent": "",
-      "announcement": "Netflix release date set with first-look photos unveiled.",
+      "announcement": "Release date set with first-look photos unveiled.",
       "sources": [
         {
           "name": "Deadline",
@@ -209,38 +201,10 @@
       ]
     },
     {
-      "title": "Cable Guy",
-      "network": "Hulu",
-      "talent": "Rebecca Rittenhouse",
-      "announcement": "Rebecca Rittenhouse cast in Hulu pilot.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/rebecca-rittenhouse-cast-hulu-cable-guy-pilot-1237017125/"
-        }
-      ]
-    },
-    {
-      "title": "Colin From Accounts",
-      "network": "",
-      "talent": "",
-      "announcement": "Season 3 premiere date set for third and final season.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/colin-from-accounts-premiere-date-season-three-1237017289/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/tv-news-roundup-week-of-august-3-1236827611/"
-        }
-      ]
-    },
-    {
       "title": "Ascent",
       "network": "Paramount+",
       "talent": "Viola Davis",
-      "announcement": "Viola Davis stars in corporate fixer thriller series ordered by Paramount+ from John Logan.",
+      "announcement": "Viola Davis thriller series ordered from John Logan.",
       "sources": [
         {
           "name": "Deadline",
@@ -253,10 +217,22 @@
       ]
     },
     {
+      "title": "Colin From Accounts",
+      "network": "",
+      "talent": "",
+      "announcement": "Premiere date set for third and final season.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/colin-from-accounts-premiere-date-season-three-1237017289/"
+        }
+      ]
+    },
+    {
       "title": "Hercule",
-      "network": "BritBox/BBC",
-      "talent": "Jack Gleeson, James Nesbitt, Edward Bluemel",
-      "announcement": "Young Poirot series reveals cast including Jack Gleeson, James Nesbitt, and Edward Bluemel.",
+      "network": "BritBox & BBC",
+      "talent": "Edward Bluemel, Jack Gleeson, James Nesbitt",
+      "announcement": "Young Poirot origin series cast revealed.",
       "sources": [
         {
           "name": "Deadline",
@@ -272,7 +248,7 @@
       "title": "LOL: Last One Laughing",
       "network": "Amazon",
       "talent": "",
-      "announcement": "U.S. version of comedy competition series ordered at Amazon.",
+      "announcement": "U.S. version of international comedy competition series ordered.",
       "sources": [
         {
           "name": "Deadline",
@@ -285,10 +261,22 @@
       ]
     },
     {
+      "title": "Cable Guy",
+      "network": "Hulu",
+      "talent": "Rebecca Rittenhouse",
+      "announcement": "Rebecca Rittenhouse cast in pilot.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/rebecca-rittenhouse-cast-hulu-cable-guy-pilot-1237017125/"
+        }
+      ]
+    },
+    {
       "title": "Read the Room",
       "network": "",
       "talent": "Josh Richards",
-      "announcement": "Josh Richards' sketch show returns for season 2 premiere this month.",
+      "announcement": "Josh Richards' sketch show returns for season 2 this month.",
       "sources": [
         {
           "name": "TheWrap",
@@ -297,22 +285,10 @@
       ]
     },
     {
-      "title": "Ransom Canyon",
-      "network": "Netflix",
-      "talent": "",
-      "announcement": "Season 2 off to slow start per Netflix viewership data.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/idaho-murders-doc-ransom-canyon-season-2-ratings-netflix-1237017454/"
-        }
-      ]
-    },
-    {
       "title": "The Idaho Murders",
       "network": "Netflix",
       "talent": "",
-      "announcement": "Documentary series scores over 18 million views on Netflix.",
+      "announcement": "Documentary series scores over 18 million views.",
       "sources": [
         {
           "name": "Deadline",
@@ -323,7 +299,35 @@
           "url": "https://www.thewrap.com/creative-content/tv-shows/netflix-the-idaho-murders-ratings-viewership/"
         }
       ]
+    },
+    {
+      "title": "Heated Rivalry",
+      "network": "",
+      "talent": "",
+      "announcement": "Season 2 production update with fan access restrictions announced.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/heated-rivalry-crowds-locations-1237017170/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/heated-rivalry-season-2-filming-update-fan-message/"
+        }
+      ]
+    },
+    {
+      "title": "Camp Rock 3",
+      "network": "Disney",
+      "talent": "Malachi Barton",
+      "announcement": "Malachi Barton discusses upcoming third installment in feature.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/features/malachi-barton-camp-rock-3-disney-faith-god-1236826142/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-08-04T20:27:46.646Z"
+  "lastUpdated": "2026-08-04T21:51:13.092Z"
 }
