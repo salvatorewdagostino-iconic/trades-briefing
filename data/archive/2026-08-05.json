@@ -1,12 +1,12 @@
 {
   "date": "August 5, 2026",
-  "summary": "8 film announcements, 11 TV announcements across 5 trades.",
+  "summary": "8 film announcements, 12 TV announcements across 5 trades.",
   "film": [
     {
       "title": "Deep End",
       "studio": "Netflix",
       "talent": "Shawn Levy (21 Laps), Alex Cooper (Unwell Productions)",
-      "announcement": "Netflix acquired film adaptation rights to Ali Hazelwood's adult romance novel. Shawn Levy's 21 Laps and Alex Cooper's Unwell Productions are producing the feature.",
+      "announcement": "Netflix lands Ali Hazelwood's hot new adult romance novel for a feature film adaptation with Shawn Levy's 21 Laps and Alex Cooper's Unwell Productions producing.",
       "sources": [
         {
           "name": "Deadline",
@@ -16,9 +16,9 @@
     },
     {
       "title": "Thud",
-      "studio": "",
-      "talent": "Sarah Michelle Gellar, Rudy Pankow",
-      "announcement": "Grim Reaper-Devil romance film rounds out cast with six final additions including Brandon Scott and Vincent Rodriguez III.",
+      "studio": "Unknown",
+      "talent": "Sarah Michelle Gellar, Rudy Pankow, Brandon Scott, Vincent Rodriguez III",
+      "announcement": "Grim reaper-devil romance film starring Sarah Michelle Gellar and Rudy Pankow rounds out cast with six final additions.",
       "sources": [
         {
           "name": "Deadline",
@@ -27,22 +27,10 @@
       ]
     },
     {
-      "title": "Diya",
-      "studio": "Paramount",
-      "talent": "Jonathan Goldstein, John Francis Daley (producers)",
-      "announcement": "Animated Bollywood-focused musical in development at Paramount with producers Jonathan Goldstein and John Francis Daley attached.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/diya-paramount-animated-bollywood-musical-goldstein-daley-1236664847/"
-        }
-      ]
-    },
-    {
       "title": "Exit to the Guillotine",
-      "studio": "",
+      "studio": "Unknown",
       "talent": "Peyton List, Gustaf Skarsgård",
-      "announcement": "Psychological thriller starring Peyton List and Gustaf Skarsgård has wrapped filming.",
+      "announcement": "Psychological thriller starring Peyton List and Gustaf Skarsgård wraps filming.",
       "sources": [
         {
           "name": "Variety",
@@ -51,10 +39,22 @@
       ]
     },
     {
+      "title": "Diya",
+      "studio": "Paramount",
+      "talent": "Jonathan Goldstein, John Francis Daley (producers)",
+      "announcement": "Animated Bollywood-focused musical in development at Paramount with producers Jonathan Goldstein and John Francis Daley.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/diya-paramount-animated-bollywood-musical-goldstein-daley-1236664847/"
+        }
+      ]
+    },
+    {
       "title": "Wildwood",
       "studio": "Laika",
       "talent": "",
-      "announcement": "Stop-motion animated adventure film from Laika with Portland setting announced with teaser poster.",
+      "announcement": "Laika's Portland-set stop-motion adventure film gets poster reveal teasing project details.",
       "sources": [
         {
           "name": "IndieWire",
@@ -63,64 +63,48 @@
       ]
     },
     {
-      "title": "Carnival of the Animals",
-      "studio": "PBS Kids",
-      "talent": "Gustavo Dudamel",
-      "announcement": "2D animated special featuring conductor Gustavo Dudamel in partnership with PBS Kids.",
-      "sources": [
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/media-platforms/tv/pbs-kids-gustavo-dudamel-animated-special-carnival-of-the-animals/"
-        }
-      ]
-    },
-    {
-      "title": "Theater Kids Vs. Zombies",
-      "studio": "aTwist",
-      "talent": "Jesse Tyler Ferguson, Justin Mikita",
-      "announcement": "Musical microdrama being developed by Jesse Tyler Ferguson and Justin Mikita for aTwist.",
+      "title": "The Bonfire of the Vanities",
+      "studio": "Unknown",
+      "talent": "David E. Kelley, Matt Reeves",
+      "announcement": "Series adaptation of Tom Wolfe novel from David E. Kelley and Matt Reeves is not moving forward at Apple TV and will be shopped to other outlets.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/08/jesse-tyler-ferguson-microdrama-theater-kids-vs-zombies-1237017939/"
+          "url": "https://deadline.com/2026/08/bonfire-of-vanities-david-e-kelley-matt-reeves-apple-dead-1237021978/"
         }
       ]
     },
     {
-      "title": "The Green Eyes",
-      "studio": "",
-      "talent": "",
-      "announcement": "Refugee adventure drama receives exclusive trailer reveal.",
+      "title": "Late Fame",
+      "studio": "Unknown",
+      "talent": "Willem Dafoe",
+      "announcement": "Willem Dafoe discusses his role as a poet in the film and his collaborations with directors Robert Eggers and Yorgos Lanthimos.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/features/willem-dafoe-robert-eggers-yorgos-lanthimos-late-fame-1236824363/"
+        }
+      ]
+    },
+    {
+      "title": "The Shards",
+      "studio": "FX",
+      "talent": "Ryan Murphy",
+      "announcement": "Ryan Murphy's adaptation of Bret Easton Ellis' bestseller is available to watch on FX.",
       "sources": [
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/the-green-eyes-film-trailer-les-yeux-verts-locarno-2026-1236664672/"
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-the-shards-ryan-murphy-show-fx-streaming-online-free-1236665037/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "I Love LA",
-      "network": "",
-      "talent": "Taron Egerton, Jamie Chung, Milan Carter",
-      "announcement": "Season 2 adds Taron Egerton, Jamie Chung, Milan Carter and three additional actors in guest star roles.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/i-love-la-season-2-cast-taron-egerton-1237018764/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/i-love-la-season-2-taron-egerton-jamie-chung-1236828565/"
-        }
-      ]
-    },
-    {
       "title": "Gilmore Girls Documentary",
       "network": "HBO Max",
-      "talent": "Lauren Graham",
-      "announcement": "Documentary series in development at HBO Max featuring Lauren Graham and never-before-seen footage from the original series.",
+      "talent": "Lauren Graham, Amy Sherman-Palladino",
+      "announcement": "Documentary about the beloved series is in development at HBO Max featuring Lauren Graham and never-before-seen footage.",
       "sources": [
         {
           "name": "Deadline",
@@ -129,6 +113,14 @@
         {
           "name": "Variety",
           "url": "https://variety.com/2026/tv/news/gilmore-girls-documentary-hbo-max-1236828437/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/gilmore-girls-documentary-hbo-max-1236664946/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/gilmore-girls-documentary-hbo-max-lauren-graham-amy-sherman-palladino/"
         }
       ]
     },
@@ -136,27 +128,35 @@
       "title": "The Five Star Weekend",
       "network": "Peacock",
       "talent": "",
-      "announcement": "Peacock renewed series for Season 2 after becoming the streamer's most-watched scripted series ever.",
+      "announcement": "Peacock renews the adaptation for season 2 after it becomes the streamer's most-watched scripted series ever with 2.1 billion minutes viewed.",
       "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/the-five-star-weekend-renewed-season-2-peacock-cast-return-1237018747/"
-        },
         {
           "name": "Variety",
           "url": "https://variety.com/2026/tv/news/the-five-star-weekend-renewed-season-2-peacock-1236828505/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/the-five-star-weekend-renewed-season-2-peacock/"
         }
       ]
     },
     {
-      "title": "The Secret of Secrets",
-      "network": "Netflix",
-      "talent": "Cherry Jones, Corey Stoll, Rob Delaney, Abbey Lee",
-      "announcement": "Netflix TV adaptation of Dan Brown novel adds Cherry Jones, Corey Stoll, Rob Delaney and Abbey Lee to cast.",
+      "title": "I Love LA",
+      "network": "Unknown",
+      "talent": "Taron Egerton, Jamie Chung, Milan Carter",
+      "announcement": "Season 2 adds Taron Egerton, Jamie Chung, Milan Carter and more in guest star roles.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/08/cherry-jones-corey-stoll-cast-netflix-the-secret-of-secrets-1237018075/"
+          "url": "https://deadline.com/2026/08/i-love-la-season-2-cast-taron-egerton-1237018764/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/i-love-la-season-2-taron-egerton-jamie-chung-1236828565/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/industry-news/casting/i-love-la-season-2-guest-stars-taron-egerton/"
         }
       ]
     },
@@ -164,7 +164,7 @@
       "title": "Trauma",
       "network": "Paramount+ / Prime Video UK",
       "talent": "Richard Madden",
-      "announcement": "Medical hostage thriller series starring Richard Madden set at Paramount+ and Prime Video UK.",
+      "announcement": "Richard Madden to star in medical hostage thriller series at Paramount+ and Prime Video UK.",
       "sources": [
         {
           "name": "Deadline",
@@ -173,10 +173,22 @@
       ]
     },
     {
+      "title": "The Secret of Secrets",
+      "network": "Netflix",
+      "talent": "Cherry Jones, Corey Stoll, Rob Delaney, Abbey Lee",
+      "announcement": "Cherry Jones, Corey Stoll, Rob Delaney and Abbey Lee join Netflix's Dan Brown novel TV adaptation.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/cherry-jones-corey-stoll-cast-netflix-the-secret-of-secrets-1237018075/"
+        }
+      ]
+    },
+    {
       "title": "Disinherited",
       "network": "FX",
       "talent": "Avi Nash",
-      "announcement": "FX drama adds Avi Nash to cast.",
+      "announcement": "Avi Nash joins FX drama series.",
       "sources": [
         {
           "name": "Variety",
@@ -185,15 +197,27 @@
       ]
     },
     {
-      "title": "The Varnell Hill Show",
-      "network": "",
-      "talent": "",
-      "announcement": "Martin spinoff sets September release date and drops first look photos.",
+      "title": "The Voice: Celebrity",
+      "network": "NBC",
+      "talent": "Keke Palmer (host)",
+      "announcement": "Keke Palmer to host The Voice: Celebrity spinoff in 2027 as Carson Daly confirms he is not leaving The Voice.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/martin-spinoff-varnell-hill-show-release-date-1236828346/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/carson-daly-keke-palmer-host-the-voice-celebrity-future-1237018937/"
         },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/carson-daly-keke-palmer-host-the-voice-celebrity-1236828646/"
+        }
+      ]
+    },
+    {
+      "title": "The Varnell Hill Show",
+      "network": "Unknown",
+      "talent": "",
+      "announcement": "Martin spinoff sets premiere date.",
+      "sources": [
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/martin-spinoff-varnell-hill-show-premiere-1236665164/"
@@ -201,45 +225,53 @@
       ]
     },
     {
-      "title": "The Shards",
-      "network": "FX",
-      "talent": "Ryan Murphy (adaptation)",
-      "announcement": "Ryan Murphy's adaptation of Bret Easton Ellis bestseller is available to watch on FX.",
+      "title": "Carnival of the Animals",
+      "network": "PBS Kids",
+      "talent": "Gustavo Dudamel",
+      "announcement": "PBS Kids and conductor Gustavo Dudamel partner on 2D animated special.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-the-shards-ryan-murphy-show-fx-streaming-online-free-1236665037/"
-        }
-      ]
-    },
-    {
-      "title": "Sterling Point",
-      "network": "Amazon",
-      "talent": "Megan Park (creator/showrunner), Ella Rubin",
-      "announcement": "Megan Park's YA series examines teen drama with refreshing realism and includes Ella Rubin in cast.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-features/inside-sterling-point-megan-park-ya-series-cast-producers-1236664341/"
-        },
-        {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/criticism/shows/sterling-point-review-megan-park-amazon-series-ella-rubin-1235208696/"
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/tv/pbs-kids-gustavo-dudamel-animated-special-carnival-of-the-animals/"
         }
       ]
     },
     {
       "title": "The Challenge: Cutthroat II",
-      "network": "",
+      "network": "Unknown",
       "talent": "",
-      "announcement": "Season 42 of The Challenge with Cutthroat format announced with cast revealed.",
+      "announcement": "Cast announced for season 42 of the reality competition series.",
       "sources": [
         {
           "name": "TheWrap",
           "url": "https://www.thewrap.com/creative-content/tv-shows/the-challenge-season-42-cutthroat-cast/"
         }
       ]
+    },
+    {
+      "title": "The Shards",
+      "network": "FX",
+      "talent": "Ryan Murphy",
+      "announcement": "Ryan Murphy's adaptation of Bret Easton Ellis' bestseller series now available.",
+      "sources": [
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/criticism/shows/the-shards-review-ryan-murphy-bret-easton-ellis-series-1235208379/"
+        }
+      ]
+    },
+    {
+      "title": "Wizards Beyond Waverly Place",
+      "network": "Disney",
+      "talent": "David Henrie",
+      "announcement": "David Henrie discusses the emotional finale ending and expresses hopes for a movie sequel.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/tv/david-henrie-wizards-beyond-waverly-place-finale-movie-sequel-interview/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-08-05T21:48:28.201Z"
+  "lastUpdated": "2026-08-05T23:03:52.022Z"
 }
