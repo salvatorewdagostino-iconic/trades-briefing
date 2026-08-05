@@ -1,12 +1,24 @@
 {
   "date": "August 5, 2026",
-  "summary": "6 film announcements, 5 TV announcements across 5 trades.",
+  "summary": "8 film announcements, 11 TV announcements across 5 trades.",
   "film": [
+    {
+      "title": "Thud",
+      "studio": "",
+      "talent": "Sarah Michelle Gellar, Rudy Pankow, Brandon Scott, Vincent Rodriguez III",
+      "announcement": "Grim Reaper-Devil Romance rounds out cast with six final additions.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/thud-movie-cast-adds-brandon-scott-vincent-rodriguez-iii-1237018822/"
+        }
+      ]
+    },
     {
       "title": "Deep End",
       "studio": "Netflix",
-      "talent": "Shawn Levy (21 Laps), Alex Cooper (Unwell Productions)",
-      "announcement": "Netflix has acquired the film rights to Ali Hazelwood's adult romance novel with Shawn Levy's 21 Laps and Alex Cooper's Unwell Productions producing the feature adaptation.",
+      "talent": "",
+      "announcement": "Netflix lands Ali Hazelwood's adult romance novel for feature adaptation with Shawn Levy's 21 Laps and Alex Cooper's Unwell Productions producing.",
       "sources": [
         {
           "name": "Deadline",
@@ -18,7 +30,7 @@
       "title": "Doctor Caligari's Cabinet of Wonders",
       "studio": "",
       "talent": "Michael Shannon, Talia Ryder",
-      "announcement": "Talia Ryder has joined Michael Shannon in the film Doctor Caligari's Cabinet of Wonders.",
+      "announcement": "Talia Ryder joins Michael Shannon in the project.",
       "sources": [
         {
           "name": "Variety",
@@ -27,22 +39,10 @@
       ]
     },
     {
-      "title": "The Life and Deaths of Wilson Shedd",
-      "studio": "WestEnd Films",
-      "talent": "Tim Blake Nelson (director), Amanda Seyfried, Scoot McNairy",
-      "announcement": "Tim Blake Nelson's The Life and Deaths of Wilson Shedd, starring Amanda Seyfried and Scoot McNairy, has boarded WestEnd Films for international sales.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/the-life-and-deaths-of-wilson-shedd-westend-films-1236828335/"
-        }
-      ]
-    },
-    {
       "title": "Aman",
       "studio": "",
-      "talent": "Nikkhil Advani, Dominique Welinski (executive producers)",
-      "announcement": "The trans pregnancy drama Aman has boarded Nikkhil Advani and Dominique Welinski as executive producers ahead of its Toronto World Premiere.",
+      "talent": "",
+      "announcement": "Trans pregnancy drama boards Nikkhil Advani and Dominique Welinski as executive producers ahead of Toronto World Premiere.",
       "sources": [
         {
           "name": "Variety",
@@ -51,36 +51,128 @@
       ]
     },
     {
+      "title": "The Life and Deaths of Wilson Shedd",
+      "studio": "",
+      "talent": "Tim Blake Nelson, Amanda Seyfried, Scoot McNairy",
+      "announcement": "Tim Blake Nelson's film starring Amanda Seyfried and Scoot McNairy is boarded by WestEnd Films.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/the-life-and-deaths-of-wilson-shedd-westend-films-1236828335/"
+        }
+      ]
+    },
+    {
+      "title": "Diya",
+      "studio": "Paramount",
+      "talent": "",
+      "announcement": "Animated Bollywood-focused musical in development at Paramount from producers Jonathan Goldstein and John Francis Daley.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/diya-paramount-animated-bollywood-musical-goldstein-daley-1236664847/"
+        }
+      ]
+    },
+    {
+      "title": "Wildwood",
+      "studio": "Laika",
+      "talent": "",
+      "announcement": "Laika's Portland-set stop-motion adventure has released a poster teasing the project.",
+      "sources": [
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/general-news/wildwood-poster-laika-stop-motion-movie-1235208575/"
+        }
+      ]
+    },
+    {
       "title": "The Bridge",
       "studio": "",
       "talent": "Kevin Bright (producer)",
-      "announcement": "The October 7 survivors documentary The Bridge, produced by Kevin Bright, has set a North American release date.",
+      "announcement": "October 7 survivors documentary sets North American release date.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/film/global/the-bridge-documentary-october-7-release-date-1236828150/"
         }
       ]
-    },
-    {
-      "title": "Bound By Duty",
-      "studio": "ReelShort",
-      "talent": "Cora Reilly (author)",
-      "announcement": "ReelShort has adapted Cora Reilly's Bound By Duty as its latest mafia romance microdrama.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/reelshort-adapts-bound-by-duty-cora-reilly-born-in-blood-1237018397/"
-        }
-      ]
     }
   ],
   "tv": [
     {
+      "title": "The Five Star Weekend",
+      "network": "Peacock",
+      "talent": "",
+      "announcement": "Renewed for Season 2 after becoming Peacock's most-watched scripted series ever with 2.1 billion minutes viewed.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/the-five-star-weekend-renewed-season-2-peacock-cast-return-1237018747/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/the-five-star-weekend-renewed-season-2-peacock-1236828505/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/five-star-weekend-renewed-season-2-peacock-1236664952/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/the-five-star-weekend-renewed-season-2-peacock/"
+        }
+      ]
+    },
+    {
+      "title": "The Secret of Secrets",
+      "network": "Netflix",
+      "talent": "Cherry Jones, Corey Stoll, Rob Delaney, Abbey Lee",
+      "announcement": "Cast announced for Netflix's Dan Brown novel TV adaptation.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/cherry-jones-corey-stoll-cast-netflix-the-secret-of-secrets-1237018075/"
+        }
+      ]
+    },
+    {
+      "title": "High Value Target: The Hunt For Saddam",
+      "network": "TNT",
+      "talent": "Joel Kinnaman",
+      "announcement": "Joel Kinnaman-starring series gets trailer and premiere date on TNT.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/gallery/joel-kinnaman-high-value-target-the-hunt-for-saddam-tnt/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-high-value-target-hunt-for-saddam-hussein-trailer-1236664849/"
+        }
+      ]
+    },
+    {
+      "title": "The Varnell Hill Show",
+      "network": "Paramount+",
+      "talent": "Tommy Davidson, Martin Lawrence",
+      "announcement": "Martin spinoff gets premiere date on Paramount+ with first-look images released.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/the-varnell-hill-show-premiere-date-paramount-plus-photos-1237018677/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/martin-spinoff-varnell-hill-show-release-date-1236828346/"
+        }
+      ]
+    },
+    {
       "title": "Trauma",
-      "network": "Paramount+ / Prime Video UK",
+      "network": "Paramount+",
       "talent": "Richard Madden",
-      "announcement": "Richard Madden will star in the medical hostage thriller series Trauma at Paramount+ (with Prime Video UK also involved).",
+      "announcement": "Richard Madden to star in medical hostage thriller series at Paramount+.",
       "sources": [
         {
           "name": "Deadline",
@@ -94,25 +186,37 @@
     },
     {
       "title": "1536",
-      "network": "HBO / BBC",
-      "talent": "Ava Pickett (playwright)",
-      "announcement": "HBO has boarded the BBC drama series 1536, based on Ava Pickett's West End play.",
+      "network": "HBO/BBC",
+      "talent": "",
+      "announcement": "HBO and BBC team for Tudor drama series based on Ava Pickett's West End play.",
       "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/hbo-bbc-drama-series-1536-ava-pickett-1237018093/"
-        },
         {
           "name": "Variety",
           "url": "https://variety.com/2026/tv/global/1536-drama-ava-pickett-hbo-bbc-1236828148/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/hbo-bbc-1536-drama-series-ava-pickett-1236664851/"
+        }
+      ]
+    },
+    {
+      "title": "Brown Supremacist",
+      "network": "Veeps",
+      "talent": "Jay Chandrasekhar",
+      "announcement": "Jay Chandrasekhar sets Veeps launch for his debut solo stand-up special.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/jay-chandrasekhar-special-brown-supremacist-premiere-date-1237018665/"
         }
       ]
     },
     {
       "title": "Mrs. Saturday Night",
-      "network": "Comedy Dynamics",
+      "network": "",
       "talent": "Tammy Pescatelli",
-      "announcement": "Comedian Tammy Pescatelli has partnered with Comedy Dynamics on the new special Mrs. Saturday Night.",
+      "announcement": "Comedian Tammy Pescatelli partners with Comedy Dynamics on new special.",
       "sources": [
         {
           "name": "Deadline",
@@ -121,29 +225,41 @@
       ]
     },
     {
-      "title": "The Varnell Hill Show",
-      "network": "",
-      "talent": "",
-      "announcement": "The Martin spinoff The Varnell Hill Show has set a September release date and dropped first look photos.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/martin-spinoff-varnell-hill-show-release-date-1236828346/"
-        }
-      ]
-    },
-    {
       "title": "Carnival of the Animals",
       "network": "PBS Kids",
       "talent": "Gustavo Dudamel",
-      "announcement": "PBS Kids has partnered with conductor Gustavo Dudamel on the 2D animated special Carnival of the Animals.",
+      "announcement": "PBS Kids and Gustavo Dudamel partner on 2D animated special.",
       "sources": [
         {
           "name": "TheWrap",
           "url": "https://www.thewrap.com/media-platforms/tv/pbs-kids-gustavo-dudamel-animated-special-carnival-of-the-animals/"
         }
       ]
+    },
+    {
+      "title": "The Challenge: Cutthroat II",
+      "network": "",
+      "talent": "",
+      "announcement": "Cast announced for Season 42 of the competition series.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/the-challenge-season-42-cutthroat-cast/"
+        }
+      ]
+    },
+    {
+      "title": "Holiday Touchdown",
+      "network": "Hallmark",
+      "talent": "Lyndsy Fonseca, Robert Buckley",
+      "announcement": "Hallmark's next Holiday Touchdown movie cast with Lyndsy Fonseca and Robert Buckley.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/hallmark-holiday-touchdown-bears-love-story-cast-1236664869/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-08-05T16:44:13.653Z"
+  "lastUpdated": "2026-08-05T18:24:10.080Z"
 }
