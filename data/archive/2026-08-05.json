@@ -1,33 +1,149 @@
 {
   "date": "August 5, 2026",
-  "summary": "1 film announcement, 1 TV announcement across 3 trades.",
+  "summary": "6 film announcements, 5 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Ali & Ben's Spicy Meats",
-      "studio": "Abnormal Studios",
-      "talent": "Amir Nafis",
-      "announcement": "Cannibalism comedy-horror film starring Amir Nafis signs with Abnormal Studios for worldwide sales.",
+      "title": "Doctor Caligari's Cabinet of Wonders",
+      "studio": "",
+      "talent": "Michael Shannon, Talia Ryder",
+      "announcement": "Talia Ryder has joined Michael Shannon in the film.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/news/cannibalism-comedy-ali-bens-spicy-meats-abnormal-studios-worldwide-sales-1236827535/"
+          "url": "https://variety.com/2026/film/global/talia-ryder-doctor-caligaris-cabinet-of-wonders-1236827452/"
+        }
+      ]
+    },
+    {
+      "title": "Aman",
+      "studio": "",
+      "talent": "",
+      "announcement": "Trans pregnancy drama boards Nikkhil Advani and Dominique Welinski as executive producers ahead of Toronto World Premiere.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/festivals/trans-pregnancy-toronto-aman-nikkhil-advani-dominique-welinski-1236827564/"
+        }
+      ]
+    },
+    {
+      "title": "The Life and Deaths of Wilson Shedd",
+      "studio": "WestEnd Films",
+      "talent": "Amanda Seyfried, Scoot McNairy, Tim Blake Nelson (director)",
+      "announcement": "Tim Blake Nelson's film starring Amanda Seyfried and Scoot McNairy has been boarded by WestEnd Films.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/the-life-and-deaths-of-wilson-shedd-westend-films-1236828335/"
+        }
+      ]
+    },
+    {
+      "title": "Dorothy",
+      "studio": "",
+      "talent": "",
+      "announcement": "Karthik Subbaraj's Toronto-bound film unveils teaser.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/festivals/karthik-subbaraj-toronto-dorothy-teaser-1236828207/"
+        }
+      ]
+    },
+    {
+      "title": "The Bridge",
+      "studio": "",
+      "talent": "Kevin Bright (producer)",
+      "announcement": "October 7 survivors documentary produced by Kevin Bright sets North American release.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/the-bridge-documentary-october-7-release-date-1236828150/"
+        }
+      ]
+    },
+    {
+      "title": "Wildwood",
+      "studio": "Laika",
+      "talent": "",
+      "announcement": "Laika's Portland-set stop-motion adventure film teases release with poster.",
+      "sources": [
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/general-news/wildwood-poster-laika-stop-motion-movie-1235208575/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "This Summer Will Be Different",
-      "network": "Netflix",
-      "talent": "",
-      "announcement": "Feature article covering the development and production updates of Netflix's TV adaptation of This Summer Will Be Different.",
+      "title": "Trauma",
+      "network": "Paramount+, Prime Video UK",
+      "talent": "Richard Madden",
+      "announcement": "Richard Madden set to star in medical hostage thriller series at Paramount+ and Prime Video UK.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/feature/this-summer-will-be-different-adaptation-news-updates-1237017955/"
+          "url": "https://deadline.com/2026/08/richard-madden-hostage-thriller-series-trauma-paramount-1237018636/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/richard-madden-thriller-series-trauma-prime-video-paramount-1236828322/"
+        }
+      ]
+    },
+    {
+      "title": "1536",
+      "network": "HBO, BBC",
+      "talent": "Ava Pickett (creator/playwright)",
+      "announcement": "HBO boards BBC's Tudor drama series based on Ava Pickett's West End play.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/hbo-bbc-drama-series-1536-ava-pickett-1237018093/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/1536-drama-ava-pickett-hbo-bbc-1236828148/"
+        }
+      ]
+    },
+    {
+      "title": "The Varnell Hill Show",
+      "network": "",
+      "talent": "",
+      "announcement": "Martin spinoff sets September release date and drops first look photos.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/martin-spinoff-varnell-hill-show-release-date-1236828346/"
+        }
+      ]
+    },
+    {
+      "title": "Carnival of the Animals",
+      "network": "PBS Kids",
+      "talent": "Gustavo Dudamel",
+      "announcement": "PBS Kids and conductor Gustavo Dudamel partner on 2D animated special.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/tv/pbs-kids-gustavo-dudamel-animated-special-carnival-of-the-animals/"
+        }
+      ]
+    },
+    {
+      "title": "Prose Society",
+      "network": "iHeart",
+      "talent": "Eli Rallo (host)",
+      "announcement": "Eli Rallo to host weekly podcast for iHeart.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/streaming/eli-rallo-hosts-prose-society-weekly-podcast-iheart-exclusive/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-08-05T05:46:58.728Z"
+  "lastUpdated": "2026-08-05T16:25:32.779Z"
 }
