@@ -1,13 +1,26 @@
 {
   "date": "August 5, 2026",
-  "summary": "1 TV announcement across 2 trades.",
-  "film": [],
+  "summary": "1 film announcement, 1 TV announcement across the trades.",
+  "film": [
+    {
+      "title": "Ali & Ben's Spicy Meats",
+      "studio": "Abnormal Studios",
+      "talent": "Amir Nafis",
+      "announcement": "Cannibalism comedy-horror film starring Amir Nafis signs Abnormal Studios for worldwide sales.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/cannibalism-comedy-ali-bens-spicy-meats-abnormal-studios-worldwide-sales-1236827535/"
+        }
+      ]
+    }
+  ],
   "tv": [
     {
       "title": "This Summer Will Be Different",
       "network": "Netflix",
       "talent": "",
-      "announcement": "Netflix adaptation of 'This Summer Will Be Different' in development with updates on project status and production details.",
+      "announcement": "Netflix adaptation of 'This Summer Will Be Different' with updates on development and production details.",
       "sources": [
         {
           "name": "Deadline",
@@ -16,5 +29,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-05T00:55:47.849Z"
+  "lastUpdated": "2026-08-05T02:36:13.651Z"
 }
