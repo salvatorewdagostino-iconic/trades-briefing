@@ -1,24 +1,12 @@
 {
   "date": "August 5, 2026",
-  "summary": "8 film announcements, 11 TV announcements across 5 trades.",
+  "summary": "9 film announcements, 13 TV announcements across 5 trades.",
   "film": [
-    {
-      "title": "Thud",
-      "studio": "",
-      "talent": "Sarah Michelle Gellar, Rudy Pankow, Brandon Scott, Vincent Rodriguez III",
-      "announcement": "Grim Reaper-Devil Romance rounds out cast with six final additions.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/thud-movie-cast-adds-brandon-scott-vincent-rodriguez-iii-1237018822/"
-        }
-      ]
-    },
     {
       "title": "Deep End",
       "studio": "Netflix",
-      "talent": "",
-      "announcement": "Netflix lands Ali Hazelwood's adult romance novel for feature adaptation with Shawn Levy's 21 Laps and Alex Cooper's Unwell Productions producing.",
+      "talent": "Shawn Levy (21 Laps), Alex Cooper (Unwell Productions)",
+      "announcement": "Netflix acquired the film adaptation rights to Ali Hazelwood's hot new adult romance novel with Shawn Levy's 21 Laps and Alex Cooper's Unwell Productions producing.",
       "sources": [
         {
           "name": "Deadline",
@@ -27,10 +15,22 @@
       ]
     },
     {
+      "title": "Thud",
+      "studio": "Unknown",
+      "talent": "Sarah Michelle Gellar, Rudy Pankow, Brandon Scott, Vincent Rodriguez III",
+      "announcement": "The grim reaper-devil romance film rounded out its cast with six final additions including Brandon Scott and Vincent Rodriguez III.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/thud-movie-cast-adds-brandon-scott-vincent-rodriguez-iii-1237018822/"
+        }
+      ]
+    },
+    {
       "title": "Doctor Caligari's Cabinet of Wonders",
-      "studio": "",
+      "studio": "Unknown",
       "talent": "Michael Shannon, Talia Ryder",
-      "announcement": "Talia Ryder joins Michael Shannon in the project.",
+      "announcement": "Talia Ryder joined Michael Shannon in the film adaptation of the classic expressionist horror tale.",
       "sources": [
         {
           "name": "Variety",
@@ -39,34 +39,22 @@
       ]
     },
     {
-      "title": "Aman",
-      "studio": "",
-      "talent": "",
-      "announcement": "Trans pregnancy drama boards Nikkhil Advani and Dominique Welinski as executive producers ahead of Toronto World Premiere.",
+      "title": "Exit to the Guillotine",
+      "studio": "Unknown",
+      "talent": "Peyton List, Gustaf Skarsgård",
+      "announcement": "The psychological thriller starring Peyton List and Gustaf Skarsgård wrapped filming.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/festivals/trans-pregnancy-toronto-aman-nikkhil-advani-dominique-welinski-1236827564/"
-        }
-      ]
-    },
-    {
-      "title": "The Life and Deaths of Wilson Shedd",
-      "studio": "",
-      "talent": "Tim Blake Nelson, Amanda Seyfried, Scoot McNairy",
-      "announcement": "Tim Blake Nelson's film starring Amanda Seyfried and Scoot McNairy is boarded by WestEnd Films.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/the-life-and-deaths-of-wilson-shedd-westend-films-1236828335/"
+          "url": "https://variety.com/2026/film/news/peyton-list-gustaf-skarsgard-exit-to-the-guillotine-wraps-1236828591/"
         }
       ]
     },
     {
       "title": "Diya",
       "studio": "Paramount",
-      "talent": "",
-      "announcement": "Animated Bollywood-focused musical in development at Paramount from producers Jonathan Goldstein and John Francis Daley.",
+      "talent": "Jonathan Goldstein, John Francis Daley (producers)",
+      "announcement": "Paramount is developing an animated Bollywood-focused musical produced by Jonathan Goldstein and John Francis Daley.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -78,7 +66,7 @@
       "title": "Wildwood",
       "studio": "Laika",
       "talent": "",
-      "announcement": "Laika's Portland-set stop-motion adventure has released a poster teasing the project.",
+      "announcement": "Laika's stop-motion adventure film set in Portland released a poster teasing the project.",
       "sources": [
         {
           "name": "IndieWire",
@@ -88,23 +76,83 @@
     },
     {
       "title": "The Bridge",
-      "studio": "",
+      "studio": "Unknown",
       "talent": "Kevin Bright (producer)",
-      "announcement": "October 7 survivors documentary sets North American release date.",
+      "announcement": "Kevin Bright-produced October 7 survivors documentary set North American release date.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/film/global/the-bridge-documentary-october-7-release-date-1236828150/"
         }
       ]
+    },
+    {
+      "title": "Theater Kids Vs. Zombies",
+      "studio": "aTwist",
+      "talent": "Jesse Tyler Ferguson, Justin Mikita",
+      "announcement": "Jesse Tyler Ferguson and Justin Mikita are prepping a musical microdrama for aTwist.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/jesse-tyler-ferguson-microdrama-theater-kids-vs-zombies-1237017939/"
+        }
+      ]
+    },
+    {
+      "title": "The Work In Progress",
+      "studio": "Unknown",
+      "talent": "Robert Reich (executive producer)",
+      "announcement": "Documentary from EP Robert Reich had trailer released, aimed at helping bridge America's deepest divides.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/the-work-in-progress-trailer-exclusive-1237018130/"
+        }
+      ]
     }
   ],
   "tv": [
     {
+      "title": "I Love LA",
+      "network": "Unknown",
+      "talent": "Taron Egerton, Jamie Chung, Milan Carter",
+      "announcement": "Season 2 cast additions announced with Taron Egerton, Jamie Chung, and Milan Carter joining as guest stars.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/i-love-la-season-2-cast-taron-egerton-1237018764/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/i-love-la-season-2-taron-egerton-jamie-chung-1236828565/"
+        }
+      ]
+    },
+    {
+      "title": "Gilmore Girls Documentary",
+      "network": "HBO Max",
+      "talent": "Lauren Graham, Amy Sherman-Palladino",
+      "announcement": "Documentary in development for HBO Max featuring Lauren Graham, never-before-seen footage, and involvement from creator Amy Sherman-Palladino.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/gilmore-girls-documentary-produced-hbo-max-1237018750/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/gilmore-girls-documentary-hbo-max-1236828437/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/gilmore-girls-documentary-hbo-max-1236664946/"
+        }
+      ]
+    },
+    {
       "title": "The Five Star Weekend",
       "network": "Peacock",
       "talent": "",
-      "announcement": "Renewed for Season 2 after becoming Peacock's most-watched scripted series ever with 2.1 billion minutes viewed.",
+      "announcement": "Series renewed for Season 2 after becoming Peacock's most-watched scripted series ever.",
       "sources": [
         {
           "name": "Deadline",
@@ -117,10 +165,6 @@
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/five-star-weekend-renewed-season-2-peacock-1236664952/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/the-five-star-weekend-renewed-season-2-peacock/"
         }
       ]
     },
@@ -128,7 +172,7 @@
       "title": "The Secret of Secrets",
       "network": "Netflix",
       "talent": "Cherry Jones, Corey Stoll, Rob Delaney, Abbey Lee",
-      "announcement": "Cast announced for Netflix's Dan Brown novel TV adaptation.",
+      "announcement": "Cast announced for Netflix's Dan Brown novel TV adaptation with Cherry Jones, Corey Stoll, Rob Delaney, and Abbey Lee.",
       "sources": [
         {
           "name": "Deadline",
@@ -137,42 +181,10 @@
       ]
     },
     {
-      "title": "High Value Target: The Hunt For Saddam",
-      "network": "TNT",
-      "talent": "Joel Kinnaman",
-      "announcement": "Joel Kinnaman-starring series gets trailer and premiere date on TNT.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/gallery/joel-kinnaman-high-value-target-the-hunt-for-saddam-tnt/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-high-value-target-hunt-for-saddam-hussein-trailer-1236664849/"
-        }
-      ]
-    },
-    {
-      "title": "The Varnell Hill Show",
-      "network": "Paramount+",
-      "talent": "Tommy Davidson, Martin Lawrence",
-      "announcement": "Martin spinoff gets premiere date on Paramount+ with first-look images released.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/the-varnell-hill-show-premiere-date-paramount-plus-photos-1237018677/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/martin-spinoff-varnell-hill-show-release-date-1236828346/"
-        }
-      ]
-    },
-    {
       "title": "Trauma",
-      "network": "Paramount+",
+      "network": "Paramount+ and Prime Video UK",
       "talent": "Richard Madden",
-      "announcement": "Richard Madden to star in medical hostage thriller series at Paramount+.",
+      "announcement": "Richard Madden cast to star in medical hostage thriller series for Paramount+ and Prime Video UK.",
       "sources": [
         {
           "name": "Deadline",
@@ -185,15 +197,23 @@
       ]
     },
     {
-      "title": "1536",
-      "network": "HBO/BBC",
+      "title": "The Varnell Hill Show",
+      "network": "Unknown",
       "talent": "",
-      "announcement": "HBO and BBC team for Tudor drama series based on Ava Pickett's West End play.",
+      "announcement": "Martin spinoff set September release date and dropped first look photos.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/global/1536-drama-ava-pickett-hbo-bbc-1236828148/"
-        },
+          "url": "https://variety.com/2026/tv/news/martin-spinoff-varnell-hill-show-release-date-1236828346/"
+        }
+      ]
+    },
+    {
+      "title": "1536",
+      "network": "HBO/BBC",
+      "talent": "Ava Pickett (writer)",
+      "announcement": "HBO and BBC team for drama series written by Ava Pickett.",
+      "sources": [
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/hbo-bbc-1536-drama-series-ava-pickett-1236664851/"
@@ -201,26 +221,38 @@
       ]
     },
     {
-      "title": "Brown Supremacist",
-      "network": "Veeps",
-      "talent": "Jay Chandrasekhar",
-      "announcement": "Jay Chandrasekhar sets Veeps launch for his debut solo stand-up special.",
+      "title": "Holiday Touchdown: Bears Love Story",
+      "network": "Hallmark",
+      "talent": "Lyndsy Fonseca, Robert Buckley",
+      "announcement": "Hallmark movie in the Holiday Touchdown franchise starring Lyndsy Fonseca and Robert Buckley.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/jay-chandrasekhar-special-brown-supremacist-premiere-date-1237018665/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/hallmark-holiday-touchdown-bears-love-story-cast-1236664869/"
         }
       ]
     },
     {
-      "title": "Mrs. Saturday Night",
-      "network": "",
-      "talent": "Tammy Pescatelli",
-      "announcement": "Comedian Tammy Pescatelli partners with Comedy Dynamics on new special.",
+      "title": "Adam's Law",
+      "network": "Unknown",
+      "talent": "Judy Sheindlin",
+      "announcement": "Judy Sheindlin's new show announced with fall premiere date set.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/08/tammy-pescatelli-special-mrs-saturday-night-premiere-date-1237018700/"
+          "url": "https://deadline.com/2026/08/drew-barrymore-judy-sheindlin-shows-fall-premiere-dates-1237018541/"
+        }
+      ]
+    },
+    {
+      "title": "High Value Target: The Hunt for Saddam",
+      "network": "Unknown",
+      "talent": "Joel Kinnaman",
+      "announcement": "Joel Kinnaman interrogates Saddam Hussein in trailer for the series.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-high-value-target-hunt-for-saddam-hussein-trailer-1236664849/"
         }
       ]
     },
@@ -238,28 +270,16 @@
     },
     {
       "title": "The Challenge: Cutthroat II",
-      "network": "",
+      "network": "MTV",
       "talent": "",
-      "announcement": "Cast announced for Season 42 of the competition series.",
+      "announcement": "Season 42 cast announced for the reality competition series.",
       "sources": [
         {
           "name": "TheWrap",
           "url": "https://www.thewrap.com/creative-content/tv-shows/the-challenge-season-42-cutthroat-cast/"
         }
       ]
-    },
-    {
-      "title": "Holiday Touchdown",
-      "network": "Hallmark",
-      "talent": "Lyndsy Fonseca, Robert Buckley",
-      "announcement": "Hallmark's next Holiday Touchdown movie cast with Lyndsy Fonseca and Robert Buckley.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/hallmark-holiday-touchdown-bears-love-story-cast-1236664869/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-05T18:24:10.080Z"
+  "lastUpdated": "2026-08-05T20:09:45.934Z"
 }
