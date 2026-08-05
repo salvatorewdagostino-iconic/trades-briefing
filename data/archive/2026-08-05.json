@@ -3,10 +3,22 @@
   "summary": "6 film announcements, 5 TV announcements across 5 trades.",
   "film": [
     {
+      "title": "Deep End",
+      "studio": "Netflix",
+      "talent": "Shawn Levy (21 Laps), Alex Cooper (Unwell Productions)",
+      "announcement": "Netflix has acquired the film rights to Ali Hazelwood's adult romance novel with Shawn Levy's 21 Laps and Alex Cooper's Unwell Productions producing the feature adaptation.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/deep-end-movie-netflix-alex-cooper-shawn-levy-ali-hazelwood-1237018553/"
+        }
+      ]
+    },
+    {
       "title": "Doctor Caligari's Cabinet of Wonders",
       "studio": "",
       "talent": "Michael Shannon, Talia Ryder",
-      "announcement": "Talia Ryder has joined Michael Shannon in the film.",
+      "announcement": "Talia Ryder has joined Michael Shannon in the film Doctor Caligari's Cabinet of Wonders.",
       "sources": [
         {
           "name": "Variety",
@@ -15,22 +27,10 @@
       ]
     },
     {
-      "title": "Aman",
-      "studio": "",
-      "talent": "",
-      "announcement": "Trans pregnancy drama boards Nikkhil Advani and Dominique Welinski as executive producers ahead of Toronto World Premiere.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/festivals/trans-pregnancy-toronto-aman-nikkhil-advani-dominique-welinski-1236827564/"
-        }
-      ]
-    },
-    {
       "title": "The Life and Deaths of Wilson Shedd",
       "studio": "WestEnd Films",
-      "talent": "Amanda Seyfried, Scoot McNairy, Tim Blake Nelson (director)",
-      "announcement": "Tim Blake Nelson's film starring Amanda Seyfried and Scoot McNairy has been boarded by WestEnd Films.",
+      "talent": "Tim Blake Nelson (director), Amanda Seyfried, Scoot McNairy",
+      "announcement": "Tim Blake Nelson's The Life and Deaths of Wilson Shedd, starring Amanda Seyfried and Scoot McNairy, has boarded WestEnd Films for international sales.",
       "sources": [
         {
           "name": "Variety",
@@ -39,14 +39,14 @@
       ]
     },
     {
-      "title": "Dorothy",
+      "title": "Aman",
       "studio": "",
-      "talent": "",
-      "announcement": "Karthik Subbaraj's Toronto-bound film unveils teaser.",
+      "talent": "Nikkhil Advani, Dominique Welinski (executive producers)",
+      "announcement": "The trans pregnancy drama Aman has boarded Nikkhil Advani and Dominique Welinski as executive producers ahead of its Toronto World Premiere.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/festivals/karthik-subbaraj-toronto-dorothy-teaser-1236828207/"
+          "url": "https://variety.com/2026/film/festivals/trans-pregnancy-toronto-aman-nikkhil-advani-dominique-welinski-1236827564/"
         }
       ]
     },
@@ -54,7 +54,7 @@
       "title": "The Bridge",
       "studio": "",
       "talent": "Kevin Bright (producer)",
-      "announcement": "October 7 survivors documentary produced by Kevin Bright sets North American release.",
+      "announcement": "The October 7 survivors documentary The Bridge, produced by Kevin Bright, has set a North American release date.",
       "sources": [
         {
           "name": "Variety",
@@ -63,14 +63,14 @@
       ]
     },
     {
-      "title": "Wildwood",
-      "studio": "Laika",
-      "talent": "",
-      "announcement": "Laika's Portland-set stop-motion adventure film teases release with poster.",
+      "title": "Bound By Duty",
+      "studio": "ReelShort",
+      "talent": "Cora Reilly (author)",
+      "announcement": "ReelShort has adapted Cora Reilly's Bound By Duty as its latest mafia romance microdrama.",
       "sources": [
         {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/news/general-news/wildwood-poster-laika-stop-motion-movie-1235208575/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/reelshort-adapts-bound-by-duty-cora-reilly-born-in-blood-1237018397/"
         }
       ]
     }
@@ -78,9 +78,9 @@
   "tv": [
     {
       "title": "Trauma",
-      "network": "Paramount+, Prime Video UK",
+      "network": "Paramount+ / Prime Video UK",
       "talent": "Richard Madden",
-      "announcement": "Richard Madden set to star in medical hostage thriller series at Paramount+ and Prime Video UK.",
+      "announcement": "Richard Madden will star in the medical hostage thriller series Trauma at Paramount+ (with Prime Video UK also involved).",
       "sources": [
         {
           "name": "Deadline",
@@ -94,9 +94,9 @@
     },
     {
       "title": "1536",
-      "network": "HBO, BBC",
-      "talent": "Ava Pickett (creator/playwright)",
-      "announcement": "HBO boards BBC's Tudor drama series based on Ava Pickett's West End play.",
+      "network": "HBO / BBC",
+      "talent": "Ava Pickett (playwright)",
+      "announcement": "HBO has boarded the BBC drama series 1536, based on Ava Pickett's West End play.",
       "sources": [
         {
           "name": "Deadline",
@@ -109,10 +109,22 @@
       ]
     },
     {
+      "title": "Mrs. Saturday Night",
+      "network": "Comedy Dynamics",
+      "talent": "Tammy Pescatelli",
+      "announcement": "Comedian Tammy Pescatelli has partnered with Comedy Dynamics on the new special Mrs. Saturday Night.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/tammy-pescatelli-special-mrs-saturday-night-premiere-date-1237018700/"
+        }
+      ]
+    },
+    {
       "title": "The Varnell Hill Show",
       "network": "",
       "talent": "",
-      "announcement": "Martin spinoff sets September release date and drops first look photos.",
+      "announcement": "The Martin spinoff The Varnell Hill Show has set a September release date and dropped first look photos.",
       "sources": [
         {
           "name": "Variety",
@@ -124,26 +136,14 @@
       "title": "Carnival of the Animals",
       "network": "PBS Kids",
       "talent": "Gustavo Dudamel",
-      "announcement": "PBS Kids and conductor Gustavo Dudamel partner on 2D animated special.",
+      "announcement": "PBS Kids has partnered with conductor Gustavo Dudamel on the 2D animated special Carnival of the Animals.",
       "sources": [
         {
           "name": "TheWrap",
           "url": "https://www.thewrap.com/media-platforms/tv/pbs-kids-gustavo-dudamel-animated-special-carnival-of-the-animals/"
         }
       ]
-    },
-    {
-      "title": "Prose Society",
-      "network": "iHeart",
-      "talent": "Eli Rallo (host)",
-      "announcement": "Eli Rallo to host weekly podcast for iHeart.",
-      "sources": [
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/media-platforms/streaming/eli-rallo-hosts-prose-society-weekly-podcast-iheart-exclusive/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-05T16:25:32.779Z"
+  "lastUpdated": "2026-08-05T16:44:13.653Z"
 }
