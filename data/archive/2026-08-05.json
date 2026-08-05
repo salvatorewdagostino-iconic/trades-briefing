@@ -1,12 +1,12 @@
 {
   "date": "August 5, 2026",
-  "summary": "9 film announcements, 13 TV announcements across 5 trades.",
+  "summary": "8 film announcements, 11 TV announcements across 5 trades.",
   "film": [
     {
       "title": "Deep End",
       "studio": "Netflix",
       "talent": "Shawn Levy (21 Laps), Alex Cooper (Unwell Productions)",
-      "announcement": "Netflix acquired the film adaptation rights to Ali Hazelwood's hot new adult romance novel with Shawn Levy's 21 Laps and Alex Cooper's Unwell Productions producing.",
+      "announcement": "Netflix acquired film adaptation rights to Ali Hazelwood's adult romance novel. Shawn Levy's 21 Laps and Alex Cooper's Unwell Productions are producing the feature.",
       "sources": [
         {
           "name": "Deadline",
@@ -16,9 +16,9 @@
     },
     {
       "title": "Thud",
-      "studio": "Unknown",
-      "talent": "Sarah Michelle Gellar, Rudy Pankow, Brandon Scott, Vincent Rodriguez III",
-      "announcement": "The grim reaper-devil romance film rounded out its cast with six final additions including Brandon Scott and Vincent Rodriguez III.",
+      "studio": "",
+      "talent": "Sarah Michelle Gellar, Rudy Pankow",
+      "announcement": "Grim Reaper-Devil romance film rounds out cast with six final additions including Brandon Scott and Vincent Rodriguez III.",
       "sources": [
         {
           "name": "Deadline",
@@ -27,34 +27,10 @@
       ]
     },
     {
-      "title": "Doctor Caligari's Cabinet of Wonders",
-      "studio": "Unknown",
-      "talent": "Michael Shannon, Talia Ryder",
-      "announcement": "Talia Ryder joined Michael Shannon in the film adaptation of the classic expressionist horror tale.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/talia-ryder-doctor-caligaris-cabinet-of-wonders-1236827452/"
-        }
-      ]
-    },
-    {
-      "title": "Exit to the Guillotine",
-      "studio": "Unknown",
-      "talent": "Peyton List, Gustaf Skarsgård",
-      "announcement": "The psychological thriller starring Peyton List and Gustaf Skarsgård wrapped filming.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/peyton-list-gustaf-skarsgard-exit-to-the-guillotine-wraps-1236828591/"
-        }
-      ]
-    },
-    {
       "title": "Diya",
       "studio": "Paramount",
       "talent": "Jonathan Goldstein, John Francis Daley (producers)",
-      "announcement": "Paramount is developing an animated Bollywood-focused musical produced by Jonathan Goldstein and John Francis Daley.",
+      "announcement": "Animated Bollywood-focused musical in development at Paramount with producers Jonathan Goldstein and John Francis Daley attached.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -63,10 +39,22 @@
       ]
     },
     {
+      "title": "Exit to the Guillotine",
+      "studio": "",
+      "talent": "Peyton List, Gustaf Skarsgård",
+      "announcement": "Psychological thriller starring Peyton List and Gustaf Skarsgård has wrapped filming.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/peyton-list-gustaf-skarsgard-exit-to-the-guillotine-wraps-1236828591/"
+        }
+      ]
+    },
+    {
       "title": "Wildwood",
       "studio": "Laika",
       "talent": "",
-      "announcement": "Laika's stop-motion adventure film set in Portland released a poster teasing the project.",
+      "announcement": "Stop-motion animated adventure film from Laika with Portland setting announced with teaser poster.",
       "sources": [
         {
           "name": "IndieWire",
@@ -75,14 +63,14 @@
       ]
     },
     {
-      "title": "The Bridge",
-      "studio": "Unknown",
-      "talent": "Kevin Bright (producer)",
-      "announcement": "Kevin Bright-produced October 7 survivors documentary set North American release date.",
+      "title": "Carnival of the Animals",
+      "studio": "PBS Kids",
+      "talent": "Gustavo Dudamel",
+      "announcement": "2D animated special featuring conductor Gustavo Dudamel in partnership with PBS Kids.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/the-bridge-documentary-october-7-release-date-1236828150/"
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/tv/pbs-kids-gustavo-dudamel-animated-special-carnival-of-the-animals/"
         }
       ]
     },
@@ -90,7 +78,7 @@
       "title": "Theater Kids Vs. Zombies",
       "studio": "aTwist",
       "talent": "Jesse Tyler Ferguson, Justin Mikita",
-      "announcement": "Jesse Tyler Ferguson and Justin Mikita are prepping a musical microdrama for aTwist.",
+      "announcement": "Musical microdrama being developed by Jesse Tyler Ferguson and Justin Mikita for aTwist.",
       "sources": [
         {
           "name": "Deadline",
@@ -99,14 +87,14 @@
       ]
     },
     {
-      "title": "The Work In Progress",
-      "studio": "Unknown",
-      "talent": "Robert Reich (executive producer)",
-      "announcement": "Documentary from EP Robert Reich had trailer released, aimed at helping bridge America's deepest divides.",
+      "title": "The Green Eyes",
+      "studio": "",
+      "talent": "",
+      "announcement": "Refugee adventure drama receives exclusive trailer reveal.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/the-work-in-progress-trailer-exclusive-1237018130/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/the-green-eyes-film-trailer-les-yeux-verts-locarno-2026-1236664672/"
         }
       ]
     }
@@ -114,9 +102,9 @@
   "tv": [
     {
       "title": "I Love LA",
-      "network": "Unknown",
+      "network": "",
       "talent": "Taron Egerton, Jamie Chung, Milan Carter",
-      "announcement": "Season 2 cast additions announced with Taron Egerton, Jamie Chung, and Milan Carter joining as guest stars.",
+      "announcement": "Season 2 adds Taron Egerton, Jamie Chung, Milan Carter and three additional actors in guest star roles.",
       "sources": [
         {
           "name": "Deadline",
@@ -131,8 +119,8 @@
     {
       "title": "Gilmore Girls Documentary",
       "network": "HBO Max",
-      "talent": "Lauren Graham, Amy Sherman-Palladino",
-      "announcement": "Documentary in development for HBO Max featuring Lauren Graham, never-before-seen footage, and involvement from creator Amy Sherman-Palladino.",
+      "talent": "Lauren Graham",
+      "announcement": "Documentary series in development at HBO Max featuring Lauren Graham and never-before-seen footage from the original series.",
       "sources": [
         {
           "name": "Deadline",
@@ -141,10 +129,6 @@
         {
           "name": "Variety",
           "url": "https://variety.com/2026/tv/news/gilmore-girls-documentary-hbo-max-1236828437/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/gilmore-girls-documentary-hbo-max-1236664946/"
         }
       ]
     },
@@ -152,7 +136,7 @@
       "title": "The Five Star Weekend",
       "network": "Peacock",
       "talent": "",
-      "announcement": "Series renewed for Season 2 after becoming Peacock's most-watched scripted series ever.",
+      "announcement": "Peacock renewed series for Season 2 after becoming the streamer's most-watched scripted series ever.",
       "sources": [
         {
           "name": "Deadline",
@@ -161,10 +145,6 @@
         {
           "name": "Variety",
           "url": "https://variety.com/2026/tv/news/the-five-star-weekend-renewed-season-2-peacock-1236828505/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/five-star-weekend-renewed-season-2-peacock-1236664952/"
         }
       ]
     },
@@ -172,7 +152,7 @@
       "title": "The Secret of Secrets",
       "network": "Netflix",
       "talent": "Cherry Jones, Corey Stoll, Rob Delaney, Abbey Lee",
-      "announcement": "Cast announced for Netflix's Dan Brown novel TV adaptation with Cherry Jones, Corey Stoll, Rob Delaney, and Abbey Lee.",
+      "announcement": "Netflix TV adaptation of Dan Brown novel adds Cherry Jones, Corey Stoll, Rob Delaney and Abbey Lee to cast.",
       "sources": [
         {
           "name": "Deadline",
@@ -182,97 +162,77 @@
     },
     {
       "title": "Trauma",
-      "network": "Paramount+ and Prime Video UK",
+      "network": "Paramount+ / Prime Video UK",
       "talent": "Richard Madden",
-      "announcement": "Richard Madden cast to star in medical hostage thriller series for Paramount+ and Prime Video UK.",
+      "announcement": "Medical hostage thriller series starring Richard Madden set at Paramount+ and Prime Video UK.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/08/richard-madden-hostage-thriller-series-trauma-paramount-1237018636/"
-        },
+        }
+      ]
+    },
+    {
+      "title": "Disinherited",
+      "network": "FX",
+      "talent": "Avi Nash",
+      "announcement": "FX drama adds Avi Nash to cast.",
+      "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/richard-madden-thriller-series-trauma-prime-video-paramount-1236828322/"
+          "url": "https://variety.com/2026/tv/news/avi-nash-fx-disinherited-1236828609/"
         }
       ]
     },
     {
       "title": "The Varnell Hill Show",
-      "network": "Unknown",
+      "network": "",
       "talent": "",
-      "announcement": "Martin spinoff set September release date and dropped first look photos.",
+      "announcement": "Martin spinoff sets September release date and drops first look photos.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/tv/news/martin-spinoff-varnell-hill-show-release-date-1236828346/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/martin-spinoff-varnell-hill-show-premiere-1236665164/"
         }
       ]
     },
     {
-      "title": "1536",
-      "network": "HBO/BBC",
-      "talent": "Ava Pickett (writer)",
-      "announcement": "HBO and BBC team for drama series written by Ava Pickett.",
+      "title": "The Shards",
+      "network": "FX",
+      "talent": "Ryan Murphy (adaptation)",
+      "announcement": "Ryan Murphy's adaptation of Bret Easton Ellis bestseller is available to watch on FX.",
       "sources": [
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/hbo-bbc-1536-drama-series-ava-pickett-1236664851/"
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-the-shards-ryan-murphy-show-fx-streaming-online-free-1236665037/"
         }
       ]
     },
     {
-      "title": "Holiday Touchdown: Bears Love Story",
-      "network": "Hallmark",
-      "talent": "Lyndsy Fonseca, Robert Buckley",
-      "announcement": "Hallmark movie in the Holiday Touchdown franchise starring Lyndsy Fonseca and Robert Buckley.",
+      "title": "Sterling Point",
+      "network": "Amazon",
+      "talent": "Megan Park (creator/showrunner), Ella Rubin",
+      "announcement": "Megan Park's YA series examines teen drama with refreshing realism and includes Ella Rubin in cast.",
       "sources": [
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/hallmark-holiday-touchdown-bears-love-story-cast-1236664869/"
-        }
-      ]
-    },
-    {
-      "title": "Adam's Law",
-      "network": "Unknown",
-      "talent": "Judy Sheindlin",
-      "announcement": "Judy Sheindlin's new show announced with fall premiere date set.",
-      "sources": [
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/inside-sterling-point-megan-park-ya-series-cast-producers-1236664341/"
+        },
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/drew-barrymore-judy-sheindlin-shows-fall-premiere-dates-1237018541/"
-        }
-      ]
-    },
-    {
-      "title": "High Value Target: The Hunt for Saddam",
-      "network": "Unknown",
-      "talent": "Joel Kinnaman",
-      "announcement": "Joel Kinnaman interrogates Saddam Hussein in trailer for the series.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-high-value-target-hunt-for-saddam-hussein-trailer-1236664849/"
-        }
-      ]
-    },
-    {
-      "title": "Carnival of the Animals",
-      "network": "PBS Kids",
-      "talent": "Gustavo Dudamel",
-      "announcement": "PBS Kids and Gustavo Dudamel partner on 2D animated special.",
-      "sources": [
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/media-platforms/tv/pbs-kids-gustavo-dudamel-animated-special-carnival-of-the-animals/"
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/criticism/shows/sterling-point-review-megan-park-amazon-series-ella-rubin-1235208696/"
         }
       ]
     },
     {
       "title": "The Challenge: Cutthroat II",
-      "network": "MTV",
+      "network": "",
       "talent": "",
-      "announcement": "Season 42 cast announced for the reality competition series.",
+      "announcement": "Season 42 of The Challenge with Cutthroat format announced with cast revealed.",
       "sources": [
         {
           "name": "TheWrap",
@@ -281,5 +241,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-05T20:09:45.934Z"
+  "lastUpdated": "2026-08-05T21:48:28.201Z"
 }
