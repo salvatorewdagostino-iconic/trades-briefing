@@ -1,7 +1,43 @@
 {
   "date": "August 7, 2026",
-  "summary": "7 film announcements, 5 TV announcements across 5 trades.",
+  "summary": "13 film announcements, 6 TV announcements across 5 trades.",
   "film": [
+    {
+      "title": "Nickels",
+      "studio": "Briarcliff Entertainment",
+      "talent": "Rob Riggle",
+      "announcement": "Briarcliff Entertainment sets fall theatrical and PVOD release for the supernatural thriller.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/rob-riggle-nickles-release-date-1237028745/"
+        }
+      ]
+    },
+    {
+      "title": "Sherlock's Secretary",
+      "studio": "USA Network",
+      "talent": "Andy Berman",
+      "announcement": "Procedural drama from 'Psych' creator Andy Berman in development at USA Network.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/sherlocks-secretary-tv-series-usa-network-development-1237028677/"
+        }
+      ]
+    },
+    {
+      "title": "Leprechaun",
+      "studio": "Lionsgate",
+      "talent": "Patrick Melton, Marcus Dunstan",
+      "announcement": "New horror film in development from Lionsgate with writers Patrick Melton and Marcus Dunstan.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/leprechaun-new-horror-movie-lionsgate-1237028578/"
+        }
+      ]
+    },
     {
       "title": "The Legend of Zelda",
       "studio": "",
@@ -15,22 +51,10 @@
       ]
     },
     {
-      "title": "Leprechaun",
-      "studio": "Lionsgate",
-      "talent": "Patrick Melton, Marcus Dunstan",
-      "announcement": "New horror film in development with screenwriters Patrick Melton and Marcus Dunstan attached.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/leprechaun-new-horror-movie-lionsgate-1237028578/"
-        }
-      ]
-    },
-    {
       "title": "Drifter",
       "studio": "",
       "talent": "Kate Beckinsale, Dermot Mulroney, Robert Knepper, Sticky Fingaz",
-      "announcement": "Action-thriller film with Kate Beckinsale, Dermot Mulroney, Robert Knepper and rapper Sticky Fingaz leading the cast.",
+      "announcement": "Action-thriller casts Kate Beckinsale, Dermot Mulroney, Robert Knepper, and rapper Sticky Fingaz.",
       "sources": [
         {
           "name": "Deadline",
@@ -42,15 +66,15 @@
       "title": "The Gallerist",
       "studio": "Roadside Attractions, Vertical",
       "talent": "Jenna Ortega, Natalie Portman",
-      "announcement": "MRC comedy acquired by Roadside Attractions and Vertical for U.S. distribution.",
+      "announcement": "MRC comedy with Jenna Ortega and Natalie Portman acquired by Roadside Attractions and Vertical for U.S. distribution.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/08/jenna-ortega-natalie-portman-the-gallerist-1237028495/"
         },
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/the-gallerist-release-date-natalie-portman-jenna-ortega-1236640184/"
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/festivals/sundance-2026-movies-sold-so-far-1235174095/"
         },
         {
           "name": "TheWrap",
@@ -71,10 +95,34 @@
       ]
     },
     {
+      "title": "Dedicated to Morris Burke",
+      "studio": "",
+      "talent": "Da'Vine Joy Randolph, Will Ropp",
+      "announcement": "Da'Vine Joy Randolph stars in indie dark comedy directed by Will Ropp.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/columns/davine-joy-randolph-dark-comedy-dedicated-to-morris-burke-director-will-ropp-1236830182/"
+        }
+      ]
+    },
+    {
+      "title": "Bridgette Wrona and the Whisper Creek Murders",
+      "studio": "Little Spark Films",
+      "talent": "",
+      "announcement": "YA mystery film wraps production; follows a podcaster hunting a serial killer.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/bridgette-wrona-and-the-whisper-creek-murders-wraps-1236829987/"
+        }
+      ]
+    },
+    {
       "title": "Descendants: Hidden Heroes",
       "studio": "Disney",
       "talent": "",
-      "announcement": "New Descendants film greenlit following children of sidekicks from Aladdin, The Emperor's New Groove and other Disney films.",
+      "announcement": "Disney expands the 'Descendants' universe with new film following the children of sidekicks from 'Aladdin,' 'The Emperor's New Groove,' and more.",
       "sources": [
         {
           "name": "Deadline",
@@ -83,22 +131,6 @@
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/descendants-hidden-heroes-movie-iconic-disney-sidekicks-1236666492/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/disney-new-descendants-movie-sidekicks-hidden-heroes/"
-        }
-      ]
-    },
-    {
-      "title": "Bridgette Wrona and the Whisper Creek Murders",
-      "studio": "Little Spark Films",
-      "talent": "",
-      "announcement": "YA mystery film wraps production, following a podcaster hunting a serial killer.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/bridgette-wrona-and-the-whisper-creek-murders-wraps-1236829987/"
         }
       ]
     }
@@ -108,7 +140,7 @@
       "title": "Heated Rivalry",
       "network": "",
       "talent": "Justice Smith, Charlie Gillespie",
-      "announcement": "Season 2 casts Justice Smith as Harris and Charlie Gillespie as Troy, with season 2 debut confirmed for Spring 2027.",
+      "announcement": "Season 2 casts Justice Smith as Harris and Charlie Gillespie as Troy; season 2 debut confirmed for spring 2027.",
       "sources": [
         {
           "name": "Deadline",
@@ -132,7 +164,7 @@
       "title": "New York Yankees Drama Series",
       "network": "Netflix",
       "talent": "Jason Bateman",
-      "announcement": "Netflix developing new Yankees drama series from Jason Bateman's Aggregate Films, Josh Wakely and MLB.",
+      "announcement": "Netflix developing new drama series about the Yankees with Jason Bateman's Aggregate Films, Josh Wakely, and MLB.",
       "sources": [
         {
           "name": "Deadline",
@@ -145,41 +177,29 @@
       ]
     },
     {
+      "title": "Ted Lasso",
+      "network": "Apple TV+",
+      "talent": "",
+      "announcement": "Season 4 greenlit with women's sports as the central storyline to bring back the hit series.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/ted-lasso-womens-sports-storyline-apple-tv-season-4-1236829725/"
+        }
+      ]
+    },
+    {
       "title": "The Secret Lives of Mormon Wives",
       "network": "Hulu",
       "talent": "",
-      "announcement": "Series renewed for 20 additional episodes following Taylor Frankie Paul drama.",
+      "announcement": "Reality series lands 20-episode renewal for season 6 following Taylor Frankie Paul drama.",
       "sources": [
         {
           "name": "TheWrap",
           "url": "https://www.thewrap.com/creative-content/tv-shows/the-secret-lives-of-mormon-wives-renewed-20-more-episodes-season-6/"
         }
       ]
-    },
-    {
-      "title": "The Traitors: India",
-      "network": "",
-      "talent": "Karan Johar",
-      "announcement": "Season 2 unveils trailer with Karan Johar hosting and 21-celebrity cast.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/the-traitors-india-season-2-trailer-1236829121/"
-        }
-      ]
-    },
-    {
-      "title": "Caroline Fletcher",
-      "network": "",
-      "talent": "Craig Conover",
-      "announcement": "Southern Charm star Craig Conover cast in indie dramedy.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/news/general-news/southern-charm-star-craig-conover-set-for-indie-dramedy-caroline-fletcher-exclusive-1236663114/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-07T17:02:22.762Z"
+  "lastUpdated": "2026-08-07T18:22:54.645Z"
 }
