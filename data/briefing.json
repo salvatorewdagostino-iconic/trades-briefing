@@ -1,37 +1,145 @@
 {
   "date": "August 7, 2026",
-  "summary": "1 film announcement, 1 TV announcement across 3 trades.",
+  "summary": "7 film announcements, 3 TV announcements across 5 trades.",
   "film": [
     {
+      "title": "Drifter",
+      "studio": "",
+      "talent": "Kate Beckinsale, Dermot Mulroney, Robert Knepper, Sticky Fingaz",
+      "announcement": "Action-thriller film with Kate Beckinsale, Dermot Mulroney, Robert Knepper and rapper Sticky Fingaz in the cast.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/kate-beckinsale-dermot-mulroney-movie-drifter-ohio-1237028529/"
+        }
+      ]
+    },
+    {
+      "title": "The Gallerist",
+      "studio": "Roadside Attractions, Vertical",
+      "talent": "Jenna Ortega, Natalie Portman",
+      "announcement": "MRC comedy film acquired by Roadside Attractions and Vertical for U.S. distribution.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/jenna-ortega-natalie-portman-the-gallerist-1237028495/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/the-gallerist-release-date-natalie-portman-jenna-ortega-1236640184/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/the-gallerist-acquisition-vertical-roadside-release-date/"
+        }
+      ]
+    },
+    {
+      "title": "Alien Boy",
+      "studio": "Echo Lake, Mongrel Media",
+      "talent": "Waleed Zuaiter, Sarah Gadon",
+      "announcement": "Sci-fi film starring Waleed Zuaiter and Sarah Gadon has wrapped filming with Echo Lake and Mongrel Media as partners.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/sarah-gadon-waleed-zuaiter-sci-fi-alien-boy-canada-1237028427/"
+        }
+      ]
+    },
+    {
+      "title": "Beatles Production",
+      "studio": "",
+      "talent": "Sam Mendes (director)",
+      "announcement": "Sam Mendes' Beatles film production is heading to Abbey Road for filming.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/sam-mendes-beatles-production-filming-abbey-road-1237027697/"
+        }
+      ]
+    },
+    {
+      "title": "Descendants: Hidden Heroes",
+      "studio": "Disney",
+      "talent": "",
+      "announcement": "Disney expands Descendants universe with new film following the children of sidekicks from Aladdin, The Emperor's New Groove and other classic films.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/descendants-disney-sidekick-movie-hidden-heroes-1237028262/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/descendants-hidden-heroes-movie-iconic-disney-sidekicks-1236666492/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/disney-new-descendants-movie-sidekicks-hidden-heroes/"
+        }
+      ]
+    },
+    {
       "title": "Grown Ups 3",
-      "studio": "Sony Pictures",
+      "studio": "",
       "talent": "Adam Sandler",
-      "announcement": "Production has begun on the third installment of the Grown Ups franchise, with Adam Sandler reuniting with co-stars as confirmed by set photos.",
+      "announcement": "Grown Ups 3 begins production with Adam Sandler reuniting with co-stars as confirmed by set photos.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/08/grown-ups-3-begins-production-adam-sandler-set-photo-1237028288/"
         }
       ]
-    }
-  ],
-  "tv": [
+    },
     {
-      "title": "Stuart Fails to Save the Universe",
-      "network": "Unknown",
-      "talent": "Melissa Rauch, Wil Wheaton, Brian Posehn, John Ross Bowie",
-      "announcement": "Episode 3 features a magic-themed storyline with a WGA strike roast, with Melissa Rauch from The Big Bang Theory in a surprise larger-than-life role.",
+      "title": "Caroline Fletcher",
+      "studio": "",
+      "talent": "Craig Conover",
+      "announcement": "Indie dramedy film with Southern Charm star Craig Conover set to star.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/stuart-fails-melissa-rauch-wga-magic-episode-3-explained-1237014249/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/melissa-rauch-stuart-fails-to-save-the-universe-role-1236829612/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/news/general-news/southern-charm-star-craig-conover-set-for-indie-dramedy-caroline-fletcher-exclusive-1236663114/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-08-07T04:55:34.275Z"
+  "tv": [
+    {
+      "title": "Power Book III: Raising Kanan",
+      "network": "Starz",
+      "talent": "",
+      "announcement": "Series concludes after 5 seasons with the series finale wrapping up the story.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/power-book-iii-raising-kanan-recap-series-finale-1237017524/"
+        }
+      ]
+    },
+    {
+      "title": "The Traitors: India Season 2",
+      "network": "",
+      "talent": "Karan Johar, 21 celebrities",
+      "announcement": "Indian version of The Traitors unveils trailer for season 2 featuring host Karan Johar and a 21-celebrity cast.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/the-traitors-india-season-2-trailer-1236829121/"
+        }
+      ]
+    },
+    {
+      "title": "The Secret Lives of Mormon Wives",
+      "network": "",
+      "talent": "Taylor Frankie Paul",
+      "announcement": "Reality series receives 20-episode renewal for season 6 following the Taylor Frankie Paul drama.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/the-secret-lives-of-mormon-wives-renewed-20-more-episodes-season-6/"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-08-07T15:59:50.916Z"
 }
