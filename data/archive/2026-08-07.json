@@ -5,8 +5,8 @@
     {
       "title": "Leprechaun",
       "studio": "Lionsgate",
-      "talent": "Patrick Melton, Marcus Dunstan (writers/producers)",
-      "announcement": "New horror film in development from Lionsgate with writers Patrick Melton and Marcus Dunstan attached.",
+      "talent": "Patrick Melton, Marcus Dunstan (writers)",
+      "announcement": "New horror film in development from Lionsgate with screenwriters Patrick Melton and Marcus Dunstan attached.",
       "sources": [
         {
           "name": "Deadline",
@@ -18,7 +18,7 @@
       "title": "The Legend of Zelda",
       "studio": "",
       "talent": "Lydia Peckham",
-      "announcement": "Lydia Peckham cast in the film adaptation of The Legend of Zelda.",
+      "announcement": "Lydia Peckham cast in the video game adaptation film.",
       "sources": [
         {
           "name": "Deadline",
@@ -30,7 +30,7 @@
       "title": "Drifter",
       "studio": "",
       "talent": "Kate Beckinsale, Dermot Mulroney, Robert Knepper, Sticky Fingaz",
-      "announcement": "Action-thriller film casts Kate Beckinsale, Dermot Mulroney, Robert Knepper and rapper Sticky Fingaz in leading roles.",
+      "announcement": "Action-thriller film with Kate Beckinsale, Dermot Mulroney, Robert Knepper, and rapper Sticky Fingaz in lead roles.",
       "sources": [
         {
           "name": "Deadline",
@@ -42,11 +42,15 @@
       "title": "The Gallerist",
       "studio": "Roadside Attractions, Vertical",
       "talent": "Jenna Ortega, Natalie Portman",
-      "announcement": "MRC comedy starring Jenna Ortega and Natalie Portman acquired by Roadside Attractions and Vertical for U.S. distribution.",
+      "announcement": "MRC comedy film starring Jenna Ortega and Natalie Portman acquired by Roadside Attractions and Vertical for U.S. distribution.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/08/jenna-ortega-natalie-portman-the-gallerist-1237028495/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/columns/davine-joy-randolph-dark-comedy-dedicated-to-morris-burke-director-will-ropp-1236830182/"
         },
         {
           "name": "IndieWire",
@@ -58,7 +62,7 @@
       "title": "Nickels",
       "studio": "Briarcliff Entertainment",
       "talent": "Rob Riggle",
-      "announcement": "Supernatural drama sets fall theatrical and PVOD release dates through Briarcliff Entertainment.",
+      "announcement": "Supernatural drama starring Rob Riggle set for fall theatrical and PVOD release by Briarcliff Entertainment.",
       "sources": [
         {
           "name": "Deadline",
@@ -67,10 +71,34 @@
       ]
     },
     {
+      "title": "Blur",
+      "studio": "Netflix",
+      "talent": "Kirill Sokolov (director)",
+      "announcement": "Sci-fi action film in development at Netflix with director Kirill Sokolov, known for 'They Will Kill You,' attached.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/they-will-kill-you-sci-fi-action-movie-blur-netflix-1236660987/"
+        }
+      ]
+    },
+    {
+      "title": "Crawl",
+      "studio": "Paramount",
+      "talent": "Mason Gooding, Emily Rudd",
+      "announcement": "Sequel to 'Crawl' in development at Paramount with Mason Gooding and Emily Rudd starring.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/crawl-sequel-mason-gooding-emily-rudd-1236666150/"
+        }
+      ]
+    },
+    {
       "title": "Dedicated to Morris Burke",
       "studio": "",
       "talent": "Da'Vine Joy Randolph",
-      "announcement": "Da'Vine Joy Randolph cast to star in indie dark comedy directed by Will Ropp.",
+      "announcement": "Indie dark comedy film starring Da'Vine Joy Randolph with director Will Ropp attached.",
       "sources": [
         {
           "name": "Variety",
@@ -82,7 +110,7 @@
       "title": "Descendants: Hidden Heroes",
       "studio": "Disney",
       "talent": "",
-      "announcement": "Disney expands Descendants universe with new film following children of sidekicks from Aladdin, The Emperor's New Groove and more.",
+      "announcement": "New Disney film expanding the Descendants universe, featuring children of sidekicks from 'Aladdin,' 'The Emperor's New Groove,' and other films.",
       "sources": [
         {
           "name": "Deadline",
@@ -93,38 +121,14 @@
           "url": "https://www.hollywoodreporter.com/tv/tv-news/descendants-hidden-heroes-movie-iconic-disney-sidekicks-1236666492/"
         }
       ]
-    },
-    {
-      "title": "Star Trek 60th Anniversary Documentary",
-      "studio": "Paramount (Regal Cinemas release)",
-      "talent": "William Shatner",
-      "announcement": "60th anniversary Star Trek documentary featuring William Shatner coming to Regal Cinemas in October.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/star-trek-documentary-william-shatner-regal-cinemas-october-1237028422/"
-        }
-      ]
-    },
-    {
-      "title": "Wonka 2",
-      "studio": "Warner Bros.",
-      "talent": "",
-      "announcement": "Warner Bros. and screenwriter clarify that Wonka 2 is not delayed indefinitely.",
-      "sources": [
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/wonka-2-not-delayed-indefinitely-screenwriter-warner-bros-update/"
-        }
-      ]
     }
   ],
   "tv": [
     {
       "title": "Sherlock's Secretary",
       "network": "USA Network",
-      "talent": "Andy Berman",
-      "announcement": "Andy Berman, creator of Psych, eyeing return to USA Network with procedural series Sherlock's Secretary in development.",
+      "talent": "Andy Berman (creator/from 'Psych')",
+      "announcement": "Procedural series in development at USA Network from 'Psych' creator Andy Berman.",
       "sources": [
         {
           "name": "Deadline",
@@ -136,7 +140,7 @@
       "title": "Heated Rivalry",
       "network": "",
       "talent": "Justice Smith, Charlie Gillespie",
-      "announcement": "Season 2 casts Justice Smith as Harris and Charlie Gillespie as Troy with debut confirmed for Spring 2027.",
+      "announcement": "Season 2 casting announced with Justice Smith and Charlie Gillespie as Harris and Troy; Season 2 debut confirmed for Spring 2027.",
       "sources": [
         {
           "name": "Deadline",
@@ -159,8 +163,8 @@
     {
       "title": "New York Yankees Drama Series",
       "network": "Netflix",
-      "talent": "Jason Bateman (producer via Aggregate Films), Josh Wakely",
-      "announcement": "Netflix developing Yankees drama series from Jason Bateman's Aggregate Films, Josh Wakely and MLB.",
+      "talent": "Jason Bateman (Aggregate Films), Josh Wakely, MLB",
+      "announcement": "Netflix is developing a drama series about the New York Yankees from Jason Bateman's production company Aggregate Films, Josh Wakely, and MLB.",
       "sources": [
         {
           "name": "Deadline",
@@ -174,16 +178,40 @@
     },
     {
       "title": "The Secret Lives of Mormon Wives",
-      "network": "Hulu",
-      "talent": "Taylor Frankie Paul",
-      "announcement": "Series lands 20-episode renewal for additional episodes following Taylor Frankie Paul drama.",
+      "network": "",
+      "talent": "",
+      "announcement": "Reality series renewed for 20 additional episodes following Taylor Frankie Paul drama.",
       "sources": [
         {
           "name": "TheWrap",
           "url": "https://www.thewrap.com/creative-content/tv-shows/the-secret-lives-of-mormon-wives-renewed-20-more-episodes-season-6/"
         }
       ]
+    },
+    {
+      "title": "Ted Lasso",
+      "network": "Apple TV+",
+      "talent": "",
+      "announcement": "Season 4 is underway with women's sports as a key storyline that brought the hit show back.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/ted-lasso-womens-sports-storyline-apple-tv-season-4-1236829725/"
+        }
+      ]
+    },
+    {
+      "title": "Baywatch",
+      "network": "",
+      "talent": "Ryder Williams (16-year-old lifeguard)",
+      "announcement": "Show honored 16-year-old lifeguard hero Ryder Williams during a set visit.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/baywatch-16-year-old-lifeguard-ryder-williams-set-visit-1236830289/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-08-07T20:45:20.582Z"
+  "lastUpdated": "2026-08-07T21:42:29.454Z"
 }
