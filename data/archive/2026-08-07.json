@@ -1,36 +1,12 @@
 {
   "date": "August 7, 2026",
-  "summary": "11 film announcements, 6 TV announcements across 5 trades.",
+  "summary": "9 film announcements, 6 TV announcements across 5 trades.",
   "film": [
-    {
-      "title": "Nickels",
-      "studio": "Briarcliff Entertainment",
-      "talent": "Rob Riggle",
-      "announcement": "Supernatural drama set for fall theatrical and PVOD release.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/rob-riggle-nickles-release-date-1237028745/"
-        }
-      ]
-    },
-    {
-      "title": "Sherlock's Secretary",
-      "studio": "USA Network",
-      "talent": "Andy Berman",
-      "announcement": "Procedural series in development from 'Psych' creator Andy Berman for USA Network.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/sherlocks-secretary-tv-series-usa-network-development-1237028677/"
-        }
-      ]
-    },
     {
       "title": "Leprechaun",
       "studio": "Lionsgate",
-      "talent": "Patrick Melton, Marcus Dunstan",
-      "announcement": "New horror movie in development from writers Patrick Melton and Marcus Dunstan.",
+      "talent": "Patrick Melton, Marcus Dunstan (writers/producers)",
+      "announcement": "New horror film in development from Lionsgate with writers Patrick Melton and Marcus Dunstan attached.",
       "sources": [
         {
           "name": "Deadline",
@@ -42,7 +18,7 @@
       "title": "The Legend of Zelda",
       "studio": "",
       "talent": "Lydia Peckham",
-      "announcement": "Lydia Peckham added to cast of The Legend of Zelda movie.",
+      "announcement": "Lydia Peckham cast in the film adaptation of The Legend of Zelda.",
       "sources": [
         {
           "name": "Deadline",
@@ -54,7 +30,7 @@
       "title": "Drifter",
       "studio": "",
       "talent": "Kate Beckinsale, Dermot Mulroney, Robert Knepper, Sticky Fingaz",
-      "announcement": "Action-thriller cast with Kate Beckinsale, Dermot Mulroney, Robert Knepper, and rapper Sticky Fingaz.",
+      "announcement": "Action-thriller film casts Kate Beckinsale, Dermot Mulroney, Robert Knepper and rapper Sticky Fingaz in leading roles.",
       "sources": [
         {
           "name": "Deadline",
@@ -66,7 +42,7 @@
       "title": "The Gallerist",
       "studio": "Roadside Attractions, Vertical",
       "talent": "Jenna Ortega, Natalie Portman",
-      "announcement": "MRC comedy with Jenna Ortega and Natalie Portman acquired by Roadside Attractions and Vertical for U.S. distribution.",
+      "announcement": "MRC comedy starring Jenna Ortega and Natalie Portman acquired by Roadside Attractions and Vertical for U.S. distribution.",
       "sources": [
         {
           "name": "Deadline",
@@ -79,14 +55,14 @@
       ]
     },
     {
-      "title": "Star Trek 60th Anniversary Documentary",
-      "studio": "Regal Cinemas",
-      "talent": "William Shatner",
-      "announcement": "60th anniversary Star Trek documentary with William Shatner coming to Regal Cinemas in October.",
+      "title": "Nickels",
+      "studio": "Briarcliff Entertainment",
+      "talent": "Rob Riggle",
+      "announcement": "Supernatural drama sets fall theatrical and PVOD release dates through Briarcliff Entertainment.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/08/star-trek-documentary-william-shatner-regal-cinemas-october-1237028422/"
+          "url": "https://deadline.com/2026/08/rob-riggle-nickles-release-date-1237028745/"
         }
       ]
     },
@@ -94,7 +70,7 @@
       "title": "Dedicated to Morris Burke",
       "studio": "",
       "talent": "Da'Vine Joy Randolph",
-      "announcement": "Da'Vine Joy Randolph to star in indie dark comedy directed by Will Ropp.",
+      "announcement": "Da'Vine Joy Randolph cast to star in indie dark comedy directed by Will Ropp.",
       "sources": [
         {
           "name": "Variety",
@@ -103,22 +79,10 @@
       ]
     },
     {
-      "title": "Bridgette Wrona and the Whisper Creek Murders",
-      "studio": "Little Spark Films",
-      "talent": "",
-      "announcement": "YA mystery film wraps production; follows a podcaster hunting a serial killer.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/bridgette-wrona-and-the-whisper-creek-murders-wraps-1236829987/"
-        }
-      ]
-    },
-    {
       "title": "Descendants: Hidden Heroes",
       "studio": "Disney",
       "talent": "",
-      "announcement": "Disney expands Descendants universe with new film following children of sidekicks from 'Aladdin,' 'The Emperor's New Groove' and more.",
+      "announcement": "Disney expands Descendants universe with new film following children of sidekicks from Aladdin, The Emperor's New Groove and more.",
       "sources": [
         {
           "name": "Deadline",
@@ -131,24 +95,48 @@
       ]
     },
     {
-      "title": "Everything Else Is Noise",
-      "studio": "Pragda",
-      "talent": "Nicolás Pereda",
-      "announcement": "Pragda acquires distribution rights to Nicolás Pereda film ahead of Toronto and New York Film Festival premieres.",
+      "title": "Star Trek 60th Anniversary Documentary",
+      "studio": "Paramount (Regal Cinemas release)",
+      "talent": "William Shatner",
+      "announcement": "60th anniversary Star Trek documentary featuring William Shatner coming to Regal Cinemas in October.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/pragda-nicolas-pereda-everything-else-is-noise-tiff-nyff-1236829694/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/star-trek-documentary-william-shatner-regal-cinemas-october-1237028422/"
+        }
+      ]
+    },
+    {
+      "title": "Wonka 2",
+      "studio": "Warner Bros.",
+      "talent": "",
+      "announcement": "Warner Bros. and screenwriter clarify that Wonka 2 is not delayed indefinitely.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/wonka-2-not-delayed-indefinitely-screenwriter-warner-bros-update/"
         }
       ]
     }
   ],
   "tv": [
     {
+      "title": "Sherlock's Secretary",
+      "network": "USA Network",
+      "talent": "Andy Berman",
+      "announcement": "Andy Berman, creator of Psych, eyeing return to USA Network with procedural series Sherlock's Secretary in development.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/sherlocks-secretary-tv-series-usa-network-development-1237028677/"
+        }
+      ]
+    },
+    {
       "title": "Heated Rivalry",
       "network": "",
       "talent": "Justice Smith, Charlie Gillespie",
-      "announcement": "Season 2 cast announced with Justice Smith as Harris and Charlie Gillespie as Troy; Season 2 debuts Spring 2027.",
+      "announcement": "Season 2 casts Justice Smith as Harris and Charlie Gillespie as Troy with debut confirmed for Spring 2027.",
       "sources": [
         {
           "name": "Deadline",
@@ -169,10 +157,10 @@
       ]
     },
     {
-      "title": "New York Yankees Drama",
+      "title": "New York Yankees Drama Series",
       "network": "Netflix",
-      "talent": "Jason Bateman, Josh Wakely",
-      "announcement": "Netflix developing drama series about the New York Yankees from Jason Bateman's Aggregate Films, Josh Wakely, and MLB.",
+      "talent": "Jason Bateman (producer via Aggregate Films), Josh Wakely",
+      "announcement": "Netflix developing Yankees drama series from Jason Bateman's Aggregate Films, Josh Wakely and MLB.",
       "sources": [
         {
           "name": "Deadline",
@@ -188,50 +176,14 @@
       "title": "The Secret Lives of Mormon Wives",
       "network": "Hulu",
       "talent": "Taylor Frankie Paul",
-      "announcement": "Reality series renewed for 20 additional episodes following Taylor Frankie Paul drama.",
+      "announcement": "Series lands 20-episode renewal for additional episodes following Taylor Frankie Paul drama.",
       "sources": [
         {
           "name": "TheWrap",
           "url": "https://www.thewrap.com/creative-content/tv-shows/the-secret-lives-of-mormon-wives-renewed-20-more-episodes-season-6/"
         }
       ]
-    },
-    {
-      "title": "Widow's Bay",
-      "network": "",
-      "talent": "Katie Dippold",
-      "announcement": "Creator Katie Dippold discusses 'Halloween' and 'Scream' Easter eggs in the series.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-features/widows-bay-creator-halloween-scream-easter-eggs-1236664112/"
-        }
-      ]
-    },
-    {
-      "title": "Paradise",
-      "network": "",
-      "talent": "Hanelle M. Culpepper",
-      "announcement": "Director Hanelle M. Culpepper discusses Season 2 finale of sci-fi series.",
-      "sources": [
-        {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/awards/consider-this/paradise-hanelle-m-culpepper-season-2-finale-interview-1235209275/"
-        }
-      ]
-    },
-    {
-      "title": "Sugar",
-      "network": "",
-      "talent": "Colin Farrell",
-      "announcement": "Season 2 of Colin Farrell series receives positive critical reception.",
-      "sources": [
-        {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/criticism/shows/sugar-season-2-good-colin-farrell-1235209140/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-07T19:31:11.468Z"
+  "lastUpdated": "2026-08-07T20:45:20.582Z"
 }
