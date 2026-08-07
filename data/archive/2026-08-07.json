@@ -1,12 +1,12 @@
 {
   "date": "August 7, 2026",
-  "summary": "9 film announcements, 6 TV announcements across 5 trades.",
+  "summary": "10 film announcements, 7 TV announcements across 5 trades.",
   "film": [
     {
       "title": "Leprechaun",
       "studio": "Lionsgate",
       "talent": "Patrick Melton, Marcus Dunstan (writers)",
-      "announcement": "New horror film in development from Lionsgate with screenwriters Patrick Melton and Marcus Dunstan attached.",
+      "announcement": "New horror movie in development from Lionsgate with writers Patrick Melton and Marcus Dunstan attached.",
       "sources": [
         {
           "name": "Deadline",
@@ -17,8 +17,8 @@
     {
       "title": "The Legend of Zelda",
       "studio": "",
-      "talent": "Lydia Peckham",
-      "announcement": "Lydia Peckham cast in the video game adaptation film.",
+      "talent": "Lydia Peckham (cast)",
+      "announcement": "Actress Lydia Peckham added to cast of the live-action film adaptation.",
       "sources": [
         {
           "name": "Deadline",
@@ -29,8 +29,8 @@
     {
       "title": "Drifter",
       "studio": "",
-      "talent": "Kate Beckinsale, Dermot Mulroney, Robert Knepper, Sticky Fingaz",
-      "announcement": "Action-thriller film with Kate Beckinsale, Dermot Mulroney, Robert Knepper, and rapper Sticky Fingaz in lead roles.",
+      "talent": "Kate Beckinsale, Dermot Mulroney, Robert Knepper, Sticky Fingaz (cast)",
+      "announcement": "Action-thriller film casts Kate Beckinsale, Dermot Mulroney, Robert Knepper, and rapper Sticky Fingaz.",
       "sources": [
         {
           "name": "Deadline",
@@ -39,30 +39,10 @@
       ]
     },
     {
-      "title": "The Gallerist",
-      "studio": "Roadside Attractions, Vertical",
-      "talent": "Jenna Ortega, Natalie Portman",
-      "announcement": "MRC comedy film starring Jenna Ortega and Natalie Portman acquired by Roadside Attractions and Vertical for U.S. distribution.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/jenna-ortega-natalie-portman-the-gallerist-1237028495/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/columns/davine-joy-randolph-dark-comedy-dedicated-to-morris-burke-director-will-ropp-1236830182/"
-        },
-        {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/news/festivals/sundance-2026-movies-sold-so-far-1235174095/"
-        }
-      ]
-    },
-    {
       "title": "Nickels",
       "studio": "Briarcliff Entertainment",
-      "talent": "Rob Riggle",
-      "announcement": "Supernatural drama starring Rob Riggle set for fall theatrical and PVOD release by Briarcliff Entertainment.",
+      "talent": "Rob Riggle (cast)",
+      "announcement": "Briarcliff Entertainment sets fall theatrical and PVOD release for supernatural drama starring Rob Riggle.",
       "sources": [
         {
           "name": "Deadline",
@@ -74,7 +54,7 @@
       "title": "Blur",
       "studio": "Netflix",
       "talent": "Kirill Sokolov (director)",
-      "announcement": "Sci-fi action film in development at Netflix with director Kirill Sokolov, known for 'They Will Kill You,' attached.",
+      "announcement": "Director Kirill Sokolov is tackling sci-fi action movie for Netflix.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -83,10 +63,10 @@
       ]
     },
     {
-      "title": "Crawl",
+      "title": "Crawl 2",
       "studio": "Paramount",
-      "talent": "Mason Gooding, Emily Rudd",
-      "announcement": "Sequel to 'Crawl' in development at Paramount with Mason Gooding and Emily Rudd starring.",
+      "talent": "Mason Gooding, Emily Rudd (cast)",
+      "announcement": "Paramount greenlights sequel to Crawl with Mason Gooding and Emily Rudd starring.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -97,8 +77,8 @@
     {
       "title": "Dedicated to Morris Burke",
       "studio": "",
-      "talent": "Da'Vine Joy Randolph",
-      "announcement": "Indie dark comedy film starring Da'Vine Joy Randolph with director Will Ropp attached.",
+      "talent": "Da'Vine Joy Randolph (lead), Will Ropp (director)",
+      "announcement": "Da'Vine Joy Randolph stars in indie dark comedy directed by Will Ropp.",
       "sources": [
         {
           "name": "Variety",
@@ -107,18 +87,38 @@
       ]
     },
     {
-      "title": "Descendants: Hidden Heroes",
-      "studio": "Disney",
-      "talent": "",
-      "announcement": "New Disney film expanding the Descendants universe, featuring children of sidekicks from 'Aladdin,' 'The Emperor's New Groove,' and other films.",
+      "title": "Everything Else Is Noise",
+      "studio": "Pragda",
+      "talent": "Nicolás Pereda (director)",
+      "announcement": "Pragda acquires distribution rights to Nicolás Pereda's film ahead of Toronto and New York Film Festival premieres.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/descendants-disney-sidekick-movie-hidden-heroes-1237028262/"
-        },
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/pragda-nicolas-pereda-everything-else-is-noise-tiff-nyff-1236829694/"
+        }
+      ]
+    },
+    {
+      "title": "Wonka 2",
+      "studio": "Warner Bros.",
+      "talent": "",
+      "announcement": "Warner Bros. and screenwriter clarify that Wonka 2 is not delayed indefinitely.",
+      "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/descendants-hidden-heroes-movie-iconic-disney-sidekicks-1236666492/"
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/wonka-2-not-delayed-indefinitely-screenwriter-warner-bros-update/"
+        }
+      ]
+    },
+    {
+      "title": "The Gallerist",
+      "studio": "Roadside Attractions, Vertical",
+      "talent": "Natalie Portman, Jenna Ortega (cast)",
+      "announcement": "Sundance 2026 film featuring Natalie Portman and Jenna Ortega acquired by Roadside Attractions and Vertical.",
+      "sources": [
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/festivals/sundance-2026-movies-sold-so-far-1235174095/"
         }
       ]
     }
@@ -127,8 +127,8 @@
     {
       "title": "Sherlock's Secretary",
       "network": "USA Network",
-      "talent": "Andy Berman (creator/from 'Psych')",
-      "announcement": "Procedural series in development at USA Network from 'Psych' creator Andy Berman.",
+      "talent": "Andy Berman (creator)",
+      "announcement": "Creator Andy Berman from Psych eyes return to USA Network with new procedural drama in development.",
       "sources": [
         {
           "name": "Deadline",
@@ -139,8 +139,8 @@
     {
       "title": "Heated Rivalry",
       "network": "",
-      "talent": "Justice Smith, Charlie Gillespie",
-      "announcement": "Season 2 casting announced with Justice Smith and Charlie Gillespie as Harris and Troy; Season 2 debut confirmed for Spring 2027.",
+      "talent": "Justice Smith, Charlie Gillespie (cast)",
+      "announcement": "Season 2 casts Justice Smith and Charlie Gillespie as Harris and Troy; Spring 2027 debut confirmed.",
       "sources": [
         {
           "name": "Deadline",
@@ -163,8 +163,8 @@
     {
       "title": "New York Yankees Drama Series",
       "network": "Netflix",
-      "talent": "Jason Bateman (Aggregate Films), Josh Wakely, MLB",
-      "announcement": "Netflix is developing a drama series about the New York Yankees from Jason Bateman's production company Aggregate Films, Josh Wakely, and MLB.",
+      "talent": "Jason Bateman (Aggregate Films), Josh Wakely, MLB (involved)",
+      "announcement": "Netflix develops drama series about the New York Yankees from Jason Bateman's Aggregate Films, Josh Wakely, and MLB.",
       "sources": [
         {
           "name": "Deadline",
@@ -177,10 +177,26 @@
       ]
     },
     {
-      "title": "The Secret Lives of Mormon Wives",
-      "network": "",
+      "title": "Descendants: Hidden Heroes",
+      "network": "Disney",
       "talent": "",
-      "announcement": "Reality series renewed for 20 additional episodes following Taylor Frankie Paul drama.",
+      "announcement": "Disney expands Descendants universe with new film following children of sidekicks from Aladdin, The Emperor's New Groove, and other films.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/descendants-disney-sidekick-movie-hidden-heroes-1237028262/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/descendants-hidden-heroes-movie-iconic-disney-sidekicks-1236666492/"
+        }
+      ]
+    },
+    {
+      "title": "The Secret Lives of Mormon Wives",
+      "network": "Hulu",
+      "talent": "",
+      "announcement": "Series receives 20-episode renewal after Taylor Frankie Paul drama.",
       "sources": [
         {
           "name": "TheWrap",
@@ -192,7 +208,7 @@
       "title": "Ted Lasso",
       "network": "Apple TV+",
       "talent": "",
-      "announcement": "Season 4 is underway with women's sports as a key storyline that brought the hit show back.",
+      "announcement": "Season 4 features women's sports storyline as key element bringing back the hit series.",
       "sources": [
         {
           "name": "Variety",
@@ -201,17 +217,17 @@
       ]
     },
     {
-      "title": "Baywatch",
+      "title": "Paradise",
       "network": "",
-      "talent": "Ryder Williams (16-year-old lifeguard)",
-      "announcement": "Show honored 16-year-old lifeguard hero Ryder Williams during a set visit.",
+      "talent": "Hanelle M. Culpepper (director)",
+      "announcement": "Director Hanelle M. Culpepper discusses Season 2 finale of sci-fi series.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/baywatch-16-year-old-lifeguard-ryder-williams-set-visit-1236830289/"
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/awards/consider-this/paradise-hanelle-m-culpepper-season-2-finale-interview-1235209275/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-08-07T21:42:29.454Z"
+  "lastUpdated": "2026-08-07T22:40:18.092Z"
 }
