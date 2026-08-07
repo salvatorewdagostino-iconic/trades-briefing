@@ -1,12 +1,12 @@
 {
   "date": "August 7, 2026",
-  "summary": "13 film announcements, 6 TV announcements across 5 trades.",
+  "summary": "11 film announcements, 6 TV announcements across 5 trades.",
   "film": [
     {
       "title": "Nickels",
       "studio": "Briarcliff Entertainment",
       "talent": "Rob Riggle",
-      "announcement": "Briarcliff Entertainment sets fall theatrical and PVOD release for the supernatural thriller.",
+      "announcement": "Supernatural drama set for fall theatrical and PVOD release.",
       "sources": [
         {
           "name": "Deadline",
@@ -18,7 +18,7 @@
       "title": "Sherlock's Secretary",
       "studio": "USA Network",
       "talent": "Andy Berman",
-      "announcement": "Procedural drama from 'Psych' creator Andy Berman in development at USA Network.",
+      "announcement": "Procedural series in development from 'Psych' creator Andy Berman for USA Network.",
       "sources": [
         {
           "name": "Deadline",
@@ -30,7 +30,7 @@
       "title": "Leprechaun",
       "studio": "Lionsgate",
       "talent": "Patrick Melton, Marcus Dunstan",
-      "announcement": "New horror film in development from Lionsgate with writers Patrick Melton and Marcus Dunstan.",
+      "announcement": "New horror movie in development from writers Patrick Melton and Marcus Dunstan.",
       "sources": [
         {
           "name": "Deadline",
@@ -42,7 +42,7 @@
       "title": "The Legend of Zelda",
       "studio": "",
       "talent": "Lydia Peckham",
-      "announcement": "Lydia Peckham cast in the video game adaptation film.",
+      "announcement": "Lydia Peckham added to cast of The Legend of Zelda movie.",
       "sources": [
         {
           "name": "Deadline",
@@ -54,7 +54,7 @@
       "title": "Drifter",
       "studio": "",
       "talent": "Kate Beckinsale, Dermot Mulroney, Robert Knepper, Sticky Fingaz",
-      "announcement": "Action-thriller casts Kate Beckinsale, Dermot Mulroney, Robert Knepper, and rapper Sticky Fingaz.",
+      "announcement": "Action-thriller cast with Kate Beckinsale, Dermot Mulroney, Robert Knepper, and rapper Sticky Fingaz.",
       "sources": [
         {
           "name": "Deadline",
@@ -75,30 +75,26 @@
         {
           "name": "IndieWire",
           "url": "https://www.indiewire.com/news/festivals/sundance-2026-movies-sold-so-far-1235174095/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/the-gallerist-acquisition-vertical-roadside-release-date/"
         }
       ]
     },
     {
-      "title": "Alien Boy",
-      "studio": "Echo Lake, Mongrel Media",
-      "talent": "Waleed Zuaiter, Sarah Gadon",
-      "announcement": "Sci-fi film starring Waleed Zuaiter and Sarah Gadon wraps filming with Echo Lake and Mongrel Media among partners.",
+      "title": "Star Trek 60th Anniversary Documentary",
+      "studio": "Regal Cinemas",
+      "talent": "William Shatner",
+      "announcement": "60th anniversary Star Trek documentary with William Shatner coming to Regal Cinemas in October.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/08/sarah-gadon-waleed-zuaiter-sci-fi-alien-boy-canada-1237028427/"
+          "url": "https://deadline.com/2026/08/star-trek-documentary-william-shatner-regal-cinemas-october-1237028422/"
         }
       ]
     },
     {
       "title": "Dedicated to Morris Burke",
       "studio": "",
-      "talent": "Da'Vine Joy Randolph, Will Ropp",
-      "announcement": "Da'Vine Joy Randolph stars in indie dark comedy directed by Will Ropp.",
+      "talent": "Da'Vine Joy Randolph",
+      "announcement": "Da'Vine Joy Randolph to star in indie dark comedy directed by Will Ropp.",
       "sources": [
         {
           "name": "Variety",
@@ -122,7 +118,7 @@
       "title": "Descendants: Hidden Heroes",
       "studio": "Disney",
       "talent": "",
-      "announcement": "Disney expands the 'Descendants' universe with new film following the children of sidekicks from 'Aladdin,' 'The Emperor's New Groove,' and more.",
+      "announcement": "Disney expands Descendants universe with new film following children of sidekicks from 'Aladdin,' 'The Emperor's New Groove' and more.",
       "sources": [
         {
           "name": "Deadline",
@@ -133,6 +129,18 @@
           "url": "https://www.hollywoodreporter.com/tv/tv-news/descendants-hidden-heroes-movie-iconic-disney-sidekicks-1236666492/"
         }
       ]
+    },
+    {
+      "title": "Everything Else Is Noise",
+      "studio": "Pragda",
+      "talent": "Nicolás Pereda",
+      "announcement": "Pragda acquires distribution rights to Nicolás Pereda film ahead of Toronto and New York Film Festival premieres.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/pragda-nicolas-pereda-everything-else-is-noise-tiff-nyff-1236829694/"
+        }
+      ]
     }
   ],
   "tv": [
@@ -140,7 +148,7 @@
       "title": "Heated Rivalry",
       "network": "",
       "talent": "Justice Smith, Charlie Gillespie",
-      "announcement": "Season 2 casts Justice Smith as Harris and Charlie Gillespie as Troy; season 2 debut confirmed for spring 2027.",
+      "announcement": "Season 2 cast announced with Justice Smith as Harris and Charlie Gillespie as Troy; Season 2 debuts Spring 2027.",
       "sources": [
         {
           "name": "Deadline",
@@ -161,10 +169,10 @@
       ]
     },
     {
-      "title": "New York Yankees Drama Series",
+      "title": "New York Yankees Drama",
       "network": "Netflix",
-      "talent": "Jason Bateman",
-      "announcement": "Netflix developing new drama series about the Yankees with Jason Bateman's Aggregate Films, Josh Wakely, and MLB.",
+      "talent": "Jason Bateman, Josh Wakely",
+      "announcement": "Netflix developing drama series about the New York Yankees from Jason Bateman's Aggregate Films, Josh Wakely, and MLB.",
       "sources": [
         {
           "name": "Deadline",
@@ -177,29 +185,53 @@
       ]
     },
     {
-      "title": "Ted Lasso",
-      "network": "Apple TV+",
-      "talent": "",
-      "announcement": "Season 4 greenlit with women's sports as the central storyline to bring back the hit series.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/ted-lasso-womens-sports-storyline-apple-tv-season-4-1236829725/"
-        }
-      ]
-    },
-    {
       "title": "The Secret Lives of Mormon Wives",
       "network": "Hulu",
-      "talent": "",
-      "announcement": "Reality series lands 20-episode renewal for season 6 following Taylor Frankie Paul drama.",
+      "talent": "Taylor Frankie Paul",
+      "announcement": "Reality series renewed for 20 additional episodes following Taylor Frankie Paul drama.",
       "sources": [
         {
           "name": "TheWrap",
           "url": "https://www.thewrap.com/creative-content/tv-shows/the-secret-lives-of-mormon-wives-renewed-20-more-episodes-season-6/"
         }
       ]
+    },
+    {
+      "title": "Widow's Bay",
+      "network": "",
+      "talent": "Katie Dippold",
+      "announcement": "Creator Katie Dippold discusses 'Halloween' and 'Scream' Easter eggs in the series.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/widows-bay-creator-halloween-scream-easter-eggs-1236664112/"
+        }
+      ]
+    },
+    {
+      "title": "Paradise",
+      "network": "",
+      "talent": "Hanelle M. Culpepper",
+      "announcement": "Director Hanelle M. Culpepper discusses Season 2 finale of sci-fi series.",
+      "sources": [
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/awards/consider-this/paradise-hanelle-m-culpepper-season-2-finale-interview-1235209275/"
+        }
+      ]
+    },
+    {
+      "title": "Sugar",
+      "network": "",
+      "talent": "Colin Farrell",
+      "announcement": "Season 2 of Colin Farrell series receives positive critical reception.",
+      "sources": [
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/criticism/shows/sugar-season-2-good-colin-farrell-1235209140/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-08-07T18:22:54.645Z"
+  "lastUpdated": "2026-08-07T19:31:11.468Z"
 }
