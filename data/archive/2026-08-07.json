@@ -1,12 +1,36 @@
 {
   "date": "August 7, 2026",
-  "summary": "7 film announcements, 3 TV announcements across 5 trades.",
+  "summary": "7 film announcements, 5 TV announcements across 5 trades.",
   "film": [
+    {
+      "title": "The Legend of Zelda",
+      "studio": "",
+      "talent": "Lydia Peckham",
+      "announcement": "Lydia Peckham cast in the video game adaptation film.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/legend-of-zelda-movie-adds-lydia-peckham-1237028555/"
+        }
+      ]
+    },
+    {
+      "title": "Leprechaun",
+      "studio": "Lionsgate",
+      "talent": "Patrick Melton, Marcus Dunstan",
+      "announcement": "New horror film in development with screenwriters Patrick Melton and Marcus Dunstan attached.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/leprechaun-new-horror-movie-lionsgate-1237028578/"
+        }
+      ]
+    },
     {
       "title": "Drifter",
       "studio": "",
       "talent": "Kate Beckinsale, Dermot Mulroney, Robert Knepper, Sticky Fingaz",
-      "announcement": "Action-thriller film with Kate Beckinsale, Dermot Mulroney, Robert Knepper and rapper Sticky Fingaz in the cast.",
+      "announcement": "Action-thriller film with Kate Beckinsale, Dermot Mulroney, Robert Knepper and rapper Sticky Fingaz leading the cast.",
       "sources": [
         {
           "name": "Deadline",
@@ -18,7 +42,7 @@
       "title": "The Gallerist",
       "studio": "Roadside Attractions, Vertical",
       "talent": "Jenna Ortega, Natalie Portman",
-      "announcement": "MRC comedy film acquired by Roadside Attractions and Vertical for U.S. distribution.",
+      "announcement": "MRC comedy acquired by Roadside Attractions and Vertical for U.S. distribution.",
       "sources": [
         {
           "name": "Deadline",
@@ -38,7 +62,7 @@
       "title": "Alien Boy",
       "studio": "Echo Lake, Mongrel Media",
       "talent": "Waleed Zuaiter, Sarah Gadon",
-      "announcement": "Sci-fi film starring Waleed Zuaiter and Sarah Gadon has wrapped filming with Echo Lake and Mongrel Media as partners.",
+      "announcement": "Sci-fi film starring Waleed Zuaiter and Sarah Gadon wraps filming with Echo Lake and Mongrel Media among partners.",
       "sources": [
         {
           "name": "Deadline",
@@ -47,22 +71,10 @@
       ]
     },
     {
-      "title": "Beatles Production",
-      "studio": "",
-      "talent": "Sam Mendes (director)",
-      "announcement": "Sam Mendes' Beatles film production is heading to Abbey Road for filming.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/sam-mendes-beatles-production-filming-abbey-road-1237027697/"
-        }
-      ]
-    },
-    {
       "title": "Descendants: Hidden Heroes",
       "studio": "Disney",
       "talent": "",
-      "announcement": "Disney expands Descendants universe with new film following the children of sidekicks from Aladdin, The Emperor's New Groove and other classic films.",
+      "announcement": "New Descendants film greenlit following children of sidekicks from Aladdin, The Emperor's New Groove and other Disney films.",
       "sources": [
         {
           "name": "Deadline",
@@ -79,48 +91,76 @@
       ]
     },
     {
-      "title": "Grown Ups 3",
-      "studio": "",
-      "talent": "Adam Sandler",
-      "announcement": "Grown Ups 3 begins production with Adam Sandler reuniting with co-stars as confirmed by set photos.",
+      "title": "Bridgette Wrona and the Whisper Creek Murders",
+      "studio": "Little Spark Films",
+      "talent": "",
+      "announcement": "YA mystery film wraps production, following a podcaster hunting a serial killer.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/grown-ups-3-begins-production-adam-sandler-set-photo-1237028288/"
-        }
-      ]
-    },
-    {
-      "title": "Caroline Fletcher",
-      "studio": "",
-      "talent": "Craig Conover",
-      "announcement": "Indie dramedy film with Southern Charm star Craig Conover set to star.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/news/general-news/southern-charm-star-craig-conover-set-for-indie-dramedy-caroline-fletcher-exclusive-1236663114/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/bridgette-wrona-and-the-whisper-creek-murders-wraps-1236829987/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "Power Book III: Raising Kanan",
-      "network": "Starz",
-      "talent": "",
-      "announcement": "Series concludes after 5 seasons with the series finale wrapping up the story.",
+      "title": "Heated Rivalry",
+      "network": "",
+      "talent": "Justice Smith, Charlie Gillespie",
+      "announcement": "Season 2 casts Justice Smith as Harris and Charlie Gillespie as Troy, with season 2 debut confirmed for Spring 2027.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/08/power-book-iii-raising-kanan-recap-series-finale-1237017524/"
+          "url": "https://deadline.com/2026/08/heated-rivalry-justice-smith-charlie-gillespie-harris-troy-1237028622/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/heated-rivalry-season-2-justice-smith-charlie-gillespie-1236830101/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/heated-rivalry-season-2-troy-harris-cast-announcement-1236643726/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/industry-news/casting/heated-rivalry-season-2-cast-justice-smith-charlie-gillespie-as-harris-and-troy/"
         }
       ]
     },
     {
-      "title": "The Traitors: India Season 2",
+      "title": "New York Yankees Drama Series",
+      "network": "Netflix",
+      "talent": "Jason Bateman",
+      "announcement": "Netflix developing new Yankees drama series from Jason Bateman's Aggregate Films, Josh Wakely and MLB.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/new-york-yankees-netflix-jason-bateman-mlb-1237028636/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/new-york-yankees-netflix-drama-jason-bateman-mlb-josh-wakely-1236829636/"
+        }
+      ]
+    },
+    {
+      "title": "The Secret Lives of Mormon Wives",
+      "network": "Hulu",
+      "talent": "",
+      "announcement": "Series renewed for 20 additional episodes following Taylor Frankie Paul drama.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/the-secret-lives-of-mormon-wives-renewed-20-more-episodes-season-6/"
+        }
+      ]
+    },
+    {
+      "title": "The Traitors: India",
       "network": "",
-      "talent": "Karan Johar, 21 celebrities",
-      "announcement": "Indian version of The Traitors unveils trailer for season 2 featuring host Karan Johar and a 21-celebrity cast.",
+      "talent": "Karan Johar",
+      "announcement": "Season 2 unveils trailer with Karan Johar hosting and 21-celebrity cast.",
       "sources": [
         {
           "name": "Variety",
@@ -129,17 +169,17 @@
       ]
     },
     {
-      "title": "The Secret Lives of Mormon Wives",
+      "title": "Caroline Fletcher",
       "network": "",
-      "talent": "Taylor Frankie Paul",
-      "announcement": "Reality series receives 20-episode renewal for season 6 following the Taylor Frankie Paul drama.",
+      "talent": "Craig Conover",
+      "announcement": "Southern Charm star Craig Conover cast in indie dramedy.",
       "sources": [
         {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/the-secret-lives-of-mormon-wives-renewed-20-more-episodes-season-6/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/news/general-news/southern-charm-star-craig-conover-set-for-indie-dramedy-caroline-fletcher-exclusive-1236663114/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-08-07T15:59:50.916Z"
+  "lastUpdated": "2026-08-07T17:02:22.762Z"
 }
