@@ -1,12 +1,12 @@
 {
   "date": "August 7, 2026",
-  "summary": "1 film announcement, 0 TV announcements across the trades provided.",
+  "summary": "1 film announcement, 1 TV announcement across 3 trades.",
   "film": [
     {
       "title": "Grown Ups 3",
       "studio": "Sony Pictures",
       "talent": "Adam Sandler",
-      "announcement": "Production has begun with Adam Sandler reuniting with co-stars from the franchise, as confirmed by set photos.",
+      "announcement": "Production has begun on the third installment of the Grown Ups franchise, with Adam Sandler reuniting with co-stars as confirmed by set photos.",
       "sources": [
         {
           "name": "Deadline",
@@ -15,6 +15,23 @@
       ]
     }
   ],
-  "tv": [],
-  "lastUpdated": "2026-08-07T02:42:46.254Z"
+  "tv": [
+    {
+      "title": "Stuart Fails to Save the Universe",
+      "network": "Unknown",
+      "talent": "Melissa Rauch, Wil Wheaton, Brian Posehn, John Ross Bowie",
+      "announcement": "Episode 3 features a magic-themed storyline with a WGA strike roast, with Melissa Rauch from The Big Bang Theory in a surprise larger-than-life role.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/stuart-fails-melissa-rauch-wga-magic-episode-3-explained-1237014249/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/melissa-rauch-stuart-fails-to-save-the-universe-role-1236829612/"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-08-07T04:55:34.275Z"
 }
