@@ -6,7 +6,7 @@
       "title": "Leprechaun",
       "studio": "Lionsgate",
       "talent": "Patrick Melton, Marcus Dunstan (writers)",
-      "announcement": "New horror movie in development from Lionsgate with writers Patrick Melton and Marcus Dunstan attached.",
+      "announcement": "New horror film in development from Lionsgate with writers Patrick Melton and Marcus Dunstan attached.",
       "sources": [
         {
           "name": "Deadline",
@@ -16,9 +16,9 @@
     },
     {
       "title": "The Legend of Zelda",
-      "studio": "",
-      "talent": "Lydia Peckham (cast)",
-      "announcement": "Actress Lydia Peckham added to cast of the live-action film adaptation.",
+      "studio": "Nintendo/Unknown",
+      "talent": "Lydia Peckham",
+      "announcement": "Lydia Peckham cast in the live-action film adaptation of The Legend of Zelda.",
       "sources": [
         {
           "name": "Deadline",
@@ -28,9 +28,9 @@
     },
     {
       "title": "Drifter",
-      "studio": "",
-      "talent": "Kate Beckinsale, Dermot Mulroney, Robert Knepper, Sticky Fingaz (cast)",
-      "announcement": "Action-thriller film casts Kate Beckinsale, Dermot Mulroney, Robert Knepper, and rapper Sticky Fingaz.",
+      "studio": "Unknown",
+      "talent": "Kate Beckinsale, Dermot Mulroney, Robert Knepper, Sticky Fingaz",
+      "announcement": "Action-thriller film with Kate Beckinsale, Dermot Mulroney, Robert Knepper and rapper Sticky Fingaz cast in lead roles.",
       "sources": [
         {
           "name": "Deadline",
@@ -39,14 +39,14 @@
       ]
     },
     {
-      "title": "Nickels",
-      "studio": "Briarcliff Entertainment",
-      "talent": "Rob Riggle (cast)",
-      "announcement": "Briarcliff Entertainment sets fall theatrical and PVOD release for supernatural drama starring Rob Riggle.",
+      "title": "Dedicated to Morris Burke",
+      "studio": "Unknown",
+      "talent": "Da'Vine Joy Randolph",
+      "announcement": "Da'Vine Joy Randolph cast to star in indie dark comedy from director Will Ropp.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/rob-riggle-nickles-release-date-1237028745/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/columns/davine-joy-randolph-dark-comedy-dedicated-to-morris-burke-director-will-ropp-1236830182/"
         }
       ]
     },
@@ -54,7 +54,7 @@
       "title": "Blur",
       "studio": "Netflix",
       "talent": "Kirill Sokolov (director)",
-      "announcement": "Director Kirill Sokolov is tackling sci-fi action movie for Netflix.",
+      "announcement": "Sci-fi action film in development at Netflix with director Kirill Sokolov attached.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -65,8 +65,8 @@
     {
       "title": "Crawl 2",
       "studio": "Paramount",
-      "talent": "Mason Gooding, Emily Rudd (cast)",
-      "announcement": "Paramount greenlights sequel to Crawl with Mason Gooding and Emily Rudd starring.",
+      "talent": "Mason Gooding, Emily Rudd",
+      "announcement": "Paramount has greenlit a sequel to Crawl with Mason Gooding and Emily Rudd set to star.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -75,14 +75,18 @@
       ]
     },
     {
-      "title": "Dedicated to Morris Burke",
-      "studio": "",
-      "talent": "Da'Vine Joy Randolph (lead), Will Ropp (director)",
-      "announcement": "Da'Vine Joy Randolph stars in indie dark comedy directed by Will Ropp.",
+      "title": "Descendants: Hidden Heroes",
+      "studio": "Disney",
+      "talent": "",
+      "announcement": "Disney's Descendants universe expands with a new film following the children of sidekicks from Aladdin, The Emperor's New Groove and other films.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/columns/davine-joy-randolph-dark-comedy-dedicated-to-morris-burke-director-will-ropp-1236830182/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/descendants-disney-sidekick-movie-hidden-heroes-1237028262/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/descendants-hidden-heroes-movie-iconic-disney-sidekicks-1236666492/"
         }
       ]
     },
@@ -90,7 +94,7 @@
       "title": "Everything Else Is Noise",
       "studio": "Pragda",
       "talent": "Nicolás Pereda (director)",
-      "announcement": "Pragda acquires distribution rights to Nicolás Pereda's film ahead of Toronto and New York Film Festival premieres.",
+      "announcement": "Pragda acquires distribution for Nicolás Pereda's film ahead of Toronto and New York Film Festival premieres.",
       "sources": [
         {
           "name": "Variety",
@@ -102,7 +106,7 @@
       "title": "Wonka 2",
       "studio": "Warner Bros.",
       "talent": "",
-      "announcement": "Warner Bros. and screenwriter clarify that Wonka 2 is not delayed indefinitely.",
+      "announcement": "Warner Bros. and the screenwriter clarify that Wonka 2 is not delayed indefinitely and remains in development.",
       "sources": [
         {
           "name": "TheWrap",
@@ -113,8 +117,8 @@
     {
       "title": "The Gallerist",
       "studio": "Roadside Attractions, Vertical",
-      "talent": "Natalie Portman, Jenna Ortega (cast)",
-      "announcement": "Sundance 2026 film featuring Natalie Portman and Jenna Ortega acquired by Roadside Attractions and Vertical.",
+      "talent": "Natalie Portman, Jenna Ortega",
+      "announcement": "Sundance 2026 film with Natalie Portman and Jenna Ortega acquired by Roadside Attractions and Vertical.",
       "sources": [
         {
           "name": "IndieWire",
@@ -125,10 +129,22 @@
   ],
   "tv": [
     {
+      "title": "Gravesend",
+      "network": "Unknown",
+      "talent": "Vincent Pastore, Shaquille O'Neal",
+      "announcement": "Season 3 trailer reveals Vincent Pastore's final TV role and Shaquille O'Neal's debut in the series.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/vincent-pastore-final-tv-role-gravesend-first-look-1237029055/"
+        }
+      ]
+    },
+    {
       "title": "Sherlock's Secretary",
       "network": "USA Network",
-      "talent": "Andy Berman (creator)",
-      "announcement": "Creator Andy Berman from Psych eyes return to USA Network with new procedural drama in development.",
+      "talent": "Andy Berman (creator/from Psych)",
+      "announcement": "Psych creator Andy Berman is eyeing a return to USA Network with a new procedural series in development.",
       "sources": [
         {
           "name": "Deadline",
@@ -138,9 +154,9 @@
     },
     {
       "title": "Heated Rivalry",
-      "network": "",
-      "talent": "Justice Smith, Charlie Gillespie (cast)",
-      "announcement": "Season 2 casts Justice Smith and Charlie Gillespie as Harris and Troy; Spring 2027 debut confirmed.",
+      "network": "Unknown",
+      "talent": "Justice Smith, Charlie Gillespie",
+      "announcement": "Season 2 casting announced with Justice Smith and Charlie Gillespie as Harris and Troy; Season 2 debut confirmed for Spring 2027.",
       "sources": [
         {
           "name": "Deadline",
@@ -163,8 +179,8 @@
     {
       "title": "New York Yankees Drama Series",
       "network": "Netflix",
-      "talent": "Jason Bateman (Aggregate Films), Josh Wakely, MLB (involved)",
-      "announcement": "Netflix develops drama series about the New York Yankees from Jason Bateman's Aggregate Films, Josh Wakely, and MLB.",
+      "talent": "Jason Bateman, Josh Wakely",
+      "announcement": "Netflix is developing a drama series about the New York Yankees from Jason Bateman's Aggregate Films, Josh Wakely, and MLB.",
       "sources": [
         {
           "name": "Deadline",
@@ -177,26 +193,10 @@
       ]
     },
     {
-      "title": "Descendants: Hidden Heroes",
-      "network": "Disney",
-      "talent": "",
-      "announcement": "Disney expands Descendants universe with new film following children of sidekicks from Aladdin, The Emperor's New Groove, and other films.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/descendants-disney-sidekick-movie-hidden-heroes-1237028262/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/descendants-hidden-heroes-movie-iconic-disney-sidekicks-1236666492/"
-        }
-      ]
-    },
-    {
       "title": "The Secret Lives of Mormon Wives",
       "network": "Hulu",
-      "talent": "",
-      "announcement": "Series receives 20-episode renewal after Taylor Frankie Paul drama.",
+      "talent": "Taylor Frankie Paul",
+      "announcement": "Series renewed for 20 additional episodes following season-ending drama involving Taylor Frankie Paul.",
       "sources": [
         {
           "name": "TheWrap",
@@ -205,29 +205,29 @@
       ]
     },
     {
-      "title": "Ted Lasso",
-      "network": "Apple TV+",
-      "talent": "",
-      "announcement": "Season 4 features women's sports storyline as key element bringing back the hit series.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/ted-lasso-womens-sports-storyline-apple-tv-season-4-1236829725/"
-        }
-      ]
-    },
-    {
       "title": "Paradise",
-      "network": "",
+      "network": "Unknown",
       "talent": "Hanelle M. Culpepper (director)",
-      "announcement": "Director Hanelle M. Culpepper discusses Season 2 finale of sci-fi series.",
+      "announcement": "Season 2 finale airs with director Hanelle M. Culpepper discussing the sci-fi series' attention to detail.",
       "sources": [
         {
           "name": "IndieWire",
           "url": "https://www.indiewire.com/awards/consider-this/paradise-hanelle-m-culpepper-season-2-finale-interview-1235209275/"
         }
       ]
+    },
+    {
+      "title": "Sugar",
+      "network": "Unknown",
+      "talent": "Colin Farrell",
+      "announcement": "Season 2 of the Colin Farrell series receives positive reviews.",
+      "sources": [
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/criticism/shows/sugar-season-2-good-colin-farrell-1235209140/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-08-07T22:40:18.092Z"
+  "lastUpdated": "2026-08-07T23:37:03.188Z"
 }
