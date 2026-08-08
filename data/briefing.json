@@ -4,9 +4,9 @@
   "film": [
     {
       "title": "Supermax",
-      "studio": "Amazon MGM Studios & Miramax",
+      "studio": "Amazon MGM & Miramax",
       "talent": "Jason Clarke",
-      "announcement": "Jason Clarke joins the action-thriller film in a key role.",
+      "announcement": "Jason Clarke joins the action-thriller film from Amazon MGM and Miramax.",
       "sources": [
         {
           "name": "Deadline",
@@ -18,7 +18,7 @@
       "title": "Spring Breakers 2",
       "studio": "",
       "talent": "Bella Thorne (writer, director, star)",
-      "announcement": "Bella Thorne has been tapped to write, direct, and star in the sequel after producers saw her directorial debut.",
+      "announcement": "Bella Thorne has been tapped to write, direct, and star in the Spring Breakers sequel after producers saw her directorial debut.",
       "sources": [
         {
           "name": "Deadline",
@@ -36,7 +36,7 @@
       "title": "Boston Blue",
       "network": "",
       "talent": "Will Estes",
-      "announcement": "Will Estes, alum from Blue Bloods, is reprising his role in the series.",
+      "announcement": "Will Estes, alum of Blue Bloods, is reprising his role for the new series Boston Blue.",
       "sources": [
         {
           "name": "Deadline",
@@ -45,5 +45,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-08T03:26:47.435Z"
+  "lastUpdated": "2026-08-08T04:36:08.716Z"
 }
