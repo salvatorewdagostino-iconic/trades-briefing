@@ -1,12 +1,24 @@
 {
   "date": "August 8, 2026",
-  "summary": "3 film announcements, 2 TV announcements across 5 trades.",
+  "summary": "3 film announcements, 1 TV announcement across 5 trades.",
   "film": [
     {
+      "title": "Supermax",
+      "studio": "Amazon MGM Studios and Miramax",
+      "talent": "Jason Clarke",
+      "announcement": "Jason Clarke joins the action-thriller as a key cast member.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/supermax-movie-jason-clarke-amazon-mgm-miramax-1237029162/"
+        }
+      ]
+    },
+    {
       "title": "Spring Breakers 2",
-      "studio": "Unknown",
+      "studio": "",
       "talent": "Bella Thorne (writer, director, star)",
-      "announcement": "Bella Thorne has been tapped by producers to write, direct, and star in the sequel after seeing her directorial debut.",
+      "announcement": "Bella Thorne is set to write, direct, and star in the sequel after producers saw her directorial debut.",
       "sources": [
         {
           "name": "Deadline",
@@ -19,26 +31,22 @@
       ]
     },
     {
-      "title": "Supermax",
-      "studio": "Amazon MGM, Miramax",
-      "talent": "Jason Clarke",
-      "announcement": "Jason Clarke has joined the action-thriller from Amazon MGM and Miramax.",
+      "title": "The Invite",
+      "studio": "",
+      "talent": "Olivia Wilde (director)",
+      "announcement": "Olivia Wilde fought to secure a theatrical release for the film following its Sundance response.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/08/supermax-movie-jason-clarke-amazon-mgm-miramax-1237029162/"
-        }
-      ]
-    },
-    {
-      "title": "Toxic",
-      "studio": "Unknown",
-      "talent": "Yash",
-      "announcement": "Trailer unveiled for the gangster epic featuring Yash in a dual father-son role.",
-      "sources": [
+          "url": "https://deadline.com/2026/08/olivia-wilde-the-invite-theatrical-release-1237029352/"
+        },
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/news/oxic-trailer-yash-dual-role-gangster-epic-1236830597/"
+          "url": "https://variety.com/2026/film/global/olivia-wilde-the-invite-locarno-seth-rogen-1236830606/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/olivia-wilde-wanted-the-invite-cinema-run-streaming-bribe-1236669287/"
         }
       ]
     }
@@ -46,28 +54,16 @@
   "tv": [
     {
       "title": "Boston Blue",
-      "network": "Unknown",
-      "talent": "Will Estes (reprising role from Blue Bloods)",
-      "announcement": "Will Estes from Blue Bloods is reprising his role in the new series.",
+      "network": "",
+      "talent": "Will Estes",
+      "announcement": "Will Estes, alum of 'Blue Bloods,' is reprising his role in the new series.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/08/blue-bloods-will-estes-reprising-role-boston-blue-1237029175/"
         }
       ]
-    },
-    {
-      "title": "Tucci in Italy",
-      "network": "National Geographic",
-      "talent": "Stanley Tucci (host)",
-      "announcement": "The Emmy-nominated series is moving to the United Kingdom for its next season.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/awards/stanley-tucci-nat-geo-italy-moving-uk-next-season-why-1236830482/"
-        }
-      ]
     }
   ],
-  "lastUpdated": "2026-08-08T17:33:54.485Z"
+  "lastUpdated": "2026-08-08T18:42:14.763Z"
 }
