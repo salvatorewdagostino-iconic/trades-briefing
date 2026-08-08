@@ -3,10 +3,22 @@
   "summary": "3 film announcements, 2 TV announcements across 5 trades.",
   "film": [
     {
+      "title": "Supermax",
+      "studio": "Amazon MGM Studios and Miramax",
+      "talent": "Jason Clarke",
+      "announcement": "Jason Clarke joins the action-thriller as a key cast member. The film is being developed by Amazon MGM Studios and Miramax.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/supermax-movie-jason-clarke-amazon-mgm-miramax-1237029162/"
+        }
+      ]
+    },
+    {
       "title": "Spring Breakers 2",
-      "studio": "Unknown",
+      "studio": "",
       "talent": "Bella Thorne (writer, director, star)",
-      "announcement": "Bella Thorne confirmed she has been tapped to write, direct, and star in the sequel after producers saw her directorial debut.",
+      "announcement": "Bella Thorne has been tapped by producers to write, direct, and star in the sequel after they saw her directorial debut.",
       "sources": [
         {
           "name": "Deadline",
@@ -19,34 +31,14 @@
       ]
     },
     {
-      "title": "Supermax",
-      "studio": "Amazon MGM Studios, Miramax",
-      "talent": "Jason Clarke",
-      "announcement": "Jason Clarke joins the action-thriller film from Amazon MGM Studios and Miramax.",
+      "title": "Artificial",
+      "studio": "",
+      "talent": "Monica Barbaro, Timothée Chalamet",
+      "announcement": "Luca Guadagnino's OpenAI-backed film with Monica Barbaro in the cast. The project has been in development with Timothée Chalamet also attached.",
       "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/supermax-movie-jason-clarke-amazon-mgm-miramax-1237029162/"
-        }
-      ]
-    },
-    {
-      "title": "The Invite",
-      "studio": "Unknown",
-      "talent": "Olivia Wilde (director), Seth Rogen",
-      "announcement": "Olivia Wilde discusses her fight to secure a theatrical release for the film following its positive Sundance response.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/olivia-wilde-the-invite-theatrical-release-1237029352/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/olivia-wilde-the-invite-locarno-seth-rogen-1236830606/"
-        },
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/olivia-wilde-wanted-the-invite-cinema-run-streaming-bribe-1236669287/"
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/monica-barbaro-openai-artificial-timothee-chalamet-ballet-1236669431/"
         }
       ]
     }
@@ -54,9 +46,9 @@
   "tv": [
     {
       "title": "Boston Blue",
-      "network": "Unknown",
-      "talent": "Will Estes (reprising role from Blue Bloods)",
-      "announcement": "Will Estes, an alum from Blue Bloods, is reprising his role on the spinoff series Boston Blue.",
+      "network": "",
+      "talent": "Will Estes",
+      "announcement": "Will Estes, an alum of 'Blue Bloods,' is reprising his role on the new series.",
       "sources": [
         {
           "name": "Deadline",
@@ -65,17 +57,17 @@
       ]
     },
     {
-      "title": "My Life With the Walter Boys",
-      "network": "Unknown",
-      "talent": "Ashby Gentry",
-      "announcement": "Ashby Gentry discusses Season 4 and Alex's healing journey with a new love triangle storyline.",
+      "title": "Heated Rivalry",
+      "network": "",
+      "talent": "",
+      "announcement": "Season 2 casting has been announced, with the author of the original work responding to negative reactions to the cast selections.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-features/my-life-with-the-walter-boys-ashby-gentry-alex-season-3-1236663390/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/heated-rivalry-author-dismiss-negative-reactions-season-2-casting-1237029395/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-08-08T20:34:15.645Z"
+  "lastUpdated": "2026-08-08T21:33:45.585Z"
 }
