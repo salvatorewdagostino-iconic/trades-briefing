@@ -1,20 +1,49 @@
 {
   "date": "August 8, 2026",
-  "summary": "1 film announcement, 0 TV announcements across the trades.",
+  "summary": "2 film announcements, 1 TV announcement across multiple trades.",
   "film": [
     {
+      "title": "Supermax",
+      "studio": "Amazon MGM Studios & Miramax",
+      "talent": "Jason Clarke",
+      "announcement": "Jason Clarke joins the action-thriller film in a key role.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/supermax-movie-jason-clarke-amazon-mgm-miramax-1237029162/"
+        }
+      ]
+    },
+    {
       "title": "Spring Breakers 2",
-      "studio": "Unknown",
+      "studio": "",
       "talent": "Bella Thorne (writer, director, star)",
-      "announcement": "Producers of the original Spring Breakers tapped Bella Thorne to write, direct, and star in the sequel after seeing her directorial debut.",
+      "announcement": "Bella Thorne has been tapped to write, direct, and star in the sequel after producers saw her directorial debut.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/08/bella-thorne-spring-breakers-2-tapped-write-direct-star-1237029133/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/spring-breakers-2-bella-thorne-to-write-direct-star/"
         }
       ]
     }
   ],
-  "tv": [],
-  "lastUpdated": "2026-08-08T01:42:56.916Z"
+  "tv": [
+    {
+      "title": "Boston Blue",
+      "network": "",
+      "talent": "Will Estes",
+      "announcement": "Will Estes, alum from Blue Bloods, is reprising his role in the series.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/blue-bloods-will-estes-reprising-role-boston-blue-1237029175/"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-08-08T03:26:47.435Z"
 }
