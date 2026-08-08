@@ -1,12 +1,12 @@
 {
   "date": "August 8, 2026",
-  "summary": "3 film announcements, 1 TV announcement across 5 trades.",
+  "summary": "3 film announcements, 2 TV announcements across 5 trades.",
   "film": [
     {
       "title": "Supermax",
       "studio": "Amazon MGM Studios and Miramax",
       "talent": "Jason Clarke",
-      "announcement": "Jason Clarke joins the action-thriller as a key cast member.",
+      "announcement": "Jason Clarke joins the action-thriller as a cast member. The film is in development at Amazon MGM Studios and Miramax.",
       "sources": [
         {
           "name": "Deadline",
@@ -31,22 +31,14 @@
       ]
     },
     {
-      "title": "The Invite",
+      "title": "Toxic",
       "studio": "",
-      "talent": "Olivia Wilde (director)",
-      "announcement": "Olivia Wilde fought to secure a theatrical release for the film following its Sundance response.",
+      "talent": "Yash",
+      "announcement": "Trailer released for the gangster epic featuring Yash in a dual father-son role exploring conflict at the core of the story.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/olivia-wilde-the-invite-theatrical-release-1237029352/"
-        },
-        {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/global/olivia-wilde-the-invite-locarno-seth-rogen-1236830606/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/olivia-wilde-wanted-the-invite-cinema-run-streaming-bribe-1236669287/"
+          "url": "https://variety.com/2026/film/news/oxic-trailer-yash-dual-role-gangster-epic-1236830597/"
         }
       ]
     }
@@ -56,14 +48,26 @@
       "title": "Boston Blue",
       "network": "",
       "talent": "Will Estes",
-      "announcement": "Will Estes, alum of 'Blue Bloods,' is reprising his role in the new series.",
+      "announcement": "Will Estes, alum from 'Blue Bloods,' is reprising his role on the series.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/08/blue-bloods-will-estes-reprising-role-boston-blue-1237029175/"
         }
       ]
+    },
+    {
+      "title": "Tucci in Italy",
+      "network": "National Geographic",
+      "talent": "Stanley Tucci (host)",
+      "announcement": "The Emmy-nominated series is moving from Italy to the United Kingdom for its next season.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/awards/stanley-tucci-nat-geo-italy-moving-uk-next-season-why-1236830482/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-08-08T18:42:14.763Z"
+  "lastUpdated": "2026-08-08T19:33:30.255Z"
 }
