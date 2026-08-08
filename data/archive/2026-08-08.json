@@ -1,12 +1,12 @@
 {
   "date": "August 8, 2026",
-  "summary": "3 film announcements, 2 TV announcements across 5 trades.",
+  "summary": "3 film announcements, 4 TV announcements across 5 trades.",
   "film": [
     {
       "title": "Supermax",
       "studio": "Amazon MGM Studios and Miramax",
       "talent": "Jason Clarke",
-      "announcement": "Jason Clarke joins the action-thriller as a key cast member. The film is being developed by Amazon MGM Studios and Miramax.",
+      "announcement": "Jason Clarke joins the action-thriller as a cast member. The project is being developed by Amazon MGM Studios and Miramax.",
       "sources": [
         {
           "name": "Deadline",
@@ -18,7 +18,7 @@
       "title": "Spring Breakers 2",
       "studio": "",
       "talent": "Bella Thorne (writer, director, star)",
-      "announcement": "Bella Thorne has been tapped by producers to write, direct, and star in the sequel after they saw her directorial debut.",
+      "announcement": "Bella Thorne is set to write, direct, and star in the sequel after producers tapped her following her directorial debut.",
       "sources": [
         {
           "name": "Deadline",
@@ -33,8 +33,8 @@
     {
       "title": "Artificial",
       "studio": "",
-      "talent": "Monica Barbaro, Timothée Chalamet",
-      "announcement": "Luca Guadagnino's OpenAI-backed film with Monica Barbaro in the cast. The project has been in development with Timothée Chalamet also attached.",
+      "talent": "Monica Barbaro",
+      "announcement": "Monica Barbaro is in Luca Guadagnino's OpenAI-produced film about artificial intelligence.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -45,10 +45,22 @@
   ],
   "tv": [
     {
+      "title": "Monsters of God",
+      "network": "HBO",
+      "talent": "Eric Goode (creator/producer)",
+      "announcement": "HBO greenlights a reptilian docuseries from Tiger King's Eric Goode.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/monsters-of-god-interview-eric-goode-1237029438/"
+        }
+      ]
+    },
+    {
       "title": "Boston Blue",
       "network": "",
-      "talent": "Will Estes",
-      "announcement": "Will Estes, an alum of 'Blue Bloods,' is reprising his role on the new series.",
+      "talent": "Will Estes (reprising role from Blue Bloods)",
+      "announcement": "Will Estes is reprising his Blue Bloods role for the new series Boston Blue.",
       "sources": [
         {
           "name": "Deadline",
@@ -57,17 +69,29 @@
       ]
     },
     {
-      "title": "Heated Rivalry",
-      "network": "",
-      "talent": "",
-      "announcement": "Season 2 casting has been announced, with the author of the original work responding to negative reactions to the cast selections.",
+      "title": "Tucci in Italy",
+      "network": "National Geographic",
+      "talent": "Stanley Tucci (host)",
+      "announcement": "Stanley Tucci's Emmy-nominated series is relocating from Italy to the United Kingdom for the next season.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/heated-rivalry-author-dismiss-negative-reactions-season-2-casting-1237029395/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/awards/stanley-tucci-nat-geo-italy-moving-uk-next-season-why-1236830482/"
+        }
+      ]
+    },
+    {
+      "title": "My Life with the Walter Boys",
+      "network": "Netflix",
+      "talent": "Ashby Gentry",
+      "announcement": "Season 4 is in development with Ashby Gentry discussing Alex's healing journey and a new love triangle.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/my-life-with-the-walter-boys-ashby-gentry-alex-season-3-1236663390/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-08-08T21:33:45.585Z"
+  "lastUpdated": "2026-08-08T22:33:18.562Z"
 }
