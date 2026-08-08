@@ -1,12 +1,12 @@
 {
   "date": "August 8, 2026",
-  "summary": "2 film announcements, 1 TV announcement across multiple trades.",
+  "summary": "3 film announcements, 1 TV announcement across 5 trades.",
   "film": [
     {
       "title": "Supermax",
-      "studio": "Amazon MGM & Miramax",
+      "studio": "Amazon MGM Studios & Miramax",
       "talent": "Jason Clarke",
-      "announcement": "Jason Clarke joins the action-thriller film from Amazon MGM and Miramax.",
+      "announcement": "Jason Clarke joins the action-thriller as a cast member.",
       "sources": [
         {
           "name": "Deadline",
@@ -18,7 +18,7 @@
       "title": "Spring Breakers 2",
       "studio": "",
       "talent": "Bella Thorne (writer, director, star)",
-      "announcement": "Bella Thorne has been tapped to write, direct, and star in the Spring Breakers sequel after producers saw her directorial debut.",
+      "announcement": "Bella Thorne set to write, direct, and star in the sequel after producers saw her directorial debut.",
       "sources": [
         {
           "name": "Deadline",
@@ -29,14 +29,26 @@
           "url": "https://www.thewrap.com/creative-content/movies/spring-breakers-2-bella-thorne-to-write-direct-star/"
         }
       ]
+    },
+    {
+      "title": "Maharaja Tomare Selam",
+      "studio": "",
+      "talent": "Srijit Mukherji (director)",
+      "announcement": "Srijit Mukherji directing a film chronicling Satyajit Ray's making of 'Goopy Gyne Bagha Byne.'",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/satyajit-ray-goopy-gyne-bagha-byne-maharaja-tomare-selam-1236830536/"
+        }
+      ]
     }
   ],
   "tv": [
     {
       "title": "Boston Blue",
       "network": "",
-      "talent": "Will Estes",
-      "announcement": "Will Estes, alum of Blue Bloods, is reprising his role for the new series Boston Blue.",
+      "talent": "Will Estes (reprising role from Blue Bloods)",
+      "announcement": "Will Estes reprises his role for the series, welcoming him back to the franchise.",
       "sources": [
         {
           "name": "Deadline",
@@ -45,5 +57,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-08T04:36:08.716Z"
+  "lastUpdated": "2026-08-08T15:33:41.278Z"
 }
