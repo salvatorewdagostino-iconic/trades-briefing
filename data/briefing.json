@@ -1,7 +1,45 @@
 {
   "date": "August 9, 2026",
-  "summary": "0 film announcements, 0 TV announcements across 7 trades.",
-  "film": [],
-  "tv": [],
-  "lastUpdated": "2026-08-09T03:44:01.293Z"
+  "summary": "2 film announcements, 1 TV announcement across 5 trades.",
+  "film": [
+    {
+      "title": "Varanasi",
+      "studio": "",
+      "talent": "Mahesh Babu, S.S. Rajamouli (director)",
+      "announcement": "Mahesh Babu's look in S.S. Rajamouli's 'Varanasi' has been unveiled.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/mahesh-babu-look-ss-rajamouli-varanasi-1236830753/"
+        }
+      ]
+    },
+    {
+      "title": "Children of Blood and Bone",
+      "studio": "",
+      "talent": "Gina Prince-Bythewood (director), Tomi Adeyemi (author)",
+      "announcement": "Gina Prince-Bythewood discusses the worldbuilding of the film adaptation based on Tomi Adeyemi's novel.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/gina-prince-bythewood-children-of-blood-and-bone-tomi-adeyemi-mvaaff-1236830592/"
+        }
+      ]
+    }
+  ],
+  "tv": [
+    {
+      "title": "Heated Rivalry",
+      "network": "",
+      "talent": "Rachel Reid (author)",
+      "announcement": "Author Rachel Reid pushes back against Season 2 casting criticism.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/heated-rivalry-rachel-reid-season-2-casting-criticism-1236669555/"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-08-09T15:35:36.616Z"
 }
