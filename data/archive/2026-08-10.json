@@ -1,12 +1,12 @@
 {
   "date": "August 10, 2026",
-  "summary": "5 film announcements, 7 TV announcements across 5 trades.",
+  "summary": "6 film announcements, 7 TV announcements across 5 trades.",
   "film": [
     {
       "title": "Stag Dance",
       "studio": "Run-A-Muck",
       "talent": "",
-      "announcement": "Run-A-Muck is developing Torrey Peters' novella 'Stag Dance' for film; the novella was part of the 2026 Pulitzer Prize finalist collection.",
+      "announcement": "Run-A-Muck is developing Torrey Peters' novella 'Stag Dance' (part of 2026 Pulitzer Prize Finalist Collection) into a film.",
       "sources": [
         {
           "name": "Deadline",
@@ -15,22 +15,10 @@
       ]
     },
     {
-      "title": "Nice Eggs",
-      "studio": "",
-      "talent": "Jane Krakowski, Angourie Rice",
-      "announcement": "Coming-of-age drama 'Nice Eggs' stars Jane Krakowski and Angourie Rice, directed by Amanda Lipitz.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/jane-krakowski-angourie-rice-star-nice-eggs-1237030136/"
-        }
-      ]
-    },
-    {
       "title": "Touch Grass",
       "studio": "Promise AI",
-      "talent": "Dave Clark (director), Brad Miska, Chris White (producers)",
-      "announcement": "Promise AI is developing horror feature 'Touch Grass' with Dave Clark directing and Brad Miska and 'Backrooms' EP Chris White producing.",
+      "talent": "Dave Clark (Director), Brad Miska, Chris White (Producers)",
+      "announcement": "Promise AI is developing the horror feature 'Touch Grass' with Dave Clark directing and Brad Miska and 'Backrooms' EP Chris White producing.",
       "sources": [
         {
           "name": "Deadline",
@@ -39,9 +27,21 @@
       ]
     },
     {
+      "title": "Nice Eggs",
+      "studio": "",
+      "talent": "Jane Krakowski, Angourie Rice (Stars), Amanda Lipitz (Director)",
+      "announcement": "Jane Krakowski and Angourie Rice star in coming-of-age drama 'Nice Eggs' from director Amanda Lipitz.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/jane-krakowski-angourie-rice-star-nice-eggs-1237030136/"
+        }
+      ]
+    },
+    {
       "title": "Ink",
       "studio": "Netflix",
-      "talent": "Guy Pearce (Rupert Murdoch), Danny Boyle (director)",
+      "talent": "Guy Pearce (Rupert Murdoch), Danny Boyle (Director)",
       "announcement": "Netflix sets U.S. release date for Danny Boyle's tabloid drama 'Ink' starring Guy Pearce as Rupert Murdoch.",
       "sources": [
         {
@@ -56,22 +56,62 @@
     },
     {
       "title": "Merry Christmas Aubrey Flint",
-      "studio": "Samuel Goldwyn",
+      "studio": "Samuel Goldwyn Films",
       "talent": "",
-      "announcement": "Samuel Goldwyn acquires North America rights to WestEnd Films' holiday comedy 'Merry Christmas Aubrey Flint'.",
+      "announcement": "Samuel Goldwyn Films acquires North America rights to WestEnd Films' holiday comedy 'Merry Christmas Aubrey Flint'.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/film/global/merry-christmas-aubrey-flint-samuel-goldwyn-1236831300/"
         }
       ]
+    },
+    {
+      "title": "Paper Tiger",
+      "studio": "",
+      "talent": "Adam Driver, Miles Teller, Scarlett Johansson (Stars), James Gray (Director)",
+      "announcement": "First trailer released for James Gray's NYC drama 'Paper Tiger' starring Adam Driver and Miles Teller as brothers.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/paper-tiger-trailer-adam-driver-miles-teller-1237030132/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/paper-tiger-trailer-adam-driver-miles-teller-scarlett-johansson/"
+        }
+      ]
     }
   ],
   "tv": [
     {
+      "title": "Ascension",
+      "network": "Apple TV+",
+      "talent": "Caitríona Balfe (Star), Alfonso Cuarón (Creator)",
+      "announcement": "Apple TV+ orders Alfonso Cuarón cult horror thriller series 'Ascension' starring 'Outlander' alum Caitríona Balfe.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/caitriona-balfe-alfonso-cuaron-ascension-horror-apple-tv-1237030127/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/apple-tv-alfonso-cuaron-ascension-caitriona-balfe-1236831363/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/apple-tv-ascension-series-caitriona-balfe-alfons-cuaron-1236670311/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/tv/apple-tv-ascension-alfonso-cuaron-series-order/"
+        }
+      ]
+    },
+    {
       "title": "Dig",
       "network": "Peacock",
-      "talent": "Amy Poehler, Hugh Laurie",
+      "talent": "Amy Poehler, Hugh Laurie (Stars), Mike Schur, J.J. Philbin (Creators)",
       "announcement": "Peacock sets premiere date for comedy series 'Dig' starring Amy Poehler and Hugh Laurie from Mike Schur and J.J. Philbin.",
       "sources": [
         {
@@ -89,30 +129,10 @@
       ]
     },
     {
-      "title": "Ascension",
-      "network": "Apple TV+",
-      "talent": "Caitríona Balfe, Alfonso Cuarón (director)",
-      "announcement": "Apple TV+ orders Alfonso Cuarón's psychological horror thriller series 'Ascension' starring 'Outlander' alum Caitríona Balfe.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/caitriona-balfe-alfonso-cuaron-ascension-horror-apple-tv-1237030127/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/apple-tv-alfonso-cuaron-ascension-caitriona-balfe-1236831363/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/media-platforms/tv/apple-tv-ascension-alfonso-cuaron-series-order/"
-        }
-      ]
-    },
-    {
       "title": "Clueless",
       "network": "Paramount",
       "talent": "",
-      "announcement": "Paramount's 'Clueless' series receives California TV tax credit allocation.",
+      "announcement": "'Clueless' sequel series receives California TV tax credit allocation as part of Paramount's latest slate.",
       "sources": [
         {
           "name": "Deadline",
@@ -125,21 +145,9 @@
       ]
     },
     {
-      "title": "The Sticks",
-      "network": "Netflix",
-      "talent": "Michelle Monaghan, Scott Bakula, Logan Marshall-Green",
-      "announcement": "Netflix YA hockey drama 'The Sticks' starring Michelle Monaghan confirms additional cast including Scott Bakula and Logan Marshall-Green.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/the-sticks-scott-bakula-logan-marshall-green-netflix-hockey-1237029100/"
-        }
-      ]
-    },
-    {
       "title": "Ascent",
-      "network": "Paramount",
-      "talent": "Viola Davis",
+      "network": "",
+      "talent": "Viola Davis (Star)",
       "announcement": "Viola Davis' 'Ascent' receives California TV tax credit allocation.",
       "sources": [
         {
@@ -149,29 +157,41 @@
       ]
     },
     {
-      "title": "Ted Lasso",
-      "network": "Apple TV+",
-      "talent": "Tanya Reynolds",
-      "announcement": "Tanya Reynolds joins 'Ted Lasso' Season 4 as a tough and cold women's soccer coach.",
+      "title": "The Sticks",
+      "network": "Netflix",
+      "talent": "Scott Bakula, Logan Marshall-Green, Michelle Monaghan (Cast)",
+      "announcement": "Netflix YA hockey drama 'The Sticks' confirms cast including Scott Bakula, Logan Marshall-Green, and Michelle Monaghan.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/ted-lasso-tanya-reynolds-season-4-1236825258/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/the-sticks-scott-bakula-logan-marshall-green-netflix-hockey-1237029100/"
         }
       ]
     },
     {
-      "title": "Heated Rivalry",
-      "network": "",
-      "talent": "Justice Smith (Harris Drover)",
-      "announcement": "Justice Smith cast as Harris Drover in 'Heated Rivalry', promising fans he will 'take good care' of the character.",
+      "title": "Scam 2010",
+      "network": "Sony LIV",
+      "talent": "",
+      "announcement": "Sony LIV confirms 'Scam 2010' production will proceed despite legal threats.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/08/justice-smith-reaction-heated-rivalry-casting-harris-drover-1237029828/"
+          "url": "https://deadline.com/2026/08/scam-2010-subrata-roy-story-goes-ahead-sony-liv-1237030009/"
+        }
+      ]
+    },
+    {
+      "title": "Typecast",
+      "network": "",
+      "talent": "Sachin Kumar (Creator)",
+      "announcement": "LA creator Sachin Kumar launches Prema Creative Co. with vertical comedy series 'Typecast' about Indian-American actor in Hollywood.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/sachin-kumar-typecast-vertical-video-company-launch-1237030140/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-08-10T17:26:55.398Z"
+  "lastUpdated": "2026-08-10T18:25:43.679Z"
 }
