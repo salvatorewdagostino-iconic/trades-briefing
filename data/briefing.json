@@ -1,7 +1,20 @@
 {
   "date": "August 10, 2026",
-  "summary": "0 film announcements, 0 TV announcements across 5 trades.",
-  "film": [],
+  "summary": "1 film announcement, 0 TV announcements across 5 trades.",
+  "film": [
+    {
+      "title": "Heated Rivalry",
+      "studio": "",
+      "talent": "Justice Smith as Harris Drover",
+      "announcement": "Justice Smith cast in the role of Harris Drover for the film adaptation.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/justice-smith-reaction-heated-rivalry-casting-harris-drover-1237029828/"
+        }
+      ]
+    }
+  ],
   "tv": [],
-  "lastUpdated": "2026-08-10T01:52:43.415Z"
+  "lastUpdated": "2026-08-10T03:57:29.099Z"
 }
