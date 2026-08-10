@@ -1,24 +1,24 @@
 {
   "date": "August 10, 2026",
-  "summary": "8 film announcements, 11 TV announcements across 5 trades.",
+  "summary": "5 film announcements, 7 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Touch Grass",
-      "studio": "Promise AI",
-      "talent": "Dave Clark (director), Brad Miska and Chris White (producers)",
-      "announcement": "Promise AI is developing a horror feature with Dave Clark directing and Brad Miska and Backrooms EP Chris White producing.",
+      "title": "Stag Dance",
+      "studio": "Run-A-Muck",
+      "talent": "",
+      "announcement": "Run-A-Muck is developing Torrey Peters' novella 'Stag Dance' for film; the novella was part of the 2026 Pulitzer Prize finalist collection.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/08/promise-ai-horror-feature-touch-grass-dave-clark-backrooms-bloody-disgusting-1237028603/"
+          "url": "https://deadline.com/2026/08/stag-dance-movie-torrey-peters-run-a-muck-1237030165/"
         }
       ]
     },
     {
       "title": "Nice Eggs",
       "studio": "",
-      "talent": "Jane Krakowski, Angourie Rice (stars), Amanda Lipitz (director)",
-      "announcement": "Jane Krakowski and Angourie Rice star in coming-of-age drama Nice Eggs directed by Amanda Lipitz.",
+      "talent": "Jane Krakowski, Angourie Rice",
+      "announcement": "Coming-of-age drama 'Nice Eggs' stars Jane Krakowski and Angourie Rice, directed by Amanda Lipitz.",
       "sources": [
         {
           "name": "Deadline",
@@ -27,137 +27,57 @@
       ]
     },
     {
-      "title": "Merry Christmas Aubrey Flint",
-      "studio": "Samuel Goldwyn",
-      "talent": "",
-      "announcement": "Samuel Goldwyn acquires North America rights to WestEnd Films' holiday comedy from distributor.",
+      "title": "Touch Grass",
+      "studio": "Promise AI",
+      "talent": "Dave Clark (director), Brad Miska, Chris White (producers)",
+      "announcement": "Promise AI is developing horror feature 'Touch Grass' with Dave Clark directing and Brad Miska and 'Backrooms' EP Chris White producing.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/merry-christmas-aubrey-flint-samuel-goldwyn-1236831300/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/promise-ai-horror-feature-touch-grass-dave-clark-backrooms-bloody-disgusting-1237028603/"
         }
       ]
     },
     {
       "title": "Ink",
       "studio": "Netflix",
-      "talent": "Danny Boyle (director), Guy Pearce (as Rupert Murdoch)",
-      "announcement": "Netflix sets U.S. release date for Danny Boyle's tabloid drama Ink and unveils first look at Guy Pearce as Rupert Murdoch.",
+      "talent": "Guy Pearce (Rupert Murdoch), Danny Boyle (director)",
+      "announcement": "Netflix sets U.S. release date for Danny Boyle's tabloid drama 'Ink' starring Guy Pearce as Rupert Murdoch.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/film/awards/ink-netflix-release-date-guy-pearce-rupert-murdoch-1236830133/"
-        }
-      ]
-    },
-    {
-      "title": "Half",
-      "studio": "",
-      "talent": "",
-      "announcement": "Best Friend Forever boards Malayalam-language Indian vampire thriller Half for TIFF Midnight Madness.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/best-friend-forever-midnight-madness-malayalam-vampire-half-1237029546/"
-        }
-      ]
-    },
-    {
-      "title": "Head to Head",
-      "studio": "",
-      "talent": "",
-      "announcement": "DreamLab Films boards satirical Iranian TIFF title Head to Head in which male cast forced to coverup.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/dreamlab-iranian-satire-men-headscarves-1237029565/"
-        }
-      ]
-    },
-    {
-      "title": "Scam 2010",
-      "studio": "Sony LIV",
-      "talent": "",
-      "announcement": "Sony LIV confirms Scam 2010 production will go ahead despite legal threat from Subrata Roy.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/scam-2010-subrata-roy-story-goes-ahead-sony-liv-1237030009/"
-        }
-      ]
-    },
-    {
-      "title": "Paper Tiger",
-      "studio": "",
-      "talent": "James Gray (director), Adam Driver, Miles Teller, Scarlett Johansson (cast)",
-      "announcement": "First trailer released for James Gray's tragic New York thriller Paper Tiger featuring Adam Driver, Miles Teller and Scarlett Johansson.",
-      "sources": [
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/paper-tiger-trailer-adam-driver-miles-teller-scarlett-johansson/"
         },
         {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/news/trailers/paper-tiger-teaser-trailer-james-gray-movie-watch-1235208969/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/ink-danny-boyle-rupert-murdoch-release-date-netflix-1236670178/"
+        }
+      ]
+    },
+    {
+      "title": "Merry Christmas Aubrey Flint",
+      "studio": "Samuel Goldwyn",
+      "talent": "",
+      "announcement": "Samuel Goldwyn acquires North America rights to WestEnd Films' holiday comedy 'Merry Christmas Aubrey Flint'.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/merry-christmas-aubrey-flint-samuel-goldwyn-1236831300/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "The Sticks",
-      "network": "Netflix",
-      "talent": "Michelle Monaghan, Scott Bakula, Logan Marshall-Green (cast)",
-      "announcement": "Cast confirmed and first look released for Netflix YA hockey drama The Sticks starring Michelle Monaghan.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/the-sticks-scott-bakula-logan-marshall-green-netflix-hockey-1237029100/"
-        }
-      ]
-    },
-    {
-      "title": "Fauda",
-      "network": "Netflix",
-      "talent": "",
-      "announcement": "Season 5 launch date on Netflix revealed with first-look images.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/fauda-season-5-release-date-first-look-images-1237030047/"
-        }
-      ]
-    },
-    {
-      "title": "Doomsweepers",
-      "network": "",
-      "talent": "Sarah Harper (director), Flying Bark, Lightfold (production companies)",
-      "announcement": "Animated horror-comedy series Doomsweepers in works from Monkie Kid director Sarah Harper, Flying Bark and Lightfold.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/doomsweepers-animated-horror-comedy-revealed-1237029995/"
-        }
-      ]
-    },
-    {
-      "title": "Sorry, I Didn't Know",
-      "network": "ITV",
-      "talent": "",
-      "announcement": "Historic ITV run extends to seventh season.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/sorry-i-didnt-know-season-7-record-1237030035/"
-        }
-      ]
-    },
-    {
       "title": "Dig",
       "network": "Peacock",
-      "talent": "Amy Poehler, Hugh Laurie (cast), Mike Schur and J.J. Philbin (creators)",
-      "announcement": "Peacock drops first look at Hugh Laurie and Amy Poehler in Dig from Mike Schur and J.J. Philbin; November premiere date set.",
+      "talent": "Amy Poehler, Hugh Laurie",
+      "announcement": "Peacock sets premiere date for comedy series 'Dig' starring Amy Poehler and Hugh Laurie from Mike Schur and J.J. Philbin.",
       "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/dig-release-date-amy-poehler-comedy-series-peacock-1237030227/"
+        },
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/peacock-series-dig-amy-poehler-hugh-laurie-1236669907/"
@@ -169,26 +89,34 @@
       ]
     },
     {
-      "title": "Payday",
-      "network": "",
-      "talent": "Curtis '50 Cent' Jackson (executive producer)",
-      "announcement": "Curtis '50 Cent' Jackson boards Payday TV series as executive producer via G-Unit Film & TV.",
+      "title": "Ascension",
+      "network": "Apple TV+",
+      "talent": "Caitríona Balfe, Alfonso Cuarón (director)",
+      "announcement": "Apple TV+ orders Alfonso Cuarón's psychological horror thriller series 'Ascension' starring 'Outlander' alum Caitríona Balfe.",
       "sources": [
         {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/caitriona-balfe-alfonso-cuaron-ascension-horror-apple-tv-1237030127/"
+        },
+        {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/50-cent-payday-tv-series-executive-producer-1236830351/"
+          "url": "https://variety.com/2026/tv/news/apple-tv-alfonso-cuaron-ascension-caitriona-balfe-1236831363/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/tv/apple-tv-ascension-alfonso-cuaron-series-order/"
         }
       ]
     },
     {
       "title": "Clueless",
-      "network": "",
+      "network": "Paramount",
       "talent": "",
-      "announcement": "Clueless sequel series awarded California tax credits.",
+      "announcement": "Paramount's 'Clueless' series receives California TV tax credit allocation.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/clueless-rockford-files-california-tax-credits-1236830470/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/california-tv-tax-credit-clueless-viola-david-series-1237030142/"
         },
         {
           "name": "TheWrap",
@@ -197,69 +125,53 @@
       ]
     },
     {
-      "title": "The Rockford Files",
+      "title": "The Sticks",
+      "network": "Netflix",
+      "talent": "Michelle Monaghan, Scott Bakula, Logan Marshall-Green",
+      "announcement": "Netflix YA hockey drama 'The Sticks' starring Michelle Monaghan confirms additional cast including Scott Bakula and Logan Marshall-Green.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/the-sticks-scott-bakula-logan-marshall-green-netflix-hockey-1237029100/"
+        }
+      ]
+    },
+    {
+      "title": "Ascent",
+      "network": "Paramount",
+      "talent": "Viola Davis",
+      "announcement": "Viola Davis' 'Ascent' receives California TV tax credit allocation.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/california-tv-tax-credit-clueless-viola-david-series-1237030142/"
+        }
+      ]
+    },
+    {
+      "title": "Ted Lasso",
+      "network": "Apple TV+",
+      "talent": "Tanya Reynolds",
+      "announcement": "Tanya Reynolds joins 'Ted Lasso' Season 4 as a tough and cold women's soccer coach.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/ted-lasso-tanya-reynolds-season-4-1236825258/"
+        }
+      ]
+    },
+    {
+      "title": "Heated Rivalry",
       "network": "",
-      "talent": "",
-      "announcement": "The Rockford Files reboot awarded California tax credits.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/clueless-rockford-files-california-tax-credits-1236830470/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/industry-news/business/clueless-sequel-series-the-rockford-files-reboot-california-tax-credits/"
-        }
-      ]
-    },
-    {
-      "title": "Nia Liston: The Merciless Maiden",
-      "network": "HIDIVE",
-      "talent": "",
-      "announcement": "HIDIVE and Mainichi Broadcasting System ink anime output deal with Nia Liston: The Merciless Maiden premiere set.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/hidive-mbs-anime-output-deal-nia-liston-trailer-1236830767/"
-        }
-      ]
-    },
-    {
-      "title": "Jonas Brothers Podcast",
-      "network": "Disney+ and Hulu",
-      "talent": "Jonas Brothers",
-      "announcement": "Jonas Brothers podcast and five other iHeartMedia shows coming to Disney+ and Hulu via licensing deal.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/jonas-brothers-podcast-disney-plus-hulu-iheartmedia-1236830393/"
-        },
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/podcasts-jonas-brothers-disney-plus-hulu-iheartmedia-1237030116/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/business/digital/disney-hulu-video-podcasts-iheartmedia-hey-jonas-1236670102/"
-        }
-      ]
-    },
-    {
-      "title": "Public Eye",
-      "network": "Peacock",
-      "talent": "",
-      "announcement": "Peacock launches first serialized mobile game Public Eye with AI-generated content from Wolf Games.",
+      "talent": "Justice Smith (Harris Drover)",
+      "announcement": "Justice Smith cast as Harris Drover in 'Heated Rivalry', promising fans he will 'take good care' of the character.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/08/peacock-new-serial-mobile-game-public-eye-1237029824/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/gaming/news/public-eye-ai-mobile-game-peacock-wolf-games-1236831297/"
+          "url": "https://deadline.com/2026/08/justice-smith-reaction-heated-rivalry-casting-harris-drover-1237029828/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-08-10T16:02:18.358Z"
+  "lastUpdated": "2026-08-10T17:26:55.398Z"
 }
