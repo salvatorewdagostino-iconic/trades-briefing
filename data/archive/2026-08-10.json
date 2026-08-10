@@ -1,12 +1,12 @@
 {
   "date": "August 10, 2026",
-  "summary": "6 film announcements, 7 TV announcements across 5 trades.",
+  "summary": "5 film announcements, 7 TV announcements across 5 trades.",
   "film": [
     {
       "title": "Stag Dance",
       "studio": "Run-A-Muck",
       "talent": "",
-      "announcement": "Run-A-Muck is developing Torrey Peters' novella 'Stag Dance' (part of 2026 Pulitzer Prize Finalist Collection) into a film.",
+      "announcement": "Run-A-Muck is developing Torrey Peters' novella 'Stag Dance' (part of 2026 Pulitzer Prize finalist collection) into a film.",
       "sources": [
         {
           "name": "Deadline",
@@ -15,22 +15,10 @@
       ]
     },
     {
-      "title": "Touch Grass",
-      "studio": "Promise AI",
-      "talent": "Dave Clark (Director), Brad Miska, Chris White (Producers)",
-      "announcement": "Promise AI is developing the horror feature 'Touch Grass' with Dave Clark directing and Brad Miska and 'Backrooms' EP Chris White producing.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/promise-ai-horror-feature-touch-grass-dave-clark-backrooms-bloody-disgusting-1237028603/"
-        }
-      ]
-    },
-    {
       "title": "Nice Eggs",
       "studio": "",
-      "talent": "Jane Krakowski, Angourie Rice (Stars), Amanda Lipitz (Director)",
-      "announcement": "Jane Krakowski and Angourie Rice star in coming-of-age drama 'Nice Eggs' from director Amanda Lipitz.",
+      "talent": "Jane Krakowski, Angourie Rice",
+      "announcement": "Coming-of-age drama 'Nice Eggs' stars Jane Krakowski and Angourie Rice, directed by Amanda Lipitz.",
       "sources": [
         {
           "name": "Deadline",
@@ -39,10 +27,22 @@
       ]
     },
     {
+      "title": "Touch Grass",
+      "studio": "Promise AI",
+      "talent": "Dave Clark (director), Brad Miska, Chris White (producers)",
+      "announcement": "Promise AI is developing horror feature 'Touch Grass' with Dave Clark directing and Brad Miska and 'Backrooms' EP Chris White producing.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/promise-ai-horror-feature-touch-grass-dave-clark-backrooms-bloody-disgusting-1237028603/"
+        }
+      ]
+    },
+    {
       "title": "Ink",
       "studio": "Netflix",
-      "talent": "Guy Pearce (Rupert Murdoch), Danny Boyle (Director)",
-      "announcement": "Netflix sets U.S. release date for Danny Boyle's tabloid drama 'Ink' starring Guy Pearce as Rupert Murdoch.",
+      "talent": "Guy Pearce, Danny Boyle (director)",
+      "announcement": "Netflix sets U.S. release date for Danny Boyle's tabloid drama 'Ink' starring Guy Pearce as Rupert Murdoch for December theatrical release.",
       "sources": [
         {
           "name": "Variety",
@@ -56,39 +56,35 @@
     },
     {
       "title": "Merry Christmas Aubrey Flint",
-      "studio": "Samuel Goldwyn Films",
+      "studio": "Samuel Goldwyn",
       "talent": "",
-      "announcement": "Samuel Goldwyn Films acquires North America rights to WestEnd Films' holiday comedy 'Merry Christmas Aubrey Flint'.",
+      "announcement": "Samuel Goldwyn acquires North America rights to WestEnd Films' holiday comedy 'Merry Christmas Aubrey Flint'.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/film/global/merry-christmas-aubrey-flint-samuel-goldwyn-1236831300/"
         }
       ]
-    },
-    {
-      "title": "Paper Tiger",
-      "studio": "",
-      "talent": "Adam Driver, Miles Teller, Scarlett Johansson (Stars), James Gray (Director)",
-      "announcement": "First trailer released for James Gray's NYC drama 'Paper Tiger' starring Adam Driver and Miles Teller as brothers.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/paper-tiger-trailer-adam-driver-miles-teller-1237030132/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/paper-tiger-trailer-adam-driver-miles-teller-scarlett-johansson/"
-        }
-      ]
     }
   ],
   "tv": [
     {
+      "title": "Monsterverse Series",
+      "network": "Apple TV",
+      "talent": "Wyatt Russell, Connie Nielsen, Stana Katic",
+      "announcement": "Connie Nielsen and Stana Katic join the Wyatt Russell-led Monsterverse series for Apple TV.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/connie-nielsen-stana-katic-cast-apple-tv-monsterverse-1237029716/"
+        }
+      ]
+    },
+    {
       "title": "Ascension",
-      "network": "Apple TV+",
-      "talent": "Caitríona Balfe (Star), Alfonso Cuarón (Creator)",
-      "announcement": "Apple TV+ orders Alfonso Cuarón cult horror thriller series 'Ascension' starring 'Outlander' alum Caitríona Balfe.",
+      "network": "Apple TV",
+      "talent": "Caitríona Balfe, Alfonso Cuarón (director/creator)",
+      "announcement": "Apple TV orders Alfonso Cuarón's cult horror thriller series 'Ascension' starring Caitríona Balfe.",
       "sources": [
         {
           "name": "Deadline",
@@ -111,7 +107,7 @@
     {
       "title": "Dig",
       "network": "Peacock",
-      "talent": "Amy Poehler, Hugh Laurie (Stars), Mike Schur, J.J. Philbin (Creators)",
+      "talent": "Amy Poehler, Hugh Laurie",
       "announcement": "Peacock sets premiere date for comedy series 'Dig' starring Amy Poehler and Hugh Laurie from Mike Schur and J.J. Philbin.",
       "sources": [
         {
@@ -129,38 +125,10 @@
       ]
     },
     {
-      "title": "Clueless",
-      "network": "Paramount",
-      "talent": "",
-      "announcement": "'Clueless' sequel series receives California TV tax credit allocation as part of Paramount's latest slate.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/california-tv-tax-credit-clueless-viola-david-series-1237030142/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/industry-news/business/clueless-sequel-series-the-rockford-files-reboot-california-tax-credits/"
-        }
-      ]
-    },
-    {
-      "title": "Ascent",
-      "network": "",
-      "talent": "Viola Davis (Star)",
-      "announcement": "Viola Davis' 'Ascent' receives California TV tax credit allocation.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/california-tv-tax-credit-clueless-viola-david-series-1237030142/"
-        }
-      ]
-    },
-    {
       "title": "The Sticks",
       "network": "Netflix",
-      "talent": "Scott Bakula, Logan Marshall-Green, Michelle Monaghan (Cast)",
-      "announcement": "Netflix YA hockey drama 'The Sticks' confirms cast including Scott Bakula, Logan Marshall-Green, and Michelle Monaghan.",
+      "talent": "Michelle Monaghan, Scott Bakula, Logan Marshall-Green",
+      "announcement": "Netflix YA hockey drama 'The Sticks' stars Michelle Monaghan with Scott Bakula and Logan Marshall-Green confirmed in cast.",
       "sources": [
         {
           "name": "Deadline",
@@ -169,29 +137,41 @@
       ]
     },
     {
-      "title": "Scam 2010",
-      "network": "Sony LIV",
+      "title": "Clueless Series",
+      "network": "Paramount",
       "talent": "",
-      "announcement": "Sony LIV confirms 'Scam 2010' production will proceed despite legal threats.",
+      "announcement": "'Clueless' series is among recipients of latest California TV tax credit allocations.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/08/scam-2010-subrata-roy-story-goes-ahead-sony-liv-1237030009/"
+          "url": "https://deadline.com/2026/08/california-tv-tax-credit-clueless-viola-david-series-1237030142/"
         }
       ]
     },
     {
-      "title": "Typecast",
+      "title": "Ascent",
       "network": "",
-      "talent": "Sachin Kumar (Creator)",
-      "announcement": "LA creator Sachin Kumar launches Prema Creative Co. with vertical comedy series 'Typecast' about Indian-American actor in Hollywood.",
+      "talent": "Viola Davis",
+      "announcement": "Viola Davis' 'Ascent' is among recipients of latest California TV tax credit allocations.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/08/sachin-kumar-typecast-vertical-video-company-launch-1237030140/"
+          "url": "https://deadline.com/2026/08/california-tv-tax-credit-clueless-viola-david-series-1237030142/"
+        }
+      ]
+    },
+    {
+      "title": "Ted Lasso Season 4",
+      "network": "Apple TV",
+      "talent": "Tanya Reynolds",
+      "announcement": "Tanya Reynolds joins 'Ted Lasso' Season 4 as a tough and cold women's soccer coach.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/ted-lasso-tanya-reynolds-season-4-1236825258/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-08-10T18:25:43.679Z"
+  "lastUpdated": "2026-08-10T19:32:32.267Z"
 }
