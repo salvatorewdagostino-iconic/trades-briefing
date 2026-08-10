@@ -1,12 +1,12 @@
 {
   "date": "August 10, 2026",
-  "summary": "8 film announcements, 10 TV announcements across 5 trades.",
+  "summary": "11 film announcements, 9 TV announcements across 5 trades.",
   "film": [
     {
       "title": "Wreckless",
       "studio": "Independent",
       "talent": "Alexa Swinton, David Arquette, Wyatt Oleff, Sawyer Spielberg",
-      "announcement": "Demolition derby drama from first-time feature filmmaker Kayla Arend with cast set.",
+      "announcement": "Demolition derby drama from first-time feature filmmaker Kayla Arend sets cast with Swinton, Arquette, Oleff, and Spielberg.",
       "sources": [
         {
           "name": "Deadline",
@@ -18,7 +18,7 @@
       "title": "The Ballad of the Ember Knight",
       "studio": "Sony",
       "talent": "",
-      "announcement": "14th century-set spec script by first-time writers pre-empted by Sony for near seven-figure deal.",
+      "announcement": "Sony pre-empts 14th century-set spec script by first-time writers for near seven-figure deal.",
       "sources": [
         {
           "name": "Deadline",
@@ -49,8 +49,8 @@
     {
       "title": "Stag Dance",
       "studio": "Run-A-Muck",
-      "talent": "Based on Torrey Peters novella",
-      "announcement": "Run-A-Muck developing film adaptation of Torrey Peters' Pulitzer Prize finalist novella.",
+      "talent": "",
+      "announcement": "Run-A-Muck developing an adaptation of Torrey Peters' novella 'Stag Dance,' which is part of a 2026 Pulitzer Prize finalist collection.",
       "sources": [
         {
           "name": "Deadline",
@@ -62,7 +62,7 @@
       "title": "Nice Eggs",
       "studio": "Independent",
       "talent": "Jane Krakowski, Angourie Rice",
-      "announcement": "Coming-of-age drama directed by Amanda Lipitz with Krakowski and Rice starring.",
+      "announcement": "Coming-of-age drama starring Jane Krakowski and Angourie Rice from director Amanda Lipitz.",
       "sources": [
         {
           "name": "Deadline",
@@ -71,10 +71,22 @@
       ]
     },
     {
+      "title": "Merry Christmas Aubrey Flint",
+      "studio": "Samuel Goldwyn",
+      "talent": "",
+      "announcement": "Samuel Goldwyn acquires North America rights to WestEnd Films' holiday comedy from foreign distributor.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/merry-christmas-aubrey-flint-samuel-goldwyn-1236831300/"
+        }
+      ]
+    },
+    {
       "title": "Ink",
       "studio": "Netflix",
       "talent": "Guy Pearce",
-      "announcement": "Danny Boyle's Rupert Murdoch tabloid drama sets U.S. Netflix release date with Guy Pearce as Murdoch.",
+      "announcement": "Netflix sets U.S. release date for Danny Boyle's tabloid drama 'Ink' and unveils first look at Guy Pearce as Rupert Murdoch.",
       "sources": [
         {
           "name": "Variety",
@@ -87,72 +99,64 @@
       ]
     },
     {
-      "title": "Merry Christmas Aubrey Flint",
-      "studio": "Samuel Goldwyn Films",
-      "talent": "",
-      "announcement": "Samuel Goldwyn acquires North America rights to WestEnd Films' holiday comedy.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/global/merry-christmas-aubrey-flint-samuel-goldwyn-1236831300/"
-        }
-      ]
-    },
-    {
       "title": "Yesteryear",
       "studio": "Independent",
       "talent": "Anne Hathaway",
-      "announcement": "Anne Hathaway in talks for upcoming adaptation of hit novel.",
+      "announcement": "Anne Hathaway to star in an adaptation of the hit novel 'Yesteryear.'",
       "sources": [
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/anne-hathaway-year-of-movies-adaptation-novel-yesteryear-1236669859/"
         }
       ]
+    },
+    {
+      "title": "Paper Tiger",
+      "studio": "Independent",
+      "talent": "Adam Driver, Miles Teller, Scarlett Johansson",
+      "announcement": "James Gray's NYC drama 'Paper Tiger' stars Adam Driver and Miles Teller as brothers in this thriller.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/paper-tiger-trailer-adam-driver-miles-teller-1237030132/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/paper-tiger-trailer-adam-driver-miles-teller-scarlett-johansson/"
+        }
+      ]
+    },
+    {
+      "title": "Rivals of Amziah King",
+      "studio": "Amazon",
+      "talent": "Matthew McConaughey",
+      "announcement": "Matthew McConaughey returns to acting in indie film 'Rivals of Amziah King' from director Andrew Patterson.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/rivals-of-amziah-king-matthew-mcconaughey-andrew-patterson-1236669575/"
+        }
+      ]
+    },
+    {
+      "title": "Tony",
+      "studio": "Independent",
+      "talent": "",
+      "announcement": "Anthony Bourdain biopic 'Tony' was dreamed up at the late chef's favorite dive bar from his youth.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/tony-biopic-anthony-bourdain-dive-bar-1236670310/"
+        }
+      ]
     }
   ],
   "tv": [
     {
-      "title": "Untitled Alex Cary Thriller",
-      "network": "Apple TV+",
-      "talent": "Dakota Fanning, Louisa Krause",
-      "announcement": "Louisa Krause joins Dakota Fanning in Alex Cary's Apple TV+ thriller series.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/louisa-krause-dakota-fanning-apple-tv-alex-cary-thriller-1237030351/"
-        }
-      ]
-    },
-    {
-      "title": "St. Denis Medical",
-      "network": "NBC",
-      "talent": "Damon Wayans, David Alan Grier",
-      "announcement": "Damon Wayans guests in season 3 premiere reuniting with In Living Color co-star David Alan Grier.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/damon-wayans-guest-star-st-denis-medical-season-3-photo-1237029097/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/damon-wayans-in-living-color-st-denis-medical-1236831408/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/nbc-st-denis-medical-david-alan-grier-damon-wayans-1236669954/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/st-denis-medical-season-3-damon-wayans-guest-star/"
-        }
-      ]
-    },
-    {
       "title": "Ascension",
-      "network": "Apple TV+",
-      "talent": "Caitríona Balfe, Alfonso Cuarón",
-      "announcement": "Horror thriller series from director Alfonso Cuarón with Caitríona Balfe starring received series order.",
+      "network": "Apple TV",
+      "talent": "Caitriona Balfe",
+      "announcement": "Alfonso Cuarón's psychological horror thriller series ordered at Apple TV with Caitriona Balfe starring.",
       "sources": [
         {
           "name": "Deadline",
@@ -169,10 +173,42 @@
       ]
     },
     {
+      "title": "St. Denis Medical",
+      "network": "NBC",
+      "talent": "Damon Wayans, David Alan Grier",
+      "announcement": "Damon Wayans guest stars on season 3 premiere in 'In Living Color' reunion with David Alan Grier.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/damon-wayans-guest-star-st-denis-medical-season-3-photo-1237029097/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/damon-wayans-in-living-color-st-denis-medical-1236831408/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/st-denis-medical-season-3-damon-wayans-guest-star/"
+        }
+      ]
+    },
+    {
+      "title": "Alex Cary Thriller",
+      "network": "Apple TV",
+      "talent": "Dakota Fanning, Louisa Krause",
+      "announcement": "Louisa Krause joins Dakota Fanning in Apple TV's untitled Alex Cary thriller series.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/louisa-krause-dakota-fanning-apple-tv-alex-cary-thriller-1237030351/"
+        }
+      ]
+    },
+    {
       "title": "The Sticks",
       "network": "Netflix",
       "talent": "Michelle Monaghan, Scott Bakula, Logan Marshall-Green",
-      "announcement": "YA hockey drama with cast confirmed including Michelle Monaghan, Scott Bakula, and Logan Marshall-Green.",
+      "announcement": "Netflix's YA hockey drama 'The Sticks' confirms cast including Michelle Monaghan, Scott Bakula, and Logan Marshall-Green.",
       "sources": [
         {
           "name": "Deadline",
@@ -181,14 +217,14 @@
       ]
     },
     {
-      "title": "Heated Rivalry",
-      "network": "Unknown",
-      "talent": "Justice Smith",
-      "announcement": "Justice Smith cast as Harris Drover in adaptation of Heated Rivalry.",
+      "title": "Monsterverse Series",
+      "network": "Apple TV",
+      "talent": "Wyatt Russell, Connie Nielsen, Stana Katic",
+      "announcement": "Connie Nielsen and Stana Katic join Wyatt Russell-led Monsterverse series for Apple TV.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/08/justice-smith-reaction-heated-rivalry-casting-harris-drover-1237029828/"
+          "url": "https://deadline.com/2026/08/connie-nielsen-stana-katic-cast-apple-tv-monsterverse-1237029716/"
         }
       ]
     },
@@ -196,7 +232,7 @@
       "title": "Dig",
       "network": "Peacock",
       "talent": "Amy Poehler, Hugh Laurie",
-      "announcement": "Comedy series from Mike Schur and J.J. Philbin with Amy Poehler and Hugh Laurie starring.",
+      "announcement": "Peacock drops first look at Hugh Laurie and Amy Poehler in comedy series 'Dig' from Mike Schur and J.J. Philbin.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -209,38 +245,26 @@
       ]
     },
     {
-      "title": "Untitled Monsterverse Series",
-      "network": "Apple TV+",
-      "talent": "Wyatt Russell, Connie Nielsen, Stana Katic",
-      "announcement": "Connie Nielsen and Stana Katic join Wyatt Russell-led Monsterverse series at Apple TV+.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/connie-nielsen-stana-katic-cast-apple-tv-monsterverse-1237029716/"
-        }
-      ]
-    },
-    {
-      "title": "Untitled NBC Series from Josh Safran and Peter Krause",
-      "network": "NBC",
-      "talent": "Josh Safran, Peter Krause",
-      "announcement": "Line of Fire's Josh Safran and Peter Krause tease new NBC series in development.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/nbc-line-of-fire-josh-safran-peter-krause-tease-series-1237030278/"
-        }
-      ]
-    },
-    {
-      "title": "Somebody Knows Something",
+      "title": "Heated Rivalry",
       "network": "Unknown",
-      "talent": "Kara Robinson",
-      "announcement": "True crime investigator series featuring kidnapping survivor Kara Robinson.",
+      "talent": "Justice Smith",
+      "announcement": "Justice Smith cast as Harris Drover in series adaptation of 'Heated Rivalry,' promises to take good care of the character.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-somebody-knows-something-kara-robinson-true-crime-doc-1236670453/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/justice-smith-reaction-heated-rivalry-casting-harris-drover-1237029828/"
+        }
+      ]
+    },
+    {
+      "title": "Ted Lasso",
+      "network": "Apple TV",
+      "talent": "Tanya Reynolds",
+      "announcement": "Tanya Reynolds joins season 4 as a 'tough' and 'cold' women's soccer coach.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/ted-lasso-tanya-reynolds-season-4-1236825258/"
         }
       ]
     },
@@ -248,7 +272,7 @@
       "title": "American Hostage",
       "network": "Unknown",
       "talent": "Jon Hamm",
-      "announcement": "Jon Hamm faces tense standoff in new series trailer.",
+      "announcement": "Jon Hamm faces tense standoff in trailer for 'American Hostage' series.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -257,5 +281,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-10T22:41:34.823Z"
+  "lastUpdated": "2026-08-10T23:38:38.507Z"
 }
