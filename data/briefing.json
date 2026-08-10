@@ -1,16 +1,36 @@
 {
   "date": "August 10, 2026",
-  "summary": "6 film announcements, 8 TV announcements across 5 trades.",
+  "summary": "12 film announcements, 10 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Untitled Ari Aster Film",
+      "title": "The Ballad Of The Ember Knight",
+      "studio": "Sony",
+      "talent": "",
+      "announcement": "Sony pre-empts 14th century-set spec script by first-time writers in a near seven-figure deal.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/sony-preempts-ballad-of-the-ember-knight-14th-century-spec-1237030382/"
+        }
+      ]
+    },
+    {
+      "title": "Scapegoat",
       "studio": "A24",
-      "talent": "Jacob Elordi circling role, Scarlett Johansson starring",
-      "announcement": "Jacob Elordi is in negotiations to join Scarlett Johansson in Ari Aster's next film at A24.",
+      "talent": "Jacob Elordi (circling), Scarlett Johansson, Ari Aster (director)",
+      "announcement": "Jacob Elordi in talks to star alongside Scarlett Johansson in Ari Aster's psychological thriller.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/08/jacob-elordi-ari-aster-scapegoat-scarlett-johansson-a24-1237030322/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/jacob-elordi-ari-aster-scapegoat-scarlett-johansson-1236831657/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/industry-news/casting/jacob-elordi-ari-aster-scapegoat-scarlett-johansson-a24/"
         }
       ]
     },
@@ -18,7 +38,7 @@
       "title": "Stag Dance",
       "studio": "Run-A-Muck",
       "talent": "Based on novella by Torrey Peters",
-      "announcement": "Run-A-Muck is developing Torrey Peters' novella 'Stag Dance' for film, which was part of the 2026 Pulitzer Prize finalist collection.",
+      "announcement": "Run-A-Muck developing Torrey Peters' Pulitzer Prize finalist novella into a film.",
       "sources": [
         {
           "name": "Deadline",
@@ -29,8 +49,8 @@
     {
       "title": "Nice Eggs",
       "studio": "",
-      "talent": "Jane Krakowski, Angourie Rice starring; Director Amanda Lipitz",
-      "announcement": "Coming-of-age drama 'Nice Eggs' stars Jane Krakowski and Angourie Rice, directed by Amanda Lipitz.",
+      "talent": "Jane Krakowski, Angourie Rice, director Amanda Lipitz",
+      "announcement": "Coming-of-age drama starring Jane Krakowski and Angourie Rice directed by Amanda Lipitz.",
       "sources": [
         {
           "name": "Deadline",
@@ -39,22 +59,10 @@
       ]
     },
     {
-      "title": "Touch Grass",
-      "studio": "Promise AI",
-      "talent": "Dave Clark directing; Brad Miska and Chris White producing",
-      "announcement": "Promise AI is developing horror feature 'Touch Grass' with Dave Clark directing and Brad Miska and 'Backrooms' EP Chris White producing.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/promise-ai-horror-feature-touch-grass-dave-clark-backrooms-bloody-disgusting-1237028603/"
-        }
-      ]
-    },
-    {
       "title": "Ink",
       "studio": "Netflix",
-      "talent": "Guy Pearce as Rupert Murdoch; Director Danny Boyle",
-      "announcement": "Netflix sets U.S. release date for Danny Boyle's tabloid drama 'Ink' starring Guy Pearce as Rupert Murdoch for December theatrical release.",
+      "talent": "Guy Pearce (Rupert Murdoch), Danny Boyle (director)",
+      "announcement": "Netflix sets December theatrical release for Danny Boyle's Rupert Murdoch tabloid drama with Guy Pearce starring.",
       "sources": [
         {
           "name": "Variety",
@@ -68,13 +76,97 @@
     },
     {
       "title": "Merry Christmas Aubrey Flint",
-      "studio": "Samuel Goldwyn Films",
+      "studio": "Samuel Goldwyn",
       "talent": "",
-      "announcement": "Samuel Goldwyn acquires North America rights to WestEnd Films' holiday comedy 'Merry Christmas Aubrey Flint'.",
+      "announcement": "Samuel Goldwyn acquires North America rights to WestEnd Films' holiday comedy.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/film/global/merry-christmas-aubrey-flint-samuel-goldwyn-1236831300/"
+        }
+      ]
+    },
+    {
+      "title": "Paper Tiger",
+      "studio": "",
+      "talent": "Adam Driver, Miles Teller, Scarlett Johansson, James Gray (director)",
+      "announcement": "First trailer released for James Gray's NYC crime drama starring Adam Driver and Miles Teller.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/paper-tiger-trailer-adam-driver-miles-teller-1237030132/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/trailers/paper-tiger-teaser-trailer-james-gray-movie-watch-1235208969/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/paper-tiger-trailer-adam-driver-miles-teller-scarlett-johansson/"
+        }
+      ]
+    },
+    {
+      "title": "Hearing",
+      "studio": "",
+      "talent": "Lê Bảo (director)",
+      "announcement": "Vietnamese slow-burn drama released, directed by Lê Bảo exploring sensory themes.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/reviews/hearing-review-1236831250/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/criticism/movies/hearing-review-le-bao-1235209703/"
+        }
+      ]
+    },
+    {
+      "title": "Yesteryear",
+      "studio": "",
+      "talent": "Anne Hathaway",
+      "announcement": "Anne Hathaway is adapting the hit novel 'Yesteryear' into a film project.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/anne-hathaway-year-of-movies-adaptation-novel-yesteryear-1236669859/"
+        }
+      ]
+    },
+    {
+      "title": "The Odyssey",
+      "studio": "",
+      "talent": "Christopher Nolan (director)",
+      "announcement": "Christopher Nolan explains how 'Star Wars' influenced his film 'The Odyssey' opening scene.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/the-odyssey-christopher-nolan-explains-opening-star-wars/"
+        }
+      ]
+    },
+    {
+      "title": "Avengers: Doomsday",
+      "studio": "Marvel",
+      "talent": "Chris Evans (Captain America)",
+      "announcement": "Chris Evans teases a 'brutal' Captain America arc in the upcoming Marvel film.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/chris-evans-teases-avengers-doomsday-captain-america-arc/"
+        }
+      ]
+    },
+    {
+      "title": "Paw Patrol: The Dino Movie",
+      "studio": "",
+      "talent": "",
+      "announcement": "Film opens with $25M domestically.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/box-office-global-spider-man-brand-new-day-foreign-record-1237029582/"
         }
       ]
     }
@@ -83,8 +175,8 @@
     {
       "title": "St. Denis Medical",
       "network": "NBC",
-      "talent": "Damon Wayans guest starring in Season 3 premiere; David Alan Grier",
-      "announcement": "Damon Wayans guest stars in the Season 3 premiere of NBC's 'St. Denis Medical' in an 'In Living Color' reunion with David Alan Grier.",
+      "talent": "Damon Wayans (guest star), David Alan Grier",
+      "announcement": "Damon Wayans joins Season 3 premiere as guest star reuniting with David Alan Grier for 'In Living Color' callback.",
       "sources": [
         {
           "name": "Deadline",
@@ -105,10 +197,22 @@
       ]
     },
     {
+      "title": "Alex Cary Thriller",
+      "network": "Apple TV+",
+      "talent": "Louisa Krause, Dakota Fanning",
+      "announcement": "Louisa Krause joins Dakota Fanning in Apple TV+ thriller from Alex Cary.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/louisa-krause-dakota-fanning-apple-tv-alex-cary-thriller-1237030351/"
+        }
+      ]
+    },
+    {
       "title": "Line of Fire",
       "network": "NBC",
-      "talent": "Josh Safran and Peter Krause",
-      "announcement": "Josh Safran and Peter Krause tease new NBC series 'Line of Fire'.",
+      "talent": "Josh Safran (creator/producer), Peter Krause",
+      "announcement": "Josh Safran and Peter Krause tease new NBC series.",
       "sources": [
         {
           "name": "Deadline",
@@ -123,8 +227,8 @@
     {
       "title": "Monsterverse Series",
       "network": "Apple TV+",
-      "talent": "Wyatt Russell leading; Connie Nielsen and Stana Katic cast",
-      "announcement": "Connie Nielsen and Stana Katic join the Wyatt Russell-led Monsterverse series for Apple TV+.",
+      "talent": "Wyatt Russell (lead), Connie Nielsen, Stana Katic",
+      "announcement": "Connie Nielsen and Stana Katic join Wyatt Russell-led Monsterverse series for Apple TV+.",
       "sources": [
         {
           "name": "Deadline",
@@ -135,8 +239,8 @@
     {
       "title": "Dig",
       "network": "Peacock",
-      "talent": "Amy Poehler and Hugh Laurie starring; created by Mike Schur and J.J. Philbin",
-      "announcement": "Peacock sets premiere date for comedy series 'Dig' starring Amy Poehler and Hugh Laurie, with first-look photos released.",
+      "talent": "Amy Poehler, Hugh Laurie, Mike Schur, J.J. Philbin (creators)",
+      "announcement": "Peacock sets November premiere date for comedy series starring Amy Poehler and Hugh Laurie from Mike Schur.",
       "sources": [
         {
           "name": "Deadline",
@@ -155,8 +259,8 @@
     {
       "title": "Ascension",
       "network": "Apple TV+",
-      "talent": "Caitríona Balfe starring; created by Alfonso Cuarón",
-      "announcement": "Apple TV+ orders Alfonso Cuarón's cult horror thriller series 'Ascension' with Caitríona Balfe starring.",
+      "talent": "Caitríona Balfe (star), Alfonso Cuarón (director/creator)",
+      "announcement": "Apple TV+ orders Alfonso Cuarón horror thriller series with Caitríona Balfe starring.",
       "sources": [
         {
           "name": "Deadline",
@@ -179,8 +283,8 @@
     {
       "title": "The Sticks",
       "network": "Netflix",
-      "talent": "Michelle Monaghan, Scott Bakula, and Logan Marshall-Green; YA hockey drama",
-      "announcement": "Netflix's YA hockey drama 'The Sticks' starring Michelle Monaghan gets cast additions including Scott Bakula and Logan Marshall-Green confirmed.",
+      "talent": "Michelle Monaghan (lead), Scott Bakula, Logan Marshall-Green",
+      "announcement": "Netflix YA hockey drama casts Scott Bakula, Logan Marshall-Green and more with first look at Michelle Monaghan.",
       "sources": [
         {
           "name": "Deadline",
@@ -191,8 +295,8 @@
     {
       "title": "Ted Lasso",
       "network": "Apple TV+",
-      "talent": "Tanya Reynolds joining Season 4 as a women's soccer coach",
-      "announcement": "Tanya Reynolds joins 'Ted Lasso' Season 4 as a tough and cold women's soccer coach.",
+      "talent": "Tanya Reynolds (joins Season 4 as tough women's soccer coach)",
+      "announcement": "Tanya Reynolds joins Season 4 as a 'tough' and 'cold' women's soccer coach.",
       "sources": [
         {
           "name": "Variety",
@@ -201,17 +305,29 @@
       ]
     },
     {
-      "title": "Heated Rivalry",
+      "title": "American Hostage",
       "network": "",
-      "talent": "Justice Smith as Harris Drover",
-      "announcement": "Justice Smith cast in 'Heated Rivalry' project as Harris Drover.",
+      "talent": "Jon Hamm",
+      "announcement": "Jon Hamm faces tense standoff in first trailer for the series.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/american-hostage-trailer-jon-hamm-1236670272/"
+        }
+      ]
+    },
+    {
+      "title": "Clueless",
+      "network": "Paramount",
+      "talent": "",
+      "announcement": "Paramount is developing a 'Clueless' series, among recipients of latest California TV Tax Credit allocations.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/08/justice-smith-reaction-heated-rivalry-casting-harris-drover-1237029828/"
+          "url": "https://deadline.com/2026/08/california-tv-tax-credit-clueless-viola-david-series-1237030142/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-08-10T20:46:52.096Z"
+  "lastUpdated": "2026-08-10T21:45:39.926Z"
 }
