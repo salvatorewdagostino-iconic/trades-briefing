@@ -1,12 +1,24 @@
 {
   "date": "August 10, 2026",
-  "summary": "5 film announcements, 7 TV announcements across 5 trades.",
+  "summary": "6 film announcements, 8 TV announcements across 5 trades.",
   "film": [
+    {
+      "title": "Untitled Ari Aster Film",
+      "studio": "A24",
+      "talent": "Jacob Elordi circling role, Scarlett Johansson starring",
+      "announcement": "Jacob Elordi is in negotiations to join Scarlett Johansson in Ari Aster's next film at A24.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/jacob-elordi-ari-aster-scapegoat-scarlett-johansson-a24-1237030322/"
+        }
+      ]
+    },
     {
       "title": "Stag Dance",
       "studio": "Run-A-Muck",
-      "talent": "",
-      "announcement": "Run-A-Muck is developing Torrey Peters' novella 'Stag Dance' (part of 2026 Pulitzer Prize finalist collection) into a film.",
+      "talent": "Based on novella by Torrey Peters",
+      "announcement": "Run-A-Muck is developing Torrey Peters' novella 'Stag Dance' for film, which was part of the 2026 Pulitzer Prize finalist collection.",
       "sources": [
         {
           "name": "Deadline",
@@ -17,7 +29,7 @@
     {
       "title": "Nice Eggs",
       "studio": "",
-      "talent": "Jane Krakowski, Angourie Rice",
+      "talent": "Jane Krakowski, Angourie Rice starring; Director Amanda Lipitz",
       "announcement": "Coming-of-age drama 'Nice Eggs' stars Jane Krakowski and Angourie Rice, directed by Amanda Lipitz.",
       "sources": [
         {
@@ -29,7 +41,7 @@
     {
       "title": "Touch Grass",
       "studio": "Promise AI",
-      "talent": "Dave Clark (director), Brad Miska, Chris White (producers)",
+      "talent": "Dave Clark directing; Brad Miska and Chris White producing",
       "announcement": "Promise AI is developing horror feature 'Touch Grass' with Dave Clark directing and Brad Miska and 'Backrooms' EP Chris White producing.",
       "sources": [
         {
@@ -41,7 +53,7 @@
     {
       "title": "Ink",
       "studio": "Netflix",
-      "talent": "Guy Pearce, Danny Boyle (director)",
+      "talent": "Guy Pearce as Rupert Murdoch; Director Danny Boyle",
       "announcement": "Netflix sets U.S. release date for Danny Boyle's tabloid drama 'Ink' starring Guy Pearce as Rupert Murdoch for December theatrical release.",
       "sources": [
         {
@@ -56,7 +68,7 @@
     },
     {
       "title": "Merry Christmas Aubrey Flint",
-      "studio": "Samuel Goldwyn",
+      "studio": "Samuel Goldwyn Films",
       "talent": "",
       "announcement": "Samuel Goldwyn acquires North America rights to WestEnd Films' holiday comedy 'Merry Christmas Aubrey Flint'.",
       "sources": [
@@ -69,10 +81,50 @@
   ],
   "tv": [
     {
+      "title": "St. Denis Medical",
+      "network": "NBC",
+      "talent": "Damon Wayans guest starring in Season 3 premiere; David Alan Grier",
+      "announcement": "Damon Wayans guest stars in the Season 3 premiere of NBC's 'St. Denis Medical' in an 'In Living Color' reunion with David Alan Grier.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/damon-wayans-guest-star-st-denis-medical-season-3-photo-1237029097/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/damon-wayans-in-living-color-st-denis-medical-1236831408/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/nbc-st-denis-medical-david-alan-grier-damon-wayans-1236669954/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/st-denis-medical-season-3-damon-wayans-guest-star/"
+        }
+      ]
+    },
+    {
+      "title": "Line of Fire",
+      "network": "NBC",
+      "talent": "Josh Safran and Peter Krause",
+      "announcement": "Josh Safran and Peter Krause tease new NBC series 'Line of Fire'.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/nbc-line-of-fire-josh-safran-peter-krause-tease-series-1237030278/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/peter-krause-new-show-911-exit-line-of-fire-nbc/"
+        }
+      ]
+    },
+    {
       "title": "Monsterverse Series",
-      "network": "Apple TV",
-      "talent": "Wyatt Russell, Connie Nielsen, Stana Katic",
-      "announcement": "Connie Nielsen and Stana Katic join the Wyatt Russell-led Monsterverse series for Apple TV.",
+      "network": "Apple TV+",
+      "talent": "Wyatt Russell leading; Connie Nielsen and Stana Katic cast",
+      "announcement": "Connie Nielsen and Stana Katic join the Wyatt Russell-led Monsterverse series for Apple TV+.",
       "sources": [
         {
           "name": "Deadline",
@@ -81,10 +133,30 @@
       ]
     },
     {
+      "title": "Dig",
+      "network": "Peacock",
+      "talent": "Amy Poehler and Hugh Laurie starring; created by Mike Schur and J.J. Philbin",
+      "announcement": "Peacock sets premiere date for comedy series 'Dig' starring Amy Poehler and Hugh Laurie, with first-look photos released.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/dig-release-date-amy-poehler-comedy-series-peacock-1237030227/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/peacock-series-dig-amy-poehler-hugh-laurie-1236669907/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/dig-peacock-amy-poehler-premiere-date/"
+        }
+      ]
+    },
+    {
       "title": "Ascension",
-      "network": "Apple TV",
-      "talent": "Caitríona Balfe, Alfonso Cuarón (director/creator)",
-      "announcement": "Apple TV orders Alfonso Cuarón's cult horror thriller series 'Ascension' starring Caitríona Balfe.",
+      "network": "Apple TV+",
+      "talent": "Caitríona Balfe starring; created by Alfonso Cuarón",
+      "announcement": "Apple TV+ orders Alfonso Cuarón's cult horror thriller series 'Ascension' with Caitríona Balfe starring.",
       "sources": [
         {
           "name": "Deadline",
@@ -105,30 +177,10 @@
       ]
     },
     {
-      "title": "Dig",
-      "network": "Peacock",
-      "talent": "Amy Poehler, Hugh Laurie",
-      "announcement": "Peacock sets premiere date for comedy series 'Dig' starring Amy Poehler and Hugh Laurie from Mike Schur and J.J. Philbin.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/dig-release-date-amy-poehler-comedy-series-peacock-1237030227/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/peacock-series-dig-amy-poehler-hugh-laurie-1236669907/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/dig-peacock-amy-poehler-premiere-date/"
-        }
-      ]
-    },
-    {
       "title": "The Sticks",
       "network": "Netflix",
-      "talent": "Michelle Monaghan, Scott Bakula, Logan Marshall-Green",
-      "announcement": "Netflix YA hockey drama 'The Sticks' stars Michelle Monaghan with Scott Bakula and Logan Marshall-Green confirmed in cast.",
+      "talent": "Michelle Monaghan, Scott Bakula, and Logan Marshall-Green; YA hockey drama",
+      "announcement": "Netflix's YA hockey drama 'The Sticks' starring Michelle Monaghan gets cast additions including Scott Bakula and Logan Marshall-Green confirmed.",
       "sources": [
         {
           "name": "Deadline",
@@ -137,33 +189,9 @@
       ]
     },
     {
-      "title": "Clueless Series",
-      "network": "Paramount",
-      "talent": "",
-      "announcement": "'Clueless' series is among recipients of latest California TV tax credit allocations.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/california-tv-tax-credit-clueless-viola-david-series-1237030142/"
-        }
-      ]
-    },
-    {
-      "title": "Ascent",
-      "network": "",
-      "talent": "Viola Davis",
-      "announcement": "Viola Davis' 'Ascent' is among recipients of latest California TV tax credit allocations.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/california-tv-tax-credit-clueless-viola-david-series-1237030142/"
-        }
-      ]
-    },
-    {
-      "title": "Ted Lasso Season 4",
-      "network": "Apple TV",
-      "talent": "Tanya Reynolds",
+      "title": "Ted Lasso",
+      "network": "Apple TV+",
+      "talent": "Tanya Reynolds joining Season 4 as a women's soccer coach",
       "announcement": "Tanya Reynolds joins 'Ted Lasso' Season 4 as a tough and cold women's soccer coach.",
       "sources": [
         {
@@ -171,7 +199,19 @@
           "url": "https://variety.com/2026/tv/news/ted-lasso-tanya-reynolds-season-4-1236825258/"
         }
       ]
+    },
+    {
+      "title": "Heated Rivalry",
+      "network": "",
+      "talent": "Justice Smith as Harris Drover",
+      "announcement": "Justice Smith cast in 'Heated Rivalry' project as Harris Drover.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/justice-smith-reaction-heated-rivalry-casting-harris-drover-1237029828/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-08-10T19:32:32.267Z"
+  "lastUpdated": "2026-08-10T20:46:52.096Z"
 }
