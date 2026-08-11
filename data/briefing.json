@@ -1,12 +1,12 @@
 {
   "date": "August 11, 2026",
-  "summary": "1 film announcement, 2 TV announcements across 3 trades.",
+  "summary": "1 film announcement, 2 TV announcements across 5 trades.",
   "film": [
     {
       "title": "Camp Rock 3",
       "studio": "Disney",
-      "talent": "Demi Lovato (Mitchie Torres)",
-      "announcement": "Demi Lovato announced to make a surprise cameo appearance reprising her role as Mitchie Torres in Disney's Camp Rock 3.",
+      "talent": "Demi Lovato (Mitchie Torres cameo), Jonas Brothers, Liamani Segura, Malachi Barton",
+      "announcement": "Demi Lovato announced to make a surprise cameo appearance as Mitchie Torres in Disney's Camp Rock 3.",
       "sources": [
         {
           "name": "Deadline",
@@ -31,15 +31,27 @@
     {
       "title": "Dragon's Dojo",
       "network": "Silver Media Group",
-      "talent": "Chris John (Boxing Legend)",
-      "announcement": "Boxing legend Chris John joins the animated series Dragon's Dojo in an exclusive deal with Silver Media Group.",
+      "talent": "Chris John",
+      "announcement": "Boxing legend Chris John joins animated series Dragon's Dojo in an exclusive deal with Silver Media Group.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/tv/news/boxing-legend-chris-john-animated-series-dragons-dojo-1236831269/"
         }
       ]
+    },
+    {
+      "title": "The Sticks",
+      "network": "Netflix",
+      "talent": "Logan Marshall-Green, Scott Bakula",
+      "announcement": "Netflix adds Logan Marshall-Green and Scott Bakula to the cast of hockey drama The Sticks and shares first-look images.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-the-sticks-logan-marshall-green-scott-bakula-hockey-1236670476/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-08-11T01:49:11.700Z"
+  "lastUpdated": "2026-08-11T03:45:43.389Z"
 }
