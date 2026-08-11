@@ -1,12 +1,32 @@
 {
   "date": "August 11, 2026",
-  "summary": "6 film announcements, 8 TV announcements across 5 trades.",
+  "summary": "8 film announcements, 11 TV announcements across 5 trades.",
   "film": [
+    {
+      "title": "Josephine",
+      "studio": "Unknown",
+      "talent": "Gemma Chan, Channing Tatum",
+      "announcement": "Trailer released and release date set for the Sundance award-winning psychological thriller starring Chan and Tatum as struggling parents.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/josephine-trailer-release-date-gemma-chan-channing-tatum-1237031226/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/josephine-trailer-channing-tatum-gemma-chan-sundance-award-winner-1236831673/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/trailers/josephine-trailer-beth-de-araujo-channing-tatum-1235209753/"
+        }
+      ]
+    },
     {
       "title": "Possession",
       "studio": "Paramount",
       "talent": "Callum Turner, Margaret Qualley",
-      "announcement": "Remake set for Summer 2027 release date.",
+      "announcement": "Paramount set the remake for June 2027 release, starring Turner and Qualley.",
       "sources": [
         {
           "name": "Deadline",
@@ -31,22 +51,10 @@
       ]
     },
     {
-      "title": "Gaijin",
-      "studio": "Hulu",
-      "talent": "Joseph Gordon-Levitt (EP and star), Shannon Goss",
-      "announcement": "Joseph Gordon-Levitt set to executive produce and star in drama inspired by chef Ivan Orkin from Shannon Goss.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/joseph-gordon-levitt-gaijin-hulu-ivan-orkin-shannon-goss-1237030851/"
-        }
-      ]
-    },
-    {
       "title": "Bugatti: The Final Race",
-      "studio": "",
-      "talent": "Camille Delamarre (director), Andrea Iervolino (producer, screenwriter debut)",
-      "announcement": "Camille Delamarre set to direct with Andrea Iervolino making his screenwriting debut.",
+      "studio": "Unknown",
+      "talent": "Camille Delamarre (director), Andrea Iervolino (writer/producer)",
+      "announcement": "Camille Delamarre attached to direct the film with Andrea Iervolino making his scriptwriting debut.",
       "sources": [
         {
           "name": "Deadline",
@@ -55,38 +63,62 @@
       ]
     },
     {
-      "title": "Steps",
-      "studio": "Netflix",
-      "talent": "Kris Bowers (composer)",
-      "announcement": "Kris Bowers set to compose score for Netflix animated feature.",
+      "title": "Verity",
+      "studio": "Amazon MGM Studios",
+      "talent": "Anne Hathaway, Dakota Johnson",
+      "announcement": "Trailer released for the Colleen Hoover adaptation featuring Hathaway and Johnson.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/artisans/news/kris-bowers-compose-netflix-animated-feature-steps-1236832210/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/verity-trailer-anne-hathaway-dakota-johnson-amazon-mgm-1236873939/"
         }
       ]
     },
     {
-      "title": "Jeff the Killer",
-      "studio": "",
-      "talent": "Savanah Moss (TikTok creator), Tongal",
-      "announcement": "Movie in development from TikTok creator Savanah Moss and Tongal.",
+      "title": "An Open Field",
+      "studio": "Netflix",
+      "talent": "",
+      "announcement": "Netflix acquired the short documentary ahead of Oscar contention.",
       "sources": [
         {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/jeff-the-killer-movie-development-savanah-moss-tongal/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/an-open-field-one-last-order-netflix-acquisitions-1237030940/"
+        }
+      ]
+    },
+    {
+      "title": "One Last Order",
+      "studio": "Netflix",
+      "talent": "",
+      "announcement": "Netflix acquired the short documentary ahead of Oscar contention.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/an-open-field-one-last-order-netflix-acquisitions-1237030940/"
         }
       ]
     },
     {
       "title": "Veleta",
-      "studio": "",
+      "studio": "Unknown",
       "talent": "Zoe Bonafonte",
-      "announcement": "Spain-Argentina soccer pioneer drama with Goya-nominated Zoe Bonafonte leading.",
+      "announcement": "Spain-Argentina soccer pioneer drama with Goya-nominated Bonafonte in the lead.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/film/markets-festivals/zoe-bonafonte-veleta-spain-argentina-soccer-drama-1236831557/"
+        }
+      ]
+    },
+    {
+      "title": "Steps",
+      "studio": "Netflix",
+      "talent": "Kris Bowers (composer)",
+      "announcement": "Netflix animated feature with Kris Bowers set to compose the score.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/artisans/news/kris-bowers-compose-netflix-animated-feature-steps-1236832210/"
         }
       ]
     }
@@ -95,8 +127,8 @@
     {
       "title": "Gaijin",
       "network": "Hulu",
-      "talent": "Joseph Gordon-Levitt (EP and star), Shannon Goss",
-      "announcement": "Drama series inspired by chef Ivan Orkin with Joseph Gordon-Levitt set to executive produce and star.",
+      "talent": "Joseph Gordon-Levitt (star, executive producer), Shannon Goss (creator)",
+      "announcement": "Joseph Gordon-Levitt set to star and executive produce the drama inspired by chef Ivan Orkin, created by Shannon Goss.",
       "sources": [
         {
           "name": "Deadline",
@@ -107,8 +139,8 @@
     {
       "title": "Monster: The Lizzie Borden Story",
       "network": "Netflix",
-      "talent": "Ella Beatty, Ryan Murphy (creator)",
-      "announcement": "Fourth chapter of Ryan Murphy's Monster anthology series with Ella Beatty starring; first trailer released.",
+      "talent": "Ella Beatty",
+      "announcement": "First trailer released for the fourth chapter of Ryan Murphy's bloody anthology series with Beatty starring as Lizzie Borden.",
       "sources": [
         {
           "name": "Deadline",
@@ -121,74 +153,18 @@
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/monster-the-lizzie-borden-story-trailer-ella-beatty-axe-1236670664/"
-        }
-      ]
-    },
-    {
-      "title": "The Body",
-      "network": "Netflix",
-      "talent": "Sofia Wyle, Gabby Windey",
-      "announcement": "Teen thriller with premiere date and first-look images released.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/the-body-release-date-photos-gabby-windey-netflix-1237030605/"
         },
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/tv-news-roundup-week-of-august-10-1236831436/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-the-body-release-date-first-look-photos-1236670674/"
-        }
-      ]
-    },
-    {
-      "title": "Camp Rock 3",
-      "network": "Disney",
-      "talent": "Demi Lovato (cameo as Mitchie Torres), Jonas Brothers",
-      "announcement": "Demi Lovato announced to make surprise cameo reprising her role as Mitchie Torres.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/demi-lovato-cameo-camp-rock-3-1237030407/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/camp-rock-3-demi-lovato-returns-mitchie-disney-movie-cameo-1236670533/"
-        }
-      ]
-    },
-    {
-      "title": "The Sticks",
-      "network": "Netflix",
-      "talent": "Logan Marshall-Green, Scott Bakula",
-      "announcement": "Hockey drama adds Logan Marshall-Green, Scott Bakula and others to cast; first-look images released.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-the-sticks-logan-marshall-green-scott-bakula-hockey-1236670476/"
-        }
-      ]
-    },
-    {
-      "title": "City of Blood",
-      "network": "Disney+",
-      "talent": "",
-      "announcement": "Series set to premiere at Seriesly Berlin among 13 announced premieres.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/seriesly-berlin-premieres-paramount-disney-hulu-1237030957/"
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/monster-the-lizzie-borden-story-trailer-netflix/"
         }
       ]
     },
     {
       "title": "Stephanie, Bride To Be",
-      "network": "",
-      "talent": "Veronika Slowikowska (lead), Michael Imperioli, Amy Sedaris, John Wilson (EP)",
-      "announcement": "Comedy series with Veronika Slowikowska to topline; Michael Imperioli and Amy Sedaris among cast.",
+      "network": "Unknown",
+      "talent": "Veronika Slowikowska, Michael Imperioli, Amy Sedaris",
+      "announcement": "Veronika Slowikowska stars in the comedy with Michael Imperioli and Amy Sedaris among the cast, executive produced by John Wilson.",
       "sources": [
         {
           "name": "Deadline",
@@ -197,17 +173,113 @@
       ]
     },
     {
+      "title": "The Body",
+      "network": "Netflix",
+      "talent": "Sofia Wyle, Gabby Windey",
+      "announcement": "Netflix unveiled premiere date and first-look images for the Catholic school psychodrama starring Wyle and Windey.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/the-body-release-date-photos-gabby-windey-netflix-1237030605/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-the-body-release-date-first-look-photos-1236670674/"
+        }
+      ]
+    },
+    {
+      "title": "City of Blood",
+      "network": "Disney+",
+      "talent": "",
+      "announcement": "Disney+ drama among 13 premieres announced at Seriesly Berlin.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/seriesly-berlin-premieres-paramount-disney-hulu-1237030957/"
+        }
+      ]
+    },
+    {
+      "title": "A Different World (Sequel Series)",
+      "network": "Netflix",
+      "talent": "Brandy",
+      "announcement": "Brandy announced to sing a new rendition of the theme song for the Netflix sequel series.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/brandy-sing-a-different-world-sequel-series-theme-song-1237029653/"
+        }
+      ]
+    },
+    {
+      "title": "Camp Rock 3",
+      "network": "Unknown",
+      "talent": "Demi Lovato (cameo), Jonas Brothers",
+      "announcement": "Demi Lovato confirmed for a surprise cameo as Mitchie Torres, with the Jonas Brothers returning.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/demi-lovato-cameo-camp-rock-3-1237030407/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/camp-rock-3-jonas-brothers-demi-lovato-milo-manheim-1236670313/"
+        }
+      ]
+    },
+    {
+      "title": "The Sticks",
+      "network": "Netflix",
+      "talent": "Logan Marshall-Green, Scott Bakula",
+      "announcement": "Netflix added Marshall-Green and Bakula to the hockey drama and shared first-look images.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-the-sticks-logan-marshall-green-scott-bakula-hockey-1236670476/"
+        }
+      ]
+    },
+    {
+      "title": "Love & Marriage: Huntsville",
+      "network": "OWN",
+      "talent": "",
+      "announcement": "Season 12 cast photos, trailer, and premiere date set at OWN.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/gallery/love-marriage-huntsville-season-12-cast-photos-own/"
+        }
+      ]
+    },
+    {
       "title": "East of Eden",
-      "network": "",
+      "network": "Unknown",
       "talent": "Zoe Kazan",
-      "announcement": "Series from Zoe Kazan announced to join Atlantic Festival 2026 lineup.",
+      "announcement": "Zoe Kazan's 'East of Eden' series joins the Atlantic Festival 2026 lineup.",
       "sources": [
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/atlantic-festival-2026-east-of-eden-colin-kaepernick-1236670719/"
         }
       ]
+    },
+    {
+      "title": "Deborah Vance & Friends & Enemies Live!",
+      "network": "Unknown",
+      "talent": "Jean Smart, Hannah Einbinder",
+      "announcement": "Jean Smart and Hannah Einbinder to perform a one-night-only stage show as their 'Hacks' characters.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/awards/jean-smart-hannah-einbinder-hacks-characters-on-stage-1236832072/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/jean-smart-hannah-einbinder-in-character-hacks-stage-show-1236671022/"
+        }
+      ]
     }
   ],
-  "lastUpdated": "2026-08-11T17:29:29.369Z"
+  "lastUpdated": "2026-08-11T18:28:55.285Z"
 }
