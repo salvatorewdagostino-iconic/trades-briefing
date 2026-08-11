@@ -1,28 +1,20 @@
 {
   "date": "August 11, 2026",
-  "summary": "8 film announcements, 8 TV announcements across 5 trades.",
+  "summary": "6 film announcements, 7 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Harry Potter",
-      "studio": "HBO",
-      "talent": "Nicholas Hoult as Gilderoy Lockhart",
-      "announcement": "Nicholas Hoult joins Season 2 of the Harry Potter HBO series, cast as Gilderoy Lockhart. The series is set to premiere in 2027.",
+      "title": "Makoto Shinkai's Next Feature Film",
+      "studio": "Crunchyroll",
+      "talent": "",
+      "announcement": "Crunchyroll acquires international rights to the next feature film from Your Name director Makoto Shinkai.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/08/nicholas-hoult-harry-potter-season-2-gilderoy-lockhart-1237001668/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/nicholas-hoult-gilderoy-lockhart-harry-potter-hbo-1236832274/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/nicholas-hoult-harry-potter-season-2-hbo-gilderoy-lockhart-1236671608/"
+          "url": "https://deadline.com/2026/08/crunchyroll-acquires-makoto-shinkai-next-feature-film-1237014191/"
         },
         {
           "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/harry-potter-nicholas-hoult-gilderoy-lockhart-hbo-season-2/"
+          "url": "https://www.thewrap.com/creative-content/movies/crunchyroll-acquires-makoto-shinkai-eighth-film/"
         }
       ]
     },
@@ -30,7 +22,7 @@
       "title": "Possession",
       "studio": "Paramount",
       "talent": "Callum Turner, Margaret Qualley",
-      "announcement": "Paramount sets a Summer 2027 release date for the Possession remake starring Callum Turner and Margaret Qualley.",
+      "announcement": "Paramount sets Summer 2027 release date for the Possession remake starring Callum Turner and Margaret Qualley.",
       "sources": [
         {
           "name": "Deadline",
@@ -51,10 +43,22 @@
       ]
     },
     {
-      "title": "Josephine",
+      "title": "Verity",
       "studio": "Amazon MGM Studios",
+      "talent": "Anne Hathaway, Dakota Johnson",
+      "announcement": "Anne Hathaway and Dakota Johnson star in the Colleen Hoover adaptation Verity from Amazon MGM Studios with trailer released.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/verity-trailer-anne-hathaway-dakota-johnson-amazon-mgm-1236873939/"
+        }
+      ]
+    },
+    {
+      "title": "Josephine",
+      "studio": "",
       "talent": "Gemma Chan, Channing Tatum",
-      "announcement": "A trailer is released for Josephine, a Sundance winner with Gemma Chan and Channing Tatum, which receives a release date.",
+      "announcement": "Sundance Double Winner Josephine gets release date announcement with trailer featuring Gemma Chan and Channing Tatum.",
       "sources": [
         {
           "name": "Deadline",
@@ -67,76 +71,56 @@
       ]
     },
     {
-      "title": "Verity",
-      "studio": "Amazon MGM Studios",
-      "talent": "Anne Hathaway, Dakota Johnson",
-      "announcement": "A trailer is released for the Colleen Hoover adaptation Verity featuring Anne Hathaway and Dakota Johnson.",
+      "title": "Stephanie, Bride To Be",
+      "studio": "",
+      "talent": "Veronika Slowikowska, Michael Imperioli, Amy Sedaris",
+      "announcement": "Veronika Slowikowska to topline comedy Stephanie, Bride To Be from executive producer John Wilson with Michael Imperioli and Amy Sedaris in supporting roles.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/08/verity-trailer-anne-hathaway-dakota-johnson-amazon-mgm-1236873939/"
+          "url": "https://deadline.com/2026/08/veronika-slowikowska-to-star-stephanie-bride-to-be-1237031082/"
         }
       ]
     },
     {
       "title": "Camp Rock 3",
-      "studio": "Disney",
+      "studio": "",
       "talent": "Demi Lovato",
-      "announcement": "Demi Lovato announced to make a surprise cameo as Mitchie Torres in Camp Rock 3.",
+      "announcement": "Demi Lovato to make surprise cameo as Mitchie Torres in Camp Rock 3.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/08/demi-lovato-cameo-camp-rock-3-1237030407/"
         }
       ]
-    },
-    {
-      "title": "Jeff the Killer",
-      "studio": "",
-      "talent": "Savanah Moss",
-      "announcement": "A Jeff the Killer movie is in development from TikTok creator Savanah Moss and Tongal.",
-      "sources": [
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/jeff-the-killer-movie-development-savanah-moss-tongal/"
-        }
-      ]
-    },
-    {
-      "title": "An Open Field",
-      "studio": "Netflix",
-      "talent": "",
-      "announcement": "Netflix acquires the short documentary An Open Field, primed for Oscar contention.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/an-open-field-one-last-order-netflix-acquisitions-1237030940/"
-        }
-      ]
-    },
-    {
-      "title": "One Last Order",
-      "studio": "Netflix",
-      "talent": "",
-      "announcement": "Netflix acquires the short documentary One Last Order, primed for Oscar contention.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/an-open-field-one-last-order-netflix-acquisitions-1237030940/"
-        }
-      ]
     }
   ],
   "tv": [
     {
-      "title": "Bourbon & Lies",
-      "network": "MGM TV",
-      "talent": "Sophia Stallone",
-      "announcement": "Bourbon & Lies, a TV series based on books, is in development at MGM TV from Sophia Stallone's Callisto Media and Balboa Productions.",
+      "title": "Harry Potter",
+      "network": "HBO/Max",
+      "talent": "Nicholas Hoult as Gilderoy Lockhart",
+      "announcement": "HBO series set to hit Max in 2027 with Nicholas Hoult joining Season 2 as Gilderoy Lockhart.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/08/bourbon-and-lies-tv-series-sophia-stallone-mgm-tv-1237031400/"
+          "url": "https://deadline.com/2026/08/harry-potter-tv-series-max-release-date-cast-1235323284/"
+        },
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/nicholas-hoult-harry-potter-season-2-gilderoy-lockhart-1237001668/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/nicholas-hoult-gilderoy-lockhart-harry-potter-hbo-1236832274/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/nicholas-hoult-harry-potter-season-2-hbo-gilderoy-lockhart-1236671608/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/harry-potter-nicholas-hoult-gilderoy-lockhart-hbo-season-2/"
         }
       ]
     },
@@ -149,6 +133,18 @@
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/08/boris-kodjoe-cast-fox-memory-of-a-killer-season-2-1237031438/"
+        }
+      ]
+    },
+    {
+      "title": "Bourbon & Lies",
+      "network": "MGM TV",
+      "talent": "Sophia Stallone",
+      "announcement": "Series based on books in works at MGM TV from Sophia Stallone's Callisto Media and Balboa Productions.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/bourbon-and-lies-tv-series-sophia-stallone-mgm-tv-1237031400/"
         }
       ]
     },
@@ -168,7 +164,7 @@
       "title": "Gaijin",
       "network": "Hulu",
       "talent": "Joseph Gordon-Levitt",
-      "announcement": "Joseph Gordon-Levitt is set to star in and executive produce the Hulu drama Gaijin, inspired by Ivan Orkin, from Shannon Goss.",
+      "announcement": "Joseph Gordon-Levitt to EP and star in Gaijin drama inspired by Ivan Orkin in works at Hulu from Shannon Goss.",
       "sources": [
         {
           "name": "Deadline",
@@ -177,22 +173,10 @@
       ]
     },
     {
-      "title": "Steps",
-      "network": "Netflix",
-      "talent": "Kris Bowers",
-      "announcement": "Kris Bowers is set to compose the Netflix animated feature Steps.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/artisans/news/kris-bowers-compose-netflix-animated-feature-steps-1236832210/"
-        }
-      ]
-    },
-    {
       "title": "The Body",
       "network": "Netflix",
       "talent": "",
-      "announcement": "Netflix sets a premiere date and drops first look photos for the Catholic school psychodrama The Body.",
+      "announcement": "Netflix sets premiere date and drops first look for raunchy Catholic school psychodrama The Body.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -201,33 +185,17 @@
       ]
     },
     {
-      "title": "Monster: The Lizzie Borden Story",
+      "title": "Steps",
       "network": "Netflix",
-      "talent": "Ella Beatty",
-      "announcement": "Netflix releases a teaser trailer for the limited series Monster: The Lizzie Borden Story featuring Ella Beatty.",
+      "talent": "",
+      "announcement": "Kris Bowers set to compose Netflix animated feature Steps.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/monster-the-lizzie-borden-story-trailer-ella-beatty-axe-1236670664/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/monster-the-lizzie-borden-story-trailer-netflix/"
-        }
-      ]
-    },
-    {
-      "title": "East of Eden",
-      "network": "",
-      "talent": "Zoe Kazan",
-      "announcement": "Zoe Kazan's East of Eden series joins the Atlantic Festival 2026 lineup.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/atlantic-festival-2026-east-of-eden-colin-kaepernick-1236670719/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/artisans/news/kris-bowers-compose-netflix-animated-feature-steps-1236832210/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-08-11T22:47:57.950Z"
+  "lastUpdated": "2026-08-11T23:44:43.219Z"
 }
