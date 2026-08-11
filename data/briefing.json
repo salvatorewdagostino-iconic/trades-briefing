@@ -1,36 +1,28 @@
 {
   "date": "August 11, 2026",
-  "summary": "11 film announcements, 10 TV announcements across 5 trades.",
+  "summary": "8 film announcements, 8 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "The Princess Diaries 3",
-      "studio": "Disney",
-      "talent": "Julie Andrews (not returning)",
-      "announcement": "Julie Andrews has declined to return for the third installment, stating she believes the story should continue with Princess Mia as the lead.",
+      "title": "Harry Potter",
+      "studio": "HBO",
+      "talent": "Nicholas Hoult as Gilderoy Lockhart",
+      "announcement": "Nicholas Hoult joins Season 2 of the Harry Potter HBO series, cast as Gilderoy Lockhart. The series is set to premiere in 2027.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/08/julie-andrews-the-princess-diaries-3-wont-return-1237018985/"
+          "url": "https://deadline.com/2026/08/nicholas-hoult-harry-potter-season-2-gilderoy-lockhart-1237001668/"
         },
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/news/julie-andrews-rejected-princess-diaries-3-offer-retired-1236832252/"
+          "url": "https://variety.com/2026/tv/news/nicholas-hoult-gilderoy-lockhart-harry-potter-hbo-1236832274/"
         },
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/why-julie-andrews-wont-return-princess-diaries-3-1236670387/"
-        }
-      ]
-    },
-    {
-      "title": "Verity",
-      "studio": "Amazon MGM Studios",
-      "talent": "Anne Hathaway, Dakota Johnson",
-      "announcement": "Trailer released for the Colleen Hoover adaptation featuring Anne Hathaway luring Dakota Johnson into darkness.",
-      "sources": [
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/nicholas-hoult-harry-potter-season-2-hbo-gilderoy-lockhart-1236671608/"
+        },
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/verity-trailer-anne-hathaway-dakota-johnson-amazon-mgm-1236873939/"
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/harry-potter-nicholas-hoult-gilderoy-lockhart-hbo-season-2/"
         }
       ]
     },
@@ -38,7 +30,7 @@
       "title": "Possession",
       "studio": "Paramount",
       "talent": "Callum Turner, Margaret Qualley",
-      "announcement": "Paramount sets Summer 2027 release date for the remake starring Callum Turner and Margaret Qualley.",
+      "announcement": "Paramount sets a Summer 2027 release date for the Possession remake starring Callum Turner and Margaret Qualley.",
       "sources": [
         {
           "name": "Deadline",
@@ -60,9 +52,9 @@
     },
     {
       "title": "Josephine",
-      "studio": "",
+      "studio": "Amazon MGM Studios",
       "talent": "Gemma Chan, Channing Tatum",
-      "announcement": "Release date announced for the Sundance double winner featuring an 8-year-old witness to a terrible crime.",
+      "announcement": "A trailer is released for Josephine, a Sundance winner with Gemma Chan and Channing Tatum, which receives a release date.",
       "sources": [
         {
           "name": "Deadline",
@@ -75,14 +67,38 @@
       ]
     },
     {
-      "title": "Bugatti: The Final Race",
-      "studio": "",
-      "talent": "Director: Camille Delamarre, Writer/Producer: Andrea Iervolino",
-      "announcement": "Camille Delamarre set to direct with Andrea Iervolino making his scriptwriting debut.",
+      "title": "Verity",
+      "studio": "Amazon MGM Studios",
+      "talent": "Anne Hathaway, Dakota Johnson",
+      "announcement": "A trailer is released for the Colleen Hoover adaptation Verity featuring Anne Hathaway and Dakota Johnson.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/08/bugatti-final-race-camille-delamarre-andrea-iervolino-1237031010/"
+          "url": "https://deadline.com/2026/08/verity-trailer-anne-hathaway-dakota-johnson-amazon-mgm-1236873939/"
+        }
+      ]
+    },
+    {
+      "title": "Camp Rock 3",
+      "studio": "Disney",
+      "talent": "Demi Lovato",
+      "announcement": "Demi Lovato announced to make a surprise cameo as Mitchie Torres in Camp Rock 3.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/demi-lovato-cameo-camp-rock-3-1237030407/"
+        }
+      ]
+    },
+    {
+      "title": "Jeff the Killer",
+      "studio": "",
+      "talent": "Savanah Moss",
+      "announcement": "A Jeff the Killer movie is in development from TikTok creator Savanah Moss and Tongal.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/jeff-the-killer-movie-development-savanah-moss-tongal/"
         }
       ]
     },
@@ -90,7 +106,7 @@
       "title": "An Open Field",
       "studio": "Netflix",
       "talent": "",
-      "announcement": "Netflix acquires short documentary primed for Oscar contention.",
+      "announcement": "Netflix acquires the short documentary An Open Field, primed for Oscar contention.",
       "sources": [
         {
           "name": "Deadline",
@@ -102,97 +118,21 @@
       "title": "One Last Order",
       "studio": "Netflix",
       "talent": "",
-      "announcement": "Netflix acquires short documentary primed for Oscar contention.",
+      "announcement": "Netflix acquires the short documentary One Last Order, primed for Oscar contention.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/08/an-open-field-one-last-order-netflix-acquisitions-1237030940/"
         }
       ]
-    },
-    {
-      "title": "A Statement",
-      "studio": "",
-      "talent": "Director: Tom McCarthy",
-      "announcement": "Tom McCarthy's film set to world premiere at the New York Film Festival.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/new-york-film-festival-tom-mccarthy-jonathan-glazer-world-premieres-1237030698/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/2026-ny-film-festival-spotlight-lineup-1236670935/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/industry-news/awards/tom-mccarthy-a-statement-world-premiere-new-york-film-festival-2026/"
-        }
-      ]
-    },
-    {
-      "title": "Camp Rock 3",
-      "studio": "Disney",
-      "talent": "Demi Lovato (cameo as Mitchie Torres)",
-      "announcement": "Demi Lovato confirmed to make a surprise cameo returning as her character Mitchie Torres.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/demi-lovato-cameo-camp-rock-3-1237030407/"
-        }
-      ]
-    },
-    {
-      "title": "The Influencer Project",
-      "studio": "",
-      "talent": "Chiara King",
-      "announcement": "Trailer released for horror film blurring fact and fiction in a viral nightmare about visibility.",
-      "sources": [
-        {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/news/trailers/the-influencer-project-trailer-chiara-king-horror-1235209925/"
-        }
-      ]
-    },
-    {
-      "title": "Jeff the Killer",
-      "studio": "",
-      "talent": "Producer/Developer: Savanah Moss (TikTok creator)",
-      "announcement": "Movie in development from TikTok creator Savanah Moss and Tongal.",
-      "sources": [
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/jeff-the-killer-movie-development-savanah-moss-tongal/"
-        }
-      ]
     }
   ],
   "tv": [
     {
-      "title": "Harry Potter",
-      "network": "HBO",
-      "talent": "Nicholas Hoult as Gilderoy Lockhart",
-      "announcement": "Nicholas Hoult cast as Gilderoy Lockhart for Season 2 of the HBO series.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/nicholas-hoult-harry-potter-season-2-gilderoy-lockhart-1237001668/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/nicholas-hoult-gilderoy-lockhart-harry-potter-hbo-1236832274/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/harry-potter-nicholas-hoult-gilderoy-lockhart-hbo-season-2/"
-        }
-      ]
-    },
-    {
       "title": "Bourbon & Lies",
       "network": "MGM TV",
-      "talent": "Executive Producer: Sophia Stallone, Production Company: Callisto Media & Balboa Productions",
-      "announcement": "Series based on books in works at MGM TV from Sophia Stallone's Callisto Media and Balboa Productions.",
+      "talent": "Sophia Stallone",
+      "announcement": "Bourbon & Lies, a TV series based on books, is in development at MGM TV from Sophia Stallone's Callisto Media and Balboa Productions.",
       "sources": [
         {
           "name": "Deadline",
@@ -201,10 +141,22 @@
       ]
     },
     {
+      "title": "Memory of a Killer",
+      "network": "Fox",
+      "talent": "Boris Kodjoe",
+      "announcement": "Boris Kodjoe joins Fox's Memory of a Killer for Season 2.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/boris-kodjoe-cast-fox-memory-of-a-killer-season-2-1237031438/"
+        }
+      ]
+    },
+    {
       "title": "Bishop",
       "network": "Prime Video",
       "talent": "Gerardo Celasco, Alex Breaux, Ally Ioannides, Steven Yaffee",
-      "announcement": "Gerardo Celasco, Alex Breaux, Ally Ioannides and Steven Yaffee join the cast of Prime Video's Bishop.",
+      "announcement": "Gerardo Celasco, Alex Breaux, Ally Ioannides, and Steven Yaffee join Prime Video's Bishop.",
       "sources": [
         {
           "name": "Deadline",
@@ -215,8 +167,8 @@
     {
       "title": "Gaijin",
       "network": "Hulu",
-      "talent": "Joseph Gordon-Levitt (EP and star), Creator: Shannon Goss",
-      "announcement": "Joseph Gordon-Levitt set to executive produce and star in drama inspired by Ivan Orkin in works at Hulu.",
+      "talent": "Joseph Gordon-Levitt",
+      "announcement": "Joseph Gordon-Levitt is set to star in and executive produce the Hulu drama Gaijin, inspired by Ivan Orkin, from Shannon Goss.",
       "sources": [
         {
           "name": "Deadline",
@@ -225,15 +177,35 @@
       ]
     },
     {
+      "title": "Steps",
+      "network": "Netflix",
+      "talent": "Kris Bowers",
+      "announcement": "Kris Bowers is set to compose the Netflix animated feature Steps.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/artisans/news/kris-bowers-compose-netflix-animated-feature-steps-1236832210/"
+        }
+      ]
+    },
+    {
+      "title": "The Body",
+      "network": "Netflix",
+      "talent": "",
+      "announcement": "Netflix sets a premiere date and drops first look photos for the Catholic school psychodrama The Body.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-the-body-release-date-first-look-photos-1236670674/"
+        }
+      ]
+    },
+    {
       "title": "Monster: The Lizzie Borden Story",
       "network": "Netflix",
       "talent": "Ella Beatty",
-      "announcement": "First trailer released for Ryan Murphy's Netflix limited series starring Ella Beatty as a madwoman with an ax.",
+      "announcement": "Netflix releases a teaser trailer for the limited series Monster: The Lizzie Borden Story featuring Ella Beatty.",
       "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/monster-the-lizzie-borden-story-trailer-ryan-murphy-netflix-1237030567/"
-        },
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/monster-the-lizzie-borden-story-trailer-ella-beatty-axe-1236670664/"
@@ -245,65 +217,17 @@
       ]
     },
     {
-      "title": "Love & Marriage: Huntsville",
-      "network": "OWN",
-      "talent": "",
-      "announcement": "Season 12 cast photos, trailer and premiere date announced at OWN.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/gallery/love-marriage-huntsville-season-12-cast-photos-own/"
-        }
-      ]
-    },
-    {
-      "title": "A Different World",
-      "network": "Netflix",
-      "talent": "Brandy (theme song)",
-      "announcement": "Brandy performs new rendition of theme song for Netflix sequel series.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/brandy-sing-a-different-world-sequel-series-theme-song-1237029653/"
-        }
-      ]
-    },
-    {
-      "title": "The Body",
-      "network": "Netflix",
-      "talent": "",
-      "announcement": "Netflix sets premiere date and drops first look photos for Catholic school psychodrama.",
+      "title": "East of Eden",
+      "network": "",
+      "talent": "Zoe Kazan",
+      "announcement": "Zoe Kazan's East of Eden series joins the Atlantic Festival 2026 lineup.",
       "sources": [
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-the-body-release-date-first-look-photos-1236670674/"
-        }
-      ]
-    },
-    {
-      "title": "The Sticks",
-      "network": "Netflix",
-      "talent": "Logan Marshall-Green, Scott Bakula",
-      "announcement": "Netflix adds Logan Marshall-Green and Scott Bakula to cast and shares first-look images for hockey drama.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-the-sticks-logan-marshall-green-scott-bakula-hockey-1236670476/"
-        }
-      ]
-    },
-    {
-      "title": "Steps",
-      "network": "Netflix",
-      "talent": "Composer: Kris Bowers",
-      "announcement": "Kris Bowers set to compose Netflix animated feature.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/artisans/news/kris-bowers-compose-netflix-animated-feature-steps-1236832210/"
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/atlantic-festival-2026-east-of-eden-colin-kaepernick-1236670719/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-08-11T21:53:04.471Z"
+  "lastUpdated": "2026-08-11T22:47:57.950Z"
 }
