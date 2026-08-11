@@ -1,38 +1,234 @@
 {
   "date": "August 11, 2026",
-  "summary": "1 film announcement, 2 TV announcements across 5 trades.",
+  "summary": "9 film announcements, 11 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Camp Rock 3",
-      "studio": "Disney",
-      "talent": "Demi Lovato (Mitchie Torres cameo), Jonas Brothers, Liamani Segura, Malachi Barton",
-      "announcement": "Demi Lovato announced to make a surprise cameo appearance as Mitchie Torres in Disney's Camp Rock 3.",
+      "title": "Bugatti: The Final Race",
+      "studio": "Andrea Iervolino",
+      "talent": "Camille Delamarre (Director)",
+      "announcement": "Camille Delamarre to direct the film with Andrea Iervolino making his scriptwriting debut.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/08/demi-lovato-cameo-camp-rock-3-1237030407/"
-        },
+          "url": "https://deadline.com/2026/08/bugatti-final-race-camille-delamarre-andrea-iervolino-1237031010/"
+        }
+      ]
+    },
+    {
+      "title": "Stephanie, Bride To Be",
+      "studio": "",
+      "talent": "Veronika Slowikowska (lead), Michael Imperioli, Amy Sedaris, John Wilson (Executive Producer)",
+      "announcement": "Veronika Slowikowska set to topline the comedy with Michael Imperioli and Amy Sedaris among the cast.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/veronika-slowikowska-to-star-stephanie-bride-to-be-1237031082/"
+        }
+      ]
+    },
+    {
+      "title": "An Open Field",
+      "studio": "Netflix",
+      "talent": "",
+      "announcement": "Netflix acquires the short documentary primed for Oscar contention.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/an-open-field-one-last-order-netflix-acquisitions-1237030940/"
+        }
+      ]
+    },
+    {
+      "title": "One Last Order",
+      "studio": "Netflix",
+      "talent": "",
+      "announcement": "Netflix acquires the short documentary primed for Oscar contention.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/an-open-field-one-last-order-netflix-acquisitions-1237030940/"
+        }
+      ]
+    },
+    {
+      "title": "Josephine",
+      "studio": "",
+      "talent": "Channing Tatum, Gemma Chan",
+      "announcement": "Trailer released for the Sundance Award-winning psychological thriller starring Channing Tatum and Gemma Chan as struggling parents.",
+      "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/demi-lovato-camp-rock-3-cameo-1236831732/"
+          "url": "https://variety.com/2026/film/news/josephine-trailer-channing-tatum-gemma-chan-sundance-award-winner-1236831673/"
         },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/trailers/josephine-trailer-beth-de-araujo-channing-tatum-1235209753/"
+        }
+      ]
+    },
+    {
+      "title": "Maya Butterfly",
+      "studio": "",
+      "talent": "Jessica Reynolds, Charlotte Rampling",
+      "announcement": "Jessica Reynolds and Charlotte Rampling set to star in the opera drama.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/jessica-reynolds-charlotte-rampling-opera-maya-butterfly-1236831409/"
+        }
+      ]
+    },
+    {
+      "title": "Lost Objects",
+      "studio": "",
+      "talent": "Maria Fernanda Câncio, Luiz Fernando Carvalho (Director)",
+      "announcement": "Maria Fernanda Câncio to lead the film by Brazilian director Luiz Fernando Carvalho.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/maria-fernanda-candido-lost-objects-luiz-fernando-carvalho-1236831852/"
+        }
+      ]
+    },
+    {
+      "title": "Reset",
+      "studio": "",
+      "talent": "Lucy Liu (Executive Producer)",
+      "announcement": "Lucy Liu boards as executive producer on the sci-fi short being developed into a feature film.",
+      "sources": [
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/camp-rock-3-demi-lovato-returns-mitchie-disney-movie-cameo-1236670533/"
-        },
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/lucy-liu-boards-reset-sci-fi-short-film-exclusive-trailer-1236670803/"
+        }
+      ]
+    },
+    {
+      "title": "Jeff the Killer",
+      "studio": "",
+      "talent": "Savanah Moss (TikTok Creator), Tongal",
+      "announcement": "Movie in development from TikTok creator Savanah Moss and Tongal.",
+      "sources": [
         {
           "name": "TheWrap",
-          "url": "https://www.thewrap.com/media-platforms/tv/demi-lovato-camp-rock-3-cameo/"
+          "url": "https://www.thewrap.com/creative-content/movies/jeff-the-killer-movie-development-savanah-moss-tongal/"
         }
       ]
     }
   ],
   "tv": [
     {
+      "title": "Monster: The Lizzie Borden Story",
+      "network": "Netflix",
+      "talent": "Ella Beatty, Ryan Murphy (Creator)",
+      "announcement": "Trailer released for the fourth chapter of Ryan Murphy's bloody anthology series with Ella Beatty starring as an axe murderer.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/monster-the-lizzie-borden-story-trailer-ryan-murphy-netflix-1237030567/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/monster-lizzie-borden-story-trailer-netflix-ryan-murphy-1236827673/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/monster-the-lizzie-borden-story-trailer-ella-beatty-axe-1236670664/"
+        }
+      ]
+    },
+    {
+      "title": "The Body",
+      "network": "Netflix",
+      "talent": "Sofia Wyle, Gabby Windey",
+      "announcement": "Netflix unveils premiere date and first-look images for the teen thriller with a November release date.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/the-body-release-date-photos-gabby-windey-netflix-1237030605/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/tv-news-roundup-week-of-august-10-1236831436/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-the-body-release-date-first-look-photos-1236670674/"
+        }
+      ]
+    },
+    {
+      "title": "Love & Marriage: Huntsville",
+      "network": "OWN",
+      "talent": "",
+      "announcement": "Season 12 cast photos, trailer, and premiere date set at OWN.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/gallery/love-marriage-huntsville-season-12-cast-photos-own/"
+        }
+      ]
+    },
+    {
+      "title": "City of Blood",
+      "network": "Disney+",
+      "talent": "",
+      "announcement": "Disney+ series set among 13 premieres at Seriesly Berlin festival.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/seriesly-berlin-premieres-paramount-disney-hulu-1237030957/"
+        }
+      ]
+    },
+    {
+      "title": "Camp Rock 3",
+      "network": "Disney",
+      "talent": "Demi Lovato (cameo as Mitchie Torres), Jonas Brothers",
+      "announcement": "Demi Lovato to make surprise cameo reprising her role as Mitchie Torres in the third film installment.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/demi-lovato-cameo-camp-rock-3-1237030407/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/camp-rock-3-jonas-brothers-demi-lovato-milo-manheim-1236670313/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/camp-rock-3-demi-lovato-returns-mitchie-disney-movie-cameo-1236670533/"
+        }
+      ]
+    },
+    {
+      "title": "The Sticks",
+      "network": "Netflix",
+      "talent": "Logan Marshall-Green, Scott Bakula",
+      "announcement": "Netflix adds Logan Marshall-Green and Scott Bakula to the hockey drama and shares first-look images.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-the-sticks-logan-marshall-green-scott-bakula-hockey-1236670476/"
+        }
+      ]
+    },
+    {
+      "title": "A Different World",
+      "network": "",
+      "talent": "Brandy",
+      "announcement": "Brandy sings new rendition of the sequel series theme song.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/brandy-sing-a-different-world-sequel-series-theme-song-1237029653/"
+        }
+      ]
+    },
+    {
       "title": "Dragon's Dojo",
       "network": "Silver Media Group",
-      "talent": "Chris John",
-      "announcement": "Boxing legend Chris John joins animated series Dragon's Dojo in an exclusive deal with Silver Media Group.",
+      "talent": "Chris John (boxing legend)",
+      "announcement": "Boxing legend Chris John joins the animated series.",
       "sources": [
         {
           "name": "Variety",
@@ -41,17 +237,41 @@
       ]
     },
     {
-      "title": "The Sticks",
-      "network": "Netflix",
-      "talent": "Logan Marshall-Green, Scott Bakula",
-      "announcement": "Netflix adds Logan Marshall-Green and Scott Bakula to the cast of hockey drama The Sticks and shares first-look images.",
+      "title": "Mobile Suit Gundam RG XARX-ZERO",
+      "network": "",
+      "talent": "Kamiyama Kenji (Director)",
+      "announcement": "Director Kamiyama Kenji discusses building the new series around a metaphor for AI fears.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/mobile-suit-gundam-rg-xarx-zero-director-ai-metaphor-1236831178/"
+        }
+      ]
+    },
+    {
+      "title": "East of Eden",
+      "network": "",
+      "talent": "Zoe Kazan",
+      "announcement": "Zoe Kazan's East of Eden series announced to join Atlantic Festival lineup.",
       "sources": [
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-the-sticks-logan-marshall-green-scott-bakula-hockey-1236670476/"
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/atlantic-festival-2026-east-of-eden-colin-kaepernick-1236670719/"
+        }
+      ]
+    },
+    {
+      "title": "Power Hour",
+      "network": "YouTube",
+      "talent": "Ilona Maher",
+      "announcement": "Ilona Maher hits the gym with celebrity guests in the digital series.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/culture-lifestyle/sports/ilona-maher-power-hour-wave-digital-series-youtube/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-08-11T03:45:43.389Z"
+  "lastUpdated": "2026-08-11T16:02:59.821Z"
 }
