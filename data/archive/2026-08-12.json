@@ -1,12 +1,12 @@
 {
   "date": "August 12, 2026",
-  "summary": "13 film announcements, 15 TV announcements across 5 trades.",
+  "summary": "12 film announcements, 13 TV announcements across 5 trades.",
   "film": [
     {
       "title": "Miami Vice '85",
       "studio": "Universal",
       "talent": "Michael B. Jordan, Austin Butler, Alden Ehrenreich",
-      "announcement": "Alden Ehrenreich joins the cast of Universal's latest take on the classic series, alongside Michael B. Jordan and Austin Butler.",
+      "announcement": "Alden Ehrenreich joins Michael B. Jordan and Austin Butler in Universal's latest take on the classic series.",
       "sources": [
         {
           "name": "Deadline",
@@ -20,9 +20,9 @@
     },
     {
       "title": "The Dallergut Dream Department Store",
-      "studio": "Disney",
+      "studio": "Disney Live Action",
       "talent": "Patrick Ness (adapter)",
-      "announcement": "Disney Live Action taps Patrick Ness to adapt Miye Lee's fantasy novel for a feature film.",
+      "announcement": "Disney Live Action taps Patrick Ness to adapt Miye Lee's fantasy novel for film.",
       "sources": [
         {
           "name": "Deadline",
@@ -35,26 +35,14 @@
       ]
     },
     {
-      "title": "Charlie vs. the Chocolate Factory",
-      "studio": "Netflix",
-      "talent": "Nicola Coughlan, Charithra Chandran, Kate Winslet",
-      "announcement": "Netflix sets release date and 47-day theatrical window for the film, with Nicola Coughlan, Charithra Chandran, and Kate Winslet joining the cast.",
+      "title": "Small Talk",
+      "studio": "",
+      "talent": "Keegan Allen, Conor Husting, Rio Mangini, Sophia Del Rio, Austin North",
+      "announcement": "A 1970s L.A. music drama with an ensemble cast including Keegan Allen, Conor Husting, Rio Mangini, Sophia Del Rio, and Austin North.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/08/netflix-charlie-chocolate-factory-release-theatrical-cast-1237031844/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/charlie-vs-the-chocolate-factory-movie-netflix-release-date-1236672112/"
-        },
-        {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/news/breaking-news/charlie-and-the-chocolate-factory-netflix-theaters-1235210208/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/charlie-vs-the-chocolate-factory-theatrical-release-date-netflix/"
+          "url": "https://deadline.com/2026/08/keegan-allen-conor-husting-rio-mangini-star-small-talk-1237032109/"
         }
       ]
     },
@@ -62,7 +50,7 @@
       "title": "Boys for Life",
       "studio": "Paramount",
       "talent": "Alex Wolff, Will Angus",
-      "announcement": "Paramount's primal comedy casts Alex Wolff, Will Angus, and more Almost Friday stars to lead the film.",
+      "announcement": "Paramount greenlights primal comedy with cast including Alex Wolff, Will Angus, and other Almost Friday stars.",
       "sources": [
         {
           "name": "Variety",
@@ -71,38 +59,46 @@
       ]
     },
     {
-      "title": "Animals",
+      "title": "Charlie vs. the Chocolate Factory",
       "studio": "Netflix",
-      "talent": "Ben Affleck, Kerry Washington",
-      "announcement": "Trailer released for the Netflix film featuring Ben Affleck and Kerry Washington as distraught parents trying to save their kidnapped son.",
+      "talent": "",
+      "announcement": "Netflix schedules wide theatrical release for the film with a 45-day window before streaming availability.",
       "sources": [
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/ben-affleck-kerry-washington-animals-trailer-1236672033/"
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/charlie-vs-the-chocolate-factory-movie-netflix-release-date-1236672112/"
         },
         {
           "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/animals-trailer-ben-affleck-kerry-washington-netflix/"
+          "url": "https://www.thewrap.com/creative-content/movies/charlie-vs-the-chocolate-factory-theatrical-release-date-netflix/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/breaking-news/charlie-and-the-chocolate-factory-netflix-theaters-1235210208/"
         }
       ]
     },
     {
-      "title": "Pinky & the Brain Movie",
+      "title": "The Social Reckoning",
       "studio": "",
-      "talent": "Late writer's son directing with puppets",
-      "announcement": "A late Pinky & The Brain writer's movie script is now being made by his son and will feature puppets.",
+      "talent": "Jeremy Strong (as Mark Zuckerberg)",
+      "announcement": "Jeremy Strong is cast to play Mark Zuckerberg in the film and reached out to Zuckerberg after being cast.",
       "sources": [
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/a-late-pinky-the-brain-writers-script-is-finally-getting-made-1236670539/"
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/jeremy-strong-social-reckoning-mark-zuckerberg-responded-1236672313/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/jeremy-strong-mark-zuckerberg-social-reckoning-casting/"
         }
       ]
     },
     {
       "title": "Barbie 2",
       "studio": "Warner Bros.",
-      "talent": "Greta Gerwig (director), Margot Robbie (star)",
-      "announcement": "Sequel could be shelved amid pay battle and crumbling deal talks between the studio and key talent.",
+      "talent": "",
+      "announcement": "The sequel could be shelved amid pay battles and crumbling deal talks between studio and creative team.",
       "sources": [
         {
           "name": "Variety",
@@ -111,10 +107,38 @@
       ]
     },
     {
+      "title": "The Hunted",
+      "studio": "",
+      "talent": "Lilly Wachowski (director)",
+      "announcement": "Lilly Wachowski says Hollywood won't finance her $10 million thriller because of its 'wall-to-wall trans cast'.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/lilly-wachowski-hollywood-wont-make-next-film-trans-cast-1237032338/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/lilly-wachowski-trans-movie-no-financing-1236833156/"
+        }
+      ]
+    },
+    {
+      "title": "Animals",
+      "studio": "Netflix",
+      "talent": "Ben Affleck, Kerry Washington",
+      "announcement": "Trailer released for Netflix film where Affleck's mayoral candidate is plunged into a kidnapping plot.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/animals-trailer-ben-affleck-kerry-washington-netflix/"
+        }
+      ]
+    },
+    {
       "title": "Getting to That Age",
       "studio": "",
       "talent": "Romy Reiner, Sharon Lawrence, Matt Walsh",
-      "announcement": "First look released for short film featuring Romy Reiner opposite Sharon Lawrence and Matt Walsh.",
+      "announcement": "First look revealed for short film starring Romy Reiner opposite Sharon Lawrence and Matt Walsh.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -123,60 +147,40 @@
       ]
     },
     {
-      "title": "Social Reckoning",
+      "title": "Pinky & The Brain Movie",
       "studio": "",
-      "talent": "Jeremy Strong (as Mark Zuckerberg)",
-      "announcement": "Jeremy Strong cast as Mark Zuckerberg in Social Reckoning film; actor messaged Zuckerberg after casting about taking responsibility seriously.",
-      "sources": [
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/jeremy-strong-mark-zuckerberg-social-reckoning-casting/"
-        }
-      ]
-    },
-    {
-      "title": "Nimrod's Green Day Movie",
-      "studio": "",
-      "talent": "Billie Joe Armstrong involvement",
-      "announcement": "Green Day's Billie Joe Armstrong asked the filmmaker to make a movie about the band's album Nimrod, and the filmmaker accepted the project.",
-      "sources": [
-        {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/features/interviews/nimrods-green-day-movie-billie-joe-armstrong-interview-1235209998/"
-        }
-      ]
-    },
-    {
-      "title": "Memoirs of Amorous Gentlemen",
-      "studio": "",
-      "talent": "Sophia Anne Caruso",
-      "announcement": "Sophia Anne Caruso cast to star in Duncan Sheik's stage musical adaptation of the novel.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/sophia-anne-caruso-memoirs-of-amorous-gentlemen-1237028562/"
-        }
-      ]
-    },
-    {
-      "title": "It Ends",
-      "studio": "Neon",
       "talent": "",
-      "announcement": "Neon sets 36-hour screening event at NYC's Metro Private Cinema with payouts for attendees who stick around.",
+      "announcement": "A late Pinky & The Brain writer's movie is now getting made by his son and with puppets.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/neon-it-ends-film-36-hour-screening-metro-private-cinema-1237031907/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/a-late-pinky-the-brain-writers-script-is-finally-getting-made-1236670539/"
         }
       ]
     }
   ],
   "tv": [
     {
+      "title": "The Lincoln Lawyer Spinoff",
+      "network": "Netflix",
+      "talent": "Cobie Smulders",
+      "announcement": "Netflix fast-tracks development on a Lincoln Lawyer spinoff starring Cobie Smulders.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/the-lincoln-lawyer-spinoff-cobie-smulders-emi-netflix-1237031468/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/lincoln-lawyer-spinoff-starring-cobie-smulders-netflix-1236833363/"
+        }
+      ]
+    },
+    {
       "title": "Strike Force",
       "network": "CBS",
-      "talent": "Jesse Lee Soffer (star), Matt Olmstead (writer/producer), Jerry Bruckheimer (producer)",
-      "announcement": "CBS drama from Matt Olmstead receives development room order with Jesse Lee Soffer set to star.",
+      "talent": "Jesse Lee Soffer, Matt Olmstead (creator), Jerry Bruckheimer (producer)",
+      "announcement": "CBS drama from Matt Olmstead gets development room order with Jesse Lee Soffer to star; Jerry Bruckheimer to produce.",
       "sources": [
         {
           "name": "Deadline",
@@ -185,18 +189,10 @@
         {
           "name": "Variety",
           "url": "https://variety.com/2026/tv/news/chicago-pd-jesse-lee-soffer-matt-olmstea-strike-force-cbs-1236833290/"
-        }
-      ]
-    },
-    {
-      "title": "The Lincoln Lawyer Spinoff",
-      "network": "Netflix",
-      "talent": "Cobie Smulders",
-      "announcement": "Netflix fast-tracks development of The Lincoln Lawyer spinoff series starring Cobie Smulders as Emi.",
-      "sources": [
+        },
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/the-lincoln-lawyer-spinoff-cobie-smulders-emi-netflix-1237031468/"
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/jesse-lee-soffer-strike-force-heartland-crime-drama-cbs/"
         }
       ]
     },
@@ -214,17 +210,13 @@
     },
     {
       "title": "The Lowdown",
-      "network": "FX/Hulu",
+      "network": "FX",
       "talent": "Ethan Hawke, Tommy Lee Jones, Betty Gilpin",
-      "announcement": "FX sets season 2 release date and releases first photos featuring Tommy Lee Jones and Betty Gilpin.",
+      "announcement": "Season 2 release date set with first photos released featuring Tommy Lee Jones and Betty Gilpin.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/08/the-lowdown-season-2-release-date-fx-ethan-hawke-1237031975/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/the-lowdown-season-2-release-date-fx-hulu-1236833123/"
         },
         {
           "name": "Hollywood Reporter",
@@ -233,30 +225,6 @@
         {
           "name": "TheWrap",
           "url": "https://www.thewrap.com/creative-content/tv-shows/the-lowdown-season-2-first-look-betty-gilpin-tommy-lee-jones/"
-        }
-      ]
-    },
-    {
-      "title": "Small Talk",
-      "network": "",
-      "talent": "Keegan Allen, Conor Husting, Rio Mangini, Sophia Del Rio, Austin North",
-      "announcement": "Keegan Allen, Conor Husting, Rio Mangini, Sophia Del Rio, and Austin North star in '70s L.A. music drama.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/keegan-allen-conor-husting-rio-mangini-star-small-talk-1237032109/"
-        }
-      ]
-    },
-    {
-      "title": "The Best of Us",
-      "network": "Paramount+",
-      "talent": "Neal Huff, Gaby Hoffmann, Sky Yang",
-      "announcement": "Paramount+ series (formerly titled 9/12) adds Neal Huff, Gaby Hoffmann, and Sky Yang to cast.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/neal-huff-gaby-hoffmann-paramount-plus-the-best-of-us-cast-1237031877/"
         }
       ]
     },
@@ -273,70 +241,26 @@
       ]
     },
     {
-      "title": "Monster: The Ed Gein Story",
-      "network": "",
-      "talent": "Charlie Hunnam (as Ed Gein)",
-      "announcement": "Charlie Hunnam undergoes physical and vocal transformation to play Ed Gein in the limited series.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/features/charlie-hunnam-transformation-ed-gein-monster-1236833243/"
-        },
-        {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/features/craft/michael-bauman-cinematography-ed-gein-story-ryan-murphy-1235208535/"
-        }
-      ]
-    },
-    {
-      "title": "The Paper",
-      "network": "Peacock",
-      "talent": "",
-      "announcement": "Season 2 trailer released for the Peacock series.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/the-paper-season-2-trailer-peacock-1236672136/"
-        }
-      ]
-    },
-    {
-      "title": "Tale of Two Cities",
-      "network": "",
-      "talent": "Kit Harington",
-      "announcement": "Kit Harington gets caught in a love triangle in trailer for the series.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/tale-of-two-cities-series-trailer-kit-harington-1236672088/"
-        }
-      ]
-    },
-    {
-      "title": "The Amazing Race",
-      "network": "CBS",
-      "talent": "",
-      "announcement": "CBS releases cast photos for season 39.",
+      "title": "The Best of Us",
+      "network": "Paramount+",
+      "talent": "Neal Huff, Gaby Hoffmann, Sky Yang",
+      "announcement": "Neal Huff, Gaby Hoffmann, and Sky Yang join Paramount+ series (formerly titled '9/12').",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/gallery/the-amazing-race-season-39-cast-photos-cbs/"
+          "url": "https://deadline.com/2026/08/neal-huff-gaby-hoffmann-paramount-plus-the-best-of-us-cast-1237031877/"
         }
       ]
     },
     {
-      "title": "The Traitors: New Blood",
-      "network": "NBC",
-      "talent": "",
-      "announcement": "NBC competition releases cast photos for season 1 featuring all-civilian contestants.",
+      "title": "Memoirs of Amorous Gentlemen",
+      "network": "",
+      "talent": "Sophia Anne Caruso",
+      "announcement": "Sophia Anne Caruso to star in Duncan Sheik's stage musical adaptation.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/gallery/the-traitors-new-blood-season-1-cast-photos-nbc/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/the-traitors-new-blood-cast/"
+          "url": "https://deadline.com/2026/08/sophia-anne-caruso-memoirs-of-amorous-gentlemen-1237028562/"
         }
       ]
     },
@@ -373,17 +297,45 @@
       ]
     },
     {
-      "title": "Lion",
-      "network": "National Geographic",
-      "talent": "Jon Favreau (director/producer)",
-      "announcement": "Jon Favreau directs and discusses his first documentary series about a lion.",
+      "title": "Tale of Two Cities",
+      "network": "",
+      "talent": "Kit Harington",
+      "announcement": "Trailer released showing Kit Harington caught in a love triangle.",
       "sources": [
         {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/features/jon-favreau-documentary-national-geographic-lion-1236833163/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/tale-of-two-cities-series-trailer-kit-harington-1236672088/"
+        }
+      ]
+    },
+    {
+      "title": "The Paper",
+      "network": "Peacock",
+      "talent": "",
+      "announcement": "Season 2 trailer released as series tries to build on its success.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/the-paper-season-2-trailer-peacock-1236672136/"
+        }
+      ]
+    },
+    {
+      "title": "Seinfeld",
+      "network": "Netflix/Paramount",
+      "talent": "",
+      "announcement": "Netflix renews Seinfeld licensing deal for five more years, keeping the show on both Netflix and Paramount channels.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/seinfeld-streaming-on-netflix-new-five-year-deal-1236672111/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/seinfeld-netflix-paramount-renews-licensing-deal/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-08-12T20:51:02.516Z"
+  "lastUpdated": "2026-08-12T21:51:18.993Z"
 }
