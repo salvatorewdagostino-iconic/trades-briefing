@@ -1,16 +1,44 @@
 {
   "date": "August 12, 2026",
-  "summary": "12 film announcements, 11 TV announcements across 5 trades.",
+  "summary": "8 film announcements, 12 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Charlie vs. The Chocolate Factory",
-      "studio": "Netflix",
-      "talent": "Nicola Coughlan, Charithra Chandran, Kate Winslet",
-      "announcement": "Netflix sets release date and 47-day theatrical window for the adaptation with cast attachments.",
+      "title": "The Dallergut Dream Department Store",
+      "studio": "Disney Live Action",
+      "talent": "Patrick Ness (adapter)",
+      "announcement": "Disney Live Action taps Patrick Ness to adapt Miye Lee's fantasy novel for film.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/08/netflix-charlie-chocolate-factory-release-theatrical-cast-1237031844/"
+          "url": "https://deadline.com/2026/08/dallergut-dream-department-store-movie-disney-in-works-1237031961/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/patrick-ness-dallergut-dream-department-store-novels-disney-1236672114/"
+        }
+      ]
+    },
+    {
+      "title": "Small Talk",
+      "studio": "",
+      "talent": "Keegan Allen, Conor Husting, Rio Mangini, Sophia Del Rio, Austin North",
+      "announcement": "Cast announced for '70s L.A. music drama featuring Keegan Allen, Conor Husting, Rio Mangini, Sophia Del Rio, and Austin North.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/keegan-allen-conor-husting-rio-mangini-star-small-talk-1237032109/"
+        }
+      ]
+    },
+    {
+      "title": "Scary Teacher",
+      "studio": "",
+      "talent": "Joe Roth (producer)",
+      "announcement": "Movie adaptation of viral game 'Scary Teacher' in development with studio veteran Joe Roth attached.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/scary-teacher-youtube-game-getting-movie-adaptation-1237031745/"
         }
       ]
     },
@@ -27,50 +55,18 @@
       ]
     },
     {
-      "title": "Scary Teacher",
-      "studio": "",
-      "talent": "Joe Roth",
-      "announcement": "Movie adaptation of viral game in development with studio veteran Joe Roth attached.",
+      "title": "Charlie vs. The Chocolate Factory",
+      "studio": "Netflix",
+      "talent": "Nicola Coughlan, Charithra Chandran, Kate Winslet",
+      "announcement": "Netflix announces release date and 47-day theatrical window for adaptation with cast including Nicola Coughlan, Charithra Chandran, and Kate Winslet.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/08/scary-teacher-youtube-game-getting-movie-adaptation-1237031745/"
-        }
-      ]
-    },
-    {
-      "title": "Cotton Eye Joe",
-      "studio": "SC Films",
-      "talent": "Bill Moseley, Sean Gunn",
-      "announcement": "Horror film underway with Bill Moseley and Sean Gunn, SC Films launching sales ahead of TIFF.",
-      "sources": [
+          "url": "https://deadline.com/2026/08/netflix-charlie-chocolate-factory-release-theatrical-cast-1237031844/"
+        },
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/bill-moseley-sean-gunn-horror-cotton-eye-joe-1237031721/"
-        }
-      ]
-    },
-    {
-      "title": "Halftime Hero",
-      "studio": "Scott Free Productions",
-      "talent": "Anson Boon, Ellie Bamber, Eddie Marsan (as Harry Redknapp)",
-      "announcement": "True story soccer movie in development with cast attached for Scott Free, Live Nation and Saga Company.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/anson-boon-eddie-marsan-halftime-hero-harry-redknapp-film-1237031695/"
-        }
-      ]
-    },
-    {
-      "title": "Against The Wall",
-      "studio": "Dream United Studios",
-      "talent": "Luke Charles Stafford",
-      "announcement": "Actor and singer Luke Charles Stafford launches Dream United Studios with this project.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/luke-charles-stafford-dream-united-studios-against-the-wall-1237030931/"
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/charlie-vs-the-chocolate-factory-theatrical-release-date-netflix/"
         }
       ]
     },
@@ -78,7 +74,7 @@
       "title": "Boys for Life",
       "studio": "Paramount",
       "talent": "Alex Wolff, Will Angus",
-      "announcement": "Primal comedy starring Alex Wolff, Will Angus and other Almost Friday stars.",
+      "announcement": "Paramount primal comedy cast announced featuring Alex Wolff, Will Angis, and other Almost Friday stars.",
       "sources": [
         {
           "name": "Variety",
@@ -89,36 +85,16 @@
     {
       "title": "Closure",
       "studio": "1-2 Special",
-      "talent": "",
-      "announcement": "1-2 Special takes U.S. rights to Michal Marczak's Sundance documentary.",
+      "talent": "Michal Marczak (director)",
+      "announcement": "1-2 Special acquires U.S. rights to Sundance documentary 'Closure' directed by Michal Marczak.",
       "sources": [
         {
           "name": "Variety",
           "url": "https://variety.com/2026/film/global/1-2-special-michal-marczak-sundance-closure-1236832856/"
-        }
-      ]
-    },
-    {
-      "title": "Dallergut Dream Department Store",
-      "studio": "Disney",
-      "talent": "Patrick Ness (adapter)",
-      "announcement": "Patrick Ness to adapt the novels for Disney live action film.",
-      "sources": [
+        },
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/patrick-ness-dallergut-dream-department-store-novels-disney-1236672114/"
-        }
-      ]
-    },
-    {
-      "title": "Getting to That Age",
-      "studio": "",
-      "talent": "Romy Reiner, Sharon Lawrence, Matt Walsh",
-      "announcement": "Short film with Romy Reiner starring opposite Sharon Lawrence and Matt Walsh.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/romy-reiner-acting-short-film-getting-to-that-age-1236671474/"
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/festivals/sundance-2026-movies-sold-so-far-1235174095/"
         }
       ]
     },
@@ -126,7 +102,7 @@
       "title": "Animals",
       "studio": "Netflix",
       "talent": "Ben Affleck, Kerry Washington",
-      "announcement": "Ben Affleck and Kerry Washington star as distraught parents trying to save their kidnapped son.",
+      "announcement": "Netflix releases trailer for film starring Ben Affleck and Kerry Washington as parents of a kidnapped son.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -137,25 +113,45 @@
           "url": "https://www.thewrap.com/creative-content/movies/animals-trailer-ben-affleck-kerry-washington-netflix/"
         }
       ]
-    },
-    {
-      "title": "Love, Lies & Frank",
-      "studio": "Shortical",
-      "talent": "James Franco",
-      "announcement": "James Franco stars in microdrama on Shortical platform.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/james-franco-microdrama-love-lies-frank-shortical-1236832770/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/media-platforms/streaming/james-franco-microseries-debut-shortical/"
-        }
-      ]
     }
   ],
   "tv": [
+    {
+      "title": "The Trial Of Louise Woodward",
+      "network": "HBO",
+      "talent": "Meghann Fahy, Sagar Radia",
+      "announcement": "Sagar Radia from 'Industry' joins Meghann Fahy in HBO's true-crime limited series.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/the-trial-of-louise-woodward-hbo-series-cast-sagar-radia-1237032159/"
+        }
+      ]
+    },
+    {
+      "title": "The Lowdown",
+      "network": "FX",
+      "talent": "Ethan Hawke, Tommy Lee Jones, Betty Gilpin",
+      "announcement": "Season 2 release date announced with first photos of Tommy Lee Jones and Betty Gilpin.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/the-lowdown-season-2-release-date-fx-ethan-hawke-1237031975/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/the-lowdown-season-2-release-date-fx-hulu-1236833123/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/the-lowdown-season-2-premiere-date-details-1236672221/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/the-lowdown-season-2-first-look-betty-gilpin-tommy-lee-jones/"
+        }
+      ]
+    },
     {
       "title": "Thunder Road",
       "network": "AMC",
@@ -172,7 +168,7 @@
       "title": "The Best Of Us",
       "network": "Paramount+",
       "talent": "Neal Huff, Gaby Hoffmann, Sky Yang",
-      "announcement": "Neal Huff, Gaby Hoffmann and Sky Yang join the series formerly titled '9/12'.",
+      "announcement": "Neal Huff, Gaby Hoffmann, and Sky Yang join Paramount+ series formerly titled '9/12'.",
       "sources": [
         {
           "name": "Deadline",
@@ -182,17 +178,13 @@
     },
     {
       "title": "Neagley",
-      "network": "Amazon Prime Video",
+      "network": "Prime Video",
       "talent": "Maria Sten, Alan Ritchson",
-      "announcement": "Reacher spinoff with Maria Sten leading and Alan Ritchson reprising his role.",
+      "announcement": "Reacher spinoff trailer released featuring Maria Sten with Alan Ritchson returning.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/08/reacher-spinoff-neagley-trailer-maria-sten-alan-ritchson-1237031757/"
-        },
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/reacher-spinoff-neagley-trailer-amazon-prime-video-1236832972/"
         },
         {
           "name": "Hollywood Reporter",
@@ -204,7 +196,7 @@
       "title": "Crew Girl",
       "network": "Netflix",
       "talent": "Miku Martineau",
-      "announcement": "Netflix YA drama about East Coast prep school rowing team with Miku Martineau starring.",
+      "announcement": "Netflix YA drama trailer released teasing rivalry and romance for an East Coast prep school's rowing team.",
       "sources": [
         {
           "name": "Deadline",
@@ -220,7 +212,7 @@
       "title": "Adults",
       "network": "FX",
       "talent": "Gaten Matarazzo, Jake Shane, Zosia Mamet",
-      "announcement": "Season 2 trailer released featuring guest stars including Gaten Matarazzo, Jake Shane and Zosia Mamet.",
+      "announcement": "Season 2 trailer released featuring guest stars including Gaten Matarazzo, Jake Shane, and Zosia Mamet.",
       "sources": [
         {
           "name": "Deadline",
@@ -233,23 +225,15 @@
       ]
     },
     {
-      "title": "The Paper",
-      "network": "Peacock",
-      "talent": "",
-      "announcement": "Season 2 trailer released building on the show's success.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/the-paper-season-2-trailer-peacock-1236672136/"
-        }
-      ]
-    },
-    {
       "title": "The Amazing Race",
       "network": "CBS",
       "talent": "",
-      "announcement": "Season 39 contestants revealed with new twists including record 13 Express Passes and first-ever trip to Albania.",
+      "announcement": "Season 39 cast and contestants revealed with new twists including a record 13 Express Passes and first-ever trip to Albania.",
       "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/the-amazing-race-season-39-cast-photos-cbs/"
+        },
         {
           "name": "Variety",
           "url": "https://variety.com/2026/tv/news/the-amazing-race-season-39-contestants-new-twists-1236832603/"
@@ -257,14 +241,14 @@
       ]
     },
     {
-      "title": "The Traitors: New Blood",
-      "network": "NBC",
+      "title": "The Paper",
+      "network": "Peacock",
       "talent": "",
-      "announcement": "Season 1 cast of civilian contestants revealed for NBC competition series.",
+      "announcement": "Season 2 trailer released for Peacock series.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/gallery/the-traitors-new-blood-season-1-cast-photos-nbc/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/the-paper-season-2-trailer-peacock-1236672136/"
         }
       ]
     },
@@ -284,7 +268,7 @@
       "title": "SNL UK",
       "network": "Sky",
       "talent": "",
-      "announcement": "Season 2 return date announced for Sky.",
+      "announcement": "Season 2 return date set for Sky.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -293,17 +277,17 @@
       ]
     },
     {
-      "title": "The Shards",
-      "network": "HBO/Ryan Murphy",
-      "talent": "",
-      "announcement": "Bret Easton Ellis novel adaptation moves to Ryan Murphy's hands after blowing up at HBO.",
+      "title": "Love, Lies & Frank",
+      "network": "Shortical",
+      "talent": "James Franco",
+      "announcement": "James Franco makes his microseries debut in comedy for Shortical.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-features/how-bret-easton-ellis-novel-hbo-ryan-murphy-1236671480/"
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/streaming/james-franco-microseries-debut-shortical/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-08-12T17:30:38.660Z"
+  "lastUpdated": "2026-08-12T18:30:34.561Z"
 }
