@@ -1,24 +1,28 @@
 {
   "date": "August 12, 2026",
-  "summary": "11 film announcements, 10 TV announcements across 5 trades.",
+  "summary": "13 film announcements, 15 TV announcements across 5 trades.",
   "film": [
     {
       "title": "Miami Vice '85",
       "studio": "Universal",
       "talent": "Michael B. Jordan, Austin Butler, Alden Ehrenreich",
-      "announcement": "Alden Ehrenreich joins Michael B. Jordan and Austin Butler in Universal's latest take on the classic series.",
+      "announcement": "Alden Ehrenreich joins the cast of Universal's latest take on the classic series, alongside Michael B. Jordan and Austin Butler.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/08/miami-vice-85-alden-ehrenreich-michael-b-jordan-austin-butler-1237031997/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/alden-ehrenreich-joins-miami-vice-85-cast/"
         }
       ]
     },
     {
       "title": "The Dallergut Dream Department Store",
-      "studio": "Disney Live Action",
+      "studio": "Disney",
       "talent": "Patrick Ness (adapter)",
-      "announcement": "Disney Live Action taps Patrick Ness to adapt Miye Lee's fantasy novel for film.",
+      "announcement": "Disney Live Action taps Patrick Ness to adapt Miye Lee's fantasy novel for a feature film.",
       "sources": [
         {
           "name": "Deadline",
@@ -31,10 +35,10 @@
       ]
     },
     {
-      "title": "Charlie vs. The Chocolate Factory",
+      "title": "Charlie vs. the Chocolate Factory",
       "studio": "Netflix",
       "talent": "Nicola Coughlan, Charithra Chandran, Kate Winslet",
-      "announcement": "Netflix sets release date and 47-day theatrical window for the film, with casting of major talent announced.",
+      "announcement": "Netflix sets release date and 47-day theatrical window for the film, with Nicola Coughlan, Charithra Chandran, and Kate Winslet joining the cast.",
       "sources": [
         {
           "name": "Deadline",
@@ -50,19 +54,7 @@
         },
         {
           "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/charlie-vs+the-chocolate-factory-theatrical-release-date-netflix/"
-        }
-      ]
-    },
-    {
-      "title": "Run Amok",
-      "studio": "Greenwich Entertainment",
-      "talent": "",
-      "announcement": "Sundance dark comedy gets North American distribution deal with Greenwich Entertainment.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/sundance-run-amok-us-release-greenwich-entertainment-1237031733/"
+          "url": "https://www.thewrap.com/creative-content/movies/charlie-vs-the-chocolate-factory-theatrical-release-date-netflix/"
         }
       ]
     },
@@ -70,7 +62,7 @@
       "title": "Boys for Life",
       "studio": "Paramount",
       "talent": "Alex Wolff, Will Angus",
-      "announcement": "Paramount's primal comedy casts Alex Wolff, Will Angus and more Almost Friday stars to lead the film.",
+      "announcement": "Paramount's primal comedy casts Alex Wolff, Will Angus, and more Almost Friday stars to lead the film.",
       "sources": [
         {
           "name": "Variety",
@@ -82,7 +74,7 @@
       "title": "Animals",
       "studio": "Netflix",
       "talent": "Ben Affleck, Kerry Washington",
-      "announcement": "Trailer released showing Ben Affleck and Kerry Washington as distraught parents trying to save their kidnapped son.",
+      "announcement": "Trailer released for the Netflix film featuring Ben Affleck and Kerry Washington as distraught parents trying to save their kidnapped son.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -91,6 +83,66 @@
         {
           "name": "TheWrap",
           "url": "https://www.thewrap.com/creative-content/movies/animals-trailer-ben-affleck-kerry-washington-netflix/"
+        }
+      ]
+    },
+    {
+      "title": "Pinky & the Brain Movie",
+      "studio": "",
+      "talent": "Late writer's son directing with puppets",
+      "announcement": "A late Pinky & The Brain writer's movie script is now being made by his son and will feature puppets.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/a-late-pinky-the-brain-writers-script-is-finally-getting-made-1236670539/"
+        }
+      ]
+    },
+    {
+      "title": "Barbie 2",
+      "studio": "Warner Bros.",
+      "talent": "Greta Gerwig (director), Margot Robbie (star)",
+      "announcement": "Sequel could be shelved amid pay battle and crumbling deal talks between the studio and key talent.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/barbie-2-paused-gerwig-robbie-failed-deals-sequel-1236833075/"
+        }
+      ]
+    },
+    {
+      "title": "Getting to That Age",
+      "studio": "",
+      "talent": "Romy Reiner, Sharon Lawrence, Matt Walsh",
+      "announcement": "First look released for short film featuring Romy Reiner opposite Sharon Lawrence and Matt Walsh.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/romy-reiner-acting-short-film-getting-to-that-age-1236671474/"
+        }
+      ]
+    },
+    {
+      "title": "Social Reckoning",
+      "studio": "",
+      "talent": "Jeremy Strong (as Mark Zuckerberg)",
+      "announcement": "Jeremy Strong cast as Mark Zuckerberg in Social Reckoning film; actor messaged Zuckerberg after casting about taking responsibility seriously.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/jeremy-strong-mark-zuckerberg-social-reckoning-casting/"
+        }
+      ]
+    },
+    {
+      "title": "Nimrod's Green Day Movie",
+      "studio": "",
+      "talent": "Billie Joe Armstrong involvement",
+      "announcement": "Green Day's Billie Joe Armstrong asked the filmmaker to make a movie about the band's album Nimrod, and the filmmaker accepted the project.",
+      "sources": [
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/features/interviews/nimrods-green-day-movie-billie-joe-armstrong-interview-1235209998/"
         }
       ]
     },
@@ -107,60 +159,52 @@
       ]
     },
     {
-      "title": "Getting to That Age",
-      "studio": "",
-      "talent": "Romy Reiner, Sharon Lawrence, Matt Walsh",
-      "announcement": "First look released showing Romy Reiner starring opposite Sharon Lawrence and Matt Walsh in the short film.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/romy-reiner-acting-short-film-getting-to-that-age-1236671474/"
-        }
-      ]
-    },
-    {
-      "title": "Pinky & The Brain Movie",
-      "studio": "",
+      "title": "It Ends",
+      "studio": "Neon",
       "talent": "",
-      "announcement": "A late Pinky & The Brain writer's script is finally getting made by his son and with puppets.",
+      "announcement": "Neon sets 36-hour screening event at NYC's Metro Private Cinema with payouts for attendees who stick around.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/a-late-pinky-the-brain-writers-script-is-finally-getting-made-1236670539/"
-        }
-      ]
-    },
-    {
-      "title": "Green Day Movie",
-      "studio": "",
-      "talent": "Billie Joe Armstrong",
-      "announcement": "Film in development after Billie Joe Armstrong asked director to make a Green Day movie.",
-      "sources": [
-        {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/features/interviews/nimrods-green-day-movie-billie-joe-armstrong-interview-1235209998/"
-        }
-      ]
-    },
-    {
-      "title": "Closure",
-      "studio": "1-2 Special",
-      "talent": "Michal Marczak (director)",
-      "announcement": "Documentary from Sundance 2026 lands at 1-2 Special.",
-      "sources": [
-        {
-          "name": "IndieWire",
-          "url": "https://www.indiewire.com/news/festivals/sundance-2026-movies-sold-so-far-1235174095/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/neon-it-ends-film-36-hour-screening-metro-private-cinema-1237031907/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "The Trial Of Louise Woodward",
+      "title": "Strike Force",
+      "network": "CBS",
+      "talent": "Jesse Lee Soffer (star), Matt Olmstead (writer/producer), Jerry Bruckheimer (producer)",
+      "announcement": "CBS drama from Matt Olmstead receives development room order with Jesse Lee Soffer set to star.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/jesse-lee-soffer-strike-force-cbs-drama-matt-olmstead-1237032272/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/chicago-pd-jesse-lee-soffer-matt-olmstea-strike-force-cbs-1236833290/"
+        }
+      ]
+    },
+    {
+      "title": "The Lincoln Lawyer Spinoff",
+      "network": "Netflix",
+      "talent": "Cobie Smulders",
+      "announcement": "Netflix fast-tracks development of The Lincoln Lawyer spinoff series starring Cobie Smulders as Emi.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/the-lincoln-lawyer-spinoff-cobie-smulders-emi-netflix-1237031468/"
+        }
+      ]
+    },
+    {
+      "title": "The Trial of Louise Woodward",
       "network": "HBO",
       "talent": "Meghann Fahy, Sagar Radia",
-      "announcement": "True-crime limited series casts Sagar Radia from Industry alongside Meghann Fahy.",
+      "announcement": "HBO's true-crime limited series adds Sagar Radia to cast alongside Meghann Fahy.",
       "sources": [
         {
           "name": "Deadline",
@@ -172,7 +216,7 @@
       "title": "The Lowdown",
       "network": "FX/Hulu",
       "talent": "Ethan Hawke, Tommy Lee Jones, Betty Gilpin",
-      "announcement": "Season 2 release date set for FX; first photos released of Tommy Lee Jones and Betty Gilpin.",
+      "announcement": "FX sets season 2 release date and releases first photos featuring Tommy Lee Jones and Betty Gilpin.",
       "sources": [
         {
           "name": "Deadline",
@@ -196,7 +240,7 @@
       "title": "Small Talk",
       "network": "",
       "talent": "Keegan Allen, Conor Husting, Rio Mangini, Sophia Del Rio, Austin North",
-      "announcement": "70s L.A. music drama announces casting of five leads.",
+      "announcement": "Keegan Allen, Conor Husting, Rio Mangini, Sophia Del Rio, and Austin North star in '70s L.A. music drama.",
       "sources": [
         {
           "name": "Deadline",
@@ -205,22 +249,10 @@
       ]
     },
     {
-      "title": "Thunder Road",
-      "network": "AMC",
-      "talent": "Jake Manley",
-      "announcement": "Jake Manley joins AMC's NASCAR drama.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/jake-manley-cast-amc-nascar-drama-thunder-road-1237031967/"
-        }
-      ]
-    },
-    {
       "title": "The Best of Us",
       "network": "Paramount+",
       "talent": "Neal Huff, Gaby Hoffmann, Sky Yang",
-      "announcement": "Neal Huff, Gaby Hoffmann and Sky Yang join Paramount+ limited series formerly titled 9/12.",
+      "announcement": "Paramount+ series (formerly titled 9/12) adds Neal Huff, Gaby Hoffmann, and Sky Yang to cast.",
       "sources": [
         {
           "name": "Deadline",
@@ -229,34 +261,30 @@
       ]
     },
     {
-      "title": "Neagley",
-      "network": "Prime Video",
-      "talent": "Maria Sten",
-      "announcement": "Trailer released for Reacher spinoff starring Maria Sten as a killer hunter.",
+      "title": "Thunder Road",
+      "network": "AMC",
+      "talent": "Jake Manley",
+      "announcement": "Jake Manley joins AMC's NASCAR drama series.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/08/reacher-spinoff-neagley-trailer-maria-sten-alan-ritchson-1237031757/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/neagley-trailer-reacher-spinoff-maria-sten-prime-video-1236672063/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/neagley-trailer-reacher-spinoff-maria-sten-prime-video/"
+          "url": "https://deadline.com/2026/08/jake-manley-cast-amc-nascar-drama-thunder-road-1237031967/"
         }
       ]
     },
     {
-      "title": "Tale of Two Cities",
+      "title": "Monster: The Ed Gein Story",
       "network": "",
-      "talent": "Kit Harington",
-      "announcement": "Trailer released showing Kit Harington caught in a love triangle.",
+      "talent": "Charlie Hunnam (as Ed Gein)",
+      "announcement": "Charlie Hunnam undergoes physical and vocal transformation to play Ed Gein in the limited series.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/tale-of-two-cities-series-trailer-kit-harington-1236672088/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/features/charlie-hunnam-transformation-ed-gein-monster-1236833243/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/features/craft/michael-bauman-cinematography-ed-gein-story-ryan-murphy-1235208535/"
         }
       ]
     },
@@ -264,7 +292,7 @@
       "title": "The Paper",
       "network": "Peacock",
       "talent": "",
-      "announcement": "Season 2 trailer released as series attempts to build on its success.",
+      "announcement": "Season 2 trailer released for the Peacock series.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -273,29 +301,89 @@
       ]
     },
     {
-      "title": "Crew Girl",
-      "network": "Netflix",
-      "talent": "",
-      "announcement": "Trailer released for YA drama teasing rivalry and romance for an East Coast prep school's rowing team.",
+      "title": "Tale of Two Cities",
+      "network": "",
+      "talent": "Kit Harington",
+      "announcement": "Kit Harington gets caught in a love triangle in trailer for the series.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/crew-girl-trailer-netflix-teen-drama-1237031240/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/tale-of-two-cities-series-trailer-kit-harington-1236672088/"
         }
       ]
     },
     {
-      "title": "Son of a Critch",
-      "network": "",
+      "title": "The Amazing Race",
+      "network": "CBS",
       "talent": "",
-      "announcement": "Trailer released for final season of Canadian sitcom showing Mark having a midlife crisis at 17.",
+      "announcement": "CBS releases cast photos for season 39.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/08/son-of-a-critch-trailer-final-season-1237030955/"
+          "url": "https://deadline.com/gallery/the-amazing-race-season-39-cast-photos-cbs/"
+        }
+      ]
+    },
+    {
+      "title": "The Traitors: New Blood",
+      "network": "NBC",
+      "talent": "",
+      "announcement": "NBC competition releases cast photos for season 1 featuring all-civilian contestants.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/gallery/the-traitors-new-blood-season-1-cast-photos-nbc/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/the-traitors-new-blood-cast/"
+        }
+      ]
+    },
+    {
+      "title": "Amanda Waller Series",
+      "network": "DC Studios",
+      "talent": "",
+      "announcement": "Amanda Waller series is no longer in active development at DC Studios.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/amanda-waller-series-wonder-woman-paradise-lost-dc-studios-1236833212/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/waller-paradise-lost-not-in-priority-development-dc-studios/"
+        }
+      ]
+    },
+    {
+      "title": "Paradise Lost",
+      "network": "DC Studios",
+      "talent": "",
+      "announcement": "Wonder Woman prequel series is no longer in active development at DC Studios.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/amanda-waller-series-wonder-woman-paradise-lost-dc-studios-1236833212/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/waller-paradise-lost-not-in-priority-development-dc-studios/"
+        }
+      ]
+    },
+    {
+      "title": "Lion",
+      "network": "National Geographic",
+      "talent": "Jon Favreau (director/producer)",
+      "announcement": "Jon Favreau directs and discusses his first documentary series about a lion.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/features/jon-favreau-documentary-national-geographic-lion-1236833163/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-08-12T19:42:52.699Z"
+  "lastUpdated": "2026-08-12T20:51:02.516Z"
 }
