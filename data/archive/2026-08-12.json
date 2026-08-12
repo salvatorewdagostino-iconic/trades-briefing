@@ -1,6 +1,6 @@
 {
   "date": "August 12, 2026",
-  "summary": "12 film announcements, 13 TV announcements across 5 trades.",
+  "summary": "13 film announcements, 14 TV announcements across 5 trades.",
   "film": [
     {
       "title": "Miami Vice '85",
@@ -22,7 +22,7 @@
       "title": "The Dallergut Dream Department Store",
       "studio": "Disney Live Action",
       "talent": "Patrick Ness (adapter)",
-      "announcement": "Patrick Ness tapped to adapt Miye Lee's fantasy novel for Disney Live Action.",
+      "announcement": "Disney Live Action taps Patrick Ness to adapt Miye Lee's fantasy novel for film.",
       "sources": [
         {
           "name": "Deadline",
@@ -38,7 +38,7 @@
       "title": "Small Talk",
       "studio": "",
       "talent": "Keegan Allen, Conor Husting, Rio Mangini, Sophia Del Rio, Austin North",
-      "announcement": "Keegan Allen, Conor Husting, Rio Mangini, Sophia Del Rio and Austin North star in '70s L.A. music drama.",
+      "announcement": "Five cast members star in the '70s L.A. music drama film.",
       "sources": [
         {
           "name": "Deadline",
@@ -50,7 +50,7 @@
       "title": "Boys for Life",
       "studio": "Paramount",
       "talent": "Alex Wolff, Will Angus",
-      "announcement": "Alex Wolff, Will Angus and other Almost Friday stars to lead Paramount primal comedy.",
+      "announcement": "Alex Wolff and Will Angus, along with other Almost Friday stars, are set to lead the Paramount primal comedy.",
       "sources": [
         {
           "name": "Variety",
@@ -62,11 +62,15 @@
       "title": "Charlie vs. the Chocolate Factory",
       "studio": "Netflix",
       "talent": "",
-      "announcement": "Netflix's film lands wide theatrical release with 45-day window.",
+      "announcement": "Netflix's film lands a wide theatrical release with a 45-day window before returning to streaming.",
       "sources": [
         {
           "name": "Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/charlie-vs-the-chocolate-factory-movie-netflix-release-date-1236672112/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/breaking-news/charlie-and-the-chocolate-factory-netflix-theaters-1235210208/"
         },
         {
           "name": "TheWrap",
@@ -75,46 +79,22 @@
       ]
     },
     {
-      "title": "Memoirs of Amorous Gentlemen",
+      "title": "Pinky & the Brain Movie",
       "studio": "",
-      "talent": "Sophia Anne Caruso",
-      "announcement": "Sophia Anne Caruso to star in Duncan Sheik's stage musical adaptation.",
+      "talent": "",
+      "announcement": "A late writer's Pinky & the Brain script is being made into a movie by his son with puppets.",
       "sources": [
         {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/sophia-anne-caruso-memoirs-of-amorous-gentlemen-1237028562/"
-        }
-      ]
-    },
-    {
-      "title": "Animals",
-      "studio": "Netflix",
-      "talent": "Ben Affleck, Kerry Washington",
-      "announcement": "Trailer released featuring Ben Affleck as a mayoral candidate plunged into a kidnapping plot.",
-      "sources": [
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/movies/animals-trailer-ben-affleck-kerry-washington-netflix/"
-        }
-      ]
-    },
-    {
-      "title": "Barbie 2",
-      "studio": "Warner Bros.",
-      "talent": "Greta Gerwig (director), Margot Robbie",
-      "announcement": "Sequel could be shelved amid pay battle and crumbling deal talks between studio and filmmaker.",
-      "sources": [
-        {
-          "name": "Variety",
-          "url": "https://variety.com/2026/film/news/barbie-2-paused-gerwig-robbie-failed-deals-sequel-1236833075/"
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/a-late-pinky-the-brain-writers-script-is-finally-getting-made-1236670539/"
         }
       ]
     },
     {
       "title": "The Social Reckoning",
       "studio": "",
-      "talent": "Jeremy Strong (Mark Zuckerberg)",
-      "announcement": "Jeremy Strong reached out to Mark Zuckerberg after being cast as him in the film, and Zuckerberg responded.",
+      "talent": "Jeremy Strong (as Mark Zuckerberg)",
+      "announcement": "Jeremy Strong is cast as Mark Zuckerberg and reached out to him after being cast, with Zuckerberg responding.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -127,10 +107,50 @@
       ]
     },
     {
-      "title": "Nimrods",
+      "title": "Animals",
+      "studio": "Netflix",
+      "talent": "Ben Affleck, Kerry Washington",
+      "announcement": "Trailer released showing Ben Affleck's mayoral candidate character caught in a kidnapping plot.",
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/animals-trailer-ben-affleck-kerry-washington-netflix/"
+        }
+      ]
+    },
+    {
+      "title": "Barbie 2",
+      "studio": "Warner Bros.",
+      "talent": "",
+      "announcement": "Sequel could be shelved amid pay battle and crumbling deal talks.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/barbie-2-paused-gerwig-robbie-failed-deals-sequel-1236833075/"
+        }
+      ]
+    },
+    {
+      "title": "The Hunted",
       "studio": "",
-      "talent": "Billie Joe Armstrong (Green Day)",
-      "announcement": "Green Day film in development after Billie Joe Armstrong approached filmmaker about making the project.",
+      "talent": "",
+      "announcement": "Lilly Wachowski says Hollywood won't finance her $10 million thriller because it has a wall-to-wall trans cast.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/lilly-wachowski-hollywood-wont-make-next-film-trans-cast-1237032338/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/lilly-wachowski-trans-movie-no-financing-1236833156/"
+        }
+      ]
+    },
+    {
+      "title": "Green Day Movie",
+      "studio": "",
+      "talent": "",
+      "announcement": "A filmmaker is making a Green Day movie after Billie Joe Armstrong asked him to direct it.",
       "sources": [
         {
           "name": "IndieWire",
@@ -139,36 +159,48 @@
       ]
     },
     {
+      "title": "Getting to That Age",
+      "studio": "",
+      "talent": "Romy Reiner, Sharon Lawrence, Matt Walsh",
+      "announcement": "First look revealed for short film starring Romy Reiner opposite Sharon Lawrence and Matt Walsh.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/romy-reiner-acting-short-film-getting-to-that-age-1236671474/"
+        }
+      ]
+    },
+    {
       "title": "Closure",
       "studio": "1-2 Special",
-      "talent": "Michal Marczak (director/documentarian)",
-      "announcement": "Michal Marczak's documentary lands at 1-2 Special following Sundance 2026.",
+      "talent": "Michal Marczak (director)",
+      "announcement": "Documentary by Michal Marczak lands at 1-2 Special after Sundance 2026.",
       "sources": [
         {
           "name": "IndieWire",
           "url": "https://www.indiewire.com/news/festivals/sundance-2026-movies-sold-so-far-1235174095/"
         }
       ]
-    },
-    {
-      "title": "Pinky & The Brain Movie",
-      "studio": "",
-      "talent": "",
-      "announcement": "A late Pinky & The Brain writer's script is finally getting made by his son with puppets.",
-      "sources": [
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/a-late-pinky-the-brain-writers-script-is-finally-getting-made-1236670539/"
-        }
-      ]
     }
   ],
   "tv": [
     {
+      "title": "Marshals",
+      "network": "",
+      "talent": "Marque Richardson (new cast), Morgan Lindholm (expanded role)",
+      "announcement": "Marque Richardson joins the Season 2 cast and Morgan Lindholm expands her role.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/marshals-cast-marque-richardson-morgan-lindholm-season-2-1237032465/"
+        }
+      ]
+    },
+    {
       "title": "Strike Force",
       "network": "CBS",
-      "talent": "Jesse Lee Soffer (star), Matt Olmstead (creator), Jerry Bruckheimer (producer)",
-      "announcement": "CBS drama from Matt Olmstead gets development room order with Jesse Lee Soffer starring; Jerry Bruckheimer to produce.",
+      "talent": "Jesse Lee Soffer (star), Matt Olmstead (creator/producer), Jerry Bruckheimer (producer)",
+      "announcement": "CBS development room order for heartland crime drama with Jesse Lee Soffer starring.",
       "sources": [
         {
           "name": "Deadline",
@@ -188,7 +220,7 @@
       "title": "The Lincoln Lawyer Spinoff",
       "network": "Netflix",
       "talent": "Cobie Smulders (star)",
-      "announcement": "Netflix puts Cobie Smulders-led spinoff in fast-track development.",
+      "announcement": "Netflix fast-tracks development of spinoff starring Cobie Smulders.",
       "sources": [
         {
           "name": "Deadline",
@@ -204,7 +236,7 @@
       "title": "The Trial of Louise Woodward",
       "network": "HBO",
       "talent": "Meghann Fahy, Sagar Radia",
-      "announcement": "Sagar Radia from Industry joins Meghann Fahy in HBO's true-crime limited series.",
+      "announcement": "True-crime limited series adds Sagar Radia to cast alongside Meghann Fahy.",
       "sources": [
         {
           "name": "Deadline",
@@ -213,30 +245,10 @@
       ]
     },
     {
-      "title": "The Lowdown",
-      "network": "FX",
-      "talent": "Ethan Hawke, Tommy Lee Jones, Betty Gilpin",
-      "announcement": "Season 2 gets release date at FX; first photos of Tommy Lee Jones and Betty Gilpin released.",
-      "sources": [
-        {
-          "name": "Deadline",
-          "url": "https://deadline.com/2026/08/the-lowdown-season-2-release-date-fx-ethan-hawke-1237031975/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/the-lowdown-season-2-premiere-date-details-1236672221/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/the-lowdown-season-2-first-look-betty-gilpin-tommy-lee-jones/"
-        }
-      ]
-    },
-    {
       "title": "Thunder Road",
       "network": "AMC",
       "talent": "Jake Manley",
-      "announcement": "Jake Manley joins AMC's NASCAR drama.",
+      "announcement": "Jake Manley joins the NASCAR drama cast.",
       "sources": [
         {
           "name": "Deadline",
@@ -248,7 +260,7 @@
       "title": "The Best of Us",
       "network": "Paramount+",
       "talent": "Neal Huff, Gaby Hoffmann, Sky Yang",
-      "announcement": "Neal Huff, Gaby Hoffmann and Sky Yang join Paramount+ series, formerly titled '9/12'.",
+      "announcement": "Neal Huff, Gaby Hoffmann, and Sky Yang join the cast of formerly titled '9/12'.",
       "sources": [
         {
           "name": "Deadline",
@@ -259,8 +271,8 @@
     {
       "title": "Only Murders in the Building",
       "network": "Hulu",
-      "talent": "Steve Martin, Martin Short (stars), British stars joining next season",
-      "announcement": "Martin Short discusses big British stars joining next season of the series.",
+      "talent": "",
+      "announcement": "Next season will feature big British stars joining the cast.",
       "sources": [
         {
           "name": "Deadline",
@@ -269,26 +281,42 @@
       ]
     },
     {
-      "title": "House of the Dragon",
-      "network": "HBO",
+      "title": "Ted Lasso",
+      "network": "Apple TV+",
       "talent": "",
-      "announcement": "Season 3's Tumbleton storyline explored as best of the season in behind-the-scenes feature.",
+      "announcement": "Apple executive Eddy Cue hints at Season 5 renewal possibility, stating there are plenty of stories to tell.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-features/house-of-the-dragon-season-3-tumbleton-changes-finale-1236672400/"
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/eddy-cue-ted-lasso-season-5-renewal-apple-tv-1237032266/"
         }
       ]
     },
     {
-      "title": "Tale of Two Cities",
+      "title": "Monster: The Ed Gein Story",
       "network": "",
-      "talent": "Kit Harington",
-      "announcement": "Kit Harington gets caught in love triangle in series trailer.",
+      "talent": "Charlie Hunnam (as Ed Gein)",
+      "announcement": "Charlie Hunnam discusses his physical and vocal transformation for the role.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/features/charlie-hunnam-transformation-ed-gein-monster-1236833243/"
+        }
+      ]
+    },
+    {
+      "title": "The Lowdown",
+      "network": "",
+      "talent": "Ethan Hawke, Betty Gilpin, Tommy Lee Jones",
+      "announcement": "Season 2 premiere date and first look revealed featuring Betty Gilpin and Tommy Lee Jones.",
       "sources": [
         {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/tale-of-two-cities-series-trailer-kit-harington-1236672088/"
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/the-lowdown-season-2-premiere-date-details-1236672221/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/the-lowdown-season-2-first-look-betty-gilpin-tommy-lee-jones/"
         }
       ]
     },
@@ -296,7 +324,7 @@
       "title": "The Paper",
       "network": "Peacock",
       "talent": "",
-      "announcement": "Season 2 trailer released as series tries to build on success.",
+      "announcement": "Season 2 trailer released building on the show's success.",
       "sources": [
         {
           "name": "Hollywood Reporter",
@@ -307,7 +335,7 @@
     {
       "title": "The Traitors: New Blood",
       "network": "NBC",
-      "talent": "All-civilian cast",
+      "talent": "",
       "announcement": "All-civilian cast announced ahead of September NBC debut.",
       "sources": [
         {
@@ -317,21 +345,29 @@
       ]
     },
     {
-      "title": "Amanda Waller Series / Paradise Lost",
-      "network": "DC Studios",
+      "title": "State of Grace",
+      "network": "",
+      "talent": "Alia Shawkat, Mae Whitman",
+      "announcement": "Alia Shawkat actively trying to bring the show to streaming with plans for reunion with Mae Whitman.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/alia-shawkat-actively-trying-state-of-grace-reunion-mae-whitman-1237032390/"
+        }
+      ]
+    },
+    {
+      "title": "Reacher",
+      "network": "Prime Video",
       "talent": "",
-      "announcement": "Amanda Waller series and Wonder Woman prequel 'Paradise Lost' no longer in active development at DC Studios.",
+      "announcement": "Cast guide published for Season 4 of the action series.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/tv/news/amanda-waller-series-wonder-woman-paradise-lost-dc-studios-1236833212/"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/creative-content/tv-shows/waller-paradise-lost-not-in-priority-development-dc-studios/"
+          "url": "https://variety.com/lists/reacher-season-4-cast-characters/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-08-12T22:45:55.062Z"
+  "lastUpdated": "2026-08-12T23:46:16.997Z"
 }
