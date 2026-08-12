@@ -1,20 +1,241 @@
 {
   "date": "August 12, 2026",
-  "summary": "1 film announcement, 0 TV announcements across 5 trades.",
+  "summary": "7 film announcements, 10 TV announcements across 5 trades.",
   "film": [
     {
-      "title": "Lethal Weapon 5",
-      "studio": "",
-      "talent": "Mel Gibson",
-      "announcement": "Mel Gibson shares update on the fifth installment, stating that the script is better than all previous films in the franchise.",
+      "title": "Charlie Vs. The Chocolate Factory",
+      "studio": "Netflix",
+      "talent": "Nicola Coughlan, Charithra Chandran, Kate Winslet",
+      "announcement": "Netflix sets release date and 47-day theatrical window for the film with casting of major talent confirmed.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/08/mel-gibson-shares-lethal-weapon-5-update-movie-1236997946/"
+          "url": "https://deadline.com/2026/08/netflix-charlie-chocolate-factory-release-theatrical-cast-1237031844/"
+        }
+      ]
+    },
+    {
+      "title": "Run Amok",
+      "studio": "Greenwich Entertainment",
+      "talent": "",
+      "announcement": "Sundance dark comedy acquires North American distribution deal with Greenwich Entertainment.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/sundance-run-amok-us-release-greenwich-entertainment-1237031733/"
+        }
+      ]
+    },
+    {
+      "title": "Scary Teacher",
+      "studio": "",
+      "talent": "Joe Roth",
+      "announcement": "Movie adaptation of viral game Scary Teacher is in development with studio veteran Joe Roth attached.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/scary-teacher-youtube-game-getting-movie-adaptation-1237031745/"
+        }
+      ]
+    },
+    {
+      "title": "Cotton Eye Joe",
+      "studio": "SC Films",
+      "talent": "Bill Moseley, Sean Gunn",
+      "announcement": "Horror film with Bill Moseley and Sean Gunn underway; SC Films launching sales ahead of TIFF.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/bill-moseley-sean-gunn-horror-cotton-eye-joe-1237031721/"
+        }
+      ]
+    },
+    {
+      "title": "Halftime Hero",
+      "studio": "Scott Free, Live Nation, Saga Company",
+      "talent": "Anson Boon, Ellie Bamber, Eddie Marsan (as Harry Redknapp)",
+      "announcement": "True story soccer movie stars Anson Boon, Ellie Bamber, and Eddie Marsan as Harry Redknapp.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/anson-boon-eddie-marsan-halftime-hero-harry-redknapp-film-1237031695/"
+        }
+      ]
+    },
+    {
+      "title": "Closure",
+      "studio": "1-2 Special",
+      "talent": "Michal Marczak",
+      "announcement": "1-2 Special takes U.S. rights to Michal Marczak's Sundance documentary Closure.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/global/1-2-special-michal-marczak-sundance-closure-1236832856/"
+        }
+      ]
+    },
+    {
+      "title": "Animals",
+      "studio": "",
+      "talent": "Ben Affleck, Kerry Washington",
+      "announcement": "Ben Affleck and Kerry Washington star as distraught parents in trailer for film about kidnapped son.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/ben-affleck-kerry-washington-animals-trailer-1236672033/"
         }
       ]
     }
   ],
-  "tv": [],
-  "lastUpdated": "2026-08-12T04:21:48.599Z"
+  "tv": [
+    {
+      "title": "Neagley",
+      "network": "Amazon Prime Video",
+      "talent": "Maria Sten, Alan Ritchson",
+      "announcement": "Reacher spinoff Neagley releases trailer with Maria Sten starring as the lead investigating a killer.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/reacher-spinoff-neagley-trailer-maria-sten-alan-ritchson-1237031757/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/reacher-spinoff-neagley-trailer-amazon-prime-video-1236832972/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/neagley-trailer-reacher-spinoff-maria-sten-prime-video-1236672063/"
+        }
+      ]
+    },
+    {
+      "title": "Crew Girl",
+      "network": "Netflix",
+      "talent": "Miku Martineau",
+      "announcement": "Netflix YA drama releases trailer featuring rivalry and romance on an East Coast prep school's rowing team.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/crew-girl-trailer-netflix-teen-drama-1237031240/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/crew-girl-miku-martineau-netflix-ya-trailer-1236670709/"
+        }
+      ]
+    },
+    {
+      "title": "Adults",
+      "network": "FX",
+      "talent": "Gaten Matarazzo, Jake Shane, Zosia Mamet",
+      "announcement": "FX releases Season 2 trailer featuring guest stars including Gaten Matarazzo, Jake Shane, and Zosia Mamet.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/adults-season-2-trailer-fx-1237031527/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/adults-season-2-love-triangle-ben-kronengold-rebecca-shaw-1236670612/"
+        }
+      ]
+    },
+    {
+      "title": "Saturday Night Live UK",
+      "network": "Sky",
+      "talent": "",
+      "announcement": "Season 2 premiere date set for return on Sky.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/saturday-night-live-uk-season-2-premiere-date-1237031657/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/snl-uk-season-2-september-1236829143/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/snl-uk-season-2-return-date-premiere-sky-now-episodes-1236671898/"
+        }
+      ]
+    },
+    {
+      "title": "The Amazing Race",
+      "network": "",
+      "talent": "",
+      "announcement": "Season 39 contestants revealed with new twists including record 13 Express Passes and first-ever trip to Albania.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/the-amazing-race-season-39-contestants-new-twists-1236832603/"
+        }
+      ]
+    },
+    {
+      "title": "Castle Walls",
+      "network": "Prime Video",
+      "talent": "",
+      "announcement": "AI-generated Turkish series launches on Prime Video in what is being touted as a worldwide streaming first.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/global/ai-generated-turkish-tv-series-castle-walls-prime-video-first-1236832779/"
+        }
+      ]
+    },
+    {
+      "title": "Love, Lies & Frank",
+      "network": "Shortical",
+      "talent": "James Franco",
+      "announcement": "James Franco stars in microdrama on Shortical platform.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/james-franco-microdrama-love-lies-frank-shortical-1236832770/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/streaming/james-franco-microseries-debut-shortical/"
+        }
+      ]
+    },
+    {
+      "title": "Tale of Two Cities",
+      "network": "",
+      "talent": "Kit Harington",
+      "announcement": "Kit Harington gets caught in love triangle in trailer for series.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/tale-of-two-cities-series-trailer-kit-harington-1236672088/"
+        }
+      ]
+    },
+    {
+      "title": "Son Of A Critch",
+      "network": "",
+      "talent": "Mark",
+      "announcement": "Trailer released for final season showing Mark having a midlife crisis at 17.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/son-of-a-critch-trailer-final-season-1237030955/"
+        }
+      ]
+    },
+    {
+      "title": "Fatmagül",
+      "network": "Netflix",
+      "talent": "",
+      "announcement": "Netflix acquires rights to iconic Turkish drama for Latin America.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/netflix-snaps-up-turkish-drama-fatmagul-for-latin-america-1237031701/"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-08-12T16:01:33.891Z"
 }
