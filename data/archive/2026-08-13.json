@@ -1,33 +1,53 @@
 {
   "date": "August 13, 2026",
-  "summary": "1 film announcement, 1 TV announcement across multiple trades.",
+  "summary": "2 film announcements, 1 TV announcement across 5 trades.",
   "film": [
     {
-      "title": "The Social Reckoning",
+      "title": "I Play Rocky",
       "studio": "",
-      "talent": "Jeremy Strong",
-      "announcement": "Jeremy Strong attached to star in The Social Reckoning and reportedly emailed Mark Zuckerberg to assure him he takes the role very seriously.",
+      "talent": "Peter Farrelly (director), Sylvester Stallone",
+      "announcement": "Peter Farrelly's 'I Play Rocky' set as a Gala title at the Zurich Film Festival.",
       "sources": [
         {
           "name": "Deadline",
-          "url": "https://deadline.com/2026/08/jeremy-strong-emailed-mark-zuckerberg-social-reckoning-role-1237032580/"
+          "url": "https://deadline.com/2026/08/zurich-i-play-rocky-sylvester-stallone-channing-tatum-1237032255/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/zurich-film-festival-2026-galas-lineup-1236672047/"
+        }
+      ]
+    },
+    {
+      "title": "Josephine",
+      "studio": "",
+      "talent": "Channing Tatum",
+      "announcement": "Channing Tatum starrer 'Josephine' set as a Gala title at the Zurich Film Festival.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/zurich-i-play-rocky-sylvester-stallone-channing-tatum-1237032255/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/zurich-film-festival-2026-galas-lineup-1236672047/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "The Traitors: New Blood",
-      "network": "",
-      "talent": "22 civilian contestants",
-      "announcement": "Season 1 cast revealed featuring 22 civilian contestants.",
+      "title": "Bhagat Singh Series",
+      "network": "Collective Studios' Historyverse",
+      "talent": "",
+      "announcement": "Indian Freedom Fighter Bhagat Singh series in development at Collective Studios' Historyverse.",
       "sources": [
         {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/lists/the-traitors-new-blood-season-1-full-cast/"
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/bhagat-singh-series-collective-studios-historyverse-1236833000/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-08-13T02:03:52.844Z"
+  "lastUpdated": "2026-08-13T04:25:41.111Z"
 }
