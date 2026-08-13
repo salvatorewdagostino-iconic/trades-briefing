@@ -1,20 +1,88 @@
 {
   "date": "August 13, 2026",
-  "summary": "2 film announcements, 1 TV announcement across 5 trades.",
+  "summary": "12 film announcements, 10 TV announcements across 5 trades.",
   "film": [
+    {
+      "title": "First They Came For My College",
+      "studio": "",
+      "talent": "",
+      "announcement": "Documentary about Ron DeSantis-led 'hostile takeover' of Florida school announces theatrical run.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/first-they-came-for-my-college-theatrical-release-1237032770/"
+        }
+      ]
+    },
+    {
+      "title": "Holy Whore",
+      "studio": "",
+      "talent": "Nava Mau, Mariel Hemingway, Sophia Adler; Director: Deborah Kampmeier",
+      "announcement": "Nava Mau joins the cast alongside Mariel Hemingway and Sophia Adler in Deborah Kampmeier's film.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/baby-reindeer-actress-nava-mau-joins-holy-whore-1237032804/"
+        }
+      ]
+    },
+    {
+      "title": "Freeing Flipper",
+      "studio": "",
+      "talent": "Producer: Leonardo DiCaprio (Appian Way)",
+      "announcement": "Documentary about dolphin trainer-turned-activist Ric O'Barry with Leonardo DiCaprio's Appian Way boarding ahead of TIFF market.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/freeing-flipper-ric-obarry-documentary-appian-way-1237032716/"
+        }
+      ]
+    },
+    {
+      "title": "The Spiral Down",
+      "studio": "",
+      "talent": "Director: Neil Marshall; Cast: Charlotte Kirk",
+      "announcement": "Neil Marshall and Charlotte Kirk reteam on thriller.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/neil-marshall-charlotte-kirk-thriller-spiral-down-1237032785/"
+        }
+      ]
+    },
+    {
+      "title": "Final Invasion",
+      "studio": "",
+      "talent": "Emile Hirsch, Anthony Michael Hall, Claire Forlani, Stephen Lang",
+      "announcement": "Sci-fi thriller adds Emile Hirsch to cast alongside Anthony Michael Hall, Claire Forlani, and Stephen Lang ahead of TIFF market launch.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/emile-hirsch-hall-forlani-lang-final-invasion-1237029624/"
+        }
+      ]
+    },
+    {
+      "title": "Everything Was Beautiful And Nothing Hurt",
+      "studio": "",
+      "talent": "Director: Marc Turtletaub",
+      "announcement": "Marc Turtletaub to direct feature adaptation of Ben Reeves' novel.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/marc-turtletaub-ben-reeves-everything-was-beautiful-film-1237015168/"
+        }
+      ]
+    },
     {
       "title": "I Play Rocky",
       "studio": "",
-      "talent": "Peter Farrelly (director), Sylvester Stallone",
-      "announcement": "Peter Farrelly's 'I Play Rocky' set as a Gala title at the Zurich Film Festival.",
+      "talent": "Director: Peter Farrelly",
+      "announcement": "Peter Farrelly's film announced as gala title at Zurich Film Festival.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/08/zurich-i-play-rocky-sylvester-stallone-channing-tatum-1237032255/"
-        },
-        {
-          "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/zurich-film-festival-2026-galas-lineup-1236672047/"
         }
       ]
     },
@@ -22,32 +90,224 @@
       "title": "Josephine",
       "studio": "",
       "talent": "Channing Tatum",
-      "announcement": "Channing Tatum starrer 'Josephine' set as a Gala title at the Zurich Film Festival.",
+      "announcement": "Channing Tatum starrer announced as gala title at Zurich Film Festival.",
       "sources": [
         {
           "name": "Deadline",
           "url": "https://deadline.com/2026/08/zurich-i-play-rocky-sylvester-stallone-channing-tatum-1237032255/"
+        }
+      ]
+    },
+    {
+      "title": "Bardi",
+      "studio": "",
+      "talent": "Director: Tala Hadid",
+      "announcement": "Tala Hadid's film to have world premiere in New York Film Festival Currents lineup.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/new-york-film-festival-currents-lineup-world-premiere-tala-hadid-bardi-1237032852/"
         },
         {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/new-york-film-festival-currents-lineup-2026-1236833187/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/festivals/nyff-2026-currents-lineup-1235210227/"
+        }
+      ]
+    },
+    {
+      "title": "The Odyssey",
+      "studio": "",
+      "talent": "",
+      "announcement": "Sets 20,000 screen China release with near-total IMAX commitment.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/the-odyssey-20000-screen-china-release-1236833766/"
+        }
+      ]
+    },
+    {
+      "title": "The Devils",
+      "studio": "",
+      "talent": "Director: Ken Russell",
+      "announcement": "Ken Russell's controversial NC-17 horror film sets first look at restored cut.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/film-news-in-brief-aug-10-2026-1236831392/"
+        },
+        {
+          "name": "IndieWire",
+          "url": "https://www.indiewire.com/news/trailers/ken-russells-the-devils-restoration-trailer-1235210331/"
+        }
+      ]
+    },
+    {
+      "title": "Skintown",
+      "studio": "",
+      "talent": "Jack Rowan, Chris Walley",
+      "announcement": "Film starring Jack Rowan and Chris Walley about escaping Troubles-torn Northern Ireland.",
+      "sources": [
+        {
           "name": "Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/zurich-film-festival-2026-galas-lineup-1236672047/"
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/skintown-jack-rowan-chris-walley-film-clip-ireland-troubles-1236672104/"
         }
       ]
     }
   ],
   "tv": [
     {
-      "title": "Bhagat Singh Series",
-      "network": "Collective Studios' Historyverse",
+      "title": "Heated Rivalry",
+      "network": "",
+      "talent": "Season 2 cast: Emily Hampshire, Edvin Ryding, Robert Naylor, Sabrina Jalees, Priyanka",
+      "announcement": "Season 2 adds Emily Hampshire, Edvin Ryding, Robert Naylor, Sabrina Jalees, and Priyanka to cast.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/heated-rivalry-season-2-cast-emily-hampshire-wyatt-hayes-1237032842/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/heated-rivalry-season-2-cast-emily-hampshire-edvin-ryding-1236833810/"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/heated-rivalry-season-2-cast-emily-hampshire-edvin-ryding-1236672906/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/heated-rivalry-season-2-new-cast/"
+        }
+      ]
+    },
+    {
+      "title": "Hope In The Water",
+      "network": "PBS",
+      "talent": "Executive Producers: David E. Kelley, Andrew Zimmern",
+      "announcement": "Docuseries from David E. Kelley and Andrew Zimmern renewed for Season 2.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/hope-in-the-water-david-e-kelley-renewed-season-2-pbs-1237032538/"
+        }
+      ]
+    },
+    {
+      "title": "Off Campus",
+      "network": "",
+      "talent": "Season 2 cast: Shay Rudolph (Summer Di Laurentis)",
+      "announcement": "Shay Rudolph cast as Dean Di Laurentis' sister Summer in Season 2.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/off-campus-shay-rudolph-summer-dean-di-laurentis-sister-1237032862/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/off-campus-season-2-summer-di-laurentis-shay-rudolph-1236833849/"
+        }
+      ]
+    },
+    {
+      "title": "American Blue",
+      "network": "HBO Max",
+      "talent": "Milo Ventimiglia",
+      "announcement": "Cop drama pilot with Milo Ventimiglia not going forward at HBO Max; being shopped to other buyers.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/american-blue-pilot-dead-hbo-max-shopped-milo-ventimiglia-1237032665/"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/american-blue-pilot-milo-ventimiglia-canceled-hbo-max-1236833847/"
+        }
+      ]
+    },
+    {
+      "title": "Only Murders In The Building",
+      "network": "",
+      "talent": "Season 6 cast addition: Peter Capaldi",
+      "announcement": "Peter Capaldi added to Season 6 cast, continuing show's collection of 'Doctor Who' stars.",
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/08/only-murders-in-the-building-peter-capaldi-season-6-cast-1237032444/"
+        }
+      ]
+    },
+    {
+      "title": "The F Ward",
+      "network": "Paramount",
       "talent": "",
-      "announcement": "Indian Freedom Fighter Bhagat Singh series in development at Collective Studios' Historyverse.",
+      "announcement": "Australian medical drama sells to 100 markets for Paramount.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/australian-medical-drama-the-f-ward-paramount-1236671821/"
+        }
+      ]
+    },
+    {
+      "title": "American Horror Story: 13",
+      "network": "",
+      "talent": "Returning cast: Jessica Lange, Evan Peters, Twisty the Clown, Rubber Man",
+      "announcement": "First teaser released for all-star season with returning cast members Jessica Lange, Evan Peters, and other iconic characters.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/american-horror-story-13-teaser-jessica-lange-evan-peters-1236672869/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/american-horror-story-season-13-teaser-returning-cast/"
+        }
+      ]
+    },
+    {
+      "title": "My Next Guest Needs No Introduction",
+      "network": "Netflix",
+      "talent": "Host: David Letterman; Guests: Matt Damon, Julia Roberts, Jimmy Kimmel",
+      "announcement": "Matt Damon, Julia Roberts, and Jimmy Kimmel join David Letterman for episodes at Netflix.",
+      "sources": [
+        {
+          "name": "Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/matt-damon-julia-roberts-david-letterman-my-next-guest-1236672478/"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/media-platforms/tv/david-letterman-next-guest-matt-damon-julia-roberts-jimmy-kimmel-netflix/"
+        }
+      ]
+    },
+    {
+      "title": "Megan and Cupcake Ready for Preschool",
+      "network": "Disney Jr.",
+      "talent": "",
+      "announcement": "New hybrid live-action and animated series heads to Disney Jr.",
       "sources": [
         {
           "name": "Variety",
-          "url": "https://variety.com/2026/film/news/bhagat-singh-series-collective-studios-historyverse-1236833000/"
+          "url": "https://variety.com/2026/tv/news/megan-and-cupcake-ready-for-preschool-disney-jr-1236833768/"
+        }
+      ]
+    },
+    {
+      "title": "The Family Plan",
+      "network": "Netflix",
+      "talent": "Jared Freid",
+      "announcement": "Jared Freid sets comedy special at Netflix.",
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/jared-freid-netflix-special-the-family-plan-1236832349/"
         }
       ]
     }
   ],
-  "lastUpdated": "2026-08-13T04:25:41.111Z"
+  "lastUpdated": "2026-08-13T16:01:38.306Z"
 }
